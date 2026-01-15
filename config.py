@@ -14,7 +14,6 @@ SUBREDDITS = [
     "unrealengine",      # Unreal引擎
     "SoloDevelopment",   # 单人开发
     "gamedesign",        # 游戏设计
-    "learnprogramming",  # 学习编程（可能有想做游戏的新手）
 ]
 
 # 每个Subreddit获取的帖子数量
@@ -22,8 +21,8 @@ POSTS_PER_SUBREDDIT = 10
 
 # ============ 评论监控配置 ============
 
-# 是否监控评论
-MONITOR_COMMENTS = True
+# 是否监控评论（关闭以提高速度）
+MONITOR_COMMENTS = False
 
 # 每个Subreddit获取的评论数量
 COMMENTS_PER_SUBREDDIT = 25
@@ -33,20 +32,13 @@ COMMENTS_PER_SUBREDDIT = 25
 # 是否启用关键词全站搜索
 ENABLE_KEYWORD_SEARCH = True
 
-# 搜索关键词列表（会在全站搜索）
+# 搜索关键词列表（精简为核心关键词）
 SEARCH_KEYWORDS = [
     "no code game",
     "make game without coding",
-    "game prototype tool",
     "AI game maker",
-    "frustrated with unity",
-    "frustrated with godot",
     "game dev beginner",
-    "simple game idea",
     "how to make a game",
-    "game development help",
-    "want to make a game",
-    "game without programming",
 ]
 
 # 每个关键词获取的搜索结果数量
@@ -60,8 +52,7 @@ PRODUCT_DESCRIPTION = "一个游戏和互动内容AI生成工具与UGC平台，�
 # ============ AI 配置 ============
 
 # Gemini模型配置
-# 注意：如果报错404，可以尝试其他模型如 "gemini-2.0-flash-exp" 或 "gemini-pro"
-GEMINI_MODEL = "gemini-2.0-flash-exp"  # 最新的快速模型
+GEMINI_MODEL = "gemini-2.0-flash-exp"
 
 # ============ 存储配置 ============
 
