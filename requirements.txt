@@ -4,8 +4,8 @@
 # RSS解析
 feedparser==6.0.11
 
-# Google Gemini API
-google-generativeai==0.8.3
+# Google GenAI SDK (新版，替代已废弃的google-generativeai)
+google-genai>=1.0.0
 
 # HTTP请求
 requests==2.32.3

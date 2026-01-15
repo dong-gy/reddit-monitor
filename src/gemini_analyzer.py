@@ -1,6 +1,7 @@
 """
 Gemini AI 分析模块
 批量分析Reddit帖子、评论的相关性，并生成参考回复
+使用新版 google-genai SDK
 """
 
 import os
@@ -8,15 +9,18 @@ import json
 import re
 import time
 from typing import Dict, List, Optional
-import google.generativeai as genai
+from google import genai
 
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from config import GEMINI_MODEL, PRODUCT_NAME, PRODUCT_DESCRIPTION
+from config import PRODUCT_NAME, PRODUCT_DESCRIPTION
 
 
 # 从环境变量获取API Key
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY', '')
+
+# 使用的模型 (新版SDK支持的模型名)
+MODEL_NAME = "gemini-2.0-flash"
 
 # 每批处理的内容数量
 BATCH_SIZE = 10
@@ -70,12 +74,16 @@ CONTENT ITEMS TO ANALYZE:
 
 """
 
+# 初始化客户端
+client = None
+
 
 def init_gemini():
     """初始化Gemini客户端"""
+    global client
     if not GEMINI_API_KEY:
         raise ValueError("GEMINI_API_KEY 环境变量未设置")
-    genai.configure(api_key=GEMINI_API_KEY)
+    client = genai.Client(api_key=GEMINI_API_KEY)
 
 
 def parse_batch_response(text: str) -> List[Dict]:
@@ -135,25 +143,28 @@ def analyze_batch(items: List[Dict], batch_num: int, retry_count: int = 0) -> Li
     Returns:
         分析结果列表
     """
+    global client
+    
     if not items:
         return []
     
     try:
-        init_gemini()
+        if client is None:
+            init_gemini()
         
         # 构建批量prompt
         prompt = BATCH_ANALYSIS_PROMPT
         for i, item in enumerate(items):
             prompt += format_item_for_prompt(i, item)
         
-        # 调用Gemini
-        model = genai.GenerativeModel(GEMINI_MODEL)
-        response = model.generate_content(
-            prompt,
-            generation_config=genai.types.GenerationConfig(
-                temperature=0.3,
-                max_output_tokens=2000,
-            )
+        # 调用Gemini (新版SDK)
+        response = client.models.generate_content(
+            model=MODEL_NAME,
+            contents=prompt,
+            config={
+                "temperature": 0.3,
+                "max_output_tokens": 2000,
+            }
         )
         
         # 解析响应
