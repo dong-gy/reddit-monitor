@@ -178,9 +178,10 @@ def create_card_message(item: Dict) -> Dict:
         "fields": fields
     })
     
-    # 添加操作按钮 - 提供两个选项
+    # 添加操作按钮 - 提供三个选项
     # 1. Google 搜索（避免 429，但新帖子可能搜不到）
     # 2. 直接访问（备用，可能遇到 429）
+    # 3. 浏览子版块（新帖子找不到时，去 new 排序页面找）
     google_search_url = create_google_search_url(
         title=item.get('title', ''),
         subreddit=item.get('subreddit', ''),
@@ -188,28 +189,46 @@ def create_card_message(item: Dict) -> Dict:
     )
     direct_url = item.get('link', '')
     
+    # 从 link 中提取真实 subreddit 用于构建子版块链接
+    real_subreddit = extract_subreddit_from_link(item.get('link', '')) or item.get('subreddit', '')
+    subreddit_new_url = f"https://www.reddit.com/r/{real_subreddit}/new/" if real_subreddit else ""
+    
+    actions = [
+        {
+            "tag": "button",
+            "text": {
+                "tag": "plain_text",
+                "content": "🔍 Google 搜索"
+            },
+            "type": "primary",
+            "url": google_search_url
+        },
+        {
+            "tag": "button",
+            "text": {
+                "tag": "plain_text",
+                "content": "🔗 直接访问"
+            },
+            "type": "default",
+            "url": direct_url
+        }
+    ]
+    
+    # 如果有子版块信息，添加浏览子版块按钮
+    if subreddit_new_url:
+        actions.append({
+            "tag": "button",
+            "text": {
+                "tag": "plain_text",
+                "content": f"📂 r/{real_subreddit}/new"
+            },
+            "type": "default",
+            "url": subreddit_new_url
+        })
+    
     elements.append({
         "tag": "action",
-        "actions": [
-            {
-                "tag": "button",
-                "text": {
-                    "tag": "plain_text",
-                    "content": "🔍 Google 搜索"
-                },
-                "type": "primary",
-                "url": google_search_url
-            },
-            {
-                "tag": "button",
-                "text": {
-                    "tag": "plain_text",
-                    "content": "🔗 直接访问"
-                },
-                "type": "default",
-                "url": direct_url
-            }
-        ]
+        "actions": actions
     })
     
     # 构建完整卡片
