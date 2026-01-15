@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdkf7d",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Bioneers: An upcoming Factorio-style simulation game about biology. Start with one cell and create your own organism",
-      "content": "Explore real biological processes like metabolism, protein synthesis, and photosynthesis to evolve your organism. Defend from viruses and bacteria and cure dangerous cancer-like mutations. Here is the link for context: https://store.steampowered.com/app/3833810/Bioneers/?utm_source=reddit submitted by /u/Alternative_Draw_533 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdkf7d/bioneers_an_upcoming_factoriostyle_simulation/",
-      "author": "/u/Alternative_Draw_533",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T14:14:26.536973"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdkey5",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Updated Star Buddy Steam Demo After Reviewing Player Feedback",
-      "content": "submitted by /u/Equivalent_Gap_6061 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdkey5/updated_star_buddy_steam_demo_after_reviewing/",
-      "author": "/u/Equivalent_Gap_6061",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T14:14:26.536982"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdk751",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Philna Fantasy Review: Reliable, But Way Too Ordinary Action RPG",
-      "content": "submitted by /u/CyberNeko97 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdk751/philna_fantasy_review_reliable_but_way_too/",
-      "author": "/u/CyberNeko97",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T14:14:26.536989"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdkgdv",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "MY ACTION ROGUELITE IS FILTHY WITH MONSTERS",
-      "content": "In this video, I changed the monster spawn time, increasing their quantity. In the future, I will add a system where the player uses the phone's accelerometer, like in the old Wii and Switch controllers. I disabled the parry function in the game because, according to a foreign user, the game seemed to have a bug or something like that. Now you don't attack to get infinite time, RUN BEFORE TIME RUNS OUT! Thank you for reading. submitted by /u/BootPen [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdkgdv/my_action_roguelite_is_filthy_with_monsters/",
-      "author": "/u/BootPen",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T14:14:26.537041"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qdkbry",
       "type": "post",
       "subreddit": "IndieDev",
@@ -155,7 +107,151 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-15T14:14:26.538852"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qdldvq",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I made a game that reacts to everything you do",
+      "content": "submitted by /u/Arfhis [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdldvq/i_made_a_game_that_reacts_to_everything_you_do/",
+      "author": "/u/Arfhis",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T14:46:38.502998"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qdkzsc",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Ah, finally a suitable sovereign for the job....",
+      "content": "Fun looking 'Round Table Management RPG' from indie devs WILD WITS - Coming to Steam August 2026 Look like a laugh if the steam page is anything to go by. submitted by /u/Sir_Cluckles [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdkzsc/ah_finally_a_suitable_sovereign_for_the_job/",
+      "author": "/u/Sir_Cluckles",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T14:46:38.503069"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qdl00m",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Question about Vector3.signed_angle_to()",
+      "content": "The docs say that this method should return a signed angle between two vectors, using an arbitrary axis on which they are projected. In my project, I have vectors a and b , and a tangential vector used for the axis. I expected that the closer are a and b to being opposites, the closer their angle would be to π. Instead, as a and b get closer to being opposites, the returned angle is closer to 0. The more a and b point towards the same direction, the closer the returned angle is to π. Why exactly is that? I have made sure the axis is tangential, and I am excluding cases where the vectors are exactly opposites. submitted by /u/Alezzandrooo [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qdl00m/question_about_vector3signed_angle_to/",
+      "author": "/u/Alezzandrooo",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T14:46:38.503190"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qdkw79",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Do you think this intro is sufficient?",
+      "content": "submitted by /u/BoneMarrowGames [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qdkw79/do_you_think_this_intro_is_sufficient/",
+      "author": "/u/BoneMarrowGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T14:46:38.503221"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qdkxk8",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Cascade to Niagara Converter - Free Inbuilt Plugin - Unreal Engine 5.6",
+      "content": "Youtube Tutorial Cascade to Niagara Converter - Free Inbuilt Plugin - Unreal Engine 5.6 💡What you will learn 📌Convert Cascade VFX effects to Niagara 📌Fix issues during conversion 📌Using the Niagara Effects in Blueprints submitted by /u/braveior [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qdkxk8/cascade_to_niagara_converter_free_inbuilt_plugin/",
+      "author": "/u/braveior",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T14:46:38.503236"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qdkqme",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "What are the smiley and sad faces on UGS?",
+      "content": "hi all, despite being in games for over an while, i still dont know wtf these are forr? The smiley and sad faces in the change lists. Im clicking them but nothings happening? submitted by /u/Inevitable_Grape382 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qdkqme/what_are_the_smiley_and_sad_faces_on_ugs/",
+      "author": "/u/Inevitable_Grape382",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T14:46:38.503244"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qdkyff",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Cascade to Niagara Converter - Free Inbuilt Plugin - Unreal Engine 5.6",
+      "content": "Youtube Tutorial Cascade to Niagara Converter - Free Inbuilt Plugin - Unreal Engine 5.6 💡What you will learn 📌Convert Cascade VFX effects to Niagara 📌Fix issues during conversion 📌Using the Niagara Effects in Blueprints submitted by /u/braveior [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qdkyff/cascade_to_niagara_converter_free_inbuilt_plugin/",
+      "author": "/u/braveior",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T14:46:38.503254"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qdkmy3",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Added the first infantry unit to my RTS Final Divide",
+      "content": "submitted by /u/finaldivide_rts [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qdkmy3/added_the_first_infantry_unit_to_my_rts_final/",
+      "author": "/u/finaldivide_rts",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T14:46:38.503260"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdkug5",
+      "type": "search",
+      "subreddit": "xbox360",
+      "title": "Bought a used copy of halo 3 and found this, never been used",
+      "content": "submitted by /u/SeriousWonder1105 to r/xbox360 [link] [comments]",
+      "link": "https://www.reddit.com/r/xbox360/comments/1qdkug5/bought_a_used_copy_of_halo_3_and_found_this_never/",
+      "author": "/u/SeriousWonder1105",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T14:46:38.503616"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdkl0y",
+      "type": "search",
+      "subreddit": "reddeadmysteries",
+      "title": "Let's talk about feather shooting",
+      "content": "Long time lurker, and a happy follower of the Spiderdream mystery here. Today, I came across u/Dizstance 's post and a snippet from that got me thinking. They pointed out: The game most likely stores which feather you've shot/\"taken\" down, regardless of how they respawn, and this game memory most likely reset once you've hit all of them. It then checks if you did it in the correct order, if not, no trigger. And this is precisely what I was wondering for the longest time. Shouldn't such game logic be relatively easy to find in the code? Why did none of the crazy Reddit RDR2 detectives find anything similar yet? Even before that, can we somehow infer from the code whether the spider webs or the feathers are triggers that change the game state in any way? submitted by /u/alasthennars to r/reddeadmysteries [link] [comments]",
+      "link": "https://www.reddit.com/r/reddeadmysteries/comments/1qdkl0y/lets_talk_about_feather_shooting/",
+      "author": "/u/alasthennars",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T14:46:38.503702"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdle8n",
+      "type": "search",
+      "subreddit": "badredman",
+      "title": "Dear Invaders, pls don't ragecheat when you die to hosts",
+      "content": "First things first, I want to tell you, that I respect invaders by default (at least the concept). I used to invade myself, I know perfectly well how fun it is, yada yada yada... But when you invade mere PvE's (like myself) with your 1/2-shot minmaxed PvP build, throw ( what is an equivalent of) Dung Pies at us for ... I have no fckng idea what reason (probably because there were 2 of us, cause this is how Elden Ring SC invasions work) and then still die to us, pls don't embarass yourself by toggling the cheats on - we don't owe you an easy win. I know, I know, invaders (at least in Elden Ring) are at a massive disadvantage: numbers, no friendly fire, e.t.c. . But pls understand, it's not our fault you decided to invade us, it's not our fault you decided to literally teleport on our heads, it's not our fault we're going through PvE and don't want to be an easy prey for your YT montage to feed your ego. We're just going through the game, having our fun. If that makes you mad - stop doom gaming, get some help, touch some snow. submitted by /u/Competitive_Ad2539 to r/badredman [link] [comments]",
+      "link": "https://www.reddit.com/r/badredman/comments/1qdle8n/dear_invaders_pls_dont_ragecheat_when_you_die_to/",
+      "author": "/u/Competitive_Ad2539",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T14:46:38.504266"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdldi4",
+      "type": "search",
+      "subreddit": "Fighters",
+      "title": "What are your favorite character combos that are both stylish and effective in your go-to fighting games?",
+      "content": "As a fighting game enthusiast, I love finding combos that not only deal damage but also look amazing when executed. Whether it's a flashy juggle in Street Fighter, a devastating string in Tekken, or a creative setup in Guilty Gear, there's something satisfying about pulling off a combo that makes your opponent go \"Wow!\" I'm curious to hear what combos you all enjoy using. Do you have specific characters that you feel have the best or most stylish combos? What strategies do you use to set them up, and how do they fit into your overall gameplay? submitted by /u/1acina to r/Fighters [link] [comments]",
+      "link": "https://www.reddit.com/r/Fighters/comments/1qdldi4/what_are_your_favorite_character_combos_that_are/",
+      "author": "/u/1acina",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T14:46:38.504920"
     }
   ],
-  "last_updated": "2026-01-15T14:16:27.405455"
+  "last_updated": "2026-01-15T14:48:21.011644"
 }
