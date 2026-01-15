@@ -52,8 +52,7 @@ PRODUCT_DESCRIPTION = "一个游戏和互动内容AI生成工具与UGC平台，�
 # ============ AI 配置 ============
 
 # Gemini模型配置
-# 可选: gemini-1.5-flash, gemini-1.5-pro, gemini-pro
-GEMINI_MODEL = "gemini-1.5-flash"
+GEMINI_MODEL = "gemini-pro"
 
 # ============ 存储配置 ============
 
