@@ -19,8 +19,8 @@ from config import PRODUCT_NAME, PRODUCT_DESCRIPTION
 # 从环境变量获取API Key
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY', '')
 
-# 使用的模型 (新版SDK支持的模型名)
-MODEL_NAME = "gemini-2.0-flash"
+# 使用的模型 (gemini-2.5-flash-lite 免费配额最高: 15RPM, 1000次/天)
+MODEL_NAME = "gemini-2.5-flash-lite-preview-06-17"
 
 # 每批处理的内容数量
 BATCH_SIZE = 10
