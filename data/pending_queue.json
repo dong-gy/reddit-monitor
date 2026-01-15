@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qdkw79",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Do you think this intro is sufficient?",
-      "content": "submitted by /u/BoneMarrowGames [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qdkw79/do_you_think_this_intro_is_sufficient/",
-      "author": "/u/BoneMarrowGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T14:46:38.503221"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qdkxk8",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Cascade to Niagara Converter - Free Inbuilt Plugin - Unreal Engine 5.6",
-      "content": "Youtube Tutorial Cascade to Niagara Converter - Free Inbuilt Plugin - Unreal Engine 5.6 💡What you will learn 📌Convert Cascade VFX effects to Niagara 📌Fix issues during conversion 📌Using the Niagara Effects in Blueprints submitted by /u/braveior [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qdkxk8/cascade_to_niagara_converter_free_inbuilt_plugin/",
-      "author": "/u/braveior",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T14:46:38.503236"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qdkqme",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "What are the smiley and sad faces on UGS?",
-      "content": "hi all, despite being in games for over an while, i still dont know wtf these are forr? The smiley and sad faces in the change lists. Im clicking them but nothings happening? submitted by /u/Inevitable_Grape382 [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qdkqme/what_are_the_smiley_and_sad_faces_on_ugs/",
-      "author": "/u/Inevitable_Grape382",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T14:46:38.503244"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qdkyff",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Cascade to Niagara Converter - Free Inbuilt Plugin - Unreal Engine 5.6",
-      "content": "Youtube Tutorial Cascade to Niagara Converter - Free Inbuilt Plugin - Unreal Engine 5.6 💡What you will learn 📌Convert Cascade VFX effects to Niagara 📌Fix issues during conversion 📌Using the Niagara Effects in Blueprints submitted by /u/braveior [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qdkyff/cascade_to_niagara_converter_free_inbuilt_plugin/",
-      "author": "/u/braveior",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T14:46:38.503254"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qdkmy3",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -1319,7 +1271,175 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-15T19:42:41.299045"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qdty4g",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "What is Australia's game dev scene like?",
+      "content": "Hi all, I'm moving to the brisbane area for work in a few months and would love to keep my hobby of game dev alive, what is the game industry like there? Any communities for indie / hobby developments that you know of? Thanks! submitted by /u/daddypls69 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qdty4g/what_is_australias_game_dev_scene_like/",
+      "author": "/u/daddypls69",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.834551"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qdu22b",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "After a lot of feedback, we decided to change the game’s tutorial. Before, there were many text boxes “teaching” the player about the core mechanics. Now, we’ve replaced them with solid level design! Does it feel better?",
+      "content": "submitted by /u/TooDarkStudios [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdu22b/after_a_lot_of_feedback_we_decided_to_change_the/",
+      "author": "/u/TooDarkStudios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.834663"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qdu236",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "After a lot of feedback, we decided to change the game’s tutorial. Before, there were many text boxes “teaching” the player about the core mechanics. Now, we’ve replaced them with solid level design! Does it feel better?",
+      "content": "submitted by /u/TooDarkStudios [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qdu236/after_a_lot_of_feedback_we_decided_to_change_the/",
+      "author": "/u/TooDarkStudios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.834712"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qdu4gb",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "TIL you can update GDScript files mid-debugging!",
+      "content": "Maybe this is obvious to others. But I come from a C++ background, so this wasn't intuitive to me. When running the game in the Godot IDE, you can modify your code on the fly! So, for example, if the code encounters an error and the debugger 'breaks' at that point, I can fix the error, and resume mid-gameplay. The new version of the function won't run immediately upon resuming, so hopefully the error wasn't totally game-breaking. After resuming, I can recreate the same scenario, and validate that my fix worked! Previously I would stop execution, fix the code, re-run, and re-create the error scenario. Realizing I don't have to restart execution is going to save me lots of time. So I wanted to spread the knowledge/joy, in case other people were unnecessarily restarting like me. submitted by /u/superyellows [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qdu4gb/til_you_can_update_gdscript_files_middebugging/",
+      "author": "/u/superyellows",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.834753"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qdtv5h",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "HELP! I HAVE TO PRESENT THIS IN 12 HOURS BUT I CAN ONLZ WORK ON IT FOR TWO PLEASE REDDIT!",
+      "content": ".I have to present this tomorow but i have around 2 hours to wotk on it. please guys help. submitted by /u/ToneWeird6429 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qdtv5h/help_i_have_to_present_this_in_12_hours_but_i_can/",
+      "author": "/u/ToneWeird6429",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.834776"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qdtrug",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "The problem with dialogic 2 for godot 4",
+      "content": "Dialogs start without problems in the project, but dialogs don't start in the build. I have programmed that the player's control is taken away when a dialog appears. The dialog does not appear in the build, but the control is still taken away. How can this be solved? submitted by /u/im_igrik030 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qdtrug/the_problem_with_dialogic_2_for_godot_4/",
+      "author": "/u/im_igrik030",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.834867"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qdtq8y",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Working on a local-multiplayer RTS game",
+      "content": "Here is some (very) WIP gameplay of a local-multiplayer RTS game I'm working on using Godot 4.5.1. The idea is to make it as gamepad friendly as possible, and playable with up to 4 players in same-screen versus. Unit behaviors are automated, so you don't need to micro-manage your units after they're placed. If you have any ideas/suggestions for a game like this, please share! submitted by /u/xionviel [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qdtq8y/working_on_a_localmultiplayer_rts_game/",
+      "author": "/u/xionviel",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.834880"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qdu2li",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Modular Orc Shaman",
+      "content": "Here is the FAB link if you are interested - https://www.fab.com/listings/06418854-a977-4511-9973-cecb6091df2c Please, share your thoughts! submitted by /u/IceDrumGames [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qdu2li/modular_orc_shaman/",
+      "author": "/u/IceDrumGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.834899"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qdtv3c",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "I reworked my scene based on your feedback. How does it look now?",
+      "content": "Hey everyone! I’m making an isometric action-adventure game about a little monkey on a pirate adventure, inspired by Tunic and Death’s Door. Based on your feedback from my previous post (3rd pic), I reworked the scene. How does it look now? submitted by /u/kapitan59 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qdtv3c/i_reworked_my_scene_based_on_your_feedback_how/",
+      "author": "/u/kapitan59",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.834954"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qdtm22",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Graphics review of my RTS",
+      "content": "https://preview.redd.it/q5894wcvgkdg1.png?width=1906&format=png&auto=webp&s=16b35f5e1181763e8c527456b4445220ea7f4cbe submitted by /u/CalligrapherBorn4545 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qdtm22/graphics_review_of_my_rts/",
+      "author": "/u/CalligrapherBorn4545",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.834976"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdtw45",
+      "type": "search",
+      "subreddit": "Prebuilts",
+      "title": "The usual : is this a good deal ? (Canadian dollars)",
+      "content": "Thanks for your feedbacks ! submitted by /u/Colomir to r/Prebuilts [link] [comments]",
+      "link": "https://www.reddit.com/r/Prebuilts/comments/1qdtw45/the_usual_is_this_a_good_deal_canadian_dollars/",
+      "author": "/u/Colomir",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.835201"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdtyhp",
+      "type": "search",
+      "subreddit": "pokemoncardcollectors",
+      "title": "My Shinji Kanda collection",
+      "content": "I have finally completed my Shinji Kanda collection; I am only interested in the illustrations, so please forgive the mix of languages and holographies. I should have all his illustrations. Please let me know what you think. submitted by /u/ciccio383 to r/pokemoncardcollectors [link] [comments]",
+      "link": "https://www.reddit.com/r/pokemoncardcollectors/comments/1qdtyhp/my_shinji_kanda_collection/",
+      "author": "/u/ciccio383",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.836657"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdty4g",
+      "type": "search",
+      "subreddit": "gamedev",
+      "title": "What is Australia's game dev scene like?",
+      "content": "Hi all, I'm moving to the brisbane area for work in a few months and would love to keep my hobby of game dev alive, what is the game industry like there? Any communities for indie / hobby developments that you know of? Thanks! submitted by /u/daddypls69 to r/gamedev [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qdty4g/what_is_australias_game_dev_scene_like/",
+      "author": "/u/daddypls69",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.836748"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qdu5zk",
+      "type": "search",
+      "subreddit": "improv",
+      "title": "Tiny Class. Any Tips?",
+      "content": "When I took the previous level, we had a huge class because they combined a half-full Monday class with a half-full Tuesday. It was a lot - both in terms of people and in terms of everything we learned. Last night, I got to my new class and discovered there are only six of us. The teacher admitted we might burn through his curriculum because games and exercises take so little time to get through, but we’ll all get to know each other better, and it feels more like a team than a class. My question is, how can I make the most of this, besides the obvious? The vibes are so great and I don’t want to miss out on anything I could be doing to contribute to such a small group. submitted by /u/MsBit_Commit to r/improv [link] [comments]",
+      "link": "https://www.reddit.com/r/improv/comments/1qdu5zk/tiny_class_any_tips/",
+      "author": "/u/MsBit_Commit",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-15T20:12:21.836918"
     }
   ],
-  "last_updated": "2026-01-15T19:44:24.311380"
+  "last_updated": "2026-01-15T20:13:50.968771"
 }
