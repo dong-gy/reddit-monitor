@@ -8,6 +8,7 @@ import os
 import json
 import requests
 from typing import Dict, List
+from urllib.parse import quote
 
 # 从环境变量获取Webhook URL
 FEISHU_WEBHOOK_URL = os.environ.get('FEISHU_WEBHOOK_URL', '')
@@ -19,23 +20,46 @@ TYPE_CONFIG = {
         'label': '帖子',
         'header_color': 'blue',
         'title_label': '帖子标题',
-        'button_text': '查看原帖并回复'
+        'button_text': 'Go to Reply (via Google)'
     },
     'comment': {
         'icon': '💬',
         'label': '评论',
         'header_color': 'purple',
         'title_label': '评论上下文',
-        'button_text': '查看评论并回复'
+        'button_text': 'Go to Reply (via Google)'
     },
     'search': {
         'icon': '🔍',
         'label': '搜索结果',
         'header_color': 'orange',
         'title_label': '帖子标题',
-        'button_text': '查看原帖并回复'
+        'button_text': 'Go to Reply (via Google)'
     }
 }
+
+
+def create_google_search_url(title: str) -> str:
+    """
+    创建通过Google搜索Reddit帖子的链接
+    使用 site:reddit.com 限定搜索范围，避免直接访问Reddit触发429限制
+    
+    Args:
+        title: 帖子标题
+    
+    Returns:
+        Google搜索URL
+    """
+    if not title:
+        return "https://www.google.com/search?q=site:reddit.com"
+    
+    # 构建搜索查询: site:reddit.com + 标题
+    search_query = f"site:reddit.com {title}"
+    
+    # URL编码查询字符串（处理空格、特殊字符、emoji等）
+    encoded_query = quote(search_query, safe='')
+    
+    return f"https://www.google.com/search?q={encoded_query}"
 
 
 def create_card_message(item: Dict) -> Dict:
@@ -128,7 +152,8 @@ def create_card_message(item: Dict) -> Dict:
         "fields": fields
     })
     
-    # 添加操作按钮
+    # 添加操作按钮 - 使用Google搜索链接避免Reddit 429限制
+    google_search_url = create_google_search_url(item.get('title', ''))
     elements.append({
         "tag": "action",
         "actions": [
@@ -136,10 +161,10 @@ def create_card_message(item: Dict) -> Dict:
                 "tag": "button",
                 "text": {
                     "tag": "plain_text",
-                    "content": f"🔗 {config['button_text']}"
+                    "content": f"🔥 {config['button_text']}"
                 },
                 "type": "primary",
-                "url": item.get('link', '')
+                "url": google_search_url
             }
         ]
     })
