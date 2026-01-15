@@ -39,13 +39,15 @@ TYPE_CONFIG = {
 }
 
 
-def create_google_search_url(title: str) -> str:
+def create_google_search_url(title: str, subreddit: str = '') -> str:
     """
     创建通过Google搜索Reddit帖子的链接
-    使用 site:reddit.com 限定搜索范围，避免直接访问Reddit触发429限制
+    使用 site:reddit.com/r/{subreddit} 限定搜索范围 + 引号精确匹配标题
+    避免直接访问Reddit触发429限制
     
     Args:
         title: 帖子标题
+        subreddit: 子版块名称
     
     Returns:
         Google搜索URL
@@ -53,8 +55,11 @@ def create_google_search_url(title: str) -> str:
     if not title:
         return "https://www.google.com/search?q=site:reddit.com"
     
-    # 构建搜索查询: site:reddit.com + 标题
-    search_query = f"site:reddit.com {title}"
+    # 构建搜索查询: site:reddit.com/r/{subreddit} + "标题"（精确匹配）
+    if subreddit:
+        search_query = f'site:reddit.com/r/{subreddit} "{title}"'
+    else:
+        search_query = f'site:reddit.com "{title}"'
     
     # URL编码查询字符串（处理空格、特殊字符、emoji等）
     encoded_query = quote(search_query, safe='')
@@ -153,7 +158,7 @@ def create_card_message(item: Dict) -> Dict:
     })
     
     # 添加操作按钮 - 使用Google搜索链接避免Reddit 429限制
-    google_search_url = create_google_search_url(item.get('title', ''))
+    google_search_url = create_google_search_url(item.get('title', ''), item.get('subreddit', ''))
     elements.append({
         "tag": "action",
         "actions": [
