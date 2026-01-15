@@ -5,9 +5,40 @@
 
 import os
 import sys
+from datetime import datetime, timedelta
+from email.utils import parsedate_to_datetime
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from config import RELEVANCE_KEYWORDS, EXCLUDE_KEYWORDS
+
+# 帖子最大年龄（天数），超过此时间的帖子将被过滤
+MAX_POST_AGE_DAYS = 7
+
+
+def is_post_too_old(item: dict) -> bool:
+    """
+    检查帖子是否超过最大年龄限制
+    
+    Args:
+        item: 内容项，包含 published 字段
+        
+    Returns:
+        True 如果帖子太旧，应该被过滤
+    """
+    published = item.get('published', '')
+    if not published:
+        # 没有发布时间的内容保留（让AI判断）
+        return False
+    
+    try:
+        # RSS 的 published 字段通常是 RFC 2822 格式
+        # 例如: "Mon, 13 Jan 2025 10:30:00 +0000"
+        pub_date = parsedate_to_datetime(published)
+        cutoff_date = datetime.now(pub_date.tzinfo) - timedelta(days=MAX_POST_AGE_DAYS)
+        return pub_date < cutoff_date
+    except Exception:
+        # 解析失败的保留
+        return False
 
 
 def pre_filter(items: list) -> list:
@@ -15,9 +46,10 @@ def pre_filter(items: list) -> list:
     预过滤内容，减少 AI 调用量
     
     规则：
-    1. 排除包含 EXCLUDE_KEYWORDS 的内容（明显不相关）
-    2. 优先保留包含 RELEVANCE_KEYWORDS 的内容
-    3. 对于既不包含排除词也不包含相关词的，也保留（让AI判断）
+    1. 排除超过 MAX_POST_AGE_DAYS 天的旧帖子
+    2. 排除包含 EXCLUDE_KEYWORDS 的内容（明显不相关）
+    3. 优先保留包含 RELEVANCE_KEYWORDS 的内容
+    4. 对于既不包含排除词也不包含相关词的，也保留（让AI判断）
     
     Args:
         items: 原始内容列表
@@ -29,9 +61,15 @@ def pre_filter(items: list) -> list:
         return []
     
     filtered = []
-    excluded_count = 0
+    excluded_by_keyword = 0
+    excluded_by_age = 0
     
     for item in items:
+        # 检查是否太旧
+        if is_post_too_old(item):
+            excluded_by_age += 1
+            continue
+        
         # 合并标题和内容进行检查
         text = (item.get('title', '') + ' ' + item.get('content', '')).lower()
         
@@ -43,15 +81,17 @@ def pre_filter(items: list) -> list:
                 break
         
         if should_exclude:
-            excluded_count += 1
+            excluded_by_keyword += 1
             continue
         
         # 通过排除检查的内容保留
         filtered.append(item)
     
     # 打印过滤统计
-    if excluded_count > 0:
-        print(f"  [预过滤] 排除 {excluded_count} 条明显不相关内容")
+    if excluded_by_age > 0:
+        print(f"  [预过滤] 排除 {excluded_by_age} 条超过 {MAX_POST_AGE_DAYS} 天的旧帖子")
+    if excluded_by_keyword > 0:
+        print(f"  [预过滤] 排除 {excluded_by_keyword} 条明显不相关内容")
     print(f"  [预过滤] 保留 {len(filtered)} 条待分析")
     
     return filtered
