@@ -1,7 +1,7 @@
 """
-Gemini AI 分析模块
+AI 分析模块
 批量分析Reddit帖子、评论的相关性，并生成参考回复
-使用新版 google-genai SDK
+支持 Gemini 和 DeepSeek 双模型，自动故障转移
 """
 
 import os
@@ -9,29 +9,30 @@ import json
 import re
 import time
 from typing import Dict, List, Optional
-from google import genai
 
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from config import PRODUCT_NAME, PRODUCT_DESCRIPTION
 
 
-# 从环境变量获取API Key
+# ============ API Keys ============
 GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY', '')
+DEEPSEEK_API_KEY = os.environ.get('DEEPSEEK_API_KEY', '')
 
-# 使用的模型 (轻量版，配额更高)
-MODEL_NAME = "gemini-2.0-flash-lite"
+# ============ 模型配置 ============
+GEMINI_MODEL = "gemini-2.0-flash-lite"
+DEEPSEEK_MODEL = "deepseek-chat"
 
-# 每批处理的内容数量（增大以减少请求次数）
+# ============ 处理配置 ============
 BATCH_SIZE = 20
-
-# 请求间隔（秒）- 15秒确保不触发速率限制
 REQUEST_DELAY = 15.0
+MAX_RETRIES = 1  # Gemini 重试次数，失败后切换到 DeepSeek
 
-# 最大重试次数
-MAX_RETRIES = 2
+# ============ 当前使用的模型 ============
+current_provider = "gemini"  # gemini 或 deepseek
+gemini_exhausted = False  # Gemini 配额是否用完
 
-# 批量分析Prompt模板
+# ============ Prompt 模板 ============
 BATCH_ANALYSIS_PROMPT = f"""Role: You are an experienced indie game developer helping to identify potential users for {PRODUCT_NAME}.
 
 About {PRODUCT_NAME}: {PRODUCT_DESCRIPTION}
@@ -74,21 +75,9 @@ CONTENT ITEMS TO ANALYZE:
 
 """
 
-# 初始化客户端
-client = None
-
-
-def init_gemini():
-    """初始化Gemini客户端"""
-    global client
-    if not GEMINI_API_KEY:
-        raise ValueError("GEMINI_API_KEY 环境变量未设置")
-    client = genai.Client(api_key=GEMINI_API_KEY)
-
 
 def parse_batch_response(text: str) -> List[Dict]:
     """解析批量分析的JSON数组响应"""
-    # 移除markdown代码块
     text = re.sub(r'```json\s*', '', text)
     text = re.sub(r'```\s*', '', text)
     text = text.strip()
@@ -100,7 +89,6 @@ def parse_batch_response(text: str) -> List[Dict]:
     except json.JSONDecodeError:
         pass
     
-    # 尝试提取JSON数组
     match = re.search(r'\[[\s\S]*\]', text)
     if match:
         try:
@@ -115,7 +103,7 @@ def parse_batch_response(text: str) -> List[Dict]:
 
 def format_item_for_prompt(index: int, item: Dict) -> str:
     """格式化单个内容项用于prompt"""
-    content = item.get('content', '')[:500]  # 限制每条内容长度
+    content = item.get('content', '')[:500]
     title = item.get('title', '')[:200]
     
     text = f"""
@@ -131,47 +119,79 @@ Content: {content}
     return text
 
 
+def call_gemini(prompt: str) -> Optional[str]:
+    """调用 Gemini API"""
+    from google import genai
+    
+    client = genai.Client(api_key=GEMINI_API_KEY)
+    response = client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=prompt,
+        config={
+            "temperature": 0.3,
+            "max_output_tokens": 2000,
+        }
+    )
+    return response.text
+
+
+def call_deepseek(prompt: str) -> Optional[str]:
+    """调用 DeepSeek API (OpenAI 兼容)"""
+    import openai
+    
+    client = openai.OpenAI(
+        api_key=DEEPSEEK_API_KEY,
+        base_url="https://api.deepseek.com"
+    )
+    
+    response = client.chat.completions.create(
+        model=DEEPSEEK_MODEL,
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant that analyzes Reddit content and outputs JSON."},
+            {"role": "user", "content": prompt}
+        ],
+        temperature=0.3,
+        max_tokens=2000
+    )
+    
+    return response.choices[0].message.content
+
+
 def analyze_batch(items: List[Dict], batch_num: int, retry_count: int = 0) -> List[Dict]:
     """
-    批量分析一组内容
-    
-    Args:
-        items: 要分析的内容列表
-        batch_num: 批次编号（用于日志）
-        retry_count: 当前重试次数
-    
-    Returns:
-        分析结果列表
+    批量分析一组内容，支持 Gemini/DeepSeek 故障转移
     """
-    global client
+    global gemini_exhausted, current_provider
     
     if not items:
         return []
     
+    # 构建 prompt
+    prompt = BATCH_ANALYSIS_PROMPT
+    for i, item in enumerate(items):
+        prompt += format_item_for_prompt(i, item)
+    
+    # 选择使用哪个模型
+    use_deepseek = gemini_exhausted or not GEMINI_API_KEY
+    
+    if use_deepseek and not DEEPSEEK_API_KEY:
+        print(f"  批次 {batch_num}: 无可用的 API Key，跳过")
+        return []
+    
     try:
-        if client is None:
-            init_gemini()
-        
-        # 构建批量prompt
-        prompt = BATCH_ANALYSIS_PROMPT
-        for i, item in enumerate(items):
-            prompt += format_item_for_prompt(i, item)
-        
-        # 调用Gemini (新版SDK)
-        response = client.models.generate_content(
-            model=MODEL_NAME,
-            contents=prompt,
-            config={
-                "temperature": 0.3,
-                "max_output_tokens": 2000,
-            }
-        )
+        if use_deepseek:
+            current_provider = "deepseek"
+            print(f"  批次 {batch_num}: 使用 DeepSeek...")
+            response_text = call_deepseek(prompt)
+        else:
+            current_provider = "gemini"
+            response_text = call_gemini(prompt)
         
         # 解析响应
-        results = parse_batch_response(response.text)
+        results = parse_batch_response(response_text)
         
         if results:
-            print(f"  批次 {batch_num}: 成功分析 {len(results)} 条")
+            print(f"  批次 {batch_num}: 成功分析 {len(results)} 条 ({current_provider})")
             return results
         else:
             print(f"  批次 {batch_num}: 解析失败，跳过")
@@ -180,22 +200,30 @@ def analyze_batch(items: List[Dict], batch_num: int, retry_count: int = 0) -> Li
     except Exception as e:
         error_msg = str(e)
         
-        # 配额限制错误，有限重试
-        if ("429" in error_msg or "quota" in error_msg.lower()) and retry_count < MAX_RETRIES:
-            wait_time = 10 * (retry_count + 1)  # 递增等待：10秒, 20秒
-            print(f"  批次 {batch_num}: 配额限制，等待 {wait_time} 秒后重试 ({retry_count + 1}/{MAX_RETRIES})...")
-            time.sleep(wait_time)
-            return analyze_batch(items, batch_num, retry_count + 1)
+        # Gemini 配额用完，切换到 DeepSeek
+        if not use_deepseek and ("429" in error_msg or "quota" in error_msg.lower()):
+            if retry_count < MAX_RETRIES:
+                wait_time = 10 * (retry_count + 1)
+                print(f"  批次 {batch_num}: Gemini 配额限制，等待 {wait_time} 秒后重试...")
+                time.sleep(wait_time)
+                return analyze_batch(items, batch_num, retry_count + 1)
+            
+            # 重试后仍然失败，切换到 DeepSeek
+            if DEEPSEEK_API_KEY:
+                print(f"  批次 {batch_num}: Gemini 配额用完，切换到 DeepSeek...")
+                gemini_exhausted = True
+                return analyze_batch(items, batch_num, 0)  # 用 DeepSeek 重试
+            else:
+                print(f"  批次 {batch_num}: Gemini 配额用完，无 DeepSeek Key，跳过")
+                return []
         
-        # 其他错误或重试次数用尽，跳过此批次
+        # 其他错误
         print(f"  批次 {batch_num}: 错误 - {error_msg[:80]}，跳过")
         return []
 
 
 def analyze_posts_batch(items: list) -> list:
-    """
-    批量分析所有内容
-    """
+    """批量分析所有内容"""
     if not items:
         return []
     
@@ -203,25 +231,15 @@ def analyze_posts_batch(items: list) -> list:
     total_batches = (len(items) + BATCH_SIZE - 1) // BATCH_SIZE
     
     print(f"\n开始批量分析 {len(items)} 条内容（{total_batches} 批）...")
+    print(f"  主模型: Gemini | 备用: DeepSeek")
     print("-" * 50)
     
-    # 按类型统计
-    stats = {'post': 0, 'comment': 0, 'search': 0}
-    relevant_stats = {'post': 0, 'comment': 0, 'search': 0}
-    
-    for item in items:
-        content_type = item.get('type', 'post')
-        stats[content_type] = stats.get(content_type, 0) + 1
-    
-    # 分批处理
     for batch_idx in range(0, len(items), BATCH_SIZE):
         batch_items = items[batch_idx:batch_idx + BATCH_SIZE]
         batch_num = batch_idx // BATCH_SIZE + 1
         
-        # 分析当前批次
         results = analyze_batch(batch_items, batch_num)
         
-        # 匹配结果到原始内容
         for result in results:
             if not isinstance(result, dict):
                 continue
@@ -238,24 +256,18 @@ def analyze_posts_batch(items: list) -> list:
                     'reply_draft': result.get('reply_draft', '')
                 }
                 relevant_items.append(item)
-                
-                content_type = item.get('type', 'post')
-                relevant_stats[content_type] = relevant_stats.get(content_type, 0) + 1
         
-        # 批次间延迟（不是最后一批才延迟）
         if batch_idx + BATCH_SIZE < len(items):
             time.sleep(REQUEST_DELAY)
     
-    # 打印统计
     print("-" * 50)
     print(f"[分析完成] 相关: {len(relevant_items)}/{len(items)}")
     
     return relevant_items
 
 
-# 保持向后兼容的单条分析函数
+# 向后兼容
 def analyze_item(item: Dict) -> Optional[Dict]:
-    """分析单个内容（向后兼容）"""
     results = analyze_batch([item], 1)
     if results and len(results) > 0:
         result = results[0]
@@ -265,23 +277,4 @@ def analyze_item(item: Dict) -> Optional[Dict]:
 
 
 def analyze_post(post: Dict) -> Optional[Dict]:
-    """向后兼容的函数名"""
     return analyze_item(post)
-
-
-if __name__ == "__main__":
-    # 测试运行
-    test_items = [
-        {
-            'id': 'test1',
-            'type': 'post',
-            'title': 'I want to make a simple puzzle game but coding is so frustrating',
-            'content': 'I have this idea for a match-3 puzzle game but every time I try to code the logic I get stuck.',
-            'subreddit': 'gamedev',
-            'link': 'https://reddit.com/test1',
-            'author': 'testuser1'
-        },
-    ]
-    
-    results = analyze_posts_batch(test_items)
-    print(f"\n相关内容: {len(results)} 条")

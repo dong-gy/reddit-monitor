@@ -7,6 +7,9 @@ feedparser==6.0.11
 # Google GenAI SDK (新版，替代已废弃的google-generativeai)
 google-genai>=1.0.0
 
+# OpenAI SDK (用于 DeepSeek 备用)
+openai>=1.0.0
+
 # HTTP请求
 requests==2.32.3
 
