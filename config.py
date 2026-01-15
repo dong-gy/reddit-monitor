@@ -60,12 +60,12 @@ RELEVANCE_KEYWORDS = [
     'prototype', 'quick', 'fast', 'easy to use'
 ]
 
-# 排除关键词（包含这些词的内容明显不相关，直接跳过）
+# 排除关键词（只排除最明确不相关的内容）
 EXCLUDE_KEYWORDS = [
-    'hiring', 'job', 'position', 'salary', 'portfolio',
-    'showcase', 'released', 'launched', 'check out my', 'i made',
-    'my game', 'just released', 'now available', 'on steam',
-    'kickstarter', 'crowdfunding', 'giveaway'
+    'hiring', 'job posting', 'we are looking for',  # 招聘
+    'just released on steam', 'now available on steam',  # 已发布游戏推广
+    'kickstarter', 'crowdfunding', 'giveaway',  # 众筹/赠送
+    'check out my game', 'play my game',  # 纯推广
 ]
 
 # ============ 存储配置 ============
