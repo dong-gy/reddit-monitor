@@ -24,6 +24,9 @@ BATCH_SIZE = 10
 # 请求间隔（秒）
 REQUEST_DELAY = 1.0
 
+# 最大重试次数
+MAX_RETRIES = 2
+
 # 批量分析Prompt模板
 BATCH_ANALYSIS_PROMPT = f"""Role: You are an experienced indie game developer helping to identify potential users for {PRODUCT_NAME}.
 
@@ -120,13 +123,14 @@ Content: {content}
     return text
 
 
-def analyze_batch(items: List[Dict], batch_start_index: int) -> List[Dict]:
+def analyze_batch(items: List[Dict], batch_num: int, retry_count: int = 0) -> List[Dict]:
     """
     批量分析一组内容
     
     Args:
         items: 要分析的内容列表
-        batch_start_index: 批次起始索引（用于日志）
+        batch_num: 批次编号（用于日志）
+        retry_count: 当前重试次数
     
     Returns:
         分析结果列表
@@ -148,7 +152,7 @@ def analyze_batch(items: List[Dict], batch_start_index: int) -> List[Dict]:
             prompt,
             generation_config=genai.types.GenerationConfig(
                 temperature=0.3,
-                max_output_tokens=2000,  # 增加输出长度以容纳多个结果
+                max_output_tokens=2000,
             )
         )
         
@@ -156,34 +160,30 @@ def analyze_batch(items: List[Dict], batch_start_index: int) -> List[Dict]:
         results = parse_batch_response(response.text)
         
         if results:
-            print(f"  批次 {batch_start_index//BATCH_SIZE + 1}: 成功分析 {len(results)} 条")
+            print(f"  批次 {batch_num}: 成功分析 {len(results)} 条")
             return results
         else:
-            print(f"  批次 {batch_start_index//BATCH_SIZE + 1}: 解析失败")
+            print(f"  批次 {batch_num}: 解析失败，跳过")
             return []
             
     except Exception as e:
         error_msg = str(e)
-        if "429" in error_msg or "quota" in error_msg.lower():
-            print(f"  批次 {batch_start_index//BATCH_SIZE + 1}: 配额限制，等待后重试...")
-            time.sleep(30)  # 等待30秒后重试
-            try:
-                return analyze_batch(items, batch_start_index)
-            except:
-                pass
-        print(f"  批次 {batch_start_index//BATCH_SIZE + 1}: 错误 - {error_msg[:100]}")
+        
+        # 配额限制错误，有限重试
+        if ("429" in error_msg or "quota" in error_msg.lower()) and retry_count < MAX_RETRIES:
+            wait_time = 10 * (retry_count + 1)  # 递增等待：10秒, 20秒
+            print(f"  批次 {batch_num}: 配额限制，等待 {wait_time} 秒后重试 ({retry_count + 1}/{MAX_RETRIES})...")
+            time.sleep(wait_time)
+            return analyze_batch(items, batch_num, retry_count + 1)
+        
+        # 其他错误或重试次数用尽，跳过此批次
+        print(f"  批次 {batch_num}: 错误 - {error_msg[:80]}，跳过")
         return []
 
 
 def analyze_posts_batch(items: list) -> list:
     """
     批量分析所有内容
-    
-    Args:
-        items: 内容列表（帖子、评论、搜索结果）
-    
-    Returns:
-        包含分析结果的内容列表（只返回相关的）
     """
     if not items:
         return []
@@ -191,7 +191,7 @@ def analyze_posts_batch(items: list) -> list:
     relevant_items = []
     total_batches = (len(items) + BATCH_SIZE - 1) // BATCH_SIZE
     
-    print(f"\n开始批量分析 {len(items)} 条内容（{total_batches} 批，每批 {BATCH_SIZE} 条）...")
+    print(f"\n开始批量分析 {len(items)} 条内容（{total_batches} 批）...")
     print("-" * 50)
     
     # 按类型统计
@@ -205,9 +205,10 @@ def analyze_posts_batch(items: list) -> list:
     # 分批处理
     for batch_idx in range(0, len(items), BATCH_SIZE):
         batch_items = items[batch_idx:batch_idx + BATCH_SIZE]
+        batch_num = batch_idx // BATCH_SIZE + 1
         
         # 分析当前批次
-        results = analyze_batch(batch_items, batch_idx)
+        results = analyze_batch(batch_items, batch_num)
         
         # 匹配结果到原始内容
         for result in results:
@@ -230,17 +231,13 @@ def analyze_posts_batch(items: list) -> list:
                 content_type = item.get('type', 'post')
                 relevant_stats[content_type] = relevant_stats.get(content_type, 0) + 1
         
-        # 批次间延迟
+        # 批次间延迟（不是最后一批才延迟）
         if batch_idx + BATCH_SIZE < len(items):
             time.sleep(REQUEST_DELAY)
     
     # 打印统计
     print("-" * 50)
-    print(f"[分析完成]")
-    print(f"  帖子: {relevant_stats.get('post', 0)}/{stats.get('post', 0)} 相关")
-    print(f"  评论: {relevant_stats.get('comment', 0)}/{stats.get('comment', 0)} 相关")
-    print(f"  搜索: {relevant_stats.get('search', 0)}/{stats.get('search', 0)} 相关")
-    print(f"  总计: {len(relevant_items)}/{len(items)} 相关")
+    print(f"[分析完成] 相关: {len(relevant_items)}/{len(items)}")
     
     return relevant_items
 
@@ -248,7 +245,7 @@ def analyze_posts_batch(items: list) -> list:
 # 保持向后兼容的单条分析函数
 def analyze_item(item: Dict) -> Optional[Dict]:
     """分析单个内容（向后兼容）"""
-    results = analyze_batch([item], 0)
+    results = analyze_batch([item], 1)
     if results and len(results) > 0:
         result = results[0]
         if isinstance(result, dict) and 'is_relevant' in result:
@@ -273,28 +270,7 @@ if __name__ == "__main__":
             'link': 'https://reddit.com/test1',
             'author': 'testuser1'
         },
-        {
-            'id': 'test2',
-            'type': 'comment',
-            'title': 'Re: Best tools for beginners?',
-            'content': 'I really wish there was a way to make games without learning to code. Unity is too complex for me.',
-            'subreddit': 'gamedev',
-            'link': 'https://reddit.com/test2',
-            'author': 'testuser2'
-        },
-        {
-            'id': 'test3',
-            'type': 'post',
-            'title': 'Check out my new FPS game!',
-            'content': 'Just released my game on Steam after 2 years of development. Link in comments.',
-            'subreddit': 'gamedev',
-            'link': 'https://reddit.com/test3',
-            'author': 'testuser3'
-        }
     ]
     
     results = analyze_posts_batch(test_items)
     print(f"\n相关内容: {len(results)} 条")
-    for item in results:
-        print(f"\n{item['type']}: {item['title']}")
-        print(f"回复建议: {item['analysis']['reply_draft']}")
