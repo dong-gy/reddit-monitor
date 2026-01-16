@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qe422f",
-      "type": "search",
-      "subreddit": "dontstarve",
-      "title": "Cannot log in at all",
-      "content": "Just bought the game for my brother and I to play on steam, his computer and internet is better than mine, he cannot log in. Never once have played this game. All solutions online are either already checked or useless AI/bot generic garbage. Can anybody help? submitted by /u/Alusavin to r/dontstarve [link] [comments]",
-      "link": "https://www.reddit.com/r/dontstarve/comments/1qe422f/cannot_log_in_at_all/",
-      "author": "/u/Alusavin",
-      "search_keyword": "AI game maker",
-      "relevance_score": 1,
-      "added_at": "2026-01-16T02:53:19.616200"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qe421g",
-      "type": "search",
-      "subreddit": "godot",
-      "title": "How did you learn GDscript",
-      "content": "I’m a beginner in godot, and I would like to improve my GDscript skills, so I was wondering how did you learn/improve, just making games or with any web, tutorial, course…, just let me know!! submitted by /u/InspectionLow6569 to r/godot [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qe421g/how_did_you_learn_gdscript/",
-      "author": "/u/InspectionLow6569",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 1,
-      "added_at": "2026-01-16T02:53:19.616269"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qe3ryh",
-      "type": "search",
-      "subreddit": "expo",
-      "title": "Built \"Facts a Day\" with Expo - A daily facts app with trivia games",
-      "content": "Hey r/expo ! Just shipped my app Facts a Day and wanted to share it with the community that helped make it possible. What it does A daily facts app that delivers interesting facts across multiple categories. Includes a trivia game mode, 8 language support, and shareable fact cards. Tech Stack Expo SDK 54 + Expo Router for navigation React Native 0.81 with New Architecture enabled Tamagui for UI components and theming expo-sqlite for local caching expo-notifications for daily reminders expo-updates for OTA updates Firebase (Analytics, Crashlytics, App Check) react-native-google-mobile-ads for monetization Links iOS : https://apps.apple.com/app/id6755321394 Android : https://play.google.com/store/apps/details?id=dev.seyrek.factsaday Website : https://factsaday.com The Expo ecosystem made building for both platforms so much smoother. Huge thanks to this community for all the resources and discussions that helped along the way. Happy to answer any questions about the stack or implementation details! submitted by /u/Accomplished_Ad2701 to r/expo [link] [comments]",
-      "link": "https://www.reddit.com/r/expo/comments/1qe3ryh/built_facts_a_day_with_expo_a_daily_facts_app/",
-      "author": "/u/Accomplished_Ad2701",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 1,
-      "added_at": "2026-01-16T02:53:19.616708"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qe458f",
-      "type": "search",
-      "subreddit": "StopGaming",
-      "title": "Bedroom gaming might be worse than smoking, if one accounts for isolation. Could anyone do the math?",
-      "content": "I had a quick thought. We know that loneliness is akin to smoking two packs of cigarettes everyday. Now let's also factor in the exponential curve of playing video games stunting character growth, isolating you from others, making you fall behind in terms life achievements, how much time it robs you from living life, there might be a case to be made than gaming for hundreds and thousands of hours in your bedroom away from civilisation is probably worse than smoking. I'm not arguing that it would be impossible to have a good relationship with video games and it being a net positive in one's life. But that's prob only party games or games that require you to be in the same physical space, and foster connections. A la Mario Kart. Even online multiplayer games with chat might be argued to perhaps have a positive impact, since I know couples who met online playing a game. This is only for the scenario of isolationist video games. I see lots of posts here how much people regret how much time they've lost to gaming and how far behind they've fallen in life. Cause time is everything and the effects of sinking thousands of hours into any activity and nothing to show for it does have exponential effects. In terms of love, friendship, career, family, mental health, physical heath... It seems to me that bedroom gaming could be one of the single most destructive activities one person can do. That's just the hypothesis though. Can anyone do the math? submitted by /u/luciddreamist to r/StopGaming [link] [comments]",
-      "link": "https://www.reddit.com/r/StopGaming/comments/1qe458f/bedroom_gaming_might_be_worse_than_smoking_if_one/",
-      "author": "/u/luciddreamist",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-01-16T02:53:19.616750"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdndym",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "We created a new enemy for our game, that makes the whole UI go wild",
-      "content": "submitted by /u/Llamaware [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdndym/we_created_a_new_enemy_for_our_game_that_makes/",
-      "author": "/u/Llamaware",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:20:09.558827"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdnacl",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Design feedback needed: a 3D puzzle game based on cube manipulation",
-      "content": "submitted by /u/Season_Famous [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdnacl/design_feedback_needed_a_3d_puzzle_game_based_on/",
-      "author": "/u/Season_Famous",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:20:09.558837"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdndvw",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "We created a new enemy for our game, that makes the whole UI go wild",
-      "content": "submitted by /u/Llamaware [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdndvw/we_created_a_new_enemy_for_our_game_that_makes/",
-      "author": "/u/Llamaware",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:20:09.558907"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qdnkcq",
       "type": "post",
       "subreddit": "godot",
@@ -2387,7 +2303,115 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-16T02:53:19.616291"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qe4g18",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Steam keys & chargeback fraud: what's the safest way to distribute/sell keys?",
+      "content": "I'm a solo indie dev and I keep seeing cases of chargeback / stolen credit card fraud: people buy game keys with stolen cards, resell them on key sites, and then the original owner issues a chargeback. The dev loses the money and pays the chargeback fee, while the keys are still out there What are the best ways to protect yourself from this as an indie dev? Any proven practices (platform choices, key distribution rules, verification, etc.) - especially when selling keys directly (outside of Steam) or distributing keys to influencers/press? Which platforms/payment processors are the safest? Any rules you follow when giving out keys? Is this mostly unavoidable and just needs to be \"priced in\"? I'd really appreciate any insight. Even though my release is still some time away, I'd like to prepare early. submitted by /u/RadorasX [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qe4g18/steam_keys_chargeback_fraud_whats_the_safest_way/",
+      "author": "/u/RadorasX",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T03:57:08.615076"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qe4si7",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Cozy Potion Crafting",
+      "content": "I am developing a potion crafting MMO with world bosses and a basic marketplace. Feel free to come try it out. My 11 year old is still developing the assets and we are slowly implementing them. Feel free to come try it out! https://littlepotiongarden.app/ Now download needed, for PC and Mobile devices. https://preview.redd.it/x61s5zf4qmdg1.png?width=1917&format=png&auto=webp&s=19f401a517983f807a6cfd302a3b1efc6db58ad1 submitted by /u/Affectionate_Pilot99 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qe4si7/cozy_potion_crafting/",
+      "author": "/u/Affectionate_Pilot99",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T03:57:08.615091"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qe4nhi",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "what was the best indie game you played in 2025",
+      "content": "curious what everyone’s pick is for 2025? for me it was schedule 1 , didn’t expect it to hit that hard but the atmosphere and pacing really stuck with me submitted by /u/Weary_Caterpillar302 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qe4nhi/what_was_the_best_indie_game_you_played_in_2025/",
+      "author": "/u/Weary_Caterpillar302",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T03:57:08.615105"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qe49st",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "The demo for my experimental adventure game 'West' has been released!",
+      "content": "You can find it at https://catsinthecomputer.itch.io/west :) submitted by /u/ocarth [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qe49st/the_demo_for_my_experimental_adventure_game_west/",
+      "author": "/u/ocarth",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T03:57:08.615115"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qe4ecy",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Since I added post-processing, I figured I'd mess around with recursively rendering the screen.",
+      "content": "submitted by /u/Ask_If_Im_Dio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qe4ecy/since_i_added_postprocessing_i_figured_id_mess/",
+      "author": "/u/Ask_If_Im_Dio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T03:57:08.615170"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qe533s",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Super Nintendo Style Graphics Jam #2",
+      "content": "Come join us and maoe some cool pixel art games! 50 dollar gift card or steam gift card prize! Teams of 5 or less. Hope to see you there! submitted by /u/StoreBoughtRocket [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qe533s/super_nintendo_style_graphics_jam_2/",
+      "author": "/u/StoreBoughtRocket",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T03:57:08.615259"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qe4tpz",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "How add the player controls? I'm trying to get my ball to roll.",
+      "content": "submitted by /u/Traditional-Log-4270 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qe4tpz/how_add_the_player_controls_im_trying_to_get_my/",
+      "author": "/u/Traditional-Log-4270",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T03:57:08.615276"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe5k9d",
+      "type": "search",
+      "subreddit": "saltierthankrayt",
+      "title": "Chris, you’re fucking washed💀",
+      "content": "submitted by /u/RandoDude124 to r/saltierthankrayt [link] [comments]",
+      "link": "https://www.reddit.com/r/saltierthankrayt/comments/1qe5k9d/chris_youre_fucking_washed/",
+      "author": "/u/RandoDude124",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T03:57:08.616365"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe54vk",
+      "type": "search",
+      "subreddit": "marvelrivals",
+      "title": "I think Deadpool’s upgrade mechanics is more impressive than him being all roles",
+      "content": "I like Devs trying something outside of hero shooter genre. I hope they keep trying bold designs and make characters that play fundamentally different from a traditional hero shooter hero. Maybe one day we’ll get a summoner kind of character that doesn’t directly participate in the fight, just summons mobs and gives them orders, and basically turns the game into RTS lol. (I was hoping Ultron would be something like this back in the day, but they turn him into a boring poke bot) submitted by /u/WhateverThisNamels to r/marvelrivals [link] [comments]",
+      "link": "https://www.reddit.com/r/marvelrivals/comments/1qe54vk/i_think_deadpools_upgrade_mechanics_is_more/",
+      "author": "/u/WhateverThisNamels",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T03:57:08.616582"
     }
   ],
-  "last_updated": "2026-01-16T02:55:20.349172"
+  "last_updated": "2026-01-16T03:59:09.537582"
 }
