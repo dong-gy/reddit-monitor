@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qe6aj3",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Do you think the attack animation is snappy enough now?",
-      "content": "Some comment about my previous gameplay video points that the attack animation is not snappy enough. So I try with 1.25x attack speed for the player. Playtest link https://store.steampowered.com/app/3202310/Thousands_Layered_Blade_Reforged/ submitted by /u/aahanif [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qe6aj3/do_you_think_the_attack_animation_is_snappy/",
-      "author": "/u/aahanif",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T04:34:06.120195"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qe5qo4",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I tried running reddit ads for my roguelite game. I'm getting lots of clicks but very few wishlists. Can anyone offer any advice about the steam page?",
-      "content": "submitted by /u/ledniv [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qe5qo4/i_tried_running_reddit_ads_for_my_roguelite_game/",
-      "author": "/u/ledniv",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T04:34:06.120225"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qe5luf",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Troubles with Hit Flash in my 2D Godot Game",
-      "content": "For my game to indicate when you hit an enemy, I wanted to use a hit flash. I tried to use shaders to achieve this, but it seemed just not to work. So now I am using tweens but I am not sure if there is another property I am supposed to reference instead of modulate, because modulate doesn’t seem to be working for me. https://preview.redd.it/74vnsr6mwmdg1.png?width=717&format=png&auto=webp&s=9bc4334e5facc31cdffcfe72bb4539cf54950e75 submitted by /u/Curious_Wealth_339 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qe5luf/troubles_with_hit_flash_in_my_2d_godot_game/",
-      "author": "/u/Curious_Wealth_339",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T04:34:06.120296"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qe622p",
       "type": "search",
       "subreddit": "GameDevelopersOfIndia",
@@ -2903,7 +2867,151 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-16T17:44:52.437935"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qendau",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Iv made a bunch of videos about the weird mechanics in my puzzle magic game. But heres a video about actually using those mechanics to solve a puzzle",
+      "content": "submitted by /u/alicona [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qendau/iv_made_a_bunch_of_videos_about_the_weird/",
+      "author": "/u/alicona",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:16:26.710045"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qena9t",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Iv made a bunch of videos about the weird mechanics in my puzzle magic game. But heres a video about actually using those mechanics to solve a puzzle",
+      "content": "submitted by /u/alicona [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qena9t/iv_made_a_bunch_of_videos_about_the_weird/",
+      "author": "/u/alicona",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:16:26.710130"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qen4x0",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The Newest Ability in my Survivors-like: Quiver",
+      "content": "I'm coming up to 31 unique abilities for my Survivors-like game, and the latest one I've added is the Quiver! The Quiver shoots out volleys of arrows, and it has two upgrades that I think are kind of fun, It's first rare upgrade, Sticky Arrows, makes the arrows stick to enemies that are hit. Each arrow stuck in an enemy adds weakness (making them take 1% more damage per arrow from every damage) It's legendary, Overwhelm, makes it so that you shoot out arrows in a circle around you (in addition to your regular volleys)! For each of my abilities, there are typically two normal upgrades, two rare upgrades, and one Legendary upgrade. I'm not too sure what the second rare upgrade should be, but I'm open to ideas. (for context, rare upgrades should be relatively unique, and more interesting than something like Damage+) Tell me what you think! submitted by /u/greatcoltini [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qen4x0/the_newest_ability_in_my_survivorslike_quiver/",
+      "author": "/u/greatcoltini",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:16:26.710151"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qen1nz",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Match3 For Charity (ME/CFS) - Testers wanted",
+      "content": "submitted by /u/Boubble3 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qen1nz/match3_for_charity_mecfs_testers_wanted/",
+      "author": "/u/Boubble3",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:16:26.710158"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qemtq1",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The long-standing problem of capsules: was it worth it?",
+      "content": "In the end, I asked for help to modify my capsule. Above you can see the original and below the modified one. What do you think? Any suggestions? I have a low conversion rate, so let's see if the new capsule helps... submitted by /u/BootSpirited7096 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qemtq1/the_longstanding_problem_of_capsules_was_it_worth/",
+      "author": "/u/BootSpirited7096",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:16:26.710215"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qene21",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I made a Godot powered website for no reason",
+      "content": "It is fully made in Godot and isn’t connected to any server or online resource. I update it manually on itch.io. The process of making it is extremely fun, and I treat this project as a personal website anyway. It’s online on itch.io in case anyone wants to take a look :D submitted by /u/Tioul0n [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qene21/i_made_a_godot_powered_website_for_no_reason/",
+      "author": "/u/Tioul0n",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:16:26.710230"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qenbxw",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Iv made a bunch of videos about the weird mechanics in my puzzle magic game. But heres a video about actually using those mechanics to solve a puzzle",
+      "content": "submitted by /u/alicona [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qenbxw/iv_made_a_bunch_of_videos_about_the_weird/",
+      "author": "/u/alicona",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:16:26.710380"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qen9sn",
+      "type": "search",
+      "subreddit": "MediaSwap",
+      "title": "[US] [Selling] Blu-rays, 4K Blu-rays and a Switch Game!",
+      "content": "Notes Shipping is $5 within the US PayPal preferred, Venmo accepted Will consider any reasonable offers No digital codes included in physical copies Have positive feedback on r/DigitalCodeSELL and r/GameSale if you need more verification Nintendo Switch Mario + Rabbids: Sparks of Hope - $5 Boutique Blu-ray Brief Encounter ( Criterion ) - $13 The Sound of Music: 45th Anniversary Limited Edition ( Outer slipcover dinged ) - $25 TV Blu-ray The Twilight Zone: Season One ( Sealed ) - $20 The Twilight Zone: Season Two - $15 The Twilight Zone: Season Five ( Sealed ) - $20 4K Blu-ray Out of Order ( with slipcover ) - $16 Rise of the Planet of the Apes - $7 Blu-ray ($2 each) Aliens American Sniper Bridget Jones's Diary Casino Royale Cheap Thrills Cinderella (2015) Footloose (2011, Goodwill stickers ) Guardians of the Galaxy, Vol. 2 Hereafter He Walked By Night Iron Man 3 The Island The Karate Kid (2010) The Legend of Tarzan Merantau Neighbors The Nice Guys Out of Africa Quiz Sully Twister Unknown ( Cracked case ) X-Men: First Class https://preview.redd.it/pdtdwiyq3rdg1.jpg?width=4032&format=pjpg&auto=webp&s=d04076a107df4cd67a5991dde8cf18f025cebe48 submitted by /u/IsaacTM to r/MediaSwap [link] [comments]",
+      "link": "https://www.reddit.com/r/MediaSwap/comments/1qen9sn/us_selling_blurays_4k_blurays_and_a_switch_game/",
+      "author": "/u/IsaacTM",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:16:26.710504"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qen677",
+      "type": "search",
+      "subreddit": "DigitalCodeSELL",
+      "title": "(Selling) 4K and HD Codes (Including Bond) - MA and WB!",
+      "content": "Notes PayPal preferred, Venmo accepted Will consider any reasonable offers Have positive feedback on r/MediaSwap and r/GameSale if you need more verification Some of the codes are old and might have expired - if you have good feedback you can redeem them before paying 4K Codes 007 Sean Connery 6-Film Collection (wb.com/redeemdigital - FAH) - $18 Includes Dr. No, From Russia with Love, Goldfinger, Thunderball, You Only Live Twice, and Diamonds are Forever Erin Brockovich (MA) - $4 The Fugitive (MA) - $4 Kingsman: The Secret Service (MA) - $4 North by Northwest (MA) - $4 Twister (MA) - $4 HD Codes Beauty and the Beast (MA) - $2 submitted by /u/IsaacTM to r/DigitalCodeSELL [link] [comments]",
+      "link": "https://www.reddit.com/r/DigitalCodeSELL/comments/1qen677/selling_4k_and_hd_codes_including_bond_ma_and_wb/",
+      "author": "/u/IsaacTM",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:16:26.710521"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qenmu6",
+      "type": "search",
+      "subreddit": "Vent",
+      "title": "Rejected and lonely",
+      "content": "I struggle with finding communities. And frankly trying to connect online is impossible. I am more of irl person. And it just makes the world seem really small especially since I struggle to connect irl unless the situation is just right. Sigh Meeting up with friends irl is almost impossible because of busy work lives ... Welp I guess I am just a lonely person, without meaning purpose to much support. (Or support that really matters) Trying to connect on various platforms is a bust. Groups I am apart of are too extreme, and groups I support don't want me. I get it, just hard. And this is a depressing vent but I will fine. Just more realizing that my impact on the world is minimal. submitted by /u/becca23wall to r/Vent [link] [comments]",
+      "link": "https://www.reddit.com/r/Vent/comments/1qenmu6/rejected_and_lonely/",
+      "author": "/u/becca23wall",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:16:26.710964"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qenm7a",
+      "type": "search",
+      "subreddit": "MafiaTheGame",
+      "title": "how is [MAFIA II CLASSIC] free on steam",
+      "content": "that's strange, especially that I can't even get it from its page submitted by /u/BornAd5874 to r/MafiaTheGame [link] [comments]",
+      "link": "https://www.reddit.com/r/MafiaTheGame/comments/1qenm7a/how_is_mafia_ii_classic_free_on_steam/",
+      "author": "/u/BornAd5874",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:16:26.711250"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qenbwz",
+      "type": "search",
+      "subreddit": "TheForeverWinter",
+      "title": "More Wearable Water Thief Masks",
+      "content": "When are we going to get the rest of the Water Thief masks... I know Old Man can wear the far right, but it is my least favorite out of the three. I don't care if... -They function similar to the default skins in that when you select the skin on Old Man it allows you to randomly wear one of the three until you die. -They give other characters like Mask Man or Bag Man the other two. It would make sense to me if the center mask was for Mask Man and the far left was for Bag Man. -Extra challenges to unlock them similar to the ways we can unlock the current mask for Old Man. -They give them in a DLC pack. I love the game; I don't mind spending some extra money to support the game for the two masks on the left. The masks are already in game so it can't be that hard to implement them for your characters. Where do I need to post this or who should I send it to. The Devs must know we want these masks. Pleeeeeeeeeeeeeeease when are we going to get these masks. submitted by /u/Omnimeraki to r/TheForeverWinter [link] [comments]",
+      "link": "https://www.reddit.com/r/TheForeverWinter/comments/1qenbwz/more_wearable_water_thief_masks/",
+      "author": "/u/Omnimeraki",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T18:16:26.711737"
     }
   ],
-  "last_updated": "2026-01-16T17:46:27.137410"
+  "last_updated": "2026-01-16T18:18:11.850999"
 }
