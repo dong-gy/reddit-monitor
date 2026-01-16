@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdo2c7",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Have been a huge investment considering my budget. But a new capsule was necessary.",
-      "content": "submitted by /u/Garo3853 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdo2c7/have_been_a_huge_investment_considering_my_budget/",
-      "author": "/u/Garo3853",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:59:54.686736"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdo0ff",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "May the mystery be with you 🐱",
-      "content": "Sometimes references just happen. submitted by /u/Guvensrii [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdo0ff/may_the_mystery_be_with_you/",
-      "author": "/u/Guvensrii",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:59:54.686746"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdnzpy",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "2 minutes of gameplay Tiny Delivery",
-      "content": "submitted by /u/ArtemSinica [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdnzpy/2_minutes_of_gameplay_tiny_delivery/",
-      "author": "/u/ArtemSinica",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:59:54.686752"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdo5vc",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Now demo version of my game \"Formula 2.5\" is avaliable",
-      "content": "submitted by /u/TandT-game [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdo5vc/now_demo_version_of_my_game_formula_25_is/",
-      "author": "/u/TandT-game",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:59:54.686818"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdo4fd",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Have been a huge investment considering my budget. But a new capsule was necessary.",
-      "content": "submitted by /u/Garo3853 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdo4fd/have_been_a_huge_investment_considering_my_budget/",
-      "author": "/u/Garo3853",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:59:54.686826"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdo47u",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "In an alternative reality, the Cold War ended in a nuclear conflict, and in these circumstances we meet a heroine who struggles with her demons. Dark",
-      "content": "submitted by /u/sonsofwelder [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdo47u/in_an_alternative_reality_the_cold_war_ended_in_a/",
-      "author": "/u/sonsofwelder",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:59:54.686834"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qdomk2",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "i wanted to fix the glove normals in blender but whenever i import or even reimport it doesnt change",
-      "content": "even though in blender its fixed submitted by /u/maxxm342 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qdomk2/i_wanted_to_fix_the_glove_normals_in_blender_but/",
-      "author": "/u/maxxm342",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:59:54.686842"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qdo5dm",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "what's causing this weird lighting with SDFGI?",
-      "content": "sphere looks fine from the other side. here it's all patchy. submitted by /u/No_Lawfulness_106 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qdo5dm/whats_causing_this_weird_lighting_with_sdfgi/",
-      "author": "/u/No_Lawfulness_106",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T16:59:54.686855"
-    },
-    {
       "id": "https://www.reddit.com/r/unity/t3_1qdnyiq",
       "type": "post",
       "subreddit": "unity",
@@ -2387,7 +2291,139 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-16T04:34:06.122015"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qe6m8p",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I'm making a dog game but everyone loves cats so I added a cat onesie",
+      "content": "submitted by /u/rotub [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qe6m8p/im_making_a_dog_game_but_everyone_loves_cats_so_i/",
+      "author": "/u/rotub",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:16:02.874191"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qe6ikr",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Asteroid Survivor demo is live on itch!",
+      "content": "submitted by /u/tim_aluhn [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qe6ikr/asteroid_survivor_demo_is_live_on_itch/",
+      "author": "/u/tim_aluhn",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:16:02.874198"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qe6rv1",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I added a cat onesie to my dog game",
+      "content": "submitted by /u/rotub [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qe6rv1/i_added_a_cat_onesie_to_my_dog_game/",
+      "author": "/u/rotub",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:16:02.874204"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qe6mz4",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Is it normal to have like +10% wishlist deletions?",
+      "content": "I feel like I kept hearing people generally don’t delete your game from their phone wishlist, so don’t rush to release. But, I feel like +10% is a lot of deletions. submitted by /u/ranhuynh [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qe6mz4/is_it_normal_to_have_like_10_wishlist_deletions/",
+      "author": "/u/ranhuynh",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:16:02.874218"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qe6m9h",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Greed Island x Yu-Gi-Oh inspired real-time card game (UE)",
+      "content": "submitted by /u/jnexhip [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qe6m9h/greed_island_x_yugioh_inspired_realtime_card_game/",
+      "author": "/u/jnexhip",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:16:02.874225"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qe6f2p",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Working on items for our turn-based deck-building game (WIP)",
+      "content": "Hi everyone! We’re currently working on Champion of Lore, a turn-based, deck-building strategy game. This week, we’ve been focusing on the items you can equip to support the heroes during combat. The idea is that they offer small advantages without overpowering the deck or the turn-based strategy. Nothing final yet — we’re still iterating on how they should look and how much personality they should have without getting in the way of readability. Always open to feedback from other devs, especially around visual clarity, utility, and presentation. Thanks for taking a look! submitted by /u/Champion_of_Lore [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qe6f2p/working_on_items_for_our_turnbased_deckbuilding/",
+      "author": "/u/Champion_of_Lore",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:16:02.874250"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qe6lsj",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I made a 2D Dinosaur Sprite Bundle for indie games (feedback welcome 🦖)",
+      "content": "I’m an indie dev and recently finished a 2D prehistoric creature sprite bundle that I originally made for my own game. I decided to clean it up and release it for other devs too. The bundle includes 7 creatures , each with multiple animations (idle, walk, run, attack, etc.): Brachiosaurus Stegosaurus Parasaurolophus Dilophosaurus Oviraptor Tyrannosaurus Rex Dimetrodon (non-dino, but prehistoric) Everything is PNG sprite sheets with transparent backgrounds , made for 2D games (Unity, Godot, Paper2D, etc.). I’d honestly love: Feedback on the art & animations Suggestions for improvements Ideas for dinos to add in a future update Thanks for checking it out, and happy dev-ing Link : https://itch.io/s/177611/dino-creature-bundle-2d-prehistoric-sprite-sheet-pack submitted by /u/DemandOk4298 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qe6lsj/i_made_a_2d_dinosaur_sprite_bundle_for_indie/",
+      "author": "/u/DemandOk4298",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:16:02.874280"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qe6lp1",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Greed Island x Yu-Gi-Oh inspired real-time card game (blueprints)",
+      "content": "submitted by /u/jnexhip [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qe6lp1/greed_island_x_yugioh_inspired_realtime_card_game/",
+      "author": "/u/jnexhip",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:16:02.874288"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qe6cw7",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "I made a 2D Dinosaur Sprite Bundle for indie games (feedback welcome",
+      "content": "Hey everyone 👋 I’m an indie dev and recently finished a 2D prehistoric creature sprite bundle that I originally made for my own game. I decided to clean it up and release it for other devs too. The bundle includes 7 creatures , each with multiple animations (idle, walk, run, attack, etc.): Brachiosaurus Stegosaurus Parasaurolophus Dilophosaurus Oviraptor Tyrannosaurus Rex Dimetrodon (non-dino, but prehistoric) Everything is PNG sprite sheets with transparent backgrounds , made for 2D games (Unity, Godot, Paper2D, etc.). Link: https://itch.io/s/177611/dino-creature-bundle-2d-prehistoric-sprite-sheet-pack I’d honestly love: Feedback on the art & animations Suggestions for improvements Ideas for dinos to add in a future update Thanks for checking it out, and happy dev-ing submitted by /u/DemandOk4298 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qe6cw7/i_made_a_2d_dinosaur_sprite_bundle_for_indie/",
+      "author": "/u/DemandOk4298",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:16:02.874313"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe6uwq",
+      "type": "search",
+      "subreddit": "Currencytradingcards",
+      "title": "Anyone interested",
+      "content": "If interested in anything throw me a message, I’m new to this and not overall excited with the cards and going back to sports. submitted by /u/Separate_Fig9696 to r/Currencytradingcards [link] [comments]",
+      "link": "https://www.reddit.com/r/Currencytradingcards/comments/1qe6uwq/anyone_interested/",
+      "author": "/u/Separate_Fig9696",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:16:02.874594"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe75k7",
+      "type": "search",
+      "subreddit": "JRPG",
+      "title": "[The Hundred Line: Last Defense Academy] Developer acknowledges the game is 2 games in 1. Upcoming update will enable players to start \"The Hundred Line 2\" without clear data from finishing the first 100 days of \"The Hundred Line 1\". Starting with THL 2 will unlock the “Chapter Select\" immediately.",
+      "content": "submitted by /u/VashxShanks to r/JRPG [link] [comments]",
+      "link": "https://www.reddit.com/r/JRPG/comments/1qe75k7/the_hundred_line_last_defense_academy_developer/",
+      "author": "/u/VashxShanks",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T05:16:02.874717"
     }
   ],
-  "last_updated": "2026-01-16T04:35:53.808557"
+  "last_updated": "2026-01-16T05:17:33.099272"
 }
