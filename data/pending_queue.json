@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdqwz5",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Teaser is out!",
-      "content": "Hello! After 3 semesters working on it with my college friends, we finally released our metroidvania's first teaser! submitted by /u/mariaelisaa [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdqwz5/teaser_is_out/",
-      "author": "/u/mariaelisaa",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362579"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdqb20",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Releasing caged skeletons to tank shots for you 💀",
-      "content": "Many skeletons were harmed in the making of this. submitted by /u/InglenookGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdqb20/releasing_caged_skeletons_to_tank_shots_for_you/",
-      "author": "/u/InglenookGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362604"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdpxiu",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I made a free, short (~5 mins), atmospheric horror experience in Godot. Feedback welcome.",
-      "content": "This is my first complete project which I managed to finish by keeping it incredibly short. Link: therealdyer.itch.io/the-sleeping-problem submitted by /u/theRealDyer [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdpxiu/i_made_a_free_short_5_mins_atmospheric_horror/",
-      "author": "/u/theRealDyer",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362638"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdr5j6",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "A plague-born figure from a ritual scene we’re working on",
-      "content": "This is one of the ritual figures from a co-op horror game we’re developing. It’s tied to a plague related ritual inspired by ancient mythology, sometimes it only watches, sometimes it moves closer, and sometimes its presence alone is enough to make players hesitate before acting. We focused less on shock value and more on making something that feels unnatural the longer you look at it. Does this feel creepy enough? If anyone’s curious, this is from \"Devil of the Plague\", Steam page for add to wishlist: https://store.steampowered.com/app/3429890/Devil_of_the_Plague/ submitted by /u/tridiART [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdr5j6/a_plagueborn_figure_from_a_ritual_scene_were/",
-      "author": "/u/tridiART",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362683"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdr3t9",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "which image do you think makes the best capsule image",
-      "content": "Do you think any of them are good what improvement's would you like to see. submitted by /u/whynomakethings [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdr3t9/which_image_do_you_think_makes_the_best_capsule/",
-      "author": "/u/whynomakethings",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362691"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdqnbg",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I made a free, short (~5 mins), low-poly, atmospheric horror experience in Godot. Feedback welcome.",
-      "content": "This is my first complete project which I managed to finish by keeping it incredibly short. Link: therealdyer.itch.io/the-sleeping-problem submitted by /u/theRealDyer [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdqnbg/i_made_a_free_short_5_mins_lowpoly_atmospheric/",
-      "author": "/u/theRealDyer",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362712"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdqe7t",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Added toxic looking mist at night so you know the night swarm is coming for your base, any thoughts on the mist?",
-      "content": "submitted by /u/Wildboy_Studios [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdqe7t/added_toxic_looking_mist_at_night_so_you_know_the/",
-      "author": "/u/Wildboy_Studios",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362737"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qdradb",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Enemy Pathfinding with Navigation Agent",
-      "content": "Hello everyone, I have a question for the Godot community. I am currently developing a side scrolling platforming action game. I am having a lot of trouble getting the NavigationAgent2D to work with this setup. I can make it work well for a top down game, but it seems not as intuitive in side scrolling with physics. Has anyone else run into this or made it work correctly in this setup? I have been using the NavigationAgent2D on enemies with a Navigation Mesh and Navigation links. However, with gravity and physics, they seem to behave a bit weird when it comes time to jump at a NavigationLink2D. submitted by /u/IDoTheDrawing [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qdradb/enemy_pathfinding_with_navigation_agent/",
-      "author": "/u/IDoTheDrawing",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T18:21:31.362802"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qdqup1",
       "type": "post",
       "subreddit": "godot",
@@ -2291,7 +2195,91 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-16T05:45:50.294214"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qe7t4e",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "8Eggs got approved and is live at Google play",
+      "content": "I am thrilled and surprised as it took less than 48 hours after submitted for production access to get approval for public release. Big thank you to the community for the testing in the past 14 days 👍🙏 submitted by /u/8Eggs888 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qe7t4e/8eggs_got_approved_and_is_live_at_google_play/",
+      "author": "/u/8Eggs888",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:17:38.400149"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qe7rvn",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Looking to help out a little with a small project!",
+      "content": "Hi i’m a character artist that normally does fanart but i really want to work for video game companies in the future!! I’ve been trying to think about what my art style could be useful for and i was wondering if you guys might be able to find a place for my help! Feel free to leave a comment or dm me to discuss things 🫶 (attached are some doodle, commissions, and illustrations i’ve done) submitted by /u/porchaashtonarts [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qe7rvn/looking_to_help_out_a_little_with_a_small_project/",
+      "author": "/u/porchaashtonarts",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:17:38.400166"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe81m6",
+      "type": "search",
+      "subreddit": "LostSwordOfficial",
+      "title": "[Code] Lost Sword Half Anniversary! Coupon Event",
+      "content": "Greetings, Swordbringers! To celebrate the Lost Sword Half Anniversary, we have prepared a commemorative coupon as a token of our gratitude to all Swordbringers.🎁 We hope you enjoy a warm and cozy winter with the coupon we’ve prepared! 📌 Coupon Code: LSANNIVERSARY - Diamond x2,000 \\ You can redeem it in-game via [Settings > Account > Redeem Coupon].* 📌 Redemption Period - Until February 4, 23:59 (UTC+9) 📌 Note - Codes can only be redeemed once per account. - After redeeming the code, if you delete your account and rejoin on the same platform account, the code will no longer be valid. submitted by /u/LostSwordGlobal to r/LostSwordOfficial [link] [comments]",
+      "link": "https://www.reddit.com/r/LostSwordOfficial/comments/1qe81m6/code_lost_sword_half_anniversary_coupon_event/",
+      "author": "/u/LostSwordGlobal",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:17:38.400453"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe8bub",
+      "type": "search",
+      "subreddit": "askportland",
+      "title": "Is Pickathon for me?",
+      "content": "Hi! I'm a country and folk music fan in my early 20s considering Pickathon this summer. I'll be in the area already after a family wedding, so I would definitely be arriving on Thursday if I went, might stay Thursday-Saturday or might stay the full weekend. I know the music would be up my alley no matter the lineup, but I have some questions about the festival culture before I make a final call. 1. Is it easy to socialize/make friends as a solo festival-goer or is it more couples and families? 2. What is there to do besides the music? Are there activities without an added cost? 3. Is it worth it to do one of the curated meals as someone into food? Is the food similar to a dinner of that price you'd get at a fine dining restaurant, or is it overpriced because it's at a music festival? And finally... 4. What's the vibe like in general? Dirty hippies (like myself)? Influencer Coachella type crowd? Families? Little bit of everything? submitted by /u/borzoi_boy to r/askportland [link] [comments]",
+      "link": "https://www.reddit.com/r/askportland/comments/1qe8bub/is_pickathon_for_me/",
+      "author": "/u/borzoi_boy",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:17:38.400693"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe8br3",
+      "type": "search",
+      "subreddit": "u_True-Leading2542",
+      "title": "My Intro ig :p",
+      "content": "I am True-Leading2542, also known as stinky cheese :D HOBBIES: Drawing I don’t draw much, I usually draw in a more goofy and cartoony way (img for example) im quite the strange guy https://preview.redd.it/qyrckjtagndg1.jpg?width=3070&format=pjpg&auto=webp&s=3a67b2e79fcac02a6c54a966f3d16b47a7c72ae1 gaming I play games like Roblox and marvel contest of champions and…much more oh and i hate power rangers legacy wars don’t ever download it I speak from experience https://preview.redd.it/4faaaa3ngndg1.png?width=2360&format=png&auto=webp&s=bc402ed2dca18dd1c7a582b7e8842dd05527d3d6 Cooking/baking sometimes I cook and bake https://preview.redd.it/pwhaetr1hndg1.jpg?width=967&format=pjpg&auto=webp&s=5cb7084639e06e6141b03c185d6fb2c096751bc1 INTERESTS/LIKINGS: junk food i love stuff like pizza, burgers, fries, lo mein, and other things, oh and I LOOOVE cheese. https://preview.redd.it/5setb5jekndg1.jpg?width=1800&format=pjpg&auto=webp&s=f64e0ee98345b4f43056830a68fe56f9a6a58441 hoodies i love everything about it, the hood, the pocket, the strings 😍 i basically give every oc I make this https://preview.redd.it/08lui4x7kndg1.jpg?width=213&format=pjpg&auto=webp&s=2255075dc5b471b041dbb29995679dc0902630e5 scarfs especially long scarfs, i usually give my characters those aswell, and i even make them magical and acts like extra limbs, cozy and epic https://preview.redd.it/x04zs5nsjndg1.jpg?width=420&format=pjpg&auto=webp&s=9530cd9c6bc6eba57083c4a053ce64f980df7f6d Animals i like kangaroos, cats, dogs, skunks, gorillas, alligators, polar bears, birds, lions, etc https://preview.redd.it/52gsrldqkndg1.jpg?width=270&format=pjpg&auto=webp&s=564876bf557667cf999a29025e2c56a5dc72d82f Bad smells weird ik, I like smells such as rotting eggs n sweat https://preview.redd.it/f0s4uq6blndg1.jpg?width=420&format=pjpg&auto=webp&s=ff227904131a4c3da78f437137aeff6e0df7ab07 yea that seems to be it, might edit it later idk https://i.redd.it/qq5q0z1rlndg1.gif submitted by /u/True-Leading2542 to u/True-Leading2542 [link] [comments]",
+      "link": "https://www.reddit.com/r/u_True-Leading2542/comments/1qe8br3/my_intro_ig_p/",
+      "author": "/u/True-Leading2542",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:17:38.400780"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe89f5",
+      "type": "search",
+      "subreddit": "HytaleInfo",
+      "title": "Built a Hytale server companion - real-time players, console, live map... all inside your community",
+      "content": "What it does: One-click mod install via SFTP Real-time player list with hunger, stamina, game mode, and playtime stats Real-time map with player positions (EasyWebMap) Console commands The whole thing runs in your community, so your members can see who's online and what's happening on the server without needing a separate browser tab or panel. Would love feedback and suggestions! Chat with the devs: rootapp (dot) gg/ACuxLK5shQqYlXqJeaT8Hw submitted by /u/Vinny_Root to r/HytaleInfo [link] [comments]",
+      "link": "https://www.reddit.com/r/HytaleInfo/comments/1qe89f5/built_a_hytale_server_companion_realtime_players/",
+      "author": "/u/Vinny_Root",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:17:38.401022"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qe88sa",
+      "type": "search",
+      "subreddit": "Stellaris",
+      "title": "User Interface Question",
+      "content": "Recently bought and played Stellaris, and I am enjoying my time so far. My biggest pet peeve however, is the fact I cannot drag and drop the different fleets in the order I want to. Also I haven't figured out the game logic behind this when creating new fleets. For example: Fleet #4 Fleet #2 Fleet #1 Fleet #3 So instead of being able to drag and drop fleets in the UI, I am left with the option of MANUALLY transferring ships to a different fleet and just changing their name. I saw that it was a good idea to separate your picket ships and artillery ships with their own fleets but halfway through a play-through I just ended up making all of my fleets to be all-rounded which ended up having ship behavior that I did not desire. This is a noobie asking the community on their thoughts and possible advice. P.S. This is actually my only pet peeve, I am pleasantly surprised by how mod friendly it is. submitted by /u/Level-File5949 to r/Stellaris [link] [comments]",
+      "link": "https://www.reddit.com/r/Stellaris/comments/1qe88sa/user_interface_question/",
+      "author": "/u/Level-File5949",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T06:17:38.401380"
     }
   ],
-  "last_updated": "2026-01-16T05:47:29.261447"
+  "last_updated": "2026-01-16T06:19:31.724885"
 }
