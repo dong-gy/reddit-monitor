@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qdxk9d",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I made a game about a little snowman on a big adventure",
-      "content": "submitted by /u/Anticause1 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qdxk9d/i_made_a_game_about_a_little_snowman_on_a_big/",
-      "author": "/u/Anticause1",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T22:43:12.779900"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdy82q",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Our capsule could be improved. Which version would you go for? Or does it need bigger changes?",
-      "content": "submitted by /u/hariedwinart [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdy82q/our_capsule_could_be_improved_which_version_would/",
-      "author": "/u/hariedwinart",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T22:43:12.779907"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdy41u",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Commissioned Artwork just came in, what do you think of the difference comparably to the old artwork?",
-      "content": "submitted by /u/Still_Pin9434 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdy41u/commissioned_artwork_just_came_in_what_do_you/",
-      "author": "/u/Still_Pin9434",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T22:43:12.779936"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdy3hr",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "star wars mechanic simulator",
-      "content": "i haven't used blender since i was a kid and it's changed a lot so i pretty much had to completely reteach it to myself. submitted by /u/raphaelm1 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdy3hr/star_wars_mechanic_simulator/",
-      "author": "/u/raphaelm1",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T22:43:12.779943"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qdxjy8",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Cutscene transition to 2D gameplay",
-      "content": "Another short clip to show the transition between cutscenes and gameplay that I'm working for my upcoming game IN SILICO, but this time for 2D gameplay! submitted by /u/NeroSaution [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qdxjy8/cutscene_transition_to_2d_gameplay/",
-      "author": "/u/NeroSaution",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T22:43:12.779958"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qdy6er",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "FREE & Open-Source SteamPipe GUI with lots of features now on Windows and Linux too!",
-      "content": "Thanks to community feedback and requests, MacPipeGUI is now cross-platform, yippie! It’s a FREE, open-source, native SteamPipe GUI designed to replace CLI workflows on macOS and now also a powerful alternative to Valve’s GUI on Windows and Linux. Why it’s better than Valve’s SteamPipe GUI: Profiles support Auto-updates for the latest fixes Test builds Proper in-app editing Cleaner console logging (no terminal popup) Modern, native UI MacPipeGUI is fully open source! contributions, issues, and feedback are always welcome ^^ https://github.com/sakne/MacPipeGUI submitted by /u/sakneplus [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qdy6er/free_opensource_steampipe_gui_with_lots_of/",
-      "author": "/u/sakneplus",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T22:43:12.779980"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qdy3gd",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Put some clips together for a mining roguelike I'm working on. Hope to start testing soon",
-      "content": "submitted by /u/erodegames [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qdy3gd/put_some_clips_together_for_a_mining_roguelike_im/",
-      "author": "/u/erodegames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-15T22:43:12.779987"
-    },
-    {
       "id": "https://www.reddit.com/r/unity/t3_1qdy058",
       "type": "post",
       "subreddit": "unity",
@@ -2099,7 +2015,55 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-16T10:46:31.352064"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qed7a9",
+      "type": "search",
+      "subreddit": "referralcodes",
+      "title": "KickoffBoss Football Manager Game",
+      "content": "Hey! I’ve been playing KickoffBoss , a browser-based football manager game, and wanted to share my referral code here. Full transparency: Using this code does NOT give you any extra rewards – it only helps support me / the game. So please only use it if you’re already planning to try it out 👍 Referral code: 👉 https://kickoffboss.com/footballgame/rafasoereide If you like: Football manager games Building squads & tactics Browser games (no downloads) Then you might enjoy it. Happy to answer questions about gameplay! submitted by /u/Fine-Zodiac-947 to r/referralcodes [link] [comments]",
+      "link": "https://www.reddit.com/r/referralcodes/comments/1qed7a9/kickoffboss_football_manager_game/",
+      "author": "/u/Fine-Zodiac-947",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T11:10:24.935509"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qecyyv",
+      "type": "search",
+      "subreddit": "Mecharashi_Global",
+      "title": "so I feel like this should be easier.",
+      "content": "For the friend code thing for the event, im unsure whey to input the codes at, they all seem to link to the webpage for the game, but there is no location to type anything on it. Sorry for being dumb and not sure, i could use some help here i hate missing out on possible rewards. submitted by /u/Past_River2818 to r/Mecharashi_Global [link] [comments]",
+      "link": "https://www.reddit.com/r/Mecharashi_Global/comments/1qecyyv/so_i_feel_like_this_should_be_easier/",
+      "author": "/u/Past_River2818",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T11:10:24.935542"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qed188",
+      "type": "search",
+      "subreddit": "ownyourintent",
+      "title": "relatable much?",
+      "content": "submitted by /u/OkDragonfruit55 to r/ownyourintent [link] [comments]",
+      "link": "https://www.reddit.com/r/ownyourintent/comments/1qed188/relatable_much/",
+      "author": "/u/OkDragonfruit55",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T11:10:24.937373"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qed7f1",
+      "type": "search",
+      "subreddit": "swifties",
+      "title": "How I listen to albums- MOMS VERSION",
+      "content": "I thought it would be fun to share how I listen to TS albums as a mom of 2 very young kids!! TLOAS- When I need the baby to stop crying( works every time) / when I want to start the morning on good vibes EVERMORE- When it’s nap time, this immediately goes on. 1989- When my toddler is in a good mood and wants to dance FOLKLORE- When I’m cooking or cleaning REPUTATION- When I workout!! MIDNIGHTS- When we’re driving to a place and I want lowkey fun vibes TTPD- When we’re driving home from a place and I want them to chill out SPEAK NOW/FEARLESS- When we’re just hanging out during the day and playing low energy games like with puzzles or blocks RED- When I get ALONE time LOVER- Afternoon pick me up trying to make it until dinner or my other me time album depending on my mood I’d love to hear how other people listen!! submitted by /u/Master-Cranberry-767 to r/swifties [link] [comments]",
+      "link": "https://www.reddit.com/r/swifties/comments/1qed7f1/how_i_listen_to_albums_moms_version/",
+      "author": "/u/Master-Cranberry-767",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-16T11:10:24.937503"
     }
   ],
-  "last_updated": "2026-01-16T10:48:36.853678"
+  "last_updated": "2026-01-16T11:11:53.769349"
 }
