@@ -1,126 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qesssm",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I am a solo developer working on a dark fantasy action RPG game called Horns",
-      "content": "Horns is a dark fantasy action game focused on intense combat, dangerous enemies, and a harsh world that does not forgive mistakes. Every encounter is designed to test timing, positioning, and decision making. The entire game is being developed by me alone. From code and combat systems to enemies, levels, and atmosphere, everything is built solo with a strong focus on quality and challenge. If you enjoy tough action games and want to follow a true solo dev journey, I would love to hear your feedback. submitted by /u/ComprehensiveBeat912 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qesssm/i_am_a_solo_developer_working_on_a_dark_fantasy/",
-      "author": "/u/ComprehensiveBeat912",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T21:39:51.507914"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qesxh0",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Cute little shader for my city builder",
-      "content": "I wanted to show the building being built right behind my dynamically placed scaffolding. Progressively showing the pixels from bottom to top with a tiny bit of noise really was a life saver. submitted by /u/bonnenuitbroccoli [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qesxh0/cute_little_shader_for_my_city_builder/",
-      "author": "/u/bonnenuitbroccoli",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T21:39:51.508110"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qest0e",
-      "type": "search",
-      "subreddit": "MonsterVerze",
-      "title": "Atp I'm hoping for a \"copy\"",
-      "content": "This may be an unpopular opinion, but dti inspired many other games to be developed and I hope it happens to mv as well. If you're a indie dev reading this TRUST, you won't get jumped if you make it happen. You'​ll have ​​defenders in fact. Just prioritize monster customization over fashion at the beginning. MONSTER verse ​is ironically​ lacking so many monster features... ​And don't release​ without classes and clubs from the start​. It just stinks that a game with this kind of concept and so much potential ended up like this. I'll be playing other school based rp games (especially the new winx one​) and then I think of mv and get sad. On that note, if a copy happens it should be set in either an academy or university instead, and have a 13+ rating. Hopefully roblox won't send it to the shadow realm multiple times then 💀. submitted by /u/o0faye0o to r/MonsterVerze [link] [comments]",
-      "link": "https://www.reddit.com/r/MonsterVerze/comments/1qest0e/atp_im_hoping_for_a_copy/",
-      "author": "/u/o0faye0o",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T21:39:51.509725"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qesssm",
-      "type": "search",
-      "subreddit": "IndieDev",
-      "title": "I am a solo developer working on a dark fantasy action RPG game called Horns",
-      "content": "Horns is a dark fantasy action game focused on intense combat, dangerous enemies, and a harsh world that does not forgive mistakes. Every encounter is designed to test timing, positioning, and decision making. The entire game is being developed by me alone. From code and combat systems to enemies, levels, and atmosphere, everything is built solo with a strong focus on quality and challenge. If you enjoy tough action games and want to follow a true solo dev journey, I would love to hear your feedback. submitted by /u/ComprehensiveBeat912 to r/IndieDev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qesssm/i_am_a_solo_developer_working_on_a_dark_fantasy/",
-      "author": "/u/ComprehensiveBeat912",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T21:39:51.509741"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qetlh3",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "New to Game Dev",
-      "content": "I am familiar with coding in C# from work and felt the syntax could be repurposed in Unity. I am going to start with a 2D environment despite my desire to start with 3D. My concern is revolving around time and outside costs of I want to implement more than just code and sprites. Is it common for people to work together on projects or are there places people can find others who are interested in starting projects? submitted by /u/Scrubtastic85 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qetlh3/new_to_game_dev/",
-      "author": "/u/Scrubtastic85",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T22:10:47.461954"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qeta11",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I am a solo developer working on a dark fantasy action RPG game called Horns",
-      "content": "Horns is a dark fantasy RPG built around a serious story set in the world of Velharion. Combat is an important part of the experience, but it is not the only focus. Exploration, discovery, and solving environmental puzzles are just as challenging as fighting enemies. The game is being developed solo with an emphasis on atmosphere, world building, and meaningful gameplay. Any feedback is welcome! submitted by /u/ComprehensiveBeat912 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qeta11/i_am_a_solo_developer_working_on_a_dark_fantasy/",
-      "author": "/u/ComprehensiveBeat912",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T22:10:47.462086"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qetc0f",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Game performance",
-      "content": "I am learning game development, I'm doing it on an older laptop that has 16gb ram and an ssd drive. I am making good progress on my latest project, but I have a long cube as a ground, another cube as a player, rigidbody2d and box colliers on them and a few ui elements. These ran fine, then I added a vfx element and 3 images for a layered background and suddenly the game is stuttering when running. I had removed all bloatware from my laptop and tuned it for performance, which has helped a bit with general development performance, but is the lack of a dedicated graphics card costing me here? It's such a small project at the moment I am surprised at the problem Thanks submitted by /u/stephenwatson201 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qetc0f/game_performance/",
-      "author": "/u/stephenwatson201",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T22:10:47.462189"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qetf41",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Stylized Lost Civilization Environment | Unreal Engine 5",
-      "content": "submitted by /u/leartesstudios [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qetf41/stylized_lost_civilization_environment_unreal/",
-      "author": "/u/leartesstudios",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T22:10:47.462214"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qet8j1",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Working on area/level music. What kind of level do you think this fits?",
-      "content": "I’m going for a “town park at sunset” kinda vibe (I know it’s very niche). Still an early version of the song, but any general feedback is appreciated! submitted by /u/sublivian [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qet8j1/working_on_arealevel_music_what_kind_of_level_do/",
-      "author": "/u/sublivian",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T22:10:47.462226"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qet5df",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I finally got started with shaders and you should too",
-      "content": "submitted by /u/Coneman02 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qet5df/i_finally_got_started_with_shaders_and_you_should/",
-      "author": "/u/Coneman02",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T22:10:47.462232"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qett1t",
       "type": "search",
       "subreddit": "supersmashbros",
@@ -3659,7 +3539,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-17T16:43:12.102934"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qfi44z",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The Labyrinth Chronicles - Episode 45: Village of Veylith",
+      "content": "submitted by /u/AgentOfTheCode [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qfi44z/the_labyrinth_chronicles_episode_45_village_of/",
+      "author": "/u/AgentOfTheCode",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T17:08:13.383137"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qfi2mr",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Pure gameplay of a horror game I started working on 5 days ago, any thoughts?",
+      "content": "submitted by /u/Nervous_Path1434 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qfi2mr/pure_gameplay_of_a_horror_game_i_started_working/",
+      "author": "/u/Nervous_Path1434",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T17:08:13.383145"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qfi2md",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The Labyrinth Chronicles - Episode 45: Village of Veylith",
+      "content": "submitted by /u/AgentOfTheCode [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qfi2md/the_labyrinth_chronicles_episode_45_village_of/",
+      "author": "/u/AgentOfTheCode",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T17:08:13.383151"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qfinb8",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Godot Editor Vibes — Now in Zed",
+      "content": "submitted by /u/D4r3NPo [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qfinb8/godot_editor_vibes_now_in_zed/",
+      "author": "/u/D4r3NPo",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T17:08:13.383160"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfimxc",
+      "type": "search",
+      "subreddit": "poker",
+      "title": "Multi-way OOP vs large and small stacks",
+      "content": "Hero(Nit) SB $450 BB (tight) $150 UTG (young college graduate making good money and drinking beers) $250 BTN (BBQ dad, plays a lot of poker.) $1,500. This is a 1/3 game UTG opens $10 BTN 3! $40 BB loads up to call the $40 off his short stack. What do you do with KK in SB? submitted by /u/JKlerk to r/poker [link] [comments]",
+      "link": "https://www.reddit.com/r/poker/comments/1qfimxc/multiway_oop_vs_large_and_small_stacks/",
+      "author": "/u/JKlerk",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T17:08:13.383798"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfiip8",
+      "type": "search",
+      "subreddit": "skyrim",
+      "title": "Finished my first playthrough",
+      "content": "I played the game different than I normally do with any game. Played how I wanted it. Probably put in 6 ish hours. I finished it for what makes sense for the character I created. My character was an experienced redguard bounty hunter. Wanted to leave hammerfell for something new to spend the rest of his life. Planned on retiring. But got arrested and lost everything. He had to start from scratch. Instead of answering the Dragonborn call, he chose to be selfish. He did every bounty he could, killed dozens of bandits, all to purchase a property near the corrupt town of Falkreath. I finished building the manor, I looked out the alchemy tower, and that was it. I did what made sense for the character I created. I may go back to him later but as of now he’s done. I’m not done with Skyrim, but this was one playthrough out of many. Posting this for someone who was in a similar boat to me. You don’t have to even touch any real quest, you could play it as a sandbox, an adventure game, a completionist game, or like me. Create a character who has his own motives and finish the character how he/she would. submitted by /u/Ok_Iron_9088 to r/skyrim [link] [comments]",
+      "link": "https://www.reddit.com/r/skyrim/comments/1qfiip8/finished_my_first_playthrough/",
+      "author": "/u/Ok_Iron_9088",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T17:08:13.384806"
     }
   ],
-  "last_updated": "2026-01-17T16:44:50.509965"
+  "last_updated": "2026-01-17T17:09:57.387624"
 }
