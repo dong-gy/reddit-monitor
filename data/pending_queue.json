@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qew4sz",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Is there a way to achieve true 360° rotation with a 2d sprite?(Unity)",
-      "content": "I'm trying to make a 2d topdown game with shooting mechanics, like signalis. Problem is I absolutely suck at 3d animations and modeling. So, my character should be able to rotate in all 360° direction, not just the gun itself that's rotating but the sprite itself. And it's not a complete topdown, it's a bit \"isometric\" like signalis so you can see your players full body so I can't just rotate the sprite. Is there anyway I can maybe make like 4 sprites and then tween it? Or any other way? submitted by /u/katangal [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qew4sz/is_there_a_way_to_achieve_true_360_rotation_with/",
-      "author": "/u/katangal",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T23:39:03.574962"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qevmhs",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "i new to game developing and i have some quastions",
-      "content": "shoud i first make a baseics like movemnt with place holder sprits or make the sprites first?(i bad at art but my game is 2d pixel art) submitted by /u/Special-Print4716 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qevmhs/i_new_to_game_developing_and_i_have_some_quastions/",
-      "author": "/u/Special-Print4716",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T23:39:03.575003"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qevulg",
       "type": "post",
       "subreddit": "IndieDev",
@@ -4055,7 +4031,79 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-17T19:32:06.849474"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qfnel8",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Testing the shooting mechanics and their variations.",
+      "content": "The bullet designs aren't finished, I just used those test designs. submitted by /u/VictoryMassive9089 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qfnel8/testing_the_shooting_mechanics_and_their/",
+      "author": "/u/VictoryMassive9089",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T20:10:40.117902"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qfmlgt",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Getting particle systems like this to work was surprisingly tricky. Especially when it came to making it all flip properly when the opposite combatant uses the same attack.",
+      "content": "Got better over time and built systems around consistent rules to get it right. There's still occasionally bugs though. So we have to catch them all! submitted by /u/YotesMark [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qfmlgt/getting_particle_systems_like_this_to_work_was/",
+      "author": "/u/YotesMark",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T20:10:40.118012"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qfmym7",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "sprite head and 3d body test",
+      "content": "submitted by /u/lonku [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qfmym7/sprite_head_and_3d_body_test/",
+      "author": "/u/lonku",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T20:10:40.118109"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfnda7",
+      "type": "search",
+      "subreddit": "WutheringWaves",
+      "title": "KURO CHILL I HAVE A LVL 50 LYNAE AND 2 UNBUILT LVL 40s IN MY TEAM😭",
+      "content": "i was just hunting with Augusta and the game decided to make me face enemies 20-30 lvls above me like let me enjoy the story 🥀 submitted by /u/Max-x-x-x-x to r/WutheringWaves [link] [comments]",
+      "link": "https://www.reddit.com/r/WutheringWaves/comments/1qfnda7/kuro_chill_i_have_a_lvl_50_lynae_and_2_unbuilt/",
+      "author": "/u/Max-x-x-x-x",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T20:10:40.118494"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfncza",
+      "type": "search",
+      "subreddit": "TableTopHelldivers",
+      "title": "While a bit outdated now (8 months old) this is still a solid overview video",
+      "content": "Some things have definitely changed (strategems most notably moving from a shared board to individuals ones, other biomes, new enemies, etc) but this still gives a pretty solid overview. I was most intrigued by the Limited Table Space rule and the possibility of endless exploring/infinite play space, both of which I hadn't heard about. Limited Table Space (timestamp 13:00): This says you must have space for at least 4 - 8\" X 8\" (200mm X 200mm) map tiles for your game but you can put out as many above that as you can. This is possible because as you explore you can take map tiles off the table that no Helldivers are on (or if they are on they die) to make room to add others. This mechanic also allows for... Endless Exploring/Infinite Play Space (timestamp 13:58): Since the battlefield isn't limited to a set number or specific tiles you can potentially keep exploring down an endless corridor of map tiles if you wanted to! This is a unique mechanic that I think can make for some interesting situations. And since map tiles are shuffled and recycled it really will randomize the events/POIs/etc you find if you choose to go this route. submitted by /u/MelArlo to r/TableTopHelldivers [link] [comments]",
+      "link": "https://www.reddit.com/r/TableTopHelldivers/comments/1qfncza/while_a_bit_outdated_now_8_months_old_this_is/",
+      "author": "/u/MelArlo",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T20:10:40.118544"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfn8f1",
+      "type": "search",
+      "subreddit": "hatethissmug",
+      "title": "I hate almost everything about this annoying, insufferable, self-insert OC ass chud",
+      "content": "I hate her voice, I hate the way she talks, I hate her insufferable personality, I hate how she acts like she’s better than everyone. I hate her forced wittiness. I hate her voice lines (I shudder at “I’m obviously the most precious”) I hate every time she speaks in the spawn room. I hate how Blizzard always gives her a skin. I hate the obvious favoritism one of the devs has for her with a literal tattoo of her. I hate that she makes no sense in the canon, shoehorned in as a childhood friend of the Shimadas even tho they’re pushing 40 and she’s supposedly in her early 20’s. I hate how she feels like someone’s OC. I hate how they made her kind of likable in her cinematic then made her annoying as shit in-game. The only thing I like about this chud is that she’s fun to play and she’s good in-game. But it also pisses me of that she’s one of the best, if not THE best support, because that means I have to be subjected to her annoying ass even more, and I HATE THAT I ENJOY PLAYING HER. submitted by /u/dessnee to r/hatethissmug [link] [comments]",
+      "link": "https://www.reddit.com/r/hatethissmug/comments/1qfn8f1/i_hate_almost_everything_about_this_annoying/",
+      "author": "/u/dessnee",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T20:10:40.119634"
     }
   ],
-  "last_updated": "2026-01-17T19:33:41.575744"
+  "last_updated": "2026-01-17T20:12:12.844171"
 }
