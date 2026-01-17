@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qeq5no",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Spent over a year hand crafting the sound of this indie game. What do you think?",
-      "content": "Over a year hand crafting this project's entire sonic palette. Recording Foley and Composing on a Piano, or with bowed cymbals, and banging metal Extremely time consuming, but very fun and rewarding! submitted by /u/DUSKOsounds [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qeq5no/spent_over_a_year_hand_crafting_the_sound_of_this/",
-      "author": "/u/DUSKOsounds",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:11:16.878649"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qeptpn",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I just entered the third year of developing my first indie game. Here’s what I learned so far...",
-      "content": "My team and I have just entered the third year of development of our first videogame, and looking back, there are a few things I really wish someone had told me when I started. Here are some of the biggest lessons I learned the hard way: – Making games is hard. Not just technically, but emotionally and mentally too. – The first version will be bad, and that’s normal. – Players don’t think like developers do. – Wishlists will become your obsession. – You’ll often question whether it’s worth it. I’m curious: if you’ve worked on a game for a while, what’s something you only realized after months or years of development? submitted by /u/Giuli_StudioPizza [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qeptpn/i_just_entered_the_third_year_of_developing_my/",
-      "author": "/u/Giuli_StudioPizza",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:11:16.878672"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qeqri5",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Any suggestions to improve HUD & Inventory UI? [WIP/Feedback Appreciated]",
-      "content": "submitted by /u/uuSauce [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qeqri5/any_suggestions_to_improve_hud_inventory_ui/",
-      "author": "/u/uuSauce",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:11:16.878788"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qeqi00",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Is there a Godot opcode to shift my 8-bit wishlist into 9-bit territory?",
-      "content": "submitted by /u/MagazineForward5528 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qeqi00/is_there_a_godot_opcode_to_shift_my_8bit_wishlist/",
-      "author": "/u/MagazineForward5528",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:11:16.878793"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qeq9vw",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Look who’s here",
-      "content": "submitted by /u/____FUNGO____ [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qeq9vw/look_whos_here/",
-      "author": "/u/____FUNGO____",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:11:16.878800"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qeqq9u",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "First try with Meta Humans and Live Link",
-      "content": "submitted by /u/IllustratorOwn151 [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qeqq9u/first_try_with_meta_humans_and_live_link/",
-      "author": "/u/IllustratorOwn151",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:11:16.878812"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qeqn5q",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Some people prefer AAA-tier graphics... as for me, I like my visuals strictly LO-LO-LO",
-      "content": "lo-resolution lo-color lo-poly For the game I'm working on, I've made a custom Unity 3D shader that allows me to render stylized low-poly visuals with arbitrary low-color palettes (with support for dithering) and fake lights. The shader also supports custom \"darkest color\" (i.e. not full black) which makes it possible to apply a visually correct tinting (i.e. tinted pixels never end up darker than the \"darkest color\"). submitted by /u/goshki [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qeqn5q/some_people_prefer_aaatier_graphics_as_for_me_i/",
-      "author": "/u/goshki",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:11:16.878859"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qepxqa",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I added the skidmarks to the player's car in my game Saddle Up and Drive",
-      "content": "A player who tried the demo of my Unity made game asked me to add skid marks to the player’s car. I implemented them using particle systems, how do they look? submitted by /u/Sgriu [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qepxqa/i_added_the_skidmarks_to_the_players_car_in_my/",
-      "author": "/u/Sgriu",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:11:16.878881"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qeqqm2",
       "type": "search",
       "subreddit": "mylittlepony",
@@ -3419,7 +3323,127 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-17T14:09:10.666270"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qfeo5i",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "making a cinematic Arkham Stealth action game!",
+      "content": "submitted by /u/ExplosivArt [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qfeo5i/making_a_cinematic_arkham_stealth_action_game/",
+      "author": "/u/ExplosivArt",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T14:40:09.336741"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qfeefm",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "some pixel animations from my indie game, The Magic Garden",
+      "content": "Some of the character and fantasy creature animations from the game Additionally, if you're interested in games featuring more adorable pets like these, please feel free to add my game to your wishlist! https://store.steampowered.com/app/2161950/The_Magic_Garden/ submitted by /u/akihacyan [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qfeefm/some_pixel_animations_from_my_indie_game_the/",
+      "author": "/u/akihacyan",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T14:40:09.336772"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qfet2r",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "A bit of game-footage of the arcade-game I'm currently working on with different screen-settings",
+      "content": "submitted by /u/DidzDoesBytes [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qfet2r/a_bit_of_gamefootage_of_the_arcadegame_im/",
+      "author": "/u/DidzDoesBytes",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T14:40:09.336782"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qfemz3",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "In space, no one can hear you batch all projectiles into one multi-mesh",
+      "content": "Each projectile is handled as a very basic object in a pool and gets assigned damage/damage_type/position/direction/speed/lifetime/owner/color/size at spawn. After that, all currently active projectiles are rendered as instances of a single MultiMesh, using a custom shader and passing the updated pool state to it each tick. Basically saves my life now, with several turrets on different capital ships in bigger battles. Nothing crazy, but thought I might share my process because having things work out is always nice and maybe someone would be happy about a pointer in the right direction. Obligatory steam link , because we game developers are so well known for having spare time and money XD Cheers <3 submitted by /u/Deydren_EU [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qfemz3/in_space_no_one_can_hear_you_batch_all/",
+      "author": "/u/Deydren_EU",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T14:40:09.336854"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qfes7k",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "My game, Save Space Station 6! is nearly complete! Coming soon to Itch.io",
+      "content": "submitted by /u/Legoshoes_V2 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qfes7k/my_game_save_space_station_6_is_nearly_complete/",
+      "author": "/u/Legoshoes_V2",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T14:40:09.336862"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qfer33",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "A bit of game-footage of the arcade-game I'm currently working on with different screen-settings",
+      "content": "The regular gameplay in the tower-stages as seen in the video: You are an alien returning for revenge and the plan is to abduct as many humans as possible. The humans are on the roofs (We don't ask why but there will be a hilarious reason...) and you must beam them up - don't shoot them, they will jump off the roof and give no points. You and your mothership will continously fly lower, so make sure to destroy some of the etages of the buildings so they won't collide with the mothership. And destroy whatever comes in your way. submitted by /u/DidzDoesBytes [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qfer33/a_bit_of_gamefootage_of_the_arcadegame_im/",
+      "author": "/u/DidzDoesBytes",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T14:40:09.336878"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qfe9ok",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Dunavian Space Program",
+      "content": "submitted by /u/borordev [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qfe9ok/dunavian_space_program/",
+      "author": "/u/borordev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T14:40:09.336883"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfesxg",
+      "type": "search",
+      "subreddit": "japanesestreetwear",
+      "title": "Is it authentic?",
+      "content": "https://preview.redd.it/ghcxif4m7xdg1.png?width=600&format=png&auto=webp&s=d2e741843774c0abbf22615011f513d9cf6089a2 https://preview.redd.it/kvu333pm7xdg1.png?width=600&format=png&auto=webp&s=a40514062c76c1bfbd76e4bdca1b6f9a46d7cbb7 https://preview.redd.it/eka18qan7xdg1.png?width=600&format=png&auto=webp&s=f3b84b405f7ed2164084c5000314d8955a1e2306 https://preview.redd.it/ibdg6lmn7xdg1.png?width=600&format=png&auto=webp&s=9baf9e37038e501d7b4ec5f86d7acdfd255ce307 It was very cheap, and I made a mistake by buying it without making sure it's authentic. I know the faked stuff is usually from recent collections but I'm still not sure. I got conflicting opinions from kapital sub so might ask for help here aswell. submitted by /u/zcnncz to r/japanesestreetwear [link] [comments]",
+      "link": "https://www.reddit.com/r/japanesestreetwear/comments/1qfesxg/is_it_authentic/",
+      "author": "/u/zcnncz",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T14:40:09.337060"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfepp2",
+      "type": "search",
+      "subreddit": "ironscape",
+      "title": "Synapse use",
+      "content": "So which demonbane weapon i should go for? scobo, emberligt or purging staff? submitted by /u/Exzlu to r/ironscape [link] [comments]",
+      "link": "https://www.reddit.com/r/ironscape/comments/1qfepp2/synapse_use/",
+      "author": "/u/Exzlu",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T14:40:09.337260"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfeq0h",
+      "type": "search",
+      "subreddit": "victoria3",
+      "title": "Charters of Commerce vs free patch",
+      "content": "I've been weighing up whether to get CoC, as it's one of the more expensive DLCs. The reviews on Steam are all rave, but a lot them describe what I think are features of the free patch - trade deals, company rework etc. As far as I can tell, the DLC just adds prestige goods and charters for companies (monopoly etc.). Is there much more, any narrative flavour etc not mentioned in the dev diaries? I appreciate that the free patch with the trade rework was very well received, so wonder if some of the love for that gets mistakenly attributed to the DLC by those who bought it on release. So my question is, do people think the DLC content from CoC significantly contributes to the game, enough to justify ~£17/$20 price tag? submitted by /u/Aggressive-Area-213 to r/victoria3 [link] [comments]",
+      "link": "https://www.reddit.com/r/victoria3/comments/1qfeq0h/charters_of_commerce_vs_free_patch/",
+      "author": "/u/Aggressive-Area-213",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T14:40:09.337475"
     }
   ],
-  "last_updated": "2026-01-17T14:11:02.277933"
+  "last_updated": "2026-01-17T14:41:50.324527"
 }
