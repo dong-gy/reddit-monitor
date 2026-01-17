@@ -1,162 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qefl01",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Bouncy Zombies.",
-      "content": "After the zombies in the VR game Xenolocus devoured all the residents who couldn't hide from them, they got extremely hungry. So much so that they started jumping with joy at the mere sight of the player! What do you think of these starving bouncers? submitted by /u/RelevantOperation422 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qefl01/bouncy_zombies/",
-      "author": "/u/RelevantOperation422",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:52:58.199561"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qeghdc",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Enemies still get stuck running into structures with avoidance obstacles, am i using them wrong?",
-      "content": "I feel like if I baked my structures into the navmesh, it'd tank performance as my map is relatively large and relies on enemies pathing from far away to the player. I thought navigation obstacles was the sollution to get nav agents to just walk around stuff, but I still see enemies just running into a walls indefinitely. What am I doing wrong? Avoidance is enabled in each of my enemies. submitted by /u/Venison-County-Dev [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qeghdc/enemies_still_get_stuck_running_into_structures/",
-      "author": "/u/Venison-County-Dev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:52:58.199574"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qefngv",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Warning: XCreateIC couldn't create wd.xic",
-      "content": "After I installed POP_OS 24.04, I encountered this warning. I never have this warning when I used the 22.04. submitted by /u/Kanata-EXE [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qefngv/warning_xcreateic_couldnt_create_wdxic/",
-      "author": "/u/Kanata-EXE",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:52:58.199619"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qefycm",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "How I missed Thousands of Wishlist... And how not to do the same mistake.",
-      "content": "submitted by /u/Draelent_ [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qefycm/how_i_missed_thousands_of_wishlist_and_how_not_to/",
-      "author": "/u/Draelent_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:52:58.199678"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qeghde",
-      "type": "search",
-      "subreddit": "SGExams",
-      "title": "stuck with deciding who to surround myself with",
-      "content": "so ive known this friend since last year and got close to them during olevels period. we had quite a few things in common and had similar interests in various aspects so i really enjoyed talking to them about these, as well sometimes having deep talks with them. but i also started to slowly realise what their personality is actually like, and our views dont agree with each other which is something i totally understand since everyone is allowed to have their ow opinion, especially on common taboo subjects. some of their behaviour and actions towards me were also quite offensive to me or even made me feel insecure of myself, even if it was just them saying how they view something this led me to a dilemma of whether i should continue having them in my life. cutting them off without saying anything seems like it doesnt make me any better of a person, and im also attached to them since we have things in common and everything stated above. so it makes it hard for me to stop being friends with them. please help with this because its been bothering me for quite awhile 😭 submitted by /u/camelstinker to r/SGExams [link] [comments]",
-      "link": "https://www.reddit.com/r/SGExams/comments/1qeghde/stuck_with_deciding_who_to_surround_myself_with/",
-      "author": "/u/camelstinker",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:52:58.199894"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qeggyc",
-      "type": "search",
-      "subreddit": "geometrydash",
-      "title": "this kinda aged badly",
-      "content": "submitted by /u/Pruck84 to r/geometrydash [link] [comments]",
-      "link": "https://www.reddit.com/r/geometrydash/comments/1qeggyc/this_kinda_aged_badly/",
-      "author": "/u/Pruck84",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:52:58.199927"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qegg21",
-      "type": "search",
-      "subreddit": "beatlescirclejerk",
-      "title": "LinkedIn is Hell",
-      "content": "submitted by /u/the360NoClones to r/beatlescirclejerk [link] [comments]",
-      "link": "https://www.reddit.com/r/beatlescirclejerk/comments/1qegg21/linkedin_is_hell/",
-      "author": "/u/the360NoClones",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:52:58.200166"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qegc64",
-      "type": "search",
-      "subreddit": "AndroidGaming",
-      "title": "games with enjoyable long term grind",
-      "content": "So I've been playing survivorio for about a month, and yesterday on the john I kinda realized that the part of the game I enjoy is not the primary gameplay loop. That was lifted directly from vamp survivors with no real effort, and it shows. Probably also the reason why most of the modes allow you to select your full loadout before you start. No, what I was enjoying about the game was it's grindy little out of game progression. Collecting pets, and gear, and tech parts and all the other bits and bobs, and cleaning them up in my inventory. Merging in to better ones, basically playing invently zooma. But it's all held together by gameplay that, lets be honest, was never good, and the devs did nothing to make it better. So I was thinking, do you guys know other games with fun long term progression, but also primary gameplay loop that is not an afterthought? Oh, and I don't spend money on mobile games and use adblock dns, so f2p experience can't be held together by spamming ads. submitted by /u/myhv to r/AndroidGaming [link] [comments]",
-      "link": "https://www.reddit.com/r/AndroidGaming/comments/1qegc64/games_with_enjoyable_long_term_grind/",
-      "author": "/u/myhv",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T13:52:58.200373"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qegslj",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Do any developers have hints for Steam Genre fests? Specifically for upcoming titles with a demo?",
-      "content": "I'm working on my first Steam release for later this year and I'm part of the upcoming Steam Typing fest. Are there any kind of tips to get the most out of these smaller genre fests? Has anyone done one these in the past and have some numbers on the kind of traffic it drove towards your game? submitted by /u/NewtKingGames [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qegslj/do_any_developers_have_hints_for_steam_genre/",
-      "author": "/u/NewtKingGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T14:13:45.380151"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qeh0r9",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Does this co-op character promise a fun game?",
-      "content": "submitted by /u/dgzip [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qeh0r9/does_this_coop_character_promise_a_fun_game/",
-      "author": "/u/dgzip",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T14:13:45.380166"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qegzl9",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "horror video game in progress...",
-      "content": "Added dynamic fog system today Making navigation way more tense What do you think? Too much? #gamedev #horrorgaming #indiedev submitted by /u/InevitableHumor5891 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qegzl9/horror_video_game_in_progress/",
-      "author": "/u/InevitableHumor5891",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T14:13:45.380177"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qeh07r",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Does this co-op character promise a fun game?",
-      "content": "submitted by /u/dgzip [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qeh07r/does_this_coop_character_promise_a_fun_game/",
-      "author": "/u/dgzip",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T14:13:45.380186"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qegoom",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Working on my first long term project in Godot for about a year and half! Core loop is feeling tight",
-      "content": "The project is called \"Wordlock\" (pun on Word and Warlock) and it's a game where you have to spell out your spells! It started off as a little project to start to learn state machines and more advanced patterns in Godot, but I've really liked where it started to head and have been sticking with it! If you want to give it a spin I have a demo out on Steam https://store.steampowered.com/app/4122940/Wordlock_Demo/ submitted by /u/NewtKingGames [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qegoom/working_on_my_first_long_term_project_in_godot/",
-      "author": "/u/NewtKingGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T14:13:45.380239"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qegtth",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -3443,7 +3287,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-17T06:50:13.816118"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qf6ght",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I shipped my first iOS game (solo). Aussie Animal Merge (free). Would love feedback",
+      "content": "Hi! I’m a solo dev in Australia and just released my free iOS game: Aussie Animal Merge. It’s a cute merge game featuring Australian animals with colorful visuals. https://apps.apple.com/au/app/aussie-animal-merge/id6756984915 If you try it and share your feedback, I’d really appreciate it. Thank you! submitted by /u/GerisGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qf6ght/i_shipped_my_first_ios_game_solo_aussie_animal/",
+      "author": "/u/GerisGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T07:10:38.216861"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qf6e5a",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Building Item and Inventory System in my Cozy Magic game",
+      "content": "I would really like to hear about some items you think a mage would be interested in gathering from the magic forest they live in. It's all prototyping right now so no ideas are bad ideas. ​ submitted by /u/SecretForestWizard [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qf6e5a/building_item_and_inventory_system_in_my_cozy/",
+      "author": "/u/SecretForestWizard",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T07:10:38.216881"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf6lf5",
+      "type": "search",
+      "subreddit": "u_sicknology",
+      "title": "Hooked on like 5 different lays and the POTD, but somehow, someway, profitable!!!!",
+      "content": "Oh man!! Am I pissed about that POTD getting hooked!! I thought for sure we were going to HIT or at the least go to OT wit 230 points wit 8 seconds left and Cavs hit the go ahead point and Sixers had no time and not timeout and they missed... Ends on 232! Also got hooked on like 6 other lays today too! So livid! I'm happy to be profitable but I honestly can't find myself to put in a writeup for tomorrow's POTD on NFL Divisional games -_- https://preview.redd.it/pic8pea50vdg1.png?width=1080&format=png&auto=webp&s=8162d463d91bdfbf291ac3b82b2675f2c3339d08 Started out nice wit a Zion 25+ Pts win! Had 21 Points and did not score in the 3rd qtr but covered in the 4th qtr! Damn Donovan. Cost me a chalky lay. Facilitating most of the game. I guess it makes sense when Garland is out. He nearly had a trip dub NGL I didn't like this lay but came close.. Egor really didn't score after scoring 5 points and of course got hooked! This was a nice lay! Another nice lay that I laddered! This was my chalky lay that came thru! Initially had 5+ Asts on Tre Jones but I thought different because he's starting and only to find out that Billy Donovan benched Tre Jones for Jalen Smith to start the 2nd half. He cost me this lay and of course I got hooked!!!! Got hooked on Nathan MacKinnon. He recorded 1 Point and fell short from hitting this lay! ANother hook!! Igor hooked me twice today and in two different lays Lmfao. One lay for 6 pts and this one for 1 three pointers https://preview.redd.it/uuw4tsguxudg1.png?width=996&format=png&auto=webp&s=1ec390773440a085e6e4bba9e171e891b52383dc Yea, I was big on tre jones. He hooked like 3 plays for me today lol Avs sucked today! This was there first loss at home in regulation submitted by /u/sicknology to u/sicknology [link] [comments]",
+      "link": "https://www.reddit.com/r/u_sicknology/comments/1qf6lf5/hooked_on_like_5_different_lays_and_the_potd_but/",
+      "author": "/u/sicknology",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T07:10:38.218287"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf6lnw",
+      "type": "search",
+      "subreddit": "sportscards",
+      "title": "Comping low #’d cards",
+      "content": "So I pulled two absolute beauties out of a Topps 2025 Update Jumbo. Question is (and yes I feel like it’s dumb but oh well), how the hell should I go about comping low pop cards that are newer? The 1/1 is more of an investment since he’s a rookie. But still, how would I go about it in the BEST way? submitted by /u/navealmighty2726 to r/sportscards [link] [comments]",
+      "link": "https://www.reddit.com/r/sportscards/comments/1qf6lnw/comping_low_d_cards/",
+      "author": "/u/navealmighty2726",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T07:10:38.218324"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf6jpo",
+      "type": "search",
+      "subreddit": "LenovoRefurbished_Ind",
+      "title": "Is it safe to purchase?",
+      "content": "submitted by /u/bavan_vikash03 to r/LenovoRefurbished_Ind [link] [comments]",
+      "link": "https://www.reddit.com/r/LenovoRefurbished_Ind/comments/1qf6jpo/is_it_safe_to_purchase/",
+      "author": "/u/bavan_vikash03",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T07:10:38.218396"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf6ght",
+      "type": "search",
+      "subreddit": "IndieGaming",
+      "title": "I shipped my first iOS game (solo). Aussie Animal Merge (free). Would love feedback",
+      "content": "Hi! I’m a solo dev in Australia and just released my free iOS game: Aussie Animal Merge. It’s a cute merge game featuring Australian animals with colorful visuals. https://apps.apple.com/au/app/aussie-animal-merge/id6756984915 If you try it and share your feedback, I’d really appreciate it. Thank you! submitted by /u/GerisGames to r/IndieGaming [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qf6ght/i_shipped_my_first_ios_game_solo_aussie_animal/",
+      "author": "/u/GerisGames",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T07:10:38.218740"
     }
   ],
-  "last_updated": "2026-01-17T06:51:46.029804"
+  "last_updated": "2026-01-17T07:12:23.095101"
 }
