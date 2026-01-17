@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qeqvi8",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "How can I make a 3d slime union with physics",
-      "content": "I want to make a 3d platform game but with 2d behavior, that is, only the graphics are 3d. I want it to be 2 characters who move to opposite sides of the stage and are held by a kind of sticky slime that is going to reach a point that breaks because they are so far apart. Anyway, how can I make that slime in 3d and have it work through physics and stuff. submitted by /u/No_Zone6055 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qeqvi8/how_can_i_make_a_3d_slime_union_with_physics/",
-      "author": "/u/No_Zone6055",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:40:01.418155"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qer15w",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "30% Discount on all products for a limited time",
-      "content": "https://www.fab.com/sellers/SametStore submitted by /u/ijatpops [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qer15w/30_discount_on_all_products_for_a_limited_time/",
-      "author": "/u/ijatpops",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:40:01.418211"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qerhrx",
-      "type": "search",
-      "subreddit": "Undertale",
-      "title": "Has anyone made A \"remember your Genocides\" styled meme of this?",
-      "content": "With how Deltarune only uses red text for when it's supposed to be sinister, I'm surprised how liberally red is used for general highlighting in Undertale. Like seriously: you put going on a date in red of all colors? And before you say anything: F12 to take a screen shot does not work with Undertale, and Print Screen doesn't work either. So until I get specialized screen capture software (which I don't feel like doing), I won't be able to take screenshots of this game without being in window mode. submitted by /u/Zero-Up to r/Undertale [link] [comments]",
-      "link": "https://www.reddit.com/r/Undertale/comments/1qerhrx/has_anyone_made_a_remember_your_genocides_styled/",
-      "author": "/u/Zero-Up",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:40:01.418595"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qerhl7",
-      "type": "search",
-      "subreddit": "stray",
-      "title": "Lag makes game unplayable on gaming laptop. Am I cooked?",
-      "content": "So I have a gaming laptop and I just got this game as a gift for Christmas and I finally got to booting it So I'm trying to run from the robots in the beginning of the game and I keep dying because of lag I turned my graphics all the way down vsync is off it's on a low resolution Still laggy.. unplayable...what do I do? (If you need more info on how my laptop is ran lmk) submitted by /u/emeon_ to r/stray [link] [comments]",
-      "link": "https://www.reddit.com/r/stray/comments/1qerhl7/lag_makes_game_unplayable_on_gaming_laptop_am_i/",
-      "author": "/u/emeon_",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:40:01.418608"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qerems",
-      "type": "search",
-      "subreddit": "gamemaker",
-      "title": "im tryna learn gml visual can yall teach me in comments???",
-      "content": "im wanting to make platformer movement and a tileset submitted by /u/Dontpeanpool to r/gamemaker [link] [comments]",
-      "link": "https://www.reddit.com/r/gamemaker/comments/1qerems/im_tryna_learn_gml_visual_can_yall_teach_me_in/",
-      "author": "/u/Dontpeanpool",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T20:40:01.418704"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qer99t",
       "type": "search",
       "subreddit": "thespikegame",
@@ -3491,7 +3431,163 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-17T15:09:29.681818"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qffuxt",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I don't know why everyone's suddenly making games inspired by Spore, but this roguelike twin-stick shooter might be the best attempt yet at realising the lost potential of the cell stage",
+      "content": "Our indie game just got covered in PC Gamer! Very exciting day for the team submitted by /u/DanPos [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qffuxt/i_dont_know_why_everyones_suddenly_making_games/",
+      "author": "/u/DanPos",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T15:38:33.490275"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qfg666",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "A bit of game-footage of the arcade-game I'm currently working on with different screen-settings. Feedback?",
+      "content": "submitted by /u/DidzDoesBytes [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qfg666/a_bit_of_gamefootage_of_the_arcadegame_im/",
+      "author": "/u/DidzDoesBytes",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T15:38:33.490286"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qffznh",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "One year of progress on our indie racing-platformer Stunt Paradise 2 (before / after video)",
+      "content": "submitted by /u/N0lex [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qffznh/one_year_of_progress_on_our_indie/",
+      "author": "/u/N0lex",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T15:38:33.490312"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qffwdu",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Old vs New capsule art",
+      "content": "old was more of an early stage but i wanted to share and get feedback on my new capsule anyway. submitted by /u/Total_Impression_382 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qffwdu/old_vs_new_capsule_art/",
+      "author": "/u/Total_Impression_382",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T15:38:33.490319"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qfg0wa",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Chess, but you can cheat with cards",
+      "content": "I'm working on **Chesscent**, a solo-dev project made in Godot. Chess + pixel art + narrative. I have about 20 cards implemented: change movements, sacrifices, undos, etc. Any crazy ideas? submitted by /u/listeral_ [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qfg0wa/chess_but_you_can_cheat_with_cards/",
+      "author": "/u/listeral_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T15:38:33.490328"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qffvkk",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Is on floor() not detecting",
+      "content": "I m developing a 2d game for my college project but whenever I try to jump the player doesn't detect is_on_floor function, I have watched multiple tutorials on utube and also did same exact thing bt still it's not detecting, I want it to detect bcoz i need it to be limited to double jump and then reset bt it's not detecting also I have adjusted my masking and layers everything stul i m stuck on same shit🥲 I use godot 4.5.1 submitted by /u/gigu_nigu_ [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qffvkk/is_on_floor_not_detecting/",
+      "author": "/u/gigu_nigu_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T15:38:33.490347"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qffzp3",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Need help with setting up first person camera",
+      "content": "I've been using the tutorial below but when press play it isn't working and instead I'm frozen into the game https://www.youtube.com/watch?v=4aXo1xLT9QM&list=WL&index=1 Also its my first time using Unreal Engine and I'm trying to get into it! submitted by /u/Obvious-Physics-2118 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qffzp3/need_help_with_setting_up_first_person_camera/",
+      "author": "/u/Obvious-Physics-2118",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T15:38:33.490359"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qfg5d7",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "A bit of game-footage of the arcade-game I'm currently working on with different screen-settings",
+      "content": "The regular gameplay in the tower-stages as seen in the video: You are an alien returning for revenge and the plan is to abduct as many humans as possible. The humans are on the roofs (We don't ask why but there will be a hilarious reason...) and you must beam them up - don't shoot them, they will jump off the roof and give no points. You and your mothership will continously fly lower, so make sure to destroy some of the etages of the buildings so they won't collide with the mothership. And destroy whatever comes in your way. submitted by /u/DidzDoesBytes [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qfg5d7/a_bit_of_gamefootage_of_the_arcadegame_im/",
+      "author": "/u/DidzDoesBytes",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T15:38:33.490375"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qfg4ye",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Are u ready to experience the real horror? !",
+      "content": "submitted by /u/neardy07 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qfg4ye/are_u_ready_to_experience_the_real_horror/",
+      "author": "/u/neardy07",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T15:38:33.490380"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qffme8",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Random Dragons - Chance Based roguelike deckbuilder",
+      "content": "needed some feedback on the 2nd test build Your suggestions and feed back is most appreciated :) Game Link - Random Dragons by shreypatil45 submitted by /u/Capital_Interview_77 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qffme8/random_dragons_chance_based_roguelike_deckbuilder/",
+      "author": "/u/Capital_Interview_77",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T15:38:33.490402"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfg2l7",
+      "type": "search",
+      "subreddit": "textadventures",
+      "title": "Harry Potter Text Adventure Game!",
+      "content": "Hi everyone - I built a traditional text adventure set in the Harry Potter universe using Claude Code. No graphics, no tutorials. Just you, your wand, and your deep knowledge of the HP books. 🎮 https://harry-potter-text-adventure.vercel.app/ You need to know HP lore (eg how do you properly approach a hippogriff? what is the exact spell to stun someone?). I have used a text parser - so you really got to play it like a text adventure game with specific commands, and HP knowledge! Best played on PC/laptop! Open for reviews and feedback! submitted by /u/pumasoda to r/textadventures [link] [comments]",
+      "link": "https://www.reddit.com/r/textadventures/comments/1qfg2l7/harry_potter_text_adventure_game/",
+      "author": "/u/pumasoda",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T15:38:33.491142"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfgbgw",
+      "type": "search",
+      "subreddit": "LegendsZA",
+      "title": "The game is dead set on me catching some shiny faerie types",
+      "content": "My current special scan is for Frigibax/Arctibax/Baxcalibur. So I’m trying to make an ice or dragon type donut. And I’ve made 7 Sparkling 3 Faerie donuts in a row. Come on, game. Work with me!!! submitted by /u/Fed_up_with_Reddit to r/LegendsZA [link] [comments]",
+      "link": "https://www.reddit.com/r/LegendsZA/comments/1qfgbgw/the_game_is_dead_set_on_me_catching_some_shiny/",
+      "author": "/u/Fed_up_with_Reddit",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T15:38:33.491188"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfgb16",
+      "type": "search",
+      "subreddit": "gambling",
+      "title": "Reality of new hacksaw slots",
+      "content": "This is Le rapper, just released, it's an average volitility slot. Makes you wonder, is this how they coded the game or have I run bad. Bought this like 30 times, and for what to once win 100x and in return I had to lose 75x 10x submitted by /u/Low_Horror_9151 to r/gambling [link] [comments]",
+      "link": "https://www.reddit.com/r/gambling/comments/1qfgb16/reality_of_new_hacksaw_slots/",
+      "author": "/u/Low_Horror_9151",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T15:38:33.491281"
     }
   ],
-  "last_updated": "2026-01-17T15:11:09.922970"
+  "last_updated": "2026-01-17T15:40:21.857597"
 }
