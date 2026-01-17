@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qejr79",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "400 days of developing my indie game (timelapse)",
-      "content": "Hi fellow dreamers! Thought you'd appreciate this progress video, featuring major early pivots and eventually finding my hook \"speed multiplies damage.\" Does this look similar to your process? submitted by /u/CAGE_Studios [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qejr79/400_days_of_developing_my_indie_game_timelapse/",
-      "author": "/u/CAGE_Studios",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T16:14:27.006501"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qek16l",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Hi, I’m the developer of Andromis, a third-person combat game featuring vehicles and diverse weapons. i have been working on this game for couple of months",
-      "content": "Andromis: https://store.steampowered.com/app/4154160/Andromis/ submitted by /u/andromeda-59 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qek16l/hi_im_the_developer_of_andromis_a_thirdperson/",
-      "author": "/u/andromeda-59",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T16:14:27.006528"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qejuc5",
-      "type": "search",
-      "subreddit": "obkio",
-      "title": "Troubleshooting \"My Internet is slow\" Remote Worker Issues",
-      "content": "\" My Internet is slow \" is the worst IT ticket you can get Because what does that even mean? Is it their WiFi? Their ISP? A routing issue three hops away? Good luck figuring that out remotely. We built Remote Worker Monitoring to kill the guessing game. https://preview.redd.it/6er0ozw0iqdg1.png?width=800&format=png&auto=webp&s=69c61b95623038ff0c291b342b6a299dcaf46b9a Here's what you actually get: Colour-coded dashboard showing every remote worker's connection status. Real-time alerts before your workers even notice the problem. No more \"my Zoom has been freezing for an hour\" tickets. Visual traceroutes that show you the exact hop where things go wrong. Home router? ISP? Peering point? You'll know. Historical data so you can spot patterns. Like that ISP that throttles every Tuesday at 3pm. The whole point? Your IT team stops playing detective and starts fixing problems before they tank productivity. Check it out: https://hubs.la/Q03_69mt0 submitted by /u/obkio to r/obkio [link] [comments]",
-      "link": "https://www.reddit.com/r/obkio/comments/1qejuc5/troubleshooting_my_internet_is_slow_remote_worker/",
-      "author": "/u/obkio",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T16:14:27.006665"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qek3q9",
-      "type": "search",
-      "subreddit": "u_LegoRedBrick",
-      "title": "Vintage Pokemon sets…what was lost circa 2006",
-      "content": "I was going through the Crystal Guardians set from 2006 the other day and reminiscing how cool it was Pokémon centered an entire set theme on Crystals. The Celebi gold star is of course a banger but there are a lot of cool cards in that set. The next set release Dragon Frontiers also was theme specific. Stacked with dragon pokemon. We actually got Charizard & Rayquaza in the same set! Unheard of nowadays. Now I know you can point to recent sets like Destined Rivals and 151 and say those have themes. Sure, but the themes are what I would consider abstract. I just wish Pokemon would return to making sets about something concrete. Like an awesome Dragon focused set. Instead we get an underwhelming Charizard-only release like Phantasmal Flames. I know everything has to tie into the video games anymore but you’d think they could do a better job of giving us solid theme releases. Instead of Abstract sets like Journey Together, Perfect Order, Twilight Masquerade, Temporal Forces, etc. It would be refreshing to see a return to a more vintage era focus on types of Pokemon and cool artwork. I also think it helps people understand the Pokemon universe better. So many newer people to the hobby have no idea what the types of Pokemon even are. They just know the name. Which undercuts a big chunk of the game and hobby itself. Types matter and bring a richness to the overall experience. That’s missing from modern releases and something I wish would return. submitted by /u/LegoRedBrick to u/LegoRedBrick [link] [comments]",
-      "link": "https://www.reddit.com/r/u_LegoRedBrick/comments/1qek3q9/vintage_pokemon_setswhat_was_lost_circa_2006/",
-      "author": "/u/LegoRedBrick",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T16:14:27.008595"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qel2ny",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Conducting a survey!",
-      "content": "Hey all! Trying to get some information to run with a game I am working on. Please fill this out and share it if you can. https://forms.gle/WaLeX9k76WqFgvrPA submitted by /u/Danielor4 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qel2ny/conducting_a_survey/",
-      "author": "/u/Danielor4",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T16:51:04.621715"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qekzak",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I was grieving after losing a friend to his own mental health and made this game to distract myself.",
-      "content": "I’ve never made a game before, so it is listed as in development. I’d like to hear your feedback or any bugs you can find so I can improve it. submitted by /u/benburrmusic [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qekzak/i_was_grieving_after_losing_a_friend_to_his_own/",
-      "author": "/u/benburrmusic",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T16:51:04.621774"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qeknnr",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Where do you find an artist?",
-      "content": "I'm an artist looking to expand my UI/UX design portfolio so I wanted to collaborate on a few projects. Nothing big, hopefully. Where do yall go to find artists? submitted by /u/Poette-Iva [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qeknnr/where_do_you_find_an_artist/",
-      "author": "/u/Poette-Iva",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T16:51:04.621832"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qekeio",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Devlog 5 - World Progress",
-      "content": "I know no one is watching them, but I enjoy making them. submitted by /u/PowerHoboGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qekeio/devlog_5_world_progress/",
-      "author": "/u/PowerHoboGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T16:51:04.621864"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qekbds",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "What color should be the creature in the our capsule? (Wars have been waged over it in our studio, outside help needed!)",
-      "content": "Any other feedback is also deeply appreciated. I would love to know things like: What emotions does the new capsule evoke? Does it convey the party game genre? Can you see the materials it is made from? For more context the steam page . Do you think it relates to other assets well? Thanks so much for any input! submitted by /u/Kakabundala [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qekbds/what_color_should_be_the_creature_in_the_our/",
-      "author": "/u/Kakabundala",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-16T16:51:04.621877"
-    },
-    {
       "id": "https://www.reddit.com/r/unity/t3_1qekwn7",
       "type": "post",
       "subreddit": "unity",
@@ -3215,7 +3107,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-17T08:44:58.634805"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qf88yt",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Some people prefer AAA-tier graphics... as for me, I like my visuals strictly LO-LO-LO",
+      "content": "lo-resolution lo-color lo-poly For the game I'm working on, I've made a custom Unity 3D shader that allows me to render stylized low-poly visuals with arbitrary low-color palettes (with support for dithering) and fake lights. The shader also supports custom \"darkest color\" (i.e. not full black) which makes it possible to apply a visually correct tinting (i.e. tinted pixels never end up darker than the \"darkest color\"). submitted by /u/goshki [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qf88yt/some_people_prefer_aaatier_graphics_as_for_me_i/",
+      "author": "/u/goshki",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T09:10:23.717111"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qf89me",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "A lil showcase for the game that Im currently working on!",
+      "content": "submitted by /u/Dusty_7_ [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qf89me/a_lil_showcase_for_the_game_that_im_currently/",
+      "author": "/u/Dusty_7_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T09:10:23.717119"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qf8lef",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "I uploaded my game to itch io you can download !",
+      "content": "submitted by /u/NegativeLanguage4837 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qf8lef/i_uploaded_my_game_to_itch_io_you_can_download/",
+      "author": "/u/NegativeLanguage4837",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T09:10:23.717175"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf8l42",
+      "type": "search",
+      "subreddit": "MakeNewFriendsHere",
+      "title": "M22 Pan Uk Looking to make some long term friends and people id get along with.",
+      "content": "Im Gaz 22 year old from the UK looking to meet new people and hopefully make some real friends. I am a bit of a nerd at heart and I love diving into anything creative, fun or a little bit unusual. I enjoy gaming, reading, and getting lost in world building ideas. I spend a lot of time coming up with characters, story concepts, grounded heroes, apocalypse style worlds, and sci fi ideas that feel like they could almost exist in real life. If you like talking about strange powers, survival ideas, alternate realities, or just cool characters, we will probably get along. I am hoping to meet chilled, friendly people who enjoy chatting, sharing hobbies or just having regular conversation. I am happy to talk with people from anywhere and I am always up for meeting someone who is genuine and open to new friendships. submitted by /u/GazIsStoney to r/MakeNewFriendsHere [link] [comments]",
+      "link": "https://www.reddit.com/r/MakeNewFriendsHere/comments/1qf8l42/m22_pan_uk_looking_to_make_some_long_term_friends/",
+      "author": "/u/GazIsStoney",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T09:10:23.718799"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf8fvi",
+      "type": "search",
+      "subreddit": "Firearms",
+      "title": "Sketchy gun purchase",
+      "content": "submitted by /u/Southpaw_pup to r/Firearms [link] [comments]",
+      "link": "https://www.reddit.com/r/Firearms/comments/1qf8fvi/sketchy_gun_purchase/",
+      "author": "/u/Southpaw_pup",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T09:10:23.719139"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qf8jda",
+      "type": "search",
+      "subreddit": "teenagers4real",
+      "title": "Hi ask me question?",
+      "content": "submitted by /u/enessvk00 to r/teenagers4real [link] [comments]",
+      "link": "https://www.reddit.com/r/teenagers4real/comments/1qf8jda/hi_ask_me_question/",
+      "author": "/u/enessvk00",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-17T09:10:23.719354"
     }
   ],
-  "last_updated": "2026-01-17T08:46:32.400459"
+  "last_updated": "2026-01-17T09:12:15.018428"
 }
