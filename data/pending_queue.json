@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qff83c",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Our approach to a magic system for VR: Rings.",
-      "content": "Wanted to show off our VR magic system. Core Goal: avoid immersion-breaking UI elements as far as possible. Spells are physical rings players collect, store, and equip. On the left hand attack spells, which the player can cycle through during combat, on the right hand rings that give passive buffs. It's also quite pleasant during development. You can put all the magic logic in the ring class itself and feel a little bit like a wizard that's actually crafting magic rings. But it should be fun for players too. Is this a workable solution? Is there a better ring selection method we could use? submitted by /u/CyberGnosisGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qff83c/our_approach_to_a_magic_system_for_vr_rings/",
-      "author": "/u/CyberGnosisGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T15:09:29.679955"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qff5pq",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "RPG Maker Dev Log – Focusing on NPC Sprites & Core Progress",
-      "content": "I wrote a short dev log about my current progress. I’m focusing on NPC + Battle sprites right now, but development is still ongoing. 👉 https://kuroigleamstudios.wordpress.com/2026/01/17/game-dev-log-17-01-26/ submitted by /u/KuroiGleamStudios [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qff5pq/rpg_maker_dev_log_focusing_on_npc_sprites_core/",
-      "author": "/u/KuroiGleamStudios",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T15:09:29.679968"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qffjb5",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I published an update for my mobile puzzle game called Wrap The Zap. These are two of the new levels.",
-      "content": "submitted by /u/Zepirx [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qffjb5/i_published_an_update_for_my_mobile_puzzle_game/",
-      "author": "/u/Zepirx",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T15:09:29.680003"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qffev4",
       "type": "search",
       "subreddit": "KerbalSpaceProgram",
@@ -4247,7 +4211,175 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-18T14:39:27.684355"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qgay1j",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I'm trying to jumpstart the competitive scene for ChipWits (my 1984 reboot). I just merged the Demo & Full Game leaderboards and made this \"Set the Table\" challenge free for everyone. Here is the target solution to beat (2,017 cycles).",
+      "content": "submitted by /u/markroth8 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgay1j/im_trying_to_jumpstart_the_competitive_scene_for/",
+      "author": "/u/markroth8",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.279930"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qgarmb",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "How do you present a game when genre labels don’t really capture what matters?",
+      "content": "Last week I started posting my game on like 7 different platforms — YouTube, X, Instagram, Tumblr, Bilibili, Rednote, and Douyin (the last three are apps from the country I live in). After about a week, I’ve got less than 50 followers total, which made me seriously rethink how I’m presenting the game. I usually describe it as a dark, horror-vibe RPG. But honestly, that label doesn’t seem to help much. When I tag it as “horror,” people seem to expect strong scares or jump-scare moments. When I tag it as “RPG,” it gets compared to games that are way more system-heavy than mine. The thing is, my game does have horror elements and RPG mechanics. It’s not that they’re missing. But once it’s put under those labels, it kind of just sinks into the massive pile of horror and RPG games out there. What I actually care most about — the art style, the atmosphere, the world-building — doesn’t really come through in promotion when I rely on those genres. I’m curious if anyone here has dealt with something similar, or followed games in this kind of in-between space. Any thoughts, advice, or even feedback specific to this game would be really appreciated. video ![video]( \"a clip from my game\") submitted by /u/cowcowcolor [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgarmb/how_do_you_present_a_game_when_genre_labels_dont/",
+      "author": "/u/cowcowcolor",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.280043"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qgai1t",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "i found the right amount of bones + kids friendly version in the 2nd part of the video",
+      "content": "thanx to unreal engine subreddit submitted by /u/fleewortep [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgai1t/i_found_the_right_amount_of_bones_kids_friendly/",
+      "author": "/u/fleewortep",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.280051"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qgadki",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I made enchanted bullets for my game that are attracted to targets. And it feels very satisfying.",
+      "content": "submitted by /u/Astrobionics [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgadki/i_made_enchanted_bullets_for_my_game_that_are/",
+      "author": "/u/Astrobionics",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.280062"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qgav9l",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I’m making a roguelike where you move only by shooting your gun (physics-based combat)",
+      "content": "submitted by /u/birdtheblue [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qgav9l/im_making_a_roguelike_where_you_move_only_by/",
+      "author": "/u/birdtheblue",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.280100"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qgakh9",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Made a couple 3D fire effects",
+      "content": "They're basically a combination of static meshes with custom shaders and particles with custom shaders. I've always felt making these kinds of effects is pretty intuitive with godot's node system because it allows you to pretty easily combine different things If you're interested you can find them here as a pack: https://binbun3d.itch.io/fire submitted by /u/binbun3 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qgakh9/made_a_couple_3d_fire_effects/",
+      "author": "/u/binbun3",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.280198"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qgak7w",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Some updates on my character controller",
+      "content": "Also, most animation resources are from Mixamo (By the way, my account may sometimes be banned by reddit because my IP address is a bit bad. That is why my previous post disappeared) submitted by /u/OwlImmediate4169 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qgak7w/some_updates_on_my_character_controller/",
+      "author": "/u/OwlImmediate4169",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.280208"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qgae1v",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Tamothmangotchi",
+      "content": "Started teaching myself Aseprite and Godot last week. I have a lot of traditional art experience, plus coding experience from R (I'm an experimental psychologist/avid gamer who researches decision-making). After following some tutorials and then reskinning them with my own assets, I decided to try making a small project from scratch completely on my own. He has an idle animation so far, next step is to create animations for the three interactive options. Proud of myself! submitted by /u/hooloovooblues [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qgae1v/tamothmangotchi/",
+      "author": "/u/hooloovooblues",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.280234"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qgah9h",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "1 year of progress: Old vs New buildings. Should we keep both?",
+      "content": "submitted by /u/MostReflection8278 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qgah9h/1_year_of_progress_old_vs_new_buildings_should_we/",
+      "author": "/u/MostReflection8278",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.280241"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qgaxc7",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Txt-Collab: Real-Time Collaborative Text Editor (Open-Source + Live Demo)",
+      "content": "Hey everyone! 👋 I’ve been working on an open-source real-time collaborative text editor called Txt-Collab, and I’m excited to finally share it with you all! Txt-Collab lets you edit text with others in real time, with features like offline sync, auto save, custom toast notifications, and a responsive UI. 🔗 Live Demo: https://txt-collab.vercel.app/ 📦 GitHub Repo: https://github.com/Jaydeep077/txt-collab submitted by /u/Unhappy_Buy_8556 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qgaxc7/txtcollab_realtime_collaborative_text_editor/",
+      "author": "/u/Unhappy_Buy_8556",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.280295"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgaevb",
+      "type": "search",
+      "subreddit": "PakGamers",
+      "title": "Dell Vostro 7500 ( i7-10750h , 1650ti , 16gb ram , 512 ssd)",
+      "content": "Selling my old trusty durable vostro 7500 Never had any issues in 4 yrs and no overheating (ptm7950) i7 10750h 5ghz 1650ti gddr6 16 gb ram 512gb ssd nvme 1080p slim display slim af laptop 7/10 condition ( All okay bus back cover pe scratches etc) 97WH BATTERY 8 HOURS BACK UP Perfect for gaming and Coding Price : 132k ( Negotiable) , DHA Phase 1 Lahore or Iqbal Town submitted by /u/Sumolizer to r/PakGamers [link] [comments]",
+      "link": "https://www.reddit.com/r/PakGamers/comments/1qgaevb/dell_vostro_7500_i710750h_1650ti_16gb_ram_512_ssd/",
+      "author": "/u/Sumolizer",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.281184"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgax82",
+      "type": "search",
+      "subreddit": "kitchen",
+      "title": "Why do we trust machines with what used to require attention",
+      "content": "My landlord installed an appliance dishwasher in the apartment like it's a major upgrade, but I've hand washed dishes for years without issue. The machine uses more water and energy than I would, requires special detergent, and doesn't actually clean better than soapy sponge and effort. The convenience is negated by the resources wasted and space consumed. He'd ordered a mid-range model after researching energy ratings and cleaning performance. Found comparable machines through home appliance suppliers on Alibaba at lower prices but worried about warranty support. The dishwasher makes him feel like he's providing modern amenities even though it's solving a problem that didn't exist. We've decided that automation is inherently better than manual tasks even when manual is perfectly adequate. His dishwasher represents upgrading for the sake of upgrading, making apartments more appealing to renters who expect machines for everything. Maybe I'm wrong and dishwashers save time and water when used properly. But mine sits empty because loading and unloading takes longer than just washing would have. Sometimes the old way works fine and new technology is just more complicated rather than better. submitted by /u/FARHANFREESTYLER to r/kitchen [link] [comments]",
+      "link": "https://www.reddit.com/r/kitchen/comments/1qgax82/why_do_we_trust_machines_with_what_used_to/",
+      "author": "/u/FARHANFREESTYLER",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.281554"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgase0",
+      "type": "search",
+      "subreddit": "Games",
+      "title": "INTO EVIL - Mind's Eye Games - Hardcore dungeon crawler (with some serious shit in it)",
+      "content": "Hey! I'm the dev behind INTO EVIL , a roguelike dungeon crawler that plays a lot like Dark Souls X Hotline Miami (and/or Teleglitch, if you've played that!) If you're curious what that looks like, you can check out: https://www.youtube.com/watch?v=ylwTX2Rxf0g https://www.youtube.com/watch?v=RQw88lPbhkI https://www.youtube.com/watch?v=P3vPbJJq7DU It's still in Early Access, but I've been pushing out regular content updates to the game - first Dual Wielding , and recently Mighty Weapons (giant two-handed greatswords, mauls, etc)! If this all sounds fun, the game has a free demo that has a lot of content in it - you should give it a try! submitted by /u/Torbid to r/Games [link] [comments]",
+      "link": "https://www.reddit.com/r/Games/comments/1qgase0/into_evil_minds_eye_games_hardcore_dungeon/",
+      "author": "/u/Torbid",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.282306"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgakus",
+      "type": "search",
+      "subreddit": "MusicHubTR",
+      "title": "Bana şu tür şarkı önerir misiniz?",
+      "content": "dinlerken şarkı bu dedirten varsa lütfennnn 🙏🏻🙏🏻🙏🏻 submitted by /u/dulcetmoonh to r/MusicHubTR [link] [comments]",
+      "link": "https://www.reddit.com/r/MusicHubTR/comments/1qgakus/bana_şu_tür_şarkı_önerir_misiniz/",
+      "author": "/u/dulcetmoonh",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T15:09:02.282433"
     }
   ],
-  "last_updated": "2026-01-18T14:40:53.035846"
+  "last_updated": "2026-01-18T15:10:33.822079"
 }
