@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qf1a8g",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Your robot co-workers all went crazy and now you have to work through your lunch break at the pixel art factory.",
-      "content": "This is my solo-dev game The World Ends in Ohio. submitted by /u/PDS_Games [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qf1a8g/your_robot_coworkers_all_went_crazy_and_now_you/",
-      "author": "/u/PDS_Games",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T03:49:17.640485"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qf18ie",
       "type": "post",
       "subreddit": "indiegaming",
@@ -4259,7 +4247,187 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-17T23:37:33.893627"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qftprh",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Indie Games vs Indie Animation (Part 1)",
+      "content": "submitted by /u/Efficient_Berry_4073 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qftprh/indie_games_vs_indie_animation_part_1/",
+      "author": "/u/Efficient_Berry_4073",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.967668"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qft44t",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "how do you usually get your first players?",
+      "content": "submitted by /u/Solo1100-0-0- [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qft44t/how_do_you_usually_get_your_first_players/",
+      "author": "/u/Solo1100-0-0-",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.967683"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qft2te",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Just released my second game",
+      "content": "submitted by /u/Solo1100-0-0- [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qft2te/just_released_my_second_game/",
+      "author": "/u/Solo1100-0-0-",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.967690"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qfstq9",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "When the \"cozy\" farming sim hits you with debt collectors. Meet our not-so-friendly neighborhood Kong! ))",
+      "content": "So, you know how in Stardew Valley you just grow parsnips? Well, in our game, you're an engineer pretending to be a robot on a junk planet, and sometimes those \"defective\" robot neighbors fall behind on their scrap payments. That's where Kong comes in. He's our little solution for dealing with... ahem... \"problematic assets.\" Turns out, every spare part counts when you're building your base inside a rusted robot chassis! We tried to make the process of turning rusty debtors into valuable components as satisfying (and pixel-art cute!) as possible. How do you guys handle \"consequences\" in your cozy games without making them too grim? Always curious to see different takes! submitted by /u/mersocial6 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qfstq9/when_the_cozy_farming_sim_hits_you_with_debt/",
+      "author": "/u/mersocial6",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.967714"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qftwuv",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "With outline or without outline?",
+      "content": "Im making a game about cleaning beaches and finding valuables, still early in development so not much to show, do you think only interactable stuff should have an outline or everything? submitted by /u/Strange-Mortgage6532 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qftwuv/with_outline_or_without_outline/",
+      "author": "/u/Strange-Mortgage6532",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.967741"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qftk2z",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Added a minigame to my cozy fishing simulator",
+      "content": "The UI will be remade, this is just a placeholder, but basically you follow the fish (you are controlling the hook) and if you keep the hook on the fish long enough you catch it. submitted by /u/Total_Impression_382 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qftk2z/added_a_minigame_to_my_cozy_fishing_simulator/",
+      "author": "/u/Total_Impression_382",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.967751"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qftsm7",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Trying to make the sound effects as satisfying as possible",
+      "content": "bro got deleted If you're interested, the game is coming soon on Steam! https://store.steampowered.com/app/4295540/Critter_Bonk/ submitted by /u/FluffyFishSlimyYT [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qftsm7/trying_to_make_the_sound_effects_as_satisfying_as/",
+      "author": "/u/FluffyFishSlimyYT",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.967860"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qft9hy",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Trying to make my FPS controller feel more snappy?",
+      "content": "Im trying to make a Speed-Platformer FPS game but it doesnt seem like I can get my controls feeling right. My player feels super slippery whenever I move but comes to a complete stop in an instance whenever no input is happening. Any help? class_name PlayerController extends CharacterBody3D # ------- Movement Variables ------ u/export var acceleration := 20.0 u/export var drag := .5 u/export var speed := 200.0 var _jump_strength := 7.0 # ------ Node References ------ u/export_category (\"Node References\") u/export var state : StateMachine # ------ Internal ------- var _input_dir := Vector2.ZERO var _movement_vel := Vector2.ZERO func _physics_process(delta: float) -> void: \\# Apply Gravity if not is\\_on\\_floor(): state.change\\_state(\"Falling\") velocity += get\\_gravity() \\* delta else: velocity.y = 0 \\# Process jump if Input.is\\_action\\_just\\_pressed(\"Jump\") and is\\_on\\_floor(): velocity.y = \\_jump\\_strength \\# Get input vector \\_input\\_dir = Input.get\\_vector(\"Strafe Left\", \"Strafe Right\", \"Forwards\", \"Backwards\") if \\_input\\_dir: \\# Convert input to players forward direction var forward = -transform.basis.z # Player's forward vector var right = transform.basis.x # Player's right vector \\# Build direction off of player basis var direction = (right \\* \\_input\\_dir.x - forward \\* \\_input\\_dir.y).normalized() \\_movement\\_vel = Vector2(direction.x, direction.z) \\* acceleration \\* delta \\# Apply speed cap if \\_movement\\_vel.length() > speed: \\_movement\\_vel = \\_movement\\_vel.normalized() \\* speed state.change\\_state(\"Moving\") else: \\# Apply drag when getting no input \\_movement\\_vel = \\_movement\\_vel.move\\_toward(Vector2.ZERO, drag \\* delta) if \\_movement\\_vel.length() > 0.1: \\_movement\\_vel = [Vector2.ZERO](http://Vector2.ZERO) state.change\\_state(\"Idle\") \\# Apply velocity velocity.x = \\_movement\\_vel.x velocity.z = \\_movement\\_vel.y \\# Move player move\\_and\\_slide() func update_rotation(yaw: float) -> void: rotation.y = yaw submitted by /u/Chisolx [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qft9hy/trying_to_make_my_fps_controller_feel_more_snappy/",
+      "author": "/u/Chisolx",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.967899"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qft6bj",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "i just want the game to be done",
+      "content": "submitted by /u/hankster221 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qft6bj/i_just_want_the_game_to_be_done/",
+      "author": "/u/hankster221",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.967905"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qfsoc0",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "CAT - Cat Activity Terminal",
+      "content": "I made a silly game with Godot where you play as a cat on a table and you just throw away random objects. Not my first project but the only one I have concluded yet. There are no missions, no points system, you can't die and barely move. Just meow meow and break things. If you click on the cat face you can choose between 4 different cats! :D https://mambino.itch.io/cat-cat-activity-terminal submitted by /u/Patatank [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qfsoc0/cat_cat_activity_terminal/",
+      "author": "/u/Patatank",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.967959"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfu0ka",
+      "type": "search",
+      "subreddit": "pokemoncards",
+      "title": "Was starting to think Walgreens in my area wasn't stocking Pokemon lately but found some Mega Battle Decks. Love the Haunter IR!",
+      "content": "submitted by /u/Skyblue8989 to r/pokemoncards [link] [comments]",
+      "link": "https://www.reddit.com/r/pokemoncards/comments/1qfu0ka/was_starting_to_think_walgreens_in_my_area_wasnt/",
+      "author": "/u/Skyblue8989",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.968389"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfu8kb",
+      "type": "search",
+      "subreddit": "Robot_Juice",
+      "title": "this game is so robot juice coded",
+      "content": "submitted by /u/I_Fuck_Horse_Cocks to r/Robot_Juice [link] [comments]",
+      "link": "https://www.reddit.com/r/Robot_Juice/comments/1qfu8kb/this_game_is_so_robot_juice_coded/",
+      "author": "/u/I_Fuck_Horse_Cocks",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.968820"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfu8hr",
+      "type": "search",
+      "subreddit": "MakeNewFriendsHere",
+      "title": "32M - #Netherlands/#Online - Hey you, will you be my new friend?",
+      "content": "Heya, thanks for taking the time to read my post. I'm Matt, 32 and from The Netherlands. Living a slow life with my girlfriend and 2 pets. During the weekdays I'm working as a software engineer, in the weekends and evenings I try to relax and do fun stuff. Some of my interests: Music Mostly scouting for records in the record shops, listening and enjoying new music and visiting concerts. Genres I like are psychedelic rock, punk, some metal, some rap and anything progressive. The last record I've bought is from Jehtro Tull and the last concert I've been to was Psychedelic Porn Crumpets. Sports Mostly watching sports (football) but I also enjoy the occasional swim and I've been trying to go to the gym more often. Gaming PC is my platform. Been playing alot of Counter-Strike for the last 15 years, but I love most kind of games. Long conversations That's the thing that makes me the most happy I think. Long, maybe deep, conversations on any topic with a good friend, count me in! I won't give everything about my life away, but this is some of it. Anything that interests you or just want to start a conversation? Let's do it! You can be from anywhere, any age, any gender. If you're closeby I'll take you for a lunch and a beer (or non-alcoholic drink if you prefer) sometime soon. submitted by /u/SomeWinters to r/MakeNewFriendsHere [link] [comments]",
+      "link": "https://www.reddit.com/r/MakeNewFriendsHere/comments/1qfu8hr/32m_netherlandsonline_hey_you_will_you_be_my_new/",
+      "author": "/u/SomeWinters",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.968930"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfu4k5",
+      "type": "search",
+      "subreddit": "sportsbetting",
+      "title": "⚽️ January 18th Streaks & Trends",
+      "content": "submitted by /u/Annual_Series_4124 to r/sportsbetting [link] [comments]",
+      "link": "https://www.reddit.com/r/sportsbetting/comments/1qfu4k5/january_18th_streaks_trends/",
+      "author": "/u/Annual_Series_4124",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.969043"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfu8ra",
+      "type": "search",
+      "subreddit": "marvelrivals",
+      "title": "How do you use Thor?",
+      "content": "Whenever I play a game with multiple characters I try to essentially max out my skill on every single one of them. I find out the optimal way each is played and adapt it into my strategy should the time arise when I need them. To that end I mostly play vanguards, as I like being able to walk off tons of hits and I’m in my element when I’m fighting the entire enemy team as my own team comes to back me up! I’ve mastered all of them except Groot, Rogue, and… Thor… what does he even do? For the other 2 I can at the very least understand how they’re supposed to function, even if they don’t really fit in to my play style! What is Thor designed to do? His range is pitiful making me thing he should play up close and personal, but his health is also trash! I’ve tried using him as a rushdown tank and I’m torn to bits, I’ve tried using him as defense and I’m completely useless! how is he supposed to be played? submitted by /u/soup100 to r/marvelrivals [link] [comments]",
+      "link": "https://www.reddit.com/r/marvelrivals/comments/1qfu8ra/how_do_you_use_thor/",
+      "author": "/u/soup100",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T00:54:34.969426"
     }
   ],
-  "last_updated": "2026-01-17T23:39:32.597849"
+  "last_updated": "2026-01-18T00:56:26.345308"
 }
