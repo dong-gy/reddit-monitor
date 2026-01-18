@@ -1,150 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfpibl",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Someone Made a Site for My Game!",
-      "content": "I just wanted to shoutout u/-night_knight_ for this awesome work! Thank you! submitted by /u/Studio404Found [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfpibl/someone_made_a_site_for_my_game/",
-      "author": "/u/Studio404Found",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T21:35:43.978499"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfpavw",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I will be glad if you support one artistic project.",
-      "content": "submitted by /u/viktormazhlekov [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfpavw/i_will_be_glad_if_you_support_one_artistic_project/",
-      "author": "/u/viktormazhlekov",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T21:35:43.978516"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfp1hq",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Japanese Speakers - Is this legible (and not too ugly)?",
-      "content": "Alright, I've updated the font (mostly trying to just make it bigger so the pixels don't bleed together). Is this easy to read? I got a lot of feedback on my last font that it was mostly legible, but just looked really unprofessional. Does this new font look professional? Thank you!! submitted by /u/jordanottesen [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfp1hq/japanese_speakers_is_this_legible_and_not_too_ugly/",
-      "author": "/u/jordanottesen",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T21:35:43.978550"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfp0xi",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I'd love to know what customization options people expect/want in a game with systems like this!",
-      "content": "submitted by /u/yahodahan [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfp0xi/id_love_to_know_what_customization_options_people/",
-      "author": "/u/yahodahan",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T21:35:43.978557"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qfpbfi",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Consiglio Pathway",
-      "content": "Good evening everyone, I've just started learning Unity. I've almost finished the Essential Pathways section and, as a next step, I wanted to start the Junior Programmer program. I have no programming knowledge (I'm a pastry chef), and I managed to pass the programming portion of the Essential Pathway because it was very guided (from copying the line of code the tutorial provided to me or writing it in Visual Studio the way it was written in the tutorial). Since I have no programming knowledge, can I take the Junior Programmer Pathway or should I first study the basics of programming logic to at least understand the purpose of terms like iF, get, and other keywords? Thank you in advance and I wish everyone a good Saturday evening. submitted by /u/SuchCriticism6745 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qfpbfi/consiglio_pathway/",
-      "author": "/u/SuchCriticism6745",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T21:35:43.978577"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qfoybm",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Scene capture camera 2D - Higher Resolutions?",
-      "content": "I want to create some ortho snapshot of my actor in game. doesn't have to update every frame, just when a user wants to take a \"Photo\". However the output resolution seems to be capped at 2048 x 2048, and looks like garbage - Attempting to go to 4096 x 4096 makes the editor start behaving funny. What are my options? submitted by /u/soldieroscar [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qfoybm/scene_capture_camera_2d_higher_resolutions/",
-      "author": "/u/soldieroscar",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T21:35:43.978600"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qfpi16",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Is game with some pixelization considered as pixel-art?",
-      "content": "I'm working on world-sim game. I can draw all UI in pixel-art style, but I can't do it for the map. I'm just a programmer, who can do some art stuff. But I want a pixel-art map. So I'm trying to map low-poly map and after that render it into low-res texture. Is it like cheat-code and not considered as pixel-art? I'm really curious. Because, for example, Dead Cells does pixelization from 3d into 2d 😅 submitted by /u/Suvitruf [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qfpi16/is_game_with_some_pixelization_considered_as/",
-      "author": "/u/Suvitruf",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T21:35:43.978618"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfpkcn",
-      "type": "search",
-      "subreddit": "EmulationOnAndroid",
-      "title": "[HELP] GameMT E5 - Screen Swap",
-      "content": "Hi everyone! I own a GameMT E5 Ultra and unfortunately, my screen is broken. I’ve been having a very hard time finding a replacement part online. I have a theory that the standard GameMT E5 might use the exact same screen. If it does, I could buy a standard E5 just to use it for parts. If you are comfortable opening your device, I would be extremely grateful if you could take a clear photo of the back of the screen, specifically the orange ribbon cable where the model code is printed. https://preview.redd.it/uwv4ycylazdg1.jpg?width=1080&format=pjpg&auto=webp&s=8da45a7d0532e3ccbabbb1f4a1171aed73bc305e https://preview.redd.it/6qxhxlbmazdg1.jpg?width=1080&format=pjpg&auto=webp&s=7f04bec9a5e962db190b7a2075b9abf2d36caebb https://preview.redd.it/38p73slmazdg1.jpg?width=1080&format=pjpg&auto=webp&s=495de4b68ec5e680e473f68a61e27c39154ecc36 submitted by /u/GustavoComposer to r/EmulationOnAndroid [link] [comments]",
-      "link": "https://www.reddit.com/r/EmulationOnAndroid/comments/1qfpkcn/help_gamemt_e5_screen_swap/",
-      "author": "/u/GustavoComposer",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T21:35:43.979314"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfphul",
-      "type": "search",
-      "subreddit": "valheim",
-      "title": "all you need to know about this scammy \"devs\". imagine banning everyone in whole steam for that reason and threating IRL to those who make videos about it",
-      "content": "submitted by /u/Mingu_Heaven to r/valheim [link] [comments]",
-      "link": "https://www.reddit.com/r/valheim/comments/1qfphul/all_you_need_to_know_about_this_scammy_devs/",
-      "author": "/u/Mingu_Heaven",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T21:35:43.979825"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qfqdy9",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "created RTS / 4x with vehicle designer",
-      "content": "It was an attempt to recreate warzone 2100 or earth 2150 but went differently game name: Mk50Twl (vehicle battler custom slider) Status: early access (steam) , single player sry for self promo I want to post only once in each relevant /r sub submitted by /u/Different_Ear_7543 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qfqdy9/created_rts_4x_with_vehicle_designer/",
-      "author": "/u/Different_Ear_7543",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T22:09:39.971575"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfqd07",
-      "type": "search",
-      "subreddit": "LegendsZA",
-      "title": "Switch 2 Upgrade?",
-      "content": "I’m sorry if this has been asked before, but I haven’t been able to find an answer. I purchased Legends Z-A on my Switch OLED. I now have a Switch 2, and I moved the virtual game card to this Switch 2. The game feels like it’s better overall with loading times, etc. but I’m not playing the Switch 2 version. Is there an actual difference in performance if I get the $10 digital upgrade? I can’t seem to find an answer to that specific question. Because Violet, was miles better playing on Switch 2, and I didn’t have to pay anything for that. I’d like to have the best frame rate, but want to make sure that’s specifically part of the upgrade. submitted by /u/M1ST3RN0B0DY06 to r/LegendsZA [link] [comments]",
-      "link": "https://www.reddit.com/r/LegendsZA/comments/1qfqd07/switch_2_upgrade/",
-      "author": "/u/M1ST3RN0B0DY06",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T22:09:39.973129"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qfqgsr",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Is it worth learning to code?",
-      "content": "This might be a bit of a stupid question but I'm more of a creative person, I've directed a couple of films and plenty other projects. Recently I've had a really cool idea for a game and I just feel this need to make it a real thing. Problem is I am completely hopeless when it comes to technical things like coding. But I can't afford to hire people to do it for me. I understand it's difficult for everyone until it isn't, but I'm wondering if maybe there's an alternative/easier way to learn? I know vibe coding exists but it's just not something I'm too sure of as it is. Specifically I'm looking at Godot, because I want to make a 3D game and I don't wanna use Unity. Any kind of feedback is appreciated :) submitted by /u/TwoToneDye [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qfqgsr/is_it_worth_learning_to_code/",
-      "author": "/u/TwoToneDye",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T22:40:40.753273"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qfr2i3",
       "type": "post",
       "subreddit": "indiegaming",
@@ -5051,7 +4907,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-18T23:09:37.190295"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qgnys5",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "It has been a crazy week for me, over 3K players and over 75 positive reviews. More than I could have ever imagined when I started Marble's Marbles, a homage to classic marble games like Marble Madness, Ballance, Gyroscope and Hamsterball",
+      "content": "I have been blown away, but I am optmistic the best is yet to come! Here is the steam page if you want to see more https://store.steampowered.com/app/4137920/Marbles_Marbles/ submitted by /u/destinedd [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgnys5/it_has_been_a_crazy_week_for_me_over_3k_players/",
+      "author": "/u/destinedd",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T23:37:56.443820"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qgnsj9",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Scaling Problem",
+      "content": "When I make a scene, it looks fine in the editor, but as soon as I play it or put it in another scene the scaling is all off. Does anybody know what the problem is? Attached are the node tree and visuals. Thank you! submitted by /u/VibVubaVub [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qgnsj9/scaling_problem/",
+      "author": "/u/VibVubaVub",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T23:37:56.443863"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qgnp03",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Vr development on Ubuntu",
+      "content": "Hello guys, I have troubles with vr headset link to pc for tests in editor. I tried SteamVR + steamlink app, there appears 499 error (cannot setup video encounter). also I tried ALVR and with this thing I have proper connection without 499 error but after few seconds SteamVR closes. I checked all solutions that I found yet and nothing helps. Maybe there is anybody who completed the same path that I'm going? P.S. Device is Meta Quest 2 submitted by /u/_Bondage_Master_ [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qgnp03/vr_development_on_ubuntu/",
+      "author": "/u/_Bondage_Master_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T23:37:56.443877"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qgo0al",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "I made my game controllable with a guitar!",
+      "content": "I was messing around with audio input pitch detection, and tried mapping it to player controls. It's experimental, but it works! submitted by /u/dblwmy_ggcc [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qgo0al/i_made_my_game_controllable_with_a_guitar/",
+      "author": "/u/dblwmy_ggcc",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T23:37:56.443906"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgnzmy",
+      "type": "search",
+      "subreddit": "SBCGaming",
+      "title": "Handheld gaming in Brazil is almost unviable for the average consumer",
+      "content": "Brazil’s minimum wage is around USD 250 to 300 per month, yet most handheld devices cost the equivalent of several months of income for the average person. The biggest issue is import taxes. Brazil has long had import taxation, but in recent years enforcement and overall tax burden have become much harsher. Depending on how customs evaluates the package, total taxes can now reach 90 to 100% of the product’s declared value, something that wasn’t nearly as common in the past. This makes buying anything from abroad stressful. You never know the final price, there’s always fear of extra fees, delays, or customs holds. Since most handhelds aren’t officially sold here, importing is often the only option, and it feels like a gamble every time. What’s especially frustrating is seeing handheld gaming treated as affordable and accessible in other countries, while here it becomes a luxury purchase or a financial risk. It’s not about wanting premium tech, it’s about how basic access to a hobby is restricted by low wages and aggressive taxation. submitted by /u/Original-Educator-38 to r/SBCGaming [link] [comments]",
+      "link": "https://www.reddit.com/r/SBCGaming/comments/1qgnzmy/handheld_gaming_in_brazil_is_almost_unviable_for/",
+      "author": "/u/Original-Educator-38",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T23:37:56.444266"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgng38",
+      "type": "search",
+      "subreddit": "BAPBAP",
+      "title": "Game's status",
+      "content": "I have a genuine question, as a new player to this game. While I find it extremely fun and addictive, I got the feeling, especially based on the devs' twitter activity, that the game has been left abandoned. Are there any plans for future updates, implementation of matchmaking and other QOL features? submitted by /u/JustAStupidName7 to r/BAPBAP [link] [comments]",
+      "link": "https://www.reddit.com/r/BAPBAP/comments/1qgng38/games_status/",
+      "author": "/u/JustAStupidName7",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T23:37:56.445319"
     }
   ],
-  "last_updated": "2026-01-18T23:11:14.314752"
+  "last_updated": "2026-01-18T23:39:41.312580"
 }
