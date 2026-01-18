@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qfau3b",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Teaser of a project I've been working on - \"AlphaDodge\"",
-      "content": "The blue orb is controlled by the cursor, and the goal is to survive by avoiding enemies to rack up large combos and high scores. submitted by /u/Marzipug [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qfau3b/teaser_of_a_project_ive_been_working_on_alphadodge/",
-      "author": "/u/Marzipug",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T11:33:42.794483"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qfav7n",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Some screenshots of FERAN, the single player extraction shooter FPS I am working on.",
-      "content": "submitted by /u/bre-dev [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qfav7n/some_screenshots_of_feran_the_single_player/",
-      "author": "/u/bre-dev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T11:33:42.794543"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfaxpg",
-      "type": "search",
-      "subreddit": "hytale",
-      "title": "ResourcesCrops - New type of crops!",
-      "content": "ResourcesCrops is a mod that add new type of crops. This mod allows to grow some Resources in a peacful and automatic game without mandatory go to the mine! Features: Added new type of Crops that allow you grow some Resources! These crops are necessary melt in the furnace to receive resources. At the moment we made a 8 type of crops: Adamantite; Cobalt; Copper; Gold; Iron; Mithril; Silver; Thorium! How you think? We need feedback :) submitted by /u/_BarMaxx_ to r/hytale [link] [comments]",
-      "link": "https://www.reddit.com/r/hytale/comments/1qfaxpg/resourcescrops_new_type_of_crops/",
-      "author": "/u/_BarMaxx_",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T11:33:42.796277"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfavht",
-      "type": "search",
-      "subreddit": "GTA",
-      "title": "I’m so hyped about this aspect. The level of immersion is gonna be amazing after RDR II",
-      "content": "submitted by /u/AnimalDesatado to r/GTA [link] [comments]",
-      "link": "https://www.reddit.com/r/GTA/comments/1qfavht/im_so_hyped_about_this_aspect_the_level_of/",
-      "author": "/u/AnimalDesatado",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T11:33:42.796554"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfawcy",
-      "type": "search",
-      "subreddit": "RetroAchievements",
-      "title": "Can I use retroachievements for a autosplitter?",
-      "content": "I am trying to make a automatic splitter for the game The Legacy of Goku 2 on Emuhawk but I can't get it working. Does someone know how it works? submitted by /u/superkakakarrotcake to r/RetroAchievements [link] [comments]",
-      "link": "https://www.reddit.com/r/RetroAchievements/comments/1qfawcy/can_i_use_retroachievements_for_a_autosplitter/",
-      "author": "/u/superkakakarrotcake",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T11:33:42.796827"
-    },
-    {
       "id": "https://www.reddit.com/r/gamedev/t3_1qfbdhs",
       "type": "post",
       "subreddit": "gamedev",
@@ -4367,7 +4307,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-18T09:39:11.631832"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qg4rbp",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Texturing M2 Browning Weapon",
+      "content": "submitted by /u/geo_ilias [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qg4rbp/texturing_m2_browning_weapon/",
+      "author": "/u/geo_ilias",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T10:10:40.337971"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qg4n0v",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I’m building a cozy farming game on my own — would love feedback on this clip",
+      "content": "submitted by /u/Unlaed [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qg4n0v/im_building_a_cozy_farming_game_on_my_own_would/",
+      "author": "/u/Unlaed",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T10:10:40.338002"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qg4mc3",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "BrewOtaku - An Awesome Homebrew Retro Magazine | Deep Dive Commentary",
+      "content": "BrewOtaku is a brilliant homebrew and retro gaming magazine that somehow slipped past most retro fans. In this video, we explore what BrewOtaku is, where it came from, and why it deserves far more attention from the retro gaming community. submitted by /u/GentlemensPixelClub [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qg4mc3/brewotaku_an_awesome_homebrew_retro_magazine_deep/",
+      "author": "/u/GentlemensPixelClub",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T10:10:40.338014"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qg4uzf",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Is there a way to download a specific export template?",
+      "content": "I use the android editor and I barely have 3 gigs of storage left and I need to export my game the full template is 1 gig how can I download one template which is the android template. submitted by /u/Fishfrothemeditrean [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qg4uzf/is_there_a_way_to_download_a_specific_export/",
+      "author": "/u/Fishfrothemeditrean",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T10:10:40.338063"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qg4wrg",
+      "type": "search",
+      "subreddit": "Splitgate",
+      "title": "Appreciation Post (Boost of Positivity)",
+      "content": "Shoutout to the devs for transmuting all the feedback whether good or bad, and using it to deliver to us something special and amazing. We see you and appreciate all the time, effort and hard work you’ve put into making Splitgate the legendary Arena shooter that it is! As an OG Splitter it’s so cool to see how far this game has come and I look forward to how far it will continue to go! submitted by /u/Rarestunknown1047 to r/Splitgate [link] [comments]",
+      "link": "https://www.reddit.com/r/Splitgate/comments/1qg4wrg/appreciation_post_boost_of_positivity/",
+      "author": "/u/Rarestunknown1047",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T10:10:40.340060"
     }
   ],
-  "last_updated": "2026-01-18T09:40:41.899361"
+  "last_updated": "2026-01-18T10:12:30.232943"
 }
