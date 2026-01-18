@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qfcwn4",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Fresh New Animations (Assets for Devs) 🌊🫧",
-      "content": "submitted by /u/_V3X3D_ [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qfcwn4/fresh_new_animations_assets_for_devs/",
-      "author": "/u/_V3X3D_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T13:43:26.737968"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qfcujn",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I released the demo for my medieval village builder",
-      "content": "submitted by /u/Marginal_act [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qfcujn/i_released_the_demo_for_my_medieval_village/",
-      "author": "/u/Marginal_act",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T13:43:26.737974"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfdggh",
-      "type": "search",
-      "subreddit": "facebook",
-      "title": "If somebody stole your phone, he is the king of your Facebook account and you are nothing",
-      "content": "As the title say! to change your password you need a code sent to the sms or whatsapp... if you dont have access to that you're out of the game... meanwhile the thief can keep using your account on your phone with no stress... submitted by /u/robinsonfriday to r/facebook [link] [comments]",
-      "link": "https://www.reddit.com/r/facebook/comments/1qfdggh/if_somebody_stole_your_phone_he_is_the_king_of/",
-      "author": "/u/robinsonfriday",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T13:43:26.737986"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qfdhlo",
       "type": "search",
       "subreddit": "ChantsofSennaar",
@@ -4151,7 +4115,79 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-18T11:07:56.657525"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qg6pvi",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We added a survey to our demo and it was the best decision for a motivation boost! So many kind and supportive words from players.",
+      "content": "submitted by /u/wannadie_rocks [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qg6pvi/we_added_a_survey_to_our_demo_and_it_was_the_best/",
+      "author": "/u/wannadie_rocks",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T12:17:55.860700"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qg752n",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Major Game Update Vlog1",
+      "content": "submitted by /u/goblagames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qg752n/major_game_update_vlog1/",
+      "author": "/u/goblagames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T12:17:55.860711"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qg6zob",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "[DAY 2] Added shattering and new effects to my rolling game!",
+      "content": "submitted by /u/Dusty_7_ [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qg6zob/day_2_added_shattering_and_new_effects_to_my/",
+      "author": "/u/Dusty_7_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T12:17:55.860748"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qg6r32",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Is there any better way of getting child nodes with specific classes?",
+      "content": "I know I can just create a single function that has a parameter that determines what type of class to return: func get_component(type : String): if type == \"breakable_block_component\": return BreakableBlockComponent elif type == \"pickable_block_component\": return PickableBlockComponent but I can't really give the function a return type making it hard to use the dot operator. But I know that I can also do ComponentGetter.get_component(\"breakable_block_component\") as BreakableBlockComponent but it's a bit too much for me. Any better way to approach this? Thank you. submitted by /u/glacierblob [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qg6r32/is_there_any_better_way_of_getting_child_nodes/",
+      "author": "/u/glacierblob",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T12:17:55.860767"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qg6dj7",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Finally added more juice on the playing field!",
+      "content": "submitted by /u/Nozomu57 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qg6dj7/finally_added_more_juice_on_the_playing_field/",
+      "author": "/u/Nozomu57",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T12:17:55.860774"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qg6y15",
+      "type": "search",
+      "subreddit": "pokerogue",
+      "title": "Completed Classic with all starters, all challenges and achievements - AMA",
+      "content": "Figured I'd post this both to commemorate the milestone but also to answer questions if anyone would find it useful, from monotype runs to general stuff. Much love to the devs for this game. submitted by /u/Silansi to r/pokerogue [link] [comments]",
+      "link": "https://www.reddit.com/r/pokerogue/comments/1qg6y15/completed_classic_with_all_starters_all/",
+      "author": "/u/Silansi",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T12:17:55.864533"
     }
   ],
-  "last_updated": "2026-01-18T11:34:49.406320"
+  "last_updated": "2026-01-18T12:19:22.627554"
 }
