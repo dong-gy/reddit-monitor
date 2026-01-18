@@ -1,138 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qf4arz",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Step 1 of porting our roguelike Ark Defender to Godot is making missiles fire & asteroids explode",
-      "content": "submitted by /u/MischiefMayhemGames [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qf4arz/step_1_of_porting_our_roguelike_ark_defender_to/",
-      "author": "/u/MischiefMayhemGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T05:11:40.406553"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qf45mc",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Animation Keeps Looping",
-      "content": "I'm working through Heartbeast's ninja platformer 2d tutorial series and I am having a kind of weird issue where the attack animation keeps looping over and over even though the animation is set to not do that as you can see from the picture below Some context for people who haven't watched his video ( https://youtu.be/GtH6\\_EctXh4?si=e3lel\\_q47FN5HD09): Basically he has different animations for lower and upper, and syncs them so that melee attacks can be done while running. The player controller script is also given below. Note that this is not the final script from the video as the final script behaves more or less as intended as far as I can tell. But there is a point in the video at about 9:30 where he does an attack and then it hangs on the last frame of the attack because the upper and lower are not synced at all, hence the content of the _ready function in the code block. But when I copy his code and the animation setup exactly (at least as far as I can tell), I get the looping behavior that I talked about earlier. Anyone know why this is happening? https://preview.redd.it/2f6q15r9cudg1.png?width=1206&format=png&auto=webp&s=b77c7c1a61f312736acf90f49eb9cbfd7bce2b9a extends CharacterBody2D @onready var anchor: Node2D = $Anchor @onready var animation_player_lower: AnimationPlayer = $AnimationPlayerLower @onready var animation_player_upper: AnimationPlayer = $AnimationPlayerUpper func _ready() -> void: animation_player_lower.current_animation_changed.connect(func(animation_name: String): animation_player_upper.play(animation_name) ) func _physics_process(delta: float) -> void: var x_input = Input.get_axis(\"ui_left\", \"ui_right\") if not is_on_floor(): velocity.y += 600 * delta velocity.x = x_input * 80 if Input.is_action_just_pressed(\"ui_up\") and is_on_floor(): velocity.y = -200 if Input.is_action_just_pressed(\"ui_accept\"): animation_player_upper.play(\"attack\") if x_input == 0: animation_player_lower.play(\"stand\") else: anchor.scale.x = sign(x_input) animation_player_lower.play(\"run\") if not is_on_floor(): animation_player_lower.play(\"jump\") move_and_slide() submitted by /u/BayesicGaming [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qf45mc/animation_keeps_looping/",
-      "author": "/u/BayesicGaming",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T05:11:40.406593"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qf4cxy",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "Ola",
-      "content": "Hey everyone, so I'm torn between storytelling and game design. My mom tells me to follow my heart, but if it were up to me, I'd do both. I'd like to know, you know? Is game design worth it? How do people get contracts to do it? submitted by /u/bia_blox90201 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qf4cxy/ola/",
-      "author": "/u/bia_blox90201",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T05:11:40.406608"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qf48gi",
-      "type": "search",
-      "subreddit": "ExplodingKittens",
-      "title": "Survivor: Let’s Go To Rocks QR Code",
-      "content": "SPOILERS FOR THE NEW SURVIVOR GAME!! The new survivor game arrived, and I’m so excited to play it tomorrow!! The old one had a hidden card in the box, this one has a QR code that leads you to a website where you need a password. I’ve been trying to find it but no luck. Has anyone figured it out yet? submitted by /u/itsjustlucca to r/ExplodingKittens [link] [comments]",
-      "link": "https://www.reddit.com/r/ExplodingKittens/comments/1qf48gi/survivor_lets_go_to_rocks_qr_code/",
-      "author": "/u/itsjustlucca",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T05:11:40.406717"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qf446a",
-      "type": "search",
-      "subreddit": "cpp_questions",
-      "title": "Strange std::find_if behavior",
-      "content": "Hi everyone I am having strange std::find_if behavior with my C++ program. It is going to be hard to describe without pictures. So basically I am making a card game and I have sorted this array of cards called my_FU_sorted (size 3). Now every card has a rank and a suit and if a card is considered to be out of play, I give it a rank of 13. Now I run this code: int first_playable_index = std::find_if(my_FU_sorted.begin(), my_FU_sorted.end(), (const Card& c) {return c.playable(p);}) - my_FU_sorted.begin(). p stands for the pile of cards and its basically saying \"In this sorted hand of cards my_FU_sorted, give me the first index where that card is playable\". I have made cards with rank == 13 unplayable. Ok. Thats the first part. Now when I run the program the first time, my_FU_sorted is made of 3 cards and is {Card1(rank =13), Card2(rank == 5), Card3(rank == 8)} yet somehow it returns first_playable_index as 0. But then on the second run my_FU_sorted is now {Card1(rank =13), Card2(rank ==5), Card3(rank==8)} yet somehow some miracle first_playable_index is now 1, rather than 0 the first time. I am really at a loss for words. It makes no sense. Especially when I run in GDB my_FU_sorted[0].playable(p) for both times, and they both say false, so it should've not been possible for first_playable_index to be 0 the first time. submitted by /u/johnnyb2001 to r/cpp_questions [link] [comments]",
-      "link": "https://www.reddit.com/r/cpp_questions/comments/1qf446a/strange_stdfind_if_behavior/",
-      "author": "/u/johnnyb2001",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T05:11:40.406821"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qf4gro",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "a little help",
-      "content": "Hey everyone, so I'm torn between history and game design. My mom tells me to follow my heart, but if it were up to me, I'd do both. I wanted to know, you know? Is game design worth it? How do people get contracts to do it? I'm so insecure, I really don't know what to do. I'm 16, but I already want to be sure of what I want to do, you know? Games are so good, I don't know, designing scenery, doing character art seems attractive, but studying the French Revolution and how people in the past were like animals... I'm really torn. submitted by /u/bia_blox90201 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qf4gro/a_little_help/",
-      "author": "/u/bia_blox90201",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T05:41:06.013247"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qf4svt",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Reko - Discover Movies & TV Shows",
-      "content": "submitted by /u/Acceptable_Scar9267 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qf4svt/reko_discover_movies_tv_shows/",
-      "author": "/u/Acceptable_Scar9267",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T05:41:06.013295"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qf4ifu",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "A Procedural Voxel Game with Cubic Planets and Space",
-      "content": "submitted by /u/Juenjolamepasas [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qf4ifu/a_procedural_voxel_game_with_cubic_planets_and/",
-      "author": "/u/Juenjolamepasas",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T05:41:06.013301"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qf4jwe",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Voice Blueprint editing what else?",
-      "content": "What functionality should I add to voice editing I just added blueprint and working on materials and animations but new to Unreal? Thanks https://www.youtube.com/watch?v=nfgr6Q75qaw submitted by /u/Ok-Suspect-9855 [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qf4jwe/voice_blueprint_editing_what_else/",
-      "author": "/u/Ok-Suspect-9855",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T05:41:06.013337"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qf4sm6",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Solo developing cozy crest for 3 years now, would love to hear feedback!",
-      "content": "submitted by /u/Unlaed [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qf4sm6/solo_developing_cozy_crest_for_3_years_now_would/",
-      "author": "/u/Unlaed",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T05:41:06.013356"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qf4ixv",
-      "type": "search",
-      "subreddit": "teenagers",
-      "title": "FUCK VIBE CODING",
-      "content": "I AM NOT LETTING NO GOD DAMN CLANKER TRY TO MAKE A GOD DAMN SITE, GAME, OR ANYTHING ALIKE! I WOULD RATHER (AND STILL DO) CODE WITH MY ACTUAL HUMAN HANDS INSTEAD OF LETTING SOME SHITTY ASS GOD DAMN ROBOT MAKE SOME LOW EFFORT BULLSHIT (sorry for the crashout) submitted by /u/im461 to r/teenagers [link] [comments]",
-      "link": "https://www.reddit.com/r/teenagers/comments/1qf4ixv/fuck_vibe_coding/",
-      "author": "/u/im461",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-17T05:41:06.013903"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qf5lqe",
       "type": "search",
       "subreddit": "TransferToTop25",
@@ -4715,7 +4583,43 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-18T05:15:37.933118"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qfzxm2",
+      "type": "search",
+      "subreddit": "MMORPG",
+      "title": "New browser based lite-mmo",
+      "content": "Little Potion Garden is something I’ve wanted to make for a long time, so I finally sat down and built it myself. It’s a cozy, browser based lite MMO where you can brew potions, grow ingredients, and team up with other players to take down big, ridiculous bosses. No downloads, no grind, no pressure. Just open your browser and play. I’m a dad from Sydney who’s been building games and systems for years, and this one is fully self funded and made in the scraps of time that exist around parenting and life. My 11-year-old daughter is creating the artwork for the game as she learns digital art, and I’m handling the code, design, and everything under the hood. Some visuals are still placeholders while she works through each asset, but every final piece of art you see in the game is hers. I built Little Potion Garden because I love MMOs, but I don’t have the time to live inside one anymore. I wanted something lightweight, social, and genuinely fun to jump into whenever I get a moment. A game that feels welcoming instead of overwhelming. A world that grows over time, not one that demands your entire schedule. If you’re into cozy games, browser MMOs, or just want a place to relax and brew something magical, I think you’ll enjoy what we’re building here. The game updates every week, the art keeps improving as my daughter adds more of her work, and the world is slowly becoming exactly what we imagined. Thanks for giving a small, family-built project a chance. submitted by /u/Affectionate_Pilot99 to r/MMORPG [link] [comments]",
+      "link": "https://www.reddit.com/r/MMORPG/comments/1qfzxm2/new_browser_based_litemmo/",
+      "author": "/u/Affectionate_Pilot99",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T05:43:46.737569"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qg0b5m",
+      "type": "search",
+      "subreddit": "fanStands",
+      "title": "I finally found a Reddit where I can do what I love: create stands, but of fictional characters, like from games or series.",
+      "content": "I got blocked and had several posts deleted where I wanted to show my Stands. I create Stands for any kind of character I can think of. Here's Ralsei's, a character from Deltarune. I hope you like the idea. I just wondered one day, what would happen if X character had a Stand? I hope you'll share my idea here. Tell me any video game or anime character, and if you get a lot of support, or if I like the idea, I'll make a Stand for them. Please don't vote for me :( submitted by /u/Slow_Appointment8361 to r/fanStands [link] [comments]",
+      "link": "https://www.reddit.com/r/fanStands/comments/1qg0b5m/i_finally_found_a_reddit_where_i_can_do_what_i/",
+      "author": "/u/Slow_Appointment8361",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T05:43:46.737818"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qg0az1",
+      "type": "search",
+      "subreddit": "Codependency",
+      "title": "What are signs of a child(19F) having emotional incest towards parent? (44M)",
+      "content": "My(31F) partner(44M) is very close with his daughter(19F). I long ago suspected emotional incest but he assured me he never confides in her or looks to her for mood stability. However, I strongly believe she feels like it is a responsibility of hers. She feels like it is her job to make her dad happy, and she constantly asks for alone time/trips. She follows him around the house like a puppy dog (even into the bathroom) where he has to stare at her like, are you gonna leave? She cannot function without him. She describes her body to him, asks inappropriate questions about his genitals. She’ll even lay on the floor right in front of him and shake her butt. He says he doesn’t establish boundaries bc it’s a free for all at their mamas. Basically, he doesn’t want to be a prude bc their mom is so open. He wants to be the fun parent…to the point that both of his kids have zero responsibility in our home and literally get whatever they ask for. It’s their way or the highway. Anyway, I just feel like the signs are there for both of them. There’s an immense codependency. She just went back to college after a month long break and he’s been anxious and moody since she left. He’s been snappy at me and distant. She calls every hour of the day, when she visits from college she can’t be away from him. She can’t even stay the night at her mom’s house and when her mom invites her to dinner, she invites my partner to go too! And she loves her mom. Has the greatest relationship with her, but cannot be away from dad. Idk what to do or if I’m seeing things incorrectly. submitted by /u/Silly_Assistance_558 to r/Codependency [link] [comments]",
+      "link": "https://www.reddit.com/r/Codependency/comments/1qg0az1/what_are_signs_of_a_child19f_having_emotional/",
+      "author": "/u/Silly_Assistance_558",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-18T05:43:46.737864"
     }
   ],
-  "last_updated": "2026-01-18T05:17:14.207456"
+  "last_updated": "2026-01-18T05:45:40.111056"
 }
