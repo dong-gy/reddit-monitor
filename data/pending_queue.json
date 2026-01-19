@@ -1,126 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qfujeq",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "How should I learn Godot?",
-      "content": "Hi! I’m pretty new to proper text-based coding (my only prior experience is with scratch and a little Java) and was wondering what I should do to reach the intermediate level in Godot. I followed brackeys tutorial (although a little dated) and also watched his video on GDscript. I want to learn how I should continue learning 2D programming in Godot. Theres not a lot of video tutorials out there (at least to the quality of brackeys) and I was wondering where I should go from here. I still feel very clueless at the moment haha Thanks! submitted by /u/BetterSchwifty [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qfujeq/how_should_i_learn_godot/",
-      "author": "/u/BetterSchwifty",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T03:00:38.925887"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qfugxe",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I made GOTY 2026 😎 you're welcome",
-      "content": "SEEK others with haste to achieve great score EVADE the one who seeks. You will be rewarded if you are the last MAKE MAPS to HUNT and BE HUNTED in a variety of environments This is... Hide and Schmove!! https://github.com/GeeTwentyFive/HnS submitted by /u/GeeTwentyFive [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qfugxe/i_made_goty_2026_youre_welcome/",
-      "author": "/u/GeeTwentyFive",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T03:00:38.925901"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qfux3k",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Weird Camera/Rigidbody behavior on my Player when walking into walls",
-      "content": "Hello everyone, I have a strange bug where when I crash into a wall with my Player, and I try to move/rotate the camera, the Player goes crazy and starts spinning in one direction, as if there was a joystick drift, when in fact... that's not the case, I'm using the keyboard/mouse. Does it have anything to do with probuilder walls ? And this is the PlayerController.cs I have on it : https://pastebin.com/JmC05mDz submitted by /u/Total-Replacement778 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qfux3k/weird_camerarigidbody_behavior_on_my_player_when/",
-      "author": "/u/Total-Replacement778",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T03:00:38.925931"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qfwziu",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Flowchart Animation",
-      "content": "Hi im new to unreal and wanted to know, how would I create a detroit become human like flowcharts animation where it pans during the path and highliting the path the player took. preferably using blueprints or cpp. Thank you. submitted by /u/saoeifjasasef2 [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qfwziu/flowchart_animation/",
-      "author": "/u/saoeifjasasef2",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T03:00:38.925942"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qfwwva",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "For the 3 people who care I made new floor texture for Hot Lava Hot Spring.",
-      "content": "For the 3 people who care I made new floor texture for Hot Lava Hot Spring in my new game. wishlist now if you want to support🍃A Tiny Life🍃. http://store.steampowered.com/app/4155480/A_Tiny_Life/ submitted by /u/SnuggleBugLovee [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qfwwva/for_the_3_people_who_care_i_made_new_floor/",
-      "author": "/u/SnuggleBugLovee",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T03:00:38.925956"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qfuqol",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "This hidden Gem, after 10 years of Solo Development finaly coming live soon",
-      "content": "Find more about the game: https://store.steampowered.com/app/1434050/SELINI/ submitted by /u/TheseObject9986 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qfuqol/this_hidden_gem_after_10_years_of_solo/",
-      "author": "/u/TheseObject9986",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T03:00:38.926106"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qfugqe",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "Why are game developers so resistant to digital storage?",
-      "content": "I’m thinking of games like minecraft, terraria, and stardew valley where they force you into a chest system. People have made mods in Minecraft and terraria that even allow for progression to increase digital storage too so it doesn’t have to break the game. so much of this game design is looking through and organizing chests. terraria has implemented some really cool ways to interact with chests which make it a little easier, but why not just go digital? submitted by /u/Equal_Personality157 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qfugqe/why_are_game_developers_so_resistant_to_digital/",
-      "author": "/u/Equal_Personality157",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T03:00:38.926149"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfwzdl",
-      "type": "search",
-      "subreddit": "Miniswap",
-      "title": "[H] space marine codex code [W] necron codex code [Loc] purcell Oklahoma",
-      "content": "Looking to trade a unused space marine codex code for the 40k app for a unused necron code. Started a black templar army but bought the wrong codex for it. I have 1000 points of necrons and want to use the app to play games with friends but my lgs doesn't have any in stock and my next game is coming up so ordering one would take to long. submitted by /u/Maleficent-Tackle-28 to r/Miniswap [link] [comments]",
-      "link": "https://www.reddit.com/r/Miniswap/comments/1qfwzdl/h_space_marine_codex_code_w_necron_codex_code_loc/",
-      "author": "/u/Maleficent-Tackle-28",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T03:00:38.926974"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfwz9w",
-      "type": "search",
-      "subreddit": "CATPreparationChannel",
-      "title": "MBA is just a platform not a promise",
-      "content": "submitted by /u/TastyHearing122 to r/CATPreparationChannel [link] [comments]",
-      "link": "https://www.reddit.com/r/CATPreparationChannel/comments/1qfwz9w/mba_is_just_a_platform_not_a_promise/",
-      "author": "/u/TastyHearing122",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T03:00:38.927072"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qfwvud",
-      "type": "search",
-      "subreddit": "GTA",
-      "title": "GTA 6 wish list",
-      "content": "Lots of cars (since gta online has lots of cars so shouldn’t be a reason why) and car customization like plates,tint etc Lots of other vehicles (since gta online has a bunch of planes I believe gta 6 should have different jets and helicopters for the military base) Director mode (fun to play around in) Some dark stuff to make the game feel a little scary (gta 4 type stuff and some gta 5) Lots of properties/businesses Online mode merge(I’m want every ported but if not possible just a network merge) (controversial) futuristic cars since they’re fun GTA online mechanic but with the npc in your car but gets out when delivered Lots of heist in online mode Older games character in gta 6 The ability to use ceo/mc abilities in gta 6 online Good damage models Fun glitches (no god mode or anything that ruins the playing experience) that they don’t patch No modded clothing Hopefully no inflation Solo business Proper tint and how it works Going to other island like Cayo or north Yankton (I know it’s not a island) Clothing physics being less static on online (Rumoured) phone battery not dying(I heard from TikTok that you’ll have to charge your phone wish that’s not true just increase I forget the charge it) Snack being the same in gta online Ez escape routes GTA 5 humor Merch for gta 6 Cults Websites Wild life being hostile if a predator like the cougar (GTA online and gta 5 is the only game I play I watch older gta game play on YouTube and only played gta 5 story till the jewl store heist due to me having to get rid of my xbow one due to accident looking to buy gta online for the ps5 though) submitted by /u/Suitable_Chemist_879 to r/GTA [link] [comments]",
-      "link": "https://www.reddit.com/r/GTA/comments/1qfwvud/gta_6_wish_list/",
-      "author": "/u/Suitable_Chemist_879",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T03:00:38.927862"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qfwvu3",
       "type": "search",
       "subreddit": "kingdomcome",
@@ -5567,7 +5447,79 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-19T08:18:14.497069"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qgyo4p",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Hi! I recently released the demo of my game on Steam, I’d love to get feedback on what I could add or improve!!",
+      "content": "Sunsave is a relaxing incremental game with a vaporwave and minimalist vibe. Destroy meteors, collect resources, and evolve the Sun with upgrades that unlock new mechanics! Game page: https://store.steampowered.com/app/4131110?utm_source=demo submitted by /u/Educational-Use7288 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgyo4p/hi_i_recently_released_the_demo_of_my_game_on/",
+      "author": "/u/Educational-Use7288",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T08:53:52.750837"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qgyvut",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "squash and stretch and skew",
+      "content": "trying to make the player character more alive/expressive without creating more animation frames lol submitted by /u/KansasCitySunshine [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qgyvut/squash_and_stretch_and_skew/",
+      "author": "/u/KansasCitySunshine",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T08:53:52.750876"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgyodx",
+      "type": "search",
+      "subreddit": "AnimalCrossing",
+      "title": "Resetti is a life saver, but..",
+      "content": "Overgrown flower island no more! My only wish is that he could clean up the in game path, like he can do with the custom design codes cause I have so much path I gotta manually remove 💔 submitted by /u/PracticalCharge3741 to r/AnimalCrossing [link] [comments]",
+      "link": "https://www.reddit.com/r/AnimalCrossing/comments/1qgyodx/resetti_is_a_life_saver_but/",
+      "author": "/u/PracticalCharge3741",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T08:53:52.751615"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgz3fx",
+      "type": "search",
+      "subreddit": "LenovoLegion",
+      "title": "Just got this laptop!!",
+      "content": "I recently bought this laptop and so far so good! everything is going fine and smooth, I'm loving the OLED display and it gives me the premium quality performance. Just a question, what are the do's and don't about this laptop? do I need to update everything if an update pops up? download any drivers and stuff, ways to get the full potential of this laptop? any advice would do. thanks ! submitted by /u/Grand_Squash_751 to r/LenovoLegion [link] [comments]",
+      "link": "https://www.reddit.com/r/LenovoLegion/comments/1qgz3fx/just_got_this_laptop/",
+      "author": "/u/Grand_Squash_751",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T08:53:52.752198"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgz1xr",
+      "type": "search",
+      "subreddit": "NepalSocial",
+      "title": "Help regarding career",
+      "content": "I am a graphics designer, been working since 3 years. Lately i have decided maybe I should step up myself and to do that, either game dev or 3d modeling and animation sikam vaneko... what might be better? please provide insights and how can one start on this🤔 submitted by /u/Former-Pear-1589 to r/NepalSocial [link] [comments]",
+      "link": "https://www.reddit.com/r/NepalSocial/comments/1qgz1xr/help_regarding_career/",
+      "author": "/u/Former-Pear-1589",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T08:53:52.752766"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qgz1jd",
+      "type": "search",
+      "subreddit": "technepal",
+      "title": "Help regarding career",
+      "content": "I am a graphics designer, been working since 3 years. Lately i have decided maybe I should step up myself and to do that, either game dev or 3d modeling and animation sikam vaneko... what might be better? please provide insights and how can one start on this🤔 submitted by /u/Former-Pear-1589 to r/technepal [link] [comments]",
+      "link": "https://www.reddit.com/r/technepal/comments/1qgz1jd/help_regarding_career/",
+      "author": "/u/Former-Pear-1589",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T08:53:52.752776"
     }
   ],
-  "last_updated": "2026-01-19T08:20:15.014768"
+  "last_updated": "2026-01-19T08:55:50.768943"
 }
