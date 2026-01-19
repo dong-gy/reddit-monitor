@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qg3tia",
-      "type": "search",
-      "subreddit": "katamari",
-      "title": "THE BEARS THE FUCKING BEARSSSSS I'M LOSING MY GODDAMN MIND",
-      "content": "i had zero problems with this game, i was loving it and eager to play the other games in the series once i finished this one. that was until the BEARS. URSA MAJOR IS SPECIFICALLY DESIGNED TO INFURIATE ME THE DEVS WALKED INTO MY HOUSE AND KILLED MY DOG AND STOLE MY TV WHY DID THEY MAKE THIS submitted by /u/DontPostDontNeedName to r/katamari [link] [comments]",
-      "link": "https://www.reddit.com/r/katamari/comments/1qg3tia/the_bears_the_fucking_bearsssss_im_losing_my/",
-      "author": "/u/DontPostDontNeedName",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T09:10:40.529183"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qg3t1o",
-      "type": "search",
-      "subreddit": "WutheringWaves",
-      "title": "WuWa story doesnt make me feel excited but it still drags me in the game for some reason.",
-      "content": "yes the game has cool combat and graphics, but so are many other gacha games these days. But for some reason i just come back to the game like the game has more potential. Its like i see the huge effort they are putting in the game. But it still doesnt excite me with the world and story. (The lore is still great though) Then i realized I come back to this game not because i love the game. its because i love the devs trying to show their passion with every few updates. submitted by /u/Tawxif_iq to r/WutheringWaves [link] [comments]",
-      "link": "https://www.reddit.com/r/WutheringWaves/comments/1qg3t1o/wuwa_story_doesnt_make_me_feel_excited_but_it/",
-      "author": "/u/Tawxif_iq",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T09:10:40.529226"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qg3vem",
-      "type": "search",
-      "subreddit": "Spacemarine",
-      "title": "Hi, I want to buy space marine 2 but I need to know if I can run it well",
-      "content": "My laptop is an HP victus with a 12th gen i5 12450H, RTX4050 and 16Gb. How much fps and performance can I spect? I really want to buy this game to play with some friends but i gotta make sure I don't waste my money in something I can run well, does someone has the same or similar specs? How it goes? submitted by /u/Alka1227 to r/Spacemarine [link] [comments]",
-      "link": "https://www.reddit.com/r/Spacemarine/comments/1qg3vem/hi_i_want_to_buy_space_marine_2_but_i_need_to/",
-      "author": "/u/Alka1227",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T09:10:40.530341"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qg4ae7",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Native HTML / JS adventure game engine",
-      "content": "Hi all. I started building a point and click adventure for fun in pure HTML/JS so it would run on any device, but soon realised it made sense to build a generic engine. So new games can be created purely in YAML files with accompanying assets, and the engine parses and executes them. I’m sure I’m reinventing the wheel here so please talk me out of it! submitted by /u/philgooch [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qg4ae7/native_html_js_adventure_game_engine/",
-      "author": "/u/philgooch",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T09:39:11.630429"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qg439q",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Maps in first-person shooters",
-      "content": "What makes a good map in an FPS game? What are the best FPS maps from a design standpoint, in your opinion? submitted by /u/CrowFGC [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qg439q/maps_in_firstperson_shooters/",
-      "author": "/u/CrowFGC",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T09:39:11.630443"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qg47j3",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Glimpse from the hidden forest in our game!",
-      "content": "submitted by /u/MalboMX [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qg47j3/glimpse_from_the_hidden_forest_in_our_game/",
-      "author": "/u/MalboMX",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T09:39:11.630450"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qg44ju",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Can you understand the outcome of the dice roll? If no, how can I improve it?",
-      "content": "submitted by /u/eren_kose1 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qg44ju/can_you_understand_the_outcome_of_the_dice_roll/",
-      "author": "/u/eren_kose1",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T09:39:11.630460"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qg4dg7",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Styles A or B",
-      "content": "https://preview.redd.it/j64g2o7mu2eg1.png?width=1033&format=png&auto=webp&s=11a1f51ff4744c797aca5725b4fdf67df7346710 Is there a 'best practice' where opacity comes back to bite you in the #@#$? I like opacity because using this style I don't need to 'pause' the game while the player is doing stuff in menus, this might be handy because it's a management game so, plenty of stuff to do via menus, but there are plenty of simulated RPG elements too, so I don't want to 'keep it going' when you might miss something important or multiple context menus start to queue. submitted by /u/mullerjannie [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qg4dg7/styles_a_or_b/",
-      "author": "/u/mullerjannie",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T09:39:11.630478"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qg481v",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "so when i swat a fly, it takes one from the flycount, but instead it stays at seven, why?",
-      "content": "i have one fly script applied to eight instances of a fly, when you click on them, they die submitted by /u/imlivinginhell123 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qg481v/so_when_i_swat_a_fly_it_takes_one_from_the/",
-      "author": "/u/imlivinginhell123",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T09:39:11.630502"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qg4ca6",
       "type": "search",
       "subreddit": "gamedevscreens",
@@ -5639,7 +5531,103 @@
       "search_keyword": "",
       "relevance_score": 0,
       "added_at": "2026-01-19T14:22:44.026242"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qh5ms3",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "How do I market my memory game?",
+      "content": "I've signed up for Next Fest with my first-ever game, a memory game featuring a modern twist/upgrade system and progression. All of the info I hear online was that you get your game on Next Fest and then you send it to YouTubers to hopefully play it for marketing. The issue is that multiple YouTubers reached out to me after me contacting them, saying thanks, but this isn't the kind of game I play on my channel. I have tried to look for people who cover similar games, but honestly, there isn't a market for videos like this on YouTube, I believe. If anyone has any advice on other ways to market this game or any channels you think could be appropriate, please let me know. Here is a hyperlink to my game Mega Memory , if you want a reference to what I'm talking about. submitted by /u/BoneMarrowGames [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qh5ms3/how_do_i_market_my_memory_game/",
+      "author": "/u/BoneMarrowGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T14:50:53.093819"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qh5mxt",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Testing Out Mechanics before i clean up",
+      "content": "Got my Status Effects working and healing working now it's time to go clean up all the trash i left laying around my blueprints submitted by /u/GamerForImprovement [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qh5mxt/testing_out_mechanics_before_i_clean_up/",
+      "author": "/u/GamerForImprovement",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T14:50:53.093863"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qh5zpm",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Some rooms for our life sim (feedback very welcome!)",
+      "content": "Hi all, I wanted to show you some rooms we’ve been working on for our life sim. We’ll be splitting these into separate assets so players can mix and match to build their own houses. Thoughts and feedback very welcome! submitted by /u/_Flimango_ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qh5zpm/some_rooms_for_our_life_sim_feedback_very_welcome/",
+      "author": "/u/_Flimango_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T14:50:53.093886"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qh5kus",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "We’re the devs of Paddlenoid, and talking while playing is harder than it looks!",
+      "content": "This is us doing a practice run before Steam Next fest, playing our own game while trying to talk coherently over it 😊. It's a lot of fun but also a lot more tricky than it seems! The game is Paddlenoid. It's a coop brick breaker with a story and an interesting twist. Steam link with a free demo here: https://store.steampowered.com/app/2789390/Paddlenoid/ Any streamers have some pointers for us? submitted by /u/DeadbugProjects [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qh5kus/were_the_devs_of_paddlenoid_and_talking_while/",
+      "author": "/u/DeadbugProjects",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T14:50:53.093932"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qh5r71",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "can i get suggestions for my game pls cause i cant find anyone to give me any",
+      "content": "uhhh so like... please check it out 🥰 submitted by /u/AdRepresentative1234 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qh5r71/can_i_get_suggestions_for_my_game_pls_cause_i/",
+      "author": "/u/AdRepresentative1234",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T14:50:53.093956"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qh5j9c",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "CaseOh played the horror game I made in Godot!",
+      "content": "honestly seeing the game with 67k viewers on Twitch was a jumpscare I won't forget anytime soon submitted by /u/Wolfyer [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qh5j9c/caseoh_played_the_horror_game_i_made_in_godot/",
+      "author": "/u/Wolfyer",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T14:50:53.093964"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qh6546",
+      "type": "search",
+      "subreddit": "suns",
+      "title": "[DDT] 1/19/26 - Next Stop, Brooklyn - Suns vs Nets @ 5:30 pm MST",
+      "content": "Booker returned to the lineup after missing one game with an ankle injury and helped secure a big win at the Garden. After enjoying a long weekend in New York, the Suns now shift their focus to the Brooklyn Nets. They’ll be looking to grab another dub, but keeping MPJ locked down will be key. Will Jalen Green make his return in Brooklyn? 👀🔥 #SunsUP TV: Suns+, Arizona's Family 3TV / Arizona's Family Sports Radio: KMVP 98.7 / S: KSUN submitted by /u/SeraphNatsu to r/suns [link] [comments]",
+      "link": "https://www.reddit.com/r/suns/comments/1qh6546/ddt_11926_next_stop_brooklyn_suns_vs_nets_530_pm/",
+      "author": "/u/SeraphNatsu",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T14:50:53.094792"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qh5y2v",
+      "type": "search",
+      "subreddit": "desktops",
+      "title": "Rate my unemployment Desktop 0-10 or A-F",
+      "content": "Used to be much much messier than now. Cleaned it up a while ago and want to keep some minimalism for the sake of productivity. submitted by /u/StoneTaser to r/desktops [link] [comments]",
+      "link": "https://www.reddit.com/r/desktops/comments/1qh5y2v/rate_my_unemployment_desktop_010_or_af/",
+      "author": "/u/StoneTaser",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T14:50:53.095389"
     }
   ],
-  "last_updated": "2026-01-19T14:24:40.961358"
+  "last_updated": "2026-01-19T14:52:40.837090"
 }
