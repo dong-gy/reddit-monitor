@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qg7yqw",
-      "type": "search",
-      "subreddit": "redditstreak",
-      "title": "Phew. Almost missed it",
-      "content": "submitted by /u/DimensionBreaker4lif to r/redditstreak [link] [comments]",
-      "link": "https://www.reddit.com/r/redditstreak/comments/1qg7yqw/phew_almost_missed_it/",
-      "author": "/u/DimensionBreaker4lif",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T13:03:43.076260"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qg7zw6",
-      "type": "search",
-      "subreddit": "CODWarzone",
-      "title": "BO7 Warzone is Awful for Newer Players",
-      "content": "I've recently been trying to get a friend into Warzone and my eyes have been opened to how hostile this game is to newer players. When I started out in 2020, I was pretty terrible at FPS games. I literally used to sit in the same house every game and only move when the gas made me. Over time though, I started to get better, eventually won my first solos game by camping my ass off, and then got to the point where I was a competent player and had fun with the game. Right now though, new players have absolutely no chance playing anything other than casuals. Even in casuals though, there are full quads of terminator skins sliding around and making the game absolutely miserable for newer players. With where movement and the skill gap in general is right now, a new player will lose to a good player let's call it 95/100 times, and that is a massive problem for the game's player base. Idk where that ratio was in 2020 or where it needs to be to make the game fun for casuals and sweats alike, but it's way off right now. It's a really tough balancing act for the devs and I'm bracing myself for the obligatory, \"skill issue\" and \"who cares\" comments on the post but let's face it, Warzone was at its best when it was a game that everyone could play, and that just isn't the case anymore. submitted by /u/campincarldev to r/CODWarzone [link] [comments]",
-      "link": "https://www.reddit.com/r/CODWarzone/comments/1qg7zw6/bo7_warzone_is_awful_for_newer_players/",
-      "author": "/u/campincarldev",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T13:03:43.076577"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qg7ydr",
-      "type": "search",
-      "subreddit": "Warzone",
-      "title": "BO7 Warzone is Awful for Newer Players",
-      "content": "I've recently been trying to get a friend into Warzone and my eyes have been opened to how hostile this game is to newer players. When I started out in 2020, I was pretty terrible at FPS games. I literally used to sit in the same house every game and only move when the gas made me. Over time though, I started to get better, eventually won my first solos game by camping my ass off, and then got to the point where I was a competent player and had fun with the game. Right now though, new players have absolutely no chance playing anything other than casuals. Even in casuals though, there are full quads of terminator skins sliding around and making the game absolutely miserable for newer players. With where movement and the skill gap in general is right now, a new player will lose to a good player let's call it 95/100 times, and that is a massive problem for the game's player base. Idk where that ratio was in 2020 or where it needs to be to make the game fun for casuals and sweats alike, but it's way off right now. It's a really tough balancing act for the devs and I'm bracing myself for the obligatory, \"skill issue\" and \"who cares\" comments on the post but let's face it, Warzone was at its best when it was a game that everyone could play, and that just isn't the case anymore. submitted by /u/campincarldev to r/Warzone [link] [comments]",
-      "link": "https://www.reddit.com/r/Warzone/comments/1qg7ydr/bo7_warzone_is_awful_for_newer_players/",
-      "author": "/u/campincarldev",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T13:03:43.076652"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qg87dt",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Space",
-      "content": "submitted by /u/Yaley-Dev [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qg87dt/space/",
-      "author": "/u/Yaley-Dev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T13:43:57.937660"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qg8hc4",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Help with setup please!",
-      "content": "I tried to install unity yesterday, but the computer went into sleep while the editor was installing. This resulted with microsoft visual studio code not being installed as the code editor. I installed it manually and it was sort of working, but I tried going onto it today to continue my project but it won't open as shown above. I'm trying to reverse everything ive done and do it over, but unity 6.3 is still installed and it won't let me remove it, as shown above. Please can someone help!! submitted by /u/Chemical_Doubt_4937 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qg8hc4/help_with_setup_please/",
-      "author": "/u/Chemical_Doubt_4937",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T13:43:57.937677"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qg8owj",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Feedback needed",
-      "content": "Hi all, I am working on a game, some kind of eBay Autobattler Simulator. I just posted on itch a first Build of the game ( basic demo ) and Would love to hear some feedback about what's working and what's not. Deals and Duels Wish you all a good Sunday for working on your projects :) submitted by /u/Key-Soft-8248 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qg8owj/feedback_needed/",
-      "author": "/u/Key-Soft-8248",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T13:43:57.937695"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qg8h13",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -6527,7 +6455,139 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-19T19:36:59.458199"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhf2r4",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I’m making a cozy city-builder on flying islands. Here’s an early in-engine look.",
+      "content": "Hi everyone, I'm developing an indie cozy city-building / management game where you build villages on flying islands. Key features: • Organic village growth • Light resource management • Trading between islands using flying ships • Relaxed, cozy pacing Here’s a short in-engine camera flyover showing the current art direction. The project is still early in development, so feedback is very welcome. Steam wishlist page: https://store.steampowered.com/app/4000470/Skyline_Settlers/ Thanks for checking it out. submitted by /u/No-Discussion-3199 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhf2r4/im_making_a_cozy_citybuilder_on_flying_islands/",
+      "author": "/u/No-Discussion-3199",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T20:11:52.191345"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhevkv",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "ARKEN AGE – Full Gameplay + Ending",
+      "content": "Just finished Arken Age and holy hell, this game is a full‑on sci‑fi fever dream. Mutant creatures, insane biomechs, corrupted robots, and a final red‑robot ending that hits you out of nowhere. Video link: https://youtu.be/_mOfO9PoiY4 submitted by /u/No-Account6689 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhevkv/arken_age_full_gameplay_ending/",
+      "author": "/u/No-Account6689",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T20:11:52.191358"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhf2yb",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Data Citadel - A SQL Mystery",
+      "content": "submitted by /u/akarsh_tripathi [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhf2yb/data_citadel_a_sql_mystery/",
+      "author": "/u/akarsh_tripathi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T20:11:52.191427"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhelch",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "New bug unlocked.. gladiator discovers the arena boundary and decides to leave",
+      "content": "Caught a fun one today. A gladiator glitches at the combat boundary and slips outside the arena entrance. Exiting and entering the arena is not a feature yet, just such a mess lol.. Calling it a day before I accidentally turn this into a morale system. submitted by /u/GladiatorCommand [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhelch/new_bug_unlocked_gladiator_discovers_the_arena/",
+      "author": "/u/GladiatorCommand",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T20:11:52.191447"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhedgz",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Action and Adventure-leaning Metroidvanias do better on Steam?",
+      "content": "submitted by /u/Y_F_N_A [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhedgz/action_and_adventureleaning_metroidvanias_do/",
+      "author": "/u/Y_F_N_A",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T20:11:52.191458"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhedba",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "You suggested it, so of course I had to add rod spinning to my Foosball Manager game",
+      "content": "This is what spin to win tactic looks like. Ball is moving unpredictably and could also go backwards while spinning. This will be introduced as a \"skill\" that a player can have in the game. Might ban this move in the higher leagues, let's see... If you are interested in the game and want to be among the first to test it, consider joining the game's discord: https://discord.gg/4sZ5BqWZQB submitted by /u/machnikl [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhedba/you_suggested_it_so_of_course_i_had_to_add_rod/",
+      "author": "/u/machnikl",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T20:11:52.191472"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhengi",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Why are there 3 ways to get the screen space position in a shader?",
+      "content": "I am trying to write some screen shaders and realised that there are multiple ways to get the (seemingly) same information. So to get the position of a fragment one can: Simply use VERTEX in the fragment shader COLOR.rgb = vec3(VERTEX, 0); Use FRAGCOORD.xy COLOR.rgb = vec3(FRAGCOORD.xy, 0); Get it from the vertex shader varying vec2 screen_pos; void vertex(){ screen_pos = (CANVAS_MATRIX * MODEL_MATRIX * vec4(VERTEX, 0,1.)).xy; } void fragment(){ COLOR.rgb = vec3(screen_pos,0); } Am I missing something? Seems weird to have 3 ways for the same information. I get the FRAGCOORD has some extra info but other than that, is there a reason for it or am I getting something wrong? submitted by /u/Zestyclose_Edge1027 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhengi/why_are_there_3_ways_to_get_the_screen_space/",
+      "author": "/u/Zestyclose_Edge1027",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T20:11:52.191500"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhezq3",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "¡Implementando el multijugador por primera vez!",
+      "content": "submitted by /u/Feisty_Hour6612 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhezq3/implementando_el_multijugador_por_primera_vez/",
+      "author": "/u/Feisty_Hour6612",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T20:11:52.191520"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhekpv",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Skating game - Daytime on a frozen lake",
+      "content": "I'm working on a little game about ice skating. what do you think, does this look appealing to you? Feedback welcome! submitted by /u/lzynjacat [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhekpv/skating_game_daytime_on_a_frozen_lake/",
+      "author": "/u/lzynjacat",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T20:11:52.191528"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhevwd",
+      "type": "search",
+      "subreddit": "PokemonQuestions",
+      "title": "It’s this worth anything?",
+      "content": "I just found it🤷‍♂️ submitted by /u/Spirited_Property_52 to r/PokemonQuestions [link] [comments]",
+      "link": "https://www.reddit.com/r/PokemonQuestions/comments/1qhevwd/its_this_worth_anything/",
+      "author": "/u/Spirited_Property_52",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T20:11:52.192961"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhf4hz",
+      "type": "search",
+      "subreddit": "kingdomcome",
+      "title": "[KCD2] Came back to play after months, RAM issue?",
+      "content": "I'm not sure if it is related to the newest DLC/updates, but no matter what I do, I cannot get the game to run. I saw a few posts that make me feel like this isn't just me. I'm not a that savvy with my PC, so if anyone has any tips on how I might fix this on my end, please share 🥹 I miss Henry. submitted by /u/BunnyHops23 to r/kingdomcome [link] [comments]",
+      "link": "https://www.reddit.com/r/kingdomcome/comments/1qhf4hz/kcd2_came_back_to_play_after_months_ram_issue/",
+      "author": "/u/BunnyHops23",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T20:11:52.193579"
     }
   ],
-  "last_updated": "2026-01-19T19:38:23.774971"
+  "last_updated": "2026-01-19T20:13:24.030908"
 }
