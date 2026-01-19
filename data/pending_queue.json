@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qg6r32",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Is there any better way of getting child nodes with specific classes?",
-      "content": "I know I can just create a single function that has a parameter that determines what type of class to return: func get_component(type : String): if type == \"breakable_block_component\": return BreakableBlockComponent elif type == \"pickable_block_component\": return PickableBlockComponent but I can't really give the function a return type making it hard to use the dot operator. But I know that I can also do ComponentGetter.get_component(\"breakable_block_component\") as BreakableBlockComponent but it's a bit too much for me. Any better way to approach this? Thank you. submitted by /u/glacierblob [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qg6r32/is_there_any_better_way_of_getting_child_nodes/",
-      "author": "/u/glacierblob",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T12:17:55.860767"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qg6dj7",
       "type": "post",
       "subreddit": "godot",
@@ -6215,7 +6203,199 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-19T18:15:57.391285"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhcxyf",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Many cards to choose, yet not all of them optimal. Which cards would you have played in this situation?",
+      "content": "submitted by /u/playFrostBound [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhcxyf/many_cards_to_choose_yet_not_all_of_them_optimal/",
+      "author": "/u/playFrostBound",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.097239"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhcst3",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Something I'm Working On...",
+      "content": "submitted by /u/Lazarius303 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhcst3/something_im_working_on/",
+      "author": "/u/Lazarius303",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.097255"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhcof0",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Brute force online. A new class showcase of \"The Gladiator\" from my game!",
+      "content": "submitted by /u/mortalsingame [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhcof0/brute_force_online_a_new_class_showcase_of_the/",
+      "author": "/u/mortalsingame",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.097262"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhco2n",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "🏃Jogging around this colorful city!",
+      "content": "submitted by /u/AnxiousFondant115 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhco2n/jogging_around_this_colorful_city/",
+      "author": "/u/AnxiousFondant115",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.097273"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhck3b",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Added an algae shader to the walls!",
+      "content": "submitted by /u/KalpStudio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhck3b/added_an_algae_shader_to_the_walls/",
+      "author": "/u/KalpStudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.097356"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhcbsj",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Some special events are unlocked through specific dialogue choices. Still tuning how obvious these should be",
+      "content": "submitted by /u/Cerbinwen [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhcbsj/some_special_events_are_unlocked_through_specific/",
+      "author": "/u/Cerbinwen",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.097385"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhcb3t",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "After 2 Years, I Decided to Open Source My VR Game!",
+      "content": "Hi all! After working on my VR game inspired by Sonic and Jet Set Radio for about 2 years, I decided to Open Source the entire project. The game was built in Unity , and if anyone is interested in seeing how a VR platformer might be structured (movement, systems, etc.), the full project and setup instructions can be found: HERE . I figured this project might be useful to others experimenting with VR, and I’m happy to answer any questions about the project or the process! submitted by /u/RealityWanderers [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhcb3t/after_2_years_i_decided_to_open_source_my_vr_game/",
+      "author": "/u/RealityWanderers",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.097405"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhcuu0",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Thoughts on my rewind animation ? Does it looks good enough ?",
+      "content": "submitted by /u/FortuneDW [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhcuu0/thoughts_on_my_rewind_animation_does_it_looks/",
+      "author": "/u/FortuneDW",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.097485"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhccsu",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "What are patterns in Godot?",
+      "content": "I'm watching a Godot tutorial and someone mentions in a comment: \"##If you're already at the level of using patterns like in Factory, what are you doing watching a video about learning to use dictionaries? This is an example!\" What are patterns? In the example, they're creating an enemy that summons more enemies. submitted by /u/diemyeah [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhccsu/what_are_patterns_in_godot/",
+      "author": "/u/diemyeah",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.097496"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhc8wg",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Feedback wanted on my palette shader AND added names!",
+      "content": "The artist who made the wizard is u/lebifstek - on instagram. It is free art listed on Itch.io for a PixelArt Jam. This is for a game that I have not named or finished. submitted by /u/Yellowthrone [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhc8wg/feedback_wanted_on_my_palette_shader_and_added/",
+      "author": "/u/Yellowthrone",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.097505"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qh9wgs",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I added Parallax to my background as someone here suggested",
+      "content": "Obviously much of the background is unfinished 😅 But hopefully the effect comes through submitted by /u/Obvious-Sorbet5852 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qh9wgs/i_added_parallax_to_my_background_as_someone_here/",
+      "author": "/u/Obvious-Sorbet5852",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.097516"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qh9rie",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Implemented more Parallax into my game as someone suggested",
+      "content": "Obviously the art isn't done 😅 But hopefully the parallax effect is apparent. submitted by /u/Obvious-Sorbet5852 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qh9rie/implemented_more_parallax_into_my_game_as_someone/",
+      "author": "/u/Obvious-Sorbet5852",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.097526"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhcn9z",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Hi! I’d love to know what you think about my game’s Steam page, whether the capsule looks good and if the images are interesting. My game is an incremental with a minimalist synthwave theme!",
+      "content": "submitted by /u/Educational-Use7288 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhcn9z/hi_id_love_to_know_what_you_think_about_my_games/",
+      "author": "/u/Educational-Use7288",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.097539"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhcy52",
+      "type": "search",
+      "subreddit": "tipofmyjoystick",
+      "title": "[Android/Phone][2011-2020]\"Bash the Computer\" but with more options?",
+      "content": "Picture 1 I'm sure everyone has heard of this game. In fact from time to time on a yearly basis I come to it. However, every time I played it, I always had a weird memory of me playing this game on mobile except it had more options. UI I remember I remember icons at the bottom, I remember \"Phone\" as one of the options and I remember that this is almost exactly how it looked like. Same font, possibly the Facebook logo, white-on-black.. however I can't seem to find it. https://preview.redd.it/oah8gbg0rceg1.png?width=1200&format=png&auto=webp&s=a1ca81c4a8768825f47f521789b513766f81fbbe I swear it was an S2 of sorts but I can't make any guarantees. There was also possibly a \"Television\" option. Is this a mandela effect or..? submitted by /u/PlayfulTaro7696 to r/tipofmyjoystick [link] [comments]",
+      "link": "https://www.reddit.com/r/tipofmyjoystick/comments/1qhcy52/androidphone20112020bash_the_computer_but_with/",
+      "author": "/u/PlayfulTaro7696",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.098528"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhcrwy",
+      "type": "search",
+      "subreddit": "UniUK",
+      "title": "Go ahead and roast my CV. Tell me why it's getting no attention lol",
+      "content": "redacted personal info. not a lot here because I'm only 22 I haven't even lived a life yet. if anyone cares, designed in Adobe Illustrator submitted by /u/NokstellianDemon to r/UniUK [link] [comments]",
+      "link": "https://www.reddit.com/r/UniUK/comments/1qhcrwy/go_ahead_and_roast_my_cv_tell_me_why_its_getting/",
+      "author": "/u/NokstellianDemon",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.098659"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhcwl4",
+      "type": "search",
+      "subreddit": "falloutnewvegas",
+      "title": "Hotel California",
+      "content": "Fallout New Vegas is one of if not my favorite games of all time. The Dead Money DLC also happens to be my favorite (maybe an unpopular opinion but I digress). I was just thinking about how a TikTok edit of things and scenes from that DLC to The Eagles song, “Hotel California” would go SO HARD and now I need someone to make it happen 😂 pretty please 😂💖 submitted by /u/Hefty-Lock-7832 to r/falloutnewvegas [link] [comments]",
+      "link": "https://www.reddit.com/r/falloutnewvegas/comments/1qhcwl4/hotel_california/",
+      "author": "/u/Hefty-Lock-7832",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T18:52:26.099095"
     }
   ],
-  "last_updated": "2026-01-19T18:17:32.821190"
+  "last_updated": "2026-01-19T18:53:56.824629"
 }
