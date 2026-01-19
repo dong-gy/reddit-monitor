@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qgbm39",
-      "type": "search",
-      "subreddit": "gamedev",
-      "title": "Any indie devs here who just rawdog it without an engine?",
-      "content": "Let's just say that I'm getting back to game dev after a millenium of side quests (thanks to game dev itself?) but I, for my life, cannot use a full blown game engine (I need to see a psychologist about this) so I've gone back to C++, some abstraction layers, and a small custom \"engine\" (of sorts) Since it's been a while, I really wanna hear from others who've gone down the no-engine, especially if y'all have shipped something cool. Would love to know the common pitfalls and what surprised y'all the most along the way submitted by /u/s-mv to r/gamedev [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qgbm39/any_indie_devs_here_who_just_rawdog_it_without_an/",
-      "author": "/u/s-mv",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T15:38:07.781392"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qgbhyy",
-      "type": "search",
-      "subreddit": "BALLxPIT",
-      "title": "Switch 2 version crashing w/ shield bearer",
-      "content": "wanted to post this here to see if anyone else has been experiencing this? almost every time I play the shield bearer I can get about 2/3 through a level before the game hard crashes to the home screen. does the dev look on here?? submitted by /u/Blocksketcher to r/BALLxPIT [link] [comments]",
-      "link": "https://www.reddit.com/r/BALLxPIT/comments/1qgbhyy/switch_2_version_crashing_w_shield_bearer/",
-      "author": "/u/Blocksketcher",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T15:38:07.781547"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qgc6eg",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "What's the best way to look for internships ?",
-      "content": "Like, the title says it all, I'm trynna find an internship as a unity dev but I'm unsure of the process to use. Should I be as formal as possible ? Should I act closer to those I ask to ? Should I ask the people on LinkedIn first, or just fill up the forms with no extra ? what approach did you guys used that worked ? submitted by /u/Jobless_slime [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qgc6eg/whats_the_best_way_to_look_for_internships/",
-      "author": "/u/Jobless_slime",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T16:11:01.828629"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qgcix2",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Custom Card Creator Progress",
-      "content": "Having some fun with our game's custom card creator and thought I'd show it off. Hard to give feedback with just still images, but if you all have any feedback so far we'd love to hear it! submitted by /u/squeakywheelstudio [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qgcix2/custom_card_creator_progress/",
-      "author": "/u/squeakywheelstudio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T16:11:01.828648"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qgcgah",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Added an anomaly that haunts the player",
-      "content": "u can add to wishlist my horror game - SFUMATO: THE RIFT OF TIME submitted by /u/tvoy_lanch [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qgcgah/added_an_anomaly_that_haunts_the_player/",
-      "author": "/u/tvoy_lanch",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T16:11:01.828684"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qgcf3n",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "How can I improve on my dice balatro",
-      "content": "submitted by /u/toxicspiyt [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qgcf3n/how_can_i_improve_on_my_dice_balatro/",
-      "author": "/u/toxicspiyt",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T16:11:01.828690"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qgc566",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "doing the Brackeys tutorial and there's something wrong when I started doing the first enemy",
-      "content": "I had an issue where for some reason the slime was giving me a \"you died\" over and over without touching my character. I discovered it was treating the ground as a trigger for the death instead of just the player, so I changed the killzone to target \"character body 2D\" so it would only work on the player. It solved the problem and the slime properly kills me now when I touch it... but then I noticed these compounding errors?? I don't really understand what's going on submitted by /u/AnyHour9173 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qgc566/doing_the_brackeys_tutorial_and_theres_something/",
-      "author": "/u/AnyHour9173",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T16:11:01.828707"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qgbtfe",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Added an anomaly that haunts the player",
-      "content": "u can add to wishlist my horror game - SFUMATO: THE RIFT OF TIME submitted by /u/tvoy_lanch [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qgbtfe/added_an_anomaly_that_haunts_the_player/",
-      "author": "/u/tvoy_lanch",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T16:11:01.828712"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qgci5u",
-      "type": "search",
-      "subreddit": "Wattpad",
-      "title": "JJK Fanfiction inspired by Fourth Wing, Hunger games, Red Rising, Code Geass etc. R4R/V4V welcome",
-      "content": "My first ever writing project, based in the JJK universe with original characters and some returning characters. There are manga spoilers in here. But I’d really appreciate some reads and feedback etc. 😊 submitted by /u/ThatBishBecka to r/Wattpad [link] [comments]",
-      "link": "https://www.reddit.com/r/Wattpad/comments/1qgci5u/jjk_fanfiction_inspired_by_fourth_wing_hunger/",
-      "author": "/u/ThatBishBecka",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T16:11:01.829868"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qgci5t",
       "type": "search",
       "subreddit": "BadNorth",
@@ -7115,7 +7007,103 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-19T23:10:15.441200"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhkeg0",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Finding godot devs",
+      "content": "Have a couple projects going on but having a hard time finding godot devs so trying here or if anyone has a good resource to find them please share. the games will be iOS and android apps and have some already in progress and trying to move them along. feel free to dm but please put resume or examples you’ve worked on submitted by /u/WeakChampionship743 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhkeg0/finding_godot_devs/",
+      "author": "/u/WeakChampionship743",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T23:39:39.085653"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhk96a",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I’m trying to make a point-and-click–style game in Godot.",
+      "content": "Hello, this is my first post. I’m trying to make a point-and-click–style game in Godot. What do you think? What improvements could I make? Thank you. submitted by /u/Limp_Register102 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhk96a/im_trying_to_make_a_pointandclickstyle_game_in/",
+      "author": "/u/Limp_Register102",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T23:39:39.085676"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qhk23q",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "I cannot get this widget to work correctly LOL!",
+      "content": "My widget blueprint is this: https://imgur.com/a/tjPk61D In game screenshots: https://imgur.com/a/0E3ohMR The rewards get really squished up and the scrollbar doesn't work (anywhere really, because it's also on the left where the quests are...) submitted by /u/ambrosia234 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qhk23q/i_cannot_get_this_widget_to_work_correctly_lol/",
+      "author": "/u/ambrosia234",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T23:39:39.085690"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedesign/t3_1qhke9j",
+      "type": "post",
+      "subreddit": "gamedesign",
+      "title": "Design question: do tier badges + global leaderboards improve \"one more try\" or hurt motivation?",
+      "content": "I'm building TapSurvivor, a tiny one-button rocket game (tap to boost through gaps). Super short runs, very retry-heavy. Instead of adding more mechanics, I'm experimenting with meta progression: - tier badges based on your personal best - a global leaderboard Curious from a design POV: - Do tiers/leaderboards actually increase motivation in short-skill games, or do they push players away (\"I'll never catch up\")? - Should tiers be fixed thresholds (clear goals) or percentiles (stay rare as the playerbase grows)? - What's the best way to show progress without distracting from the run itself? Would love examples of games where badges/leaderboards meaningfully changed engagement (good or bad). submitted by /u/nguoituyet [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedesign/comments/1qhke9j/design_question_do_tier_badges_global/",
+      "author": "/u/nguoituyet",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T23:39:39.085739"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhkpkj",
+      "type": "search",
+      "subreddit": "fo76",
+      "title": "Anybody been dealing with 1st and 3rd person pov problems inside?",
+      "content": "lately ive been experiencing a weird mouselock where when im moving and look around (slightly moving my mouse) inside buildings which then shifts my view either 90° or a full 180°. tried so far three methods, two of them being going inside the ini. and the last one was reinstalling the game. Of the last few weeks never experienced this until now, its just annoying making shooting bosses extremly annoying when i need to move around. a lot of things point to being a fps lock problem but even after trying to tweak it didnt fix anything. (pretty sure i did it wrong the first two times but i rather get opinions and more options than just giving up. anything helps atp) submitted by /u/Appropriate_Rule_722 to r/fo76 [link] [comments]",
+      "link": "https://www.reddit.com/r/fo76/comments/1qhkpkj/anybody_been_dealing_with_1st_and_3rd_person_pov/",
+      "author": "/u/Appropriate_Rule_722",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T23:39:39.086331"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhkovr",
+      "type": "search",
+      "subreddit": "cats",
+      "title": "What other cat things can I add to my game?",
+      "content": "Hello! I'm an indie game developer and I'm making a game about my cat Cuddles. She loves to wiggle and pounce so I made that one of the core mechanics in the game. what other cat things that only cat owners will understand? I want to add them to my game so that only real cat lovers will notice 🤣 submitted by /u/BigAd95 to r/cats [link] [comments]",
+      "link": "https://www.reddit.com/r/cats/comments/1qhkovr/what_other_cat_things_can_i_add_to_my_game/",
+      "author": "/u/BigAd95",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T23:39:39.086347"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhkoux",
+      "type": "search",
+      "subreddit": "sagsavages",
+      "title": "Yall agree?",
+      "content": "Live Now 247:365 Sagittarius Party https://share.stationhead.com/t96mm8himim6 XI-XXII XII-XXI SAG ASF Website Under 🚧 Sag Savages Merch Pending Approval📜🥶😎 www.sagittariusgang.com submitted by /u/Massive_Building_707 to r/sagsavages [link] [comments]",
+      "link": "https://www.reddit.com/r/sagsavages/comments/1qhkoux/yall_agree/",
+      "author": "/u/Massive_Building_707",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T23:39:39.086358"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhkosz",
+      "type": "search",
+      "subreddit": "GameDeveloper",
+      "title": "Had to deleted the previous one to fix some stuff💔",
+      "content": "I just wanted to say that we need 2 scripters, 1 animator, 1 modeler, and 1 builder. I didn't want to edit my previous post since it would be a waste of time anyway, but the reason we need these specific people is for the base of the game and such. Feel free to DM me and ask for more information and if you want to help/join us. For a little bit of background, it's a Roblox asymmetrical game that uses our own characters, and we wish for it to be slightly different and unique, and take care of our community first, then our devs. submitted by /u/VisualPutrid752 to r/GameDeveloper [link] [comments]",
+      "link": "https://www.reddit.com/r/GameDeveloper/comments/1qhkosz/had_to_deleted_the_previous_one_to_fix_some_stuff/",
+      "author": "/u/VisualPutrid752",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-19T23:39:39.086671"
     }
   ],
-  "last_updated": "2026-01-19T23:12:00.718101"
+  "last_updated": "2026-01-19T23:41:20.998984"
 }
