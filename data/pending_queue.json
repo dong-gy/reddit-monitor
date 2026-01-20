@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qgnsj9",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Scaling Problem",
-      "content": "When I make a scene, it looks fine in the editor, but as soon as I play it or put it in another scene the scaling is all off. Does anybody know what the problem is? Attached are the node tree and visuals. Thank you! submitted by /u/VibVubaVub [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qgnsj9/scaling_problem/",
-      "author": "/u/VibVubaVub",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T23:37:56.443863"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qgnp03",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Vr development on Ubuntu",
-      "content": "Hello guys, I have troubles with vr headset link to pc for tests in editor. I tried SteamVR + steamlink app, there appears 499 error (cannot setup video encounter). also I tried ALVR and with this thing I have proper connection without 499 error but after few seconds SteamVR closes. I checked all solutions that I found yet and nothing helps. Maybe there is anybody who completed the same path that I'm going? P.S. Device is Meta Quest 2 submitted by /u/_Bondage_Master_ [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qgnp03/vr_development_on_ubuntu/",
-      "author": "/u/_Bondage_Master_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T23:37:56.443877"
-    },
-    {
       "id": "https://www.reddit.com/r/unrealengine/t3_1qgo0al",
       "type": "post",
       "subreddit": "unrealengine",
@@ -7667,7 +7643,103 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-20T13:59:31.728536"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qi2g4j",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "What do you think about these art concepts for Steam page?",
+      "content": "Hi everyone! We’re currently developing a co-op game where you have to complete a challenging map (like Only Up! or Baby Steps) while playing as a drunk guy, controlled by up to 8 players. We’re currently reviewing our art concepts, what do you think? submitted by /u/kerimoff_artur [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qi2g4j/what_do_you_think_about_these_art_concepts_for/",
+      "author": "/u/kerimoff_artur",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T14:30:34.855177"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qi28it",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I added a voice to my first character",
+      "content": "I just finished adding in a bunch of voice lines for one of my characters and it really makes the game start to feel \"real.\" submitted by /u/ArcaneFistGame [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qi28it/i_added_a_voice_to_my_first_character/",
+      "author": "/u/ArcaneFistGame",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T14:30:34.855185"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qi1xp1",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Testing Out Map Generation",
+      "content": "Hmmm... submitted by /u/Someguyino [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qi1xp1/testing_out_map_generation/",
+      "author": "/u/Someguyino",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T14:30:34.855233"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qi25x8",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Tips and advices for marketing",
+      "content": "Hi everyone ! We know and we can’t ignore it, marketing take a huge place and time consuming before/after launching a game. Years ago, I’ve used Admob, Facebook, Twitter and hire people in Fiverr…but nowadays where to start efficiently. Everything will be welcome…the fight begin right now, yes, because it’s a real fight ! submitted by /u/yembel [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qi25x8/tips_and_advices_for_marketing/",
+      "author": "/u/yembel",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T14:30:34.855266"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qi1tlt",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Which UI style do you like more? The second picture is the one I'm testing; it's just a sketch of what it could be.",
+      "content": "submitted by /u/ArtLeading520 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qi1tlt/which_ui_style_do_you_like_more_the_second/",
+      "author": "/u/ArtLeading520",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T14:30:34.855273"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qi1tgr",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Which UI style do you like more? The second picture is the one I'm testing; it's just a sketch of what it could be.",
+      "content": "submitted by /u/ArtLeading520 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qi1tgr/which_ui_style_do_you_like_more_the_second/",
+      "author": "/u/ArtLeading520",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T14:30:34.855278"
+    },
+    {
+      "id": "https://www.reddit.com/t5_2vru8",
+      "type": "search",
+      "subreddit": "GameDevTycoon",
+      "title": "Game Dev Tycoon",
+      "content": "This is the subreddit for the game: Game Dev Tycoon by Greenheart Games. Here you can discuss different strategies, achievements you've met, or anything about the game! [link]",
+      "link": "https://www.reddit.com/r/GameDevTycoon/",
+      "author": "/u/chad1312",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T14:30:34.856857"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qi2czf",
+      "type": "search",
+      "subreddit": "MarvelPuzzleQuest",
+      "title": "This game app is practically bricked atm & it hurts",
+      "content": "I currently can make it about 5-6 seconds before the game freezes up. Can’t play any nodes, can’t talk to my crew, can’t collect any of the prizes/gifts/apologies being given out by the new devs. While I’m trying to be optimistic & not going to be all dramatic here but I’m at a standstill & won’t open the game now until we start getting a “coast is clear” sorta message. This is by far one of my favorite phone game apps & has been for years, plus I’ve invested too much to walk…but goddamn guys, please figure this shit out submitted by /u/Lazlo73 to r/MarvelPuzzleQuest [link] [comments]",
+      "link": "https://www.reddit.com/r/MarvelPuzzleQuest/comments/1qi2czf/this_game_app_is_practically_bricked_atm_it_hurts/",
+      "author": "/u/Lazlo73",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T14:30:34.857191"
     }
   ],
-  "last_updated": "2026-01-20T14:01:14.205944"
+  "last_updated": "2026-01-20T14:32:15.119618"
 }
