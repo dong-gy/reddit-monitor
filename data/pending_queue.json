@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qgkc6b",
-      "type": "search",
-      "subreddit": "NoStupidQuestions",
-      "title": "Digital gift problems",
-      "content": "I'm going to a friend's birthday party soon and I got them 2 games I know they wanted for a while from steam. I bought the games digitally because 1. I did it on short notice and 2. They're indies so they don't have physical copies. I set the games to arrive to their account half an hour before the party, so they'll receive it on that day, but I just thought that it's going to be incredibly awkward if I arrive without anything, and it'd also ruin the surprise if I tell them from the get-go submitted by /u/Denis20191 to r/NoStupidQuestions [link] [comments]",
-      "link": "https://www.reddit.com/r/NoStupidQuestions/comments/1qgkc6b/digital_gift_problems/",
-      "author": "/u/Denis20191",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T21:08:50.900449"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qgkc1d",
-      "type": "search",
-      "subreddit": "OLED_Gaming",
-      "title": "Tandem woled 16:9 or 3rd gen woled ultrawide?",
-      "content": "I’m looking to upgrade my monitor, and im not sure what I should go with. I really want to get a tandem since it’s the newest gen, but I also really want an ultrawide and from what I’ve seen there aren’t any ultrawide tandem oleds out yet and even if there were it would definitely be out of my price range. I don’t actually have any idea how much better tandem is then 3rd gen so I’m wondering is it worth going for the tandem even if it’s not at the size I want or should I just get ultrawide. I play a lot of single player games(especially cyberpunk), but also some shooters like siege and fortnite. Not sure how much difference that makes on choosing which size to go for. The tandem I would be going with is the GIGABYTE MO27Q28G The ultrawide would be the LG 34GS95QE They would cost about same at around $900 cad. I’ve only ever used a 27” 1080p psi monitor so I know I’ll like either one I get, but I thought id just ask here first. submitted by /u/DismalBook67 to r/OLED_Gaming [link] [comments]",
-      "link": "https://www.reddit.com/r/OLED_Gaming/comments/1qgkc1d/tandem_woled_169_or_3rd_gen_woled_ultrawide/",
-      "author": "/u/DismalBook67",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T21:08:50.900480"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qgk8tn",
-      "type": "search",
-      "subreddit": "gtaonline",
-      "title": "Have yall have noticed this weird brief pixelation effect while loading in? (EE edition PC)",
-      "content": "I think it may have to do with DLSS frame scaling potentially, briefly showing the original resolution before upscaling. But that’s just a game theory I’m no dev. submitted by /u/memes285 to r/gtaonline [link] [comments]",
-      "link": "https://www.reddit.com/r/gtaonline/comments/1qgk8tn/have_yall_have_noticed_this_weird_brief/",
-      "author": "/u/memes285",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T21:08:50.901082"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qgkpj2",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I built a website for my game Emberveil.",
-      "content": "Any thoughts or comments are appreciated! submitted by /u/IronHammmer [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgkpj2/i_built_a_website_for_my_game_emberveil/",
-      "author": "/u/IronHammmer",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T21:36:36.341874"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qgkjce",
       "type": "post",
       "subreddit": "indiegaming",
@@ -7379,7 +7331,91 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-20T09:51:45.543011"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qhx3iz",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "When will unity support C#14?",
+      "content": "submitted by /u/ArtemOkhrimenko [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qhx3iz/when_will_unity_support_c14/",
+      "author": "/u/ArtemOkhrimenko",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T10:15:52.144807"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhxc2r",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Music Asset Packs",
+      "content": "submitted by /u/Sufficient_Radish_71 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhxc2r/music_asset_packs/",
+      "author": "/u/Sufficient_Radish_71",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T10:15:52.144840"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhx4yr",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Hi everyone, I spent last ten months making a game combines music synthesis and city building. Does this work?",
+      "content": "It's called **Synth Town**, where every building is also represented of music notes and waveform. For Example: a house with flat roof means a square wave oscillator, and pitched or curves each shape maps to a different waveform. Roads define the flow. Vehicles act like playheads, triggering notes as they drive in the road grid. Shape of each vehicle also affects how sounds play, a car with long bonnet means it has a slow attack duration. It's a web game based on WebGL and WebAudio, so no download just play in browser, and totally free, no mandatory login(unless you'd like to share your town with a link) If you give it a try, I'd be incredibly grateful, and welcome of and feedbacks or suggestions. submitted by /u/zyhyysh [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhx4yr/hi_everyone_i_spent_last_ten_months_making_a_game/",
+      "author": "/u/zyhyysh",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T10:15:52.144890"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhxc85",
+      "type": "search",
+      "subreddit": "GolfBattle",
+      "title": "Help with strategy need :)",
+      "content": "So I have 2.5 million coins, my collection bonus is 1.9x, I'm level 30 and I have about a 100 gems. I don't really have any special clubs tbh, only a single power 4. How do you guys get 1000s of gems and what should I priortise at this stage? I mostly play 50k games on myan jungle and just make money but I don't really feel im progressing? submitted by /u/Low_Soil774 to r/GolfBattle [link] [comments]",
+      "link": "https://www.reddit.com/r/GolfBattle/comments/1qhxc85/help_with_strategy_need/",
+      "author": "/u/Low_Soil774",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T10:15:52.147686"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhxc5p",
+      "type": "search",
+      "subreddit": "WorldOfWarships",
+      "title": "Been on a long break. What is good/fun now for DD and CA/CL of the \"new\" lines?",
+      "content": "Hey all. Been away from WoWS since shortly after the British BB's or DD's i think it was. So i have been quite out of the loop when it comes to changes, metas etc. Had quite a few T10's in various lines from BB to CA/CL and DD and played those 3 classes roughly equal amounts over about 5k battles. Comming back a lot seems changed and i ended up resetting all T10 lines, so i started from below, just to get back into the flow if things and not be a liability. At the same time i feel that i am very much wanting to focus on DD and CA/CL as i have had most fun in those. Ships with as little RNG as possible (excluding fire /flood). So with the current build of the game what are strong, not necessarily meta/fomo, but also fun lines to go for. From before i always liked cruisers like Atago and Zao, Minotaur, Blyska and the US destroyers were quite nice too, as well as the Dakka japanese DD's (really CL's). So besides those i played, of all the newer countries, which lines hold up at medium to high tier? And also are not really dependent on the enemy to make a mistake or be heavily reliant on my own team. submitted by /u/Hopeful-Addition-248 to r/WorldOfWarships [link] [comments]",
+      "link": "https://www.reddit.com/r/WorldOfWarships/comments/1qhxc5p/been_on_a_long_break_what_is_goodfun_now_for_dd/",
+      "author": "/u/Hopeful-Addition-248",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T10:15:52.148368"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhx6ma",
+      "type": "search",
+      "subreddit": "polyscan",
+      "title": "Photogrammetry workflow + free unlimited 3D models & PBR textures",
+      "content": "If you’re a 3D artist, game dev, or environment artist, you can download unlimited free 3D models and PBR textures. Assets are suitable for games, Unreal Engine, Unity, Blender, and VFX. Feedback from fellow artists is always welcome Download: https://polyscann.com/assets submitted by /u/Eaglesoft1 to r/polyscan [link] [comments]",
+      "link": "https://www.reddit.com/r/polyscan/comments/1qhx6ma/photogrammetry_workflow_free_unlimited_3d_models/",
+      "author": "/u/Eaglesoft1",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T10:15:52.148715"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhx9y9",
+      "type": "search",
+      "subreddit": "rfactor2",
+      "title": "New championship about to start",
+      "content": "Hey guys, i'm trying to create a championship. the idea is to have my friends and more people from the community. but i know that the game isnt popular like it used to be and i dont know how many people would be interested in joining this championship. the cars used would be the Formula Swift 014.a on a number of tracks. monza, imola, spa, watkins glen, korea, hockeneim, hungaroring, portimao, magny cours, interlagos and others. i already have a community on simgrid to make the event public, but it would be useful to know here if anyone is interested. the races would be 1 per week, probably on friday (subject to changes) submitted by /u/Robbo2000000 to r/rfactor2 [link] [comments]",
+      "link": "https://www.reddit.com/r/rfactor2/comments/1qhx9y9/new_championship_about_to_start/",
+      "author": "/u/Robbo2000000",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T10:15:52.149052"
     }
   ],
-  "last_updated": "2026-01-20T09:53:27.493240"
+  "last_updated": "2026-01-20T10:17:50.319497"
 }
