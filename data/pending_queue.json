@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qgr1g1",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Can I remaster a game if the copyright holder no longer exists?",
-      "content": "I want to remake several games (Dark Colony, Enemy Infestation, NoX), but I don't know the legal aspects. Could you please tell me if I can do this without any risks? The model is free to play. submitted by /u/Dapper-Flounder6959 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qgr1g1/can_i_remaster_a_game_if_the_copyright_holder_no/",
-      "author": "/u/Dapper-Flounder6959",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T03:00:22.465472"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qgpvpz",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "80s / 90s anime sound effects",
-      "content": "Anyone know if they can be purchased online for commercial use? Stuff like the classic sword and monster sounds. submitted by /u/best_selling_author [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qgpvpz/80s_90s_anime_sound_effects/",
-      "author": "/u/best_selling_author",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T03:00:22.465511"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qgsbl5",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "DEVLOG #8 Menu, install targets, dryFire",
-      "content": "submitted by /u/Developer-shooter [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgsbl5/devlog_8_menu_install_targets_dryfire/",
-      "author": "/u/Developer-shooter",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T03:00:22.465521"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qgrvvt",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I think I found the ultimate \"Palette Cleanser\" RTS. Zero graphics, pure strategy (and it's free).",
-      "content": "submitted by /u/MrInternationalBunal [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgrvvt/i_think_i_found_the_ultimate_palette_cleanser_rts/",
-      "author": "/u/MrInternationalBunal",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T03:00:22.465529"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qgr5mz",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "i am so happy! today i released our first demo publicly on steam. what a day xD",
-      "content": "i am so happy I feel like i achieved a major milestone closer to my dreams! today my friend and me released a demo of our game to the public. its been such a greate experience so far and i am very happy to have made it this far. excited for the next couple weeks of crunch xD I have learned so much so far and i am so thankful to my community and especially my friend helping me with sfx and music! what a weekend xD and here i sit already pushing updates haha. submitted by /u/fiehra [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgr5mz/i_am_so_happy_today_i_released_our_first_demo/",
-      "author": "/u/fiehra",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T03:00:22.465583"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qgqjcg",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Vibecoded this Taboo Game for some friends from clubhouse.",
-      "content": "submitted by /u/MarsupialComplex6511 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgqjcg/vibecoded_this_taboo_game_for_some_friends_from/",
-      "author": "/u/MarsupialComplex6511",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T03:00:22.465588"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qgq8fv",
       "type": "post",
       "subreddit": "indiegaming",
@@ -7763,7 +7691,91 @@
       "search_keyword": "AI game maker",
       "relevance_score": 0,
       "added_at": "2026-01-20T15:51:53.752282"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qi5hkl",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "good ways to plan out systems before you start coding it?",
+      "content": "gamedesign aside, do ya'll know of good ways to plan out systems before you start coding it? I've noticed a spend a lot of time sitting idly trying to think of which classes should be in charge of what, and how they should all interact with eachother to get my game working how i'd like. Right now im attempting to code a kind of board game, so drawing pieces, placing pieces, how they move on the board and in your hand and all inbetween. It would probably be smart to plan out before i get too deep in the code, so i can avoid spaghetti and sitting idly. Maybe there's some kind of planning approaches for systems like these i dont know about. (in coding websites i sometimes made a wireframe and mockup before i did the html and styling) submitted by /u/STANN_co [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qi5hkl/good_ways_to_plan_out_systems_before_you_start/",
+      "author": "/u/STANN_co",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T16:19:53.240774"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qi5du6",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "My SoloDev, 10 days build in public experiment.",
+      "content": "submitted by /u/WonderfulWeird960 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qi5du6/my_solodev_10_days_build_in_public_experiment/",
+      "author": "/u/WonderfulWeird960",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T16:19:53.240823"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qi5fmu",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "My SoloDev, 10 days build in public experiment.",
+      "content": "submitted by /u/WonderfulWeird960 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qi5fmu/my_solodev_10_days_build_in_public_experiment/",
+      "author": "/u/WonderfulWeird960",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T16:19:53.240832"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qi589z",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "We’re experimenting with our bite mechanic, trying out all the different things you can do with it. What other things do you think would be fun to try?",
+      "content": "submitted by /u/StayDeadGame [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qi589z/were_experimenting_with_our_bite_mechanic_trying/",
+      "author": "/u/StayDeadGame",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T16:19:53.240866"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qi50re",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "How do you guys come up with your game ideas?",
+      "content": "I've been working in game development for about 2 years as primarily a level designer. I would say i im ok at both art and programming to a passable standard, but I find it hard to come up with original/ interesting concepts that I could do with my skillset as a level designer. I'm very good at coming up with designs for ideas i get pitched to me, but not the actual initial idea generation itself... I've always heard that if you're good at art, do more art-heavy games and programming more systems/mechanic-driven games, but havent found a good base for design. any sugestions or tips on how you guys come up with your games? submitted by /u/Solidduty [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qi50re/how_do_you_guys_come_up_with_your_game_ideas/",
+      "author": "/u/Solidduty",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T16:19:53.240885"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qi4s7b",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Right?",
+      "content": "submitted by /u/Fluid_Associate7017 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qi4s7b/right/",
+      "author": "/u/Fluid_Associate7017",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T16:19:53.240905"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qi4ti1",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Right?",
+      "content": "submitted by /u/Fluid_Associate7017 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qi4ti1/right/",
+      "author": "/u/Fluid_Associate7017",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T16:19:53.240947"
     }
   ],
-  "last_updated": "2026-01-20T15:53:32.137800"
+  "last_updated": "2026-01-20T16:21:31.841872"
 }
