@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qgo0al",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "I made my game controllable with a guitar!",
-      "content": "I was messing around with audio input pitch detection, and tried mapping it to player controls. It's experimental, but it works! submitted by /u/dblwmy_ggcc [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qgo0al/i_made_my_game_controllable_with_a_guitar/",
-      "author": "/u/dblwmy_ggcc",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T23:37:56.443906"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qgnzmy",
-      "type": "search",
-      "subreddit": "SBCGaming",
-      "title": "Handheld gaming in Brazil is almost unviable for the average consumer",
-      "content": "Brazil’s minimum wage is around USD 250 to 300 per month, yet most handheld devices cost the equivalent of several months of income for the average person. The biggest issue is import taxes. Brazil has long had import taxation, but in recent years enforcement and overall tax burden have become much harsher. Depending on how customs evaluates the package, total taxes can now reach 90 to 100% of the product’s declared value, something that wasn’t nearly as common in the past. This makes buying anything from abroad stressful. You never know the final price, there’s always fear of extra fees, delays, or customs holds. Since most handhelds aren’t officially sold here, importing is often the only option, and it feels like a gamble every time. What’s especially frustrating is seeing handheld gaming treated as affordable and accessible in other countries, while here it becomes a luxury purchase or a financial risk. It’s not about wanting premium tech, it’s about how basic access to a hobby is restricted by low wages and aggressive taxation. submitted by /u/Original-Educator-38 to r/SBCGaming [link] [comments]",
-      "link": "https://www.reddit.com/r/SBCGaming/comments/1qgnzmy/handheld_gaming_in_brazil_is_almost_unviable_for/",
-      "author": "/u/Original-Educator-38",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T23:37:56.444266"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qgng38",
-      "type": "search",
-      "subreddit": "BAPBAP",
-      "title": "Game's status",
-      "content": "I have a genuine question, as a new player to this game. While I find it extremely fun and addictive, I got the feeling, especially based on the devs' twitter activity, that the game has been left abandoned. Are there any plans for future updates, implementation of matchmaking and other QOL features? submitted by /u/JustAStupidName7 to r/BAPBAP [link] [comments]",
-      "link": "https://www.reddit.com/r/BAPBAP/comments/1qgng38/games_status/",
-      "author": "/u/JustAStupidName7",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T23:37:56.445319"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qgpci0",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "A time-loop puzzle where you work with your past self",
-      "content": "submitted by /u/Consistent-Pen-4236 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgpci0/a_timeloop_puzzle_where_you_work_with_your_past/",
-      "author": "/u/Consistent-Pen-4236",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T00:53:51.205912"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qgozg8",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Keys of Curses | Title Screen Completed",
-      "content": "submitted by /u/Lazarius303 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgozg8/keys_of_curses_title_screen_completed/",
-      "author": "/u/Lazarius303",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T00:53:51.205923"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qgowcn",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "i guess it's death of indie genre now because E33 is gold standard for indie title",
-      "content": "submitted by /u/No-Telephone730 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qgowcn/i_guess_its_death_of_indie_genre_now_because_e33/",
-      "author": "/u/No-Telephone730",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T00:53:51.205932"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qgo824",
       "type": "post",
       "subreddit": "indiegaming",
@@ -7739,7 +7667,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-20T14:30:34.857191"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qi38gx",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Do you actually understand C# itself, not the unity implementation of it? How much does it help you when developing in unity?",
+      "content": "I am thinking of learning C# itself for a while. I noticed that when watching content about it instead of unity content, the person talks a lot about stuff I've never used before. submitted by /u/-Weslin [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qi38gx/do_you_actually_understand_c_itself_not_the_unity/",
+      "author": "/u/-Weslin",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T15:19:16.705259"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qi37sh",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Solo dev here. I’ve been working on this project full-time for 8 months, and the Steam page is finally live. I’d love to hear your feedback!",
+      "content": "I’ve been a Unity developer for about 4 years, and this is my first commercial Steam game. I’m currently working on the demo, which will be published as soon as possible. submitted by /u/Head_Yoghurt_3588 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qi37sh/solo_dev_here_ive_been_working_on_this_project/",
+      "author": "/u/Head_Yoghurt_3588",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T15:19:16.705285"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qi3bo4",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "After that fella posted his amazing tween guide, I had to add some bounce to my puzzle game!",
+      "content": "The post I'm talking about in case anyone missed it: https://www.reddit.com/r/godot/comments/1qbppzt/i_recreated_hollow_knights_shops_ui_using_tweens/ submitted by /u/minifigmaster125 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qi3bo4/after_that_fella_posted_his_amazing_tween_guide_i/",
+      "author": "/u/minifigmaster125",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T15:19:16.705334"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qi2pvn",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Any help with unity error code cs1513?",
+      "content": "I’ve been trying to create enemy movement and awareness for a top down shooter and am following a guide made by KetraGames. Ep 07. I finished of all the scripts but my unity says that I have an error. Assets\\Scripts\\Game\\Enemy\\PlayerAwarenessController.cs(37,2): error CS1513: } expected I’ve rechecked multiples times and cannot find a missing curly bracket any help would be much appreciated. submitted by /u/ProfessionAlarmed697 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qi2pvn/any_help_with_unity_error_code_cs1513/",
+      "author": "/u/ProfessionAlarmed697",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T15:19:16.705416"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qi3po9",
+      "type": "search",
+      "subreddit": "MergeTacticsSC",
+      "title": "I wish the devs cared about the game and started making balance changes.",
+      "content": "its not normal that clan has been goated for seasons and got a buff too. meanwhile undead or cards like mini pekka, ghost and skelly drags are non existent. and yeah lets not talk about sage submitted by /u/Delicious-Radish-708 to r/MergeTacticsSC [link] [comments]",
+      "link": "https://www.reddit.com/r/MergeTacticsSC/comments/1qi3po9/i_wish_the_devs_cared_about_the_game_and_started/",
+      "author": "/u/Delicious-Radish-708",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T15:19:16.706939"
     }
   ],
-  "last_updated": "2026-01-20T14:32:15.119618"
+  "last_updated": "2026-01-20T15:20:56.313517"
 }
