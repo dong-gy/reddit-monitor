@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qgkuzb",
-      "type": "search",
-      "subreddit": "SoloDevelopment",
-      "title": "My own game engine focusing on Planet Rendering",
-      "content": "So for the past couple of years I have been learning C++ and Dx11, I’ve restarted the engine 2 times,last one being 6 years ago now. Finally I have gotten to the point that I’ve gotten comfortable enough to show off my work and there for started to do dev logs to share my journey but also to document it to myself. My game engine, called Toast Engine, is focusing on rendering a planet and enabling the user to move seamless between surface and space. While I build my game engine I also build an example game focusing on Starship landing and colonizing Mars. I love input and feedback so feel free to reach out :) submitted by /u/Toastmastern to r/SoloDevelopment [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qgkuzb/my_own_game_engine_focusing_on_planet_rendering/",
-      "author": "/u/Toastmastern",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T21:36:36.343112"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qglcdy",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Nullspire - Cyberpunk Text-based MMORPG Officially Launched!",
-      "content": "submitted by /u/Bootezz [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qglcdy/nullspire_cyberpunk_textbased_mmorpg_officially/",
-      "author": "/u/Bootezz",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T22:09:34.734084"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qgl293",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Wake Up 3D?",
-      "content": "What do you think about point and click games in 3D style submitted by /u/trifon1402 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qgl293/wake_up_3d/",
-      "author": "/u/trifon1402",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T22:09:34.734188"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qglgt0",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Online Subsystem NULL",
-      "content": "How do I make this work? Can I test using packaged builds? Why doesn't it work on PIE? Why does my online subsystem forces port=0? Does running two instances of the same game on same port breaks local test for Online Subsystem=NULL? So many questions.... I'm willing to pay for personal help submitted by /u/rafola554 [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qglgt0/online_subsystem_null/",
-      "author": "/u/rafola554",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T22:09:34.734204"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qglsow",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "This game was made in a few months by just me",
-      "content": "submitted by /u/FreakiestWord [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qglsow/this_game_was_made_in_a_few_months_by_just_me/",
-      "author": "/u/FreakiestWord",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T22:09:34.734233"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qglm2w",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Screenshot Post #24",
-      "content": "submitted by /u/NeoFlyingDragon [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qglm2w/screenshot_post_24/",
-      "author": "/u/NeoFlyingDragon",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T22:09:34.734239"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qgl8wx",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -7487,7 +7415,79 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-20T10:51:09.075012"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhy7t9",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "AAA is for \"AHHHHH!\"",
+      "content": "submitted by /u/electric-kite [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhy7t9/aaa_is_for_ahhhhh/",
+      "author": "/u/electric-kite",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T11:14:53.556555"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhy1hw",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "CYBRID -50% Steam VR & -25% Meta Quest",
+      "content": "-50% STEAM VR & -25% META QUEST submitted by /u/shadagames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhy1hw/cybrid_50_steam_vr_25_meta_quest/",
+      "author": "/u/shadagames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T11:14:53.556562"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qhy5xx",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I improved my character with your comments. How is it now?",
+      "content": "submitted by /u/dgzip [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qhy5xx/i_improved_my_character_with_your_comments_how_is/",
+      "author": "/u/dgzip",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T11:14:53.556572"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhyd4b",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Godot 2D lighting appreciation post",
+      "content": "It's a bit overkill for the final project, but it's so good :D submitted by /u/Shatter830 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhyd4b/godot_2d_lighting_appreciation_post/",
+      "author": "/u/Shatter830",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T11:14:53.556591"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qhy809",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "UE5 Niagara Tutorial: Advanced Summoning Ring FX",
+      "content": "Create a professional summoning ring VFX using Unreal Engine Niagara. This step-by-step guide covers everything from material parameters to environmental glow. 🔥 What you will learn: • Crafting parameterized ring materials for dynamic control. • Building multi-layered Niagara emitters for complex rings. • Designing magical inner materials and rock spawning systems. ✨ • Adding glowing ground effects and environmental polish. ⚡ submitted by /u/UnrealEngineTutorial [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qhy809/ue5_niagara_tutorial_advanced_summoning_ring_fx/",
+      "author": "/u/UnrealEngineTutorial",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T11:14:53.556614"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhydnm",
+      "type": "search",
+      "subreddit": "hacking",
+      "title": "My experience with \"anti-detect\" browsers and tracking",
+      "content": "The first time I tried to understand antidetect browsers, I thought they would make me totally untraceable. That’s what people usually say. I started using them because I needed to manage a lot of different profiles without everything getting mixed up. At first, it felt pretty good, separate profiles, clean setups, everything organized. Over time, I tried a few options and also spent some time using Incogniton. I liked being able to manage many profiles in one place, especially for social media and e-commerce accounts. It made things way easier to handle. After a while, I started noticing small things. Nothing really disappears. Even with separate profiles, small patterns still show up over time. That’s when it hit me, the browser isn’t doing most of the work. A lot of tracking comes from what you do over and over: same logins, same actions, same timing. submitted by /u/jpisafreakingbeast to r/hacking [link] [comments]",
+      "link": "https://www.reddit.com/r/hacking/comments/1qhydnm/my_experience_with_antidetect_browsers_and/",
+      "author": "/u/jpisafreakingbeast",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T11:14:53.557927"
     }
   ],
-  "last_updated": "2026-01-20T10:52:52.018284"
+  "last_updated": "2026-01-20T11:16:34.280801"
 }
