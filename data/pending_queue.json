@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qgd5cq",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Elemental damage and secondary effect combos",
-      "content": "submitted by /u/General_Hatestorm [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qgd5cq/elemental_damage_and_secondary_effect_combos/",
-      "author": "/u/General_Hatestorm",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T16:44:46.573451"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qgddgu",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Working on volumetrics/godrays on this procedural world build.",
-      "content": "Running on browser. Three.js submitted by /u/Any-Tap-1503 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qgddgu/working_on_volumetricsgodrays_on_this_procedural/",
-      "author": "/u/Any-Tap-1503",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T16:44:46.573489"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qgd8fj",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "What can be improved in my scoring system for my dice balatro game Hot Streak?",
-      "content": "submitted by /u/toxicspiyt [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qgd8fj/what_can_be_improved_in_my_scoring_system_for_my/",
-      "author": "/u/toxicspiyt",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T16:44:46.573496"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qgcxwt",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "This is unbelievable! Can now Donna climb!? It's been a while since I posted some progress here in Reddit, heya folks!",
-      "content": "submitted by /u/Peli_117 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qgcxwt/this_is_unbelievable_can_now_donna_climb_its_been/",
-      "author": "/u/Peli_117",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-18T16:44:46.573502"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qgd50i",
       "type": "search",
       "subreddit": "HybridAnimalsGame",
@@ -7487,7 +7439,151 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-20T02:54:48.616709"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qhq8is",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Playtest currently live, need some feedback",
+      "content": "Can be played on steam: StealthTag A social deduction game that has 1v1 and 4 player free for all modes. submitted by /u/SandWaveDev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhq8is/playtest_currently_live_need_some_feedback/",
+      "author": "/u/SandWaveDev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T04:01:29.168771"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhq8vu",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "A (very unfinished and boring) walk-round montage of a Scottish game I'm toying with.. (Godot 3.4.4)",
+      "content": "Just a little scottish scheme survival / life simulator / flat decorating / car driving / working game, my 3rd one and my favourite so far! just needs a lot more content... Will look very boring to yous but if you know games like My Summer Car, well.. submitted by /u/ingutek [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhq8vu/a_very_unfinished_and_boring_walkround_montage_of/",
+      "author": "/u/ingutek",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T04:01:29.168824"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qhpysl",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "DEMO updated! added 2bosses",
+      "content": "https://store.steampowered.com/app/2693880/RX1040/ submitted by /u/karakasadev [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qhpysl/demo_updated_added_2bosses/",
+      "author": "/u/karakasadev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T04:01:29.168831"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qhqal7",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Multiplayer Testing for my game??",
+      "content": "So I'm publishing to Microsoft stores (Xbox) very soon however how can I be sure my multiplayer feature works? sideloading is local machine only right, so that wouldn't work.? Do I just have to trust that I did it right? (yes ik i could just search this up but a lot of the forums and videos are outdated and I need the best possible up-to-date advice.) thanks submitted by /u/LIV3O [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qhqal7/multiplayer_testing_for_my_game/",
+      "author": "/u/LIV3O",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T04:01:29.168856"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhq0ec",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "DEMO updated! added 2 bosses",
+      "content": "https://store.steampowered.com/app/2693880/RX1040/ submitted by /u/karakasadev [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhq0ec/demo_updated_added_2_bosses/",
+      "author": "/u/karakasadev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T04:01:29.168927"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhqkkb",
+      "type": "search",
+      "subreddit": "GameSale",
+      "title": "[USA-FL] [H] Lot of PC games, Nintendo Switch, DS, Wii, & PS4 games [W] PayPal G&S",
+      "content": "Try to get rid most of my collection here instead of collecting dust. Prices do not include shipping. Add $6 shipping for 1-2 games, (Shipping within the US only) I want to try sell these as bundles to save on shipping so single items are mostly firm. Open to price negotiations for 2+ games. Most items were played/tested and good condition unless stated otherwise. If you want more photos/videos of the items, let me know as well. PC/Mac: World Of Warcraft Physical Edition CIB - $6 (Includes the manual, PC DVD-Rom installer disc and verified playable, unsure if the codes are used. Some signs of wear are the box as well.) Playstation 2(PS2): Sonic Heroes - $3 (empty jewel case, tons of scratches on disc but tested playable) Playstation 4(PS4): Tom Clancy's The Division 2016 - $4 Final Fantasy XV [Day One Edition] CIB - $5 (weapon code is used, disc kept in good condition, tested and playable) Call of Duty Black Ops 3 - $4 (missing Nuketown map download code, scratches on the front and back disc but verified tested playable) Xbox 360: * Micheal Phelps Push to the Limit Xbox 360 Kinect Game - $3 (Never tested, some scratches on the disc and manual) Nintendo Wii: Skylanders: Giants - $3 (GAME ONLY, no manual, some scratches on the disc, tested and playable) Cars Toon: Mater's Tall Tales CIB - $5 (includes manual, scratches on the disc but verified tested playable.) Nintendo DS: * Shrek Forever After for Nintendo DS CIB - $4 Nintendo Switch: * Neo: The World Ends With You (SEALED) - $22 submitted by /u/TheAnimeGod to r/GameSale [link] [comments]",
+      "link": "https://www.reddit.com/r/GameSale/comments/1qhqkkb/usafl_h_lot_of_pc_games_nintendo_switch_ds_wii/",
+      "author": "/u/TheAnimeGod",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T04:01:29.169031"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhqhdh",
+      "type": "search",
+      "subreddit": "BluePrince",
+      "title": "The funny-named book was insanely fun for me",
+      "content": "I'm on day 67, around 90 hours of gameplay that just flew by and 3 full pages plus a TON of screenshots worth of notes deep into the game and I'm CHERISHING IT. I started hallucinating mechanics irl like the memos, steps, items, computer terminals, drafting plans... Heck, even dreaming about the game overnight. I just (almost) finished solving A New Clue after a LOT of time and some help and it was SO GOOD. The clues were in places I didn't even see the first 5 or 6 times. No joke it probably took me around 30 in game days and 7 different \"borrows\" to get all clues piece by piece. The ones I solved fully on my own were seeing the signs and deciphering their message, annagraming the book names, the entrance hall microchip and finding almost all clues in general . The ones I could solve after a bit of help were <!finding the secret message between the words and knowing that the xyzabc lead referred to the metro map!<. The one I couldn't solve alone was the grotto key (only solved the Ma Jor = small name part, nothing after that) . Now I only need to draft the throne room, see if the words/ binary code on the grotto cutscene mean something (I found the CASTLE word puzzle on the precipice but the other 2 words don't fit in the grid so IDK) and find the \"scorched sundial\" (really intrigued about this one) . Did y'all also need help for this specific puzzle or in the mid-late game in general? Or did you do it alone even though it took weeks of absolutely zero progress? I'm really curious to know and also so I can feel a bit better since I looked up hints a few more times than I would've liked (even though I'm going really slowly) and I hate it. Thanks! submitted by /u/TallReview to r/BluePrince [link] [comments]",
+      "link": "https://www.reddit.com/r/BluePrince/comments/1qhqhdh/the_funnynamed_book_was_insanely_fun_for_me/",
+      "author": "/u/TallReview",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T04:01:29.169066"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhql9r",
+      "type": "search",
+      "subreddit": "AnimalJam",
+      "title": "About Bestmasteringames - DO NOT Purchase my art from this individual!",
+      "content": "This person is known to exploit the art program, uploading real images. I was informed that they plan to do/have done this with my art. I’m incredibly disgusted and disappointed. Report this person, do not purchase anything from them. THEY ARE NOT AFFILIATED WITH ME. Thank you. submitted by /u/seasonsgreasons to r/AnimalJam [link] [comments]",
+      "link": "https://www.reddit.com/r/AnimalJam/comments/1qhql9r/about_bestmasteringames_do_not_purchase_my_art/",
+      "author": "/u/seasonsgreasons",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T04:01:29.170122"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhqe2t",
+      "type": "search",
+      "subreddit": "cartoons",
+      "title": "If the Nostalgia Critic reviewed Arcane:",
+      "content": "submitted by /u/Commercial_Mind4003 to r/cartoons [link] [comments]",
+      "link": "https://www.reddit.com/r/cartoons/comments/1qhqe2t/if_the_nostalgia_critic_reviewed_arcane/",
+      "author": "/u/Commercial_Mind4003",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T04:01:29.170181"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhqhrh",
+      "type": "search",
+      "subreddit": "yakuzagames",
+      "title": "Last time I checked it was 35 for only a DLC (the game itself is cheaper) & this is the reason why I hate devs removing their games from the official store.",
+      "content": "What does the DLC even give you? is it to make it easier? submitted by /u/Hensemderilwan to r/yakuzagames [link] [comments]",
+      "link": "https://www.reddit.com/r/yakuzagames/comments/1qhqhrh/last_time_i_checked_it_was_35_for_only_a_dlc_the/",
+      "author": "/u/Hensemderilwan",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T04:01:29.170327"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhqkot",
+      "type": "search",
+      "subreddit": "StardewValley",
+      "title": "Money Maker",
+      "content": "So um like, I don't know if anyone have ever ask this question yet, but what do you guys think about the better way of making money (mid-late game) between honey and ancient fruit wine? Because I think that honey is a better way of making money? For the fist scenario (which mean without ginger island) For a constant, you can only plant 116 ancient fruit in the greenhouse, then with 116 keg you can make [(2,310 x 116) / 7] = 38,280g per day. Even if you have more keg, the amount of limit you have for tiles in greenhouse is 116. And each wine need 6.25, which like 7 days for production of ancient fruit wine. Now if about honey, then it will be how much ever keg you have is each free 220g you got. Because remember, you can buy 1 honey for 200 in oasis by Sandy each Friday, and sell for 420g. If you have 2 optimize 2 big shed, you will have (137 x 2) = 274 keg, each day you can do twice, then [(274 x 2) x (420 - 200)] = 120,560g per day. For the second scenario (which mean with ginger island) You will have unlimited amount of ancient fruit, but then even if like that, if you use the same about as the honey, it would be [(274 x 2,310) / 7] = 90,420g per day So if you like about it, if you have money, bought like 30x stack of 999 honey, and put of keg. Remember, the more keg = more wine fruit but also = more mead, for example, with 4 optimize big shed, you would have make (38,280 x 2) = 241,120g per day with mead and 180,840g per day with ancient fruit, which is 60,280g per day different. Note: The only different is that you have to keg to honey twice per day, which 14 times per which, while ancient fruit only need once per week, but it is really worth it or not? submitted by /u/Technical_Win_9000 to r/StardewValley [link] [comments]",
+      "link": "https://www.reddit.com/r/StardewValley/comments/1qhqkot/money_maker/",
+      "author": "/u/Technical_Win_9000",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T04:01:29.170361"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qhqjte",
+      "type": "search",
+      "subreddit": "screenshots",
+      "title": "Admitted Pokemon scalper gets sad he is on the receiving end of karma",
+      "content": "Dude whining about how he got screwed out of HIS product. submitted by /u/BlackTarTurd to r/screenshots [link] [comments]",
+      "link": "https://www.reddit.com/r/screenshots/comments/1qhqjte/admitted_pokemon_scalper_gets_sad_he_is_on_the/",
+      "author": "/u/BlackTarTurd",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-20T04:01:29.170504"
     }
   ],
-  "last_updated": "2026-01-20T02:56:36.314894"
+  "last_updated": "2026-01-20T04:03:10.122097"
 }
