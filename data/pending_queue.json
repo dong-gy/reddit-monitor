@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qh894h",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Fog scattering effect",
-      "content": "I'm working on fog scattering compositor effect. It's a very underrated effect that makes fog look way better. You can download it here: https://github.com/Rytelier/Godot-Fog-Scattering It still need some features, contributors are welcome. submitted by /u/Rytelier_Official [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qh894h/fog_scattering_effect/",
-      "author": "/u/Rytelier_Official",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T16:14:42.155639"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qh823k",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Implementing multiplayer for the first time!",
-      "content": "https://reddit.com/link/1qh823k/video/9j4sbl4lwbeg1/player How is it? submitted by /u/Feisty_Hour6612 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qh823k/implementing_multiplayer_for_the_first_time/",
-      "author": "/u/Feisty_Hour6612",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T16:14:42.155645"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qh8f0s",
       "type": "search",
       "subreddit": "OnePieceScaling",
@@ -9827,7 +9803,115 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-21T14:57:30.159275"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qj0ge6",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Gnaughty Gnomes will feature 3 game modes: Classic Versus, Teams and Prop Hunt",
+      "content": "Play its demo on Steam![ https://store.steampowered.com/app/3454480/Gnaughty\\_Gnomes/](https://store.steampowered.com/app/3454480/Gnaughty_Gnomes/) submitted by /u/SandCastlesStudio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qj0ge6/gnaughty_gnomes_will_feature_3_game_modes_classic/",
+      "author": "/u/SandCastlesStudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T15:25:28.530070"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qj02sc",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Things may get chaotic with a full group, but that just makes it all the more fun!",
+      "content": "submitted by /u/Red_Dunes_Games [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qj02sc/things_may_get_chaotic_with_a_full_group_but_that/",
+      "author": "/u/Red_Dunes_Games",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T15:25:28.530111"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qj027b",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Puzzle Game Feedback Wanted!",
+      "content": "submitted by /u/BitricGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qj027b/puzzle_game_feedback_wanted/",
+      "author": "/u/BitricGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T15:25:28.530119"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qj0nou",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "1st or 2nd for Steam capsule ?",
+      "content": "I tried to draw my own steam capsule but I am not sure about it, any feedback ? Is there too many bg elements on the 1st or is it ok ? Is it readable ? It's the first iteration of the capsule so don't hesitate to destroy it I will make more i guess submitted by /u/magqq [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qj0nou/1st_or_2nd_for_steam_capsule/",
+      "author": "/u/magqq",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T15:25:28.530151"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qj0fgi",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Forest of the Dead God",
+      "content": "Two person studio; slowly but surely, replacing the placeholders I got off itch with proprietary art! The background shown is one of the many locations in our upcoming match-3 roguelite. Will be replacing the bottom screen soon, just to have something that feels \"our own\" while we are still developing. Narratively, you play a Runecaster , scrying into the scenes of battle, using rune-casting and divination to alter the fate of your chosen champion, as they traverse the perilous island of Helgistat. Mechanically, its heavily inspired by games like Slay the Spire, Cloverpit, and the Match-3 genre. Still in early development and prototyping. Developed in Godot. submitted by /u/Salt_Punk [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qj0fgi/forest_of_the_dead_god/",
+      "author": "/u/Salt_Punk",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T15:25:28.530186"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qj0a87",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "My Firewatch-inspired road trip game - solo dev",
+      "content": "Hey! I’m a solo developer with 4 years of full-time Unity experience. This is my first commercial Steam game. It’s a cozy, story-driven road trip experience where you travel through small towns in a van that doubles as a mobile trading shop. I’d love to hear what you think about the atmosphere and visuals. submitted by /u/Head_Yoghurt_3588 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qj0a87/my_firewatchinspired_road_trip_game_solo_dev/",
+      "author": "/u/Head_Yoghurt_3588",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T15:25:28.530314"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qj0r3x",
+      "type": "post",
+      "subreddit": "godot",
+      "title": ".... Mmm yes.... ReKoiL",
+      "content": "I may have tuned the recoil to be a bit stronger than anticipated lol submitted by /u/eskimopie910 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qj0r3x/mmm_yes_rekoil/",
+      "author": "/u/eskimopie910",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T15:25:28.530364"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qj04aa",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "2d shooting game Early Access,Google Play.",
+      "content": "a 2d shooting game like galaxian,perfect for short, relaxing sessions. feedback and suggestion is welcome Alien Invader - Bullet Burst submitted by /u/No-Gazelle-9687 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qj04aa/2d_shooting_game_early_accessgoogle_play/",
+      "author": "/u/No-Gazelle-9687",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T15:25:28.530409"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qj0i56",
+      "type": "search",
+      "subreddit": "ZenlessZoneZero",
+      "title": "Happy Birthday To Yume Miyamoto! 🥳🎉",
+      "content": "submitted by /u/LegendsofLost to r/ZenlessZoneZero [link] [comments]",
+      "link": "https://www.reddit.com/r/ZenlessZoneZero/comments/1qj0i56/happy_birthday_to_yume_miyamoto/",
+      "author": "/u/LegendsofLost",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T15:25:28.531120"
     }
   ],
-  "last_updated": "2026-01-21T14:59:12.032671"
+  "last_updated": "2026-01-21T15:27:16.096028"
 }
