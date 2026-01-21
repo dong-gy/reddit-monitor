@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhck3b",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Added an algae shader to the walls!",
-      "content": "submitted by /u/KalpStudio [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhck3b/added_an_algae_shader_to_the_walls/",
-      "author": "/u/KalpStudio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T18:52:26.097356"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhcbsj",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Some special events are unlocked through specific dialogue choices. Still tuning how obvious these should be",
-      "content": "submitted by /u/Cerbinwen [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhcbsj/some_special_events_are_unlocked_through_specific/",
-      "author": "/u/Cerbinwen",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T18:52:26.097385"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhcb3t",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "After 2 Years, I Decided to Open Source My VR Game!",
-      "content": "Hi all! After working on my VR game inspired by Sonic and Jet Set Radio for about 2 years, I decided to Open Source the entire project. The game was built in Unity , and if anyone is interested in seeing how a VR platformer might be structured (movement, systems, etc.), the full project and setup instructions can be found: HERE . I figured this project might be useful to others experimenting with VR, and I’m happy to answer any questions about the project or the process! submitted by /u/RealityWanderers [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhcb3t/after_2_years_i_decided_to_open_source_my_vr_game/",
-      "author": "/u/RealityWanderers",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T18:52:26.097405"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qhcuu0",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Thoughts on my rewind animation ? Does it looks good enough ?",
-      "content": "submitted by /u/FortuneDW [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhcuu0/thoughts_on_my_rewind_animation_does_it_looks/",
-      "author": "/u/FortuneDW",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T18:52:26.097485"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qhccsu",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "What are patterns in Godot?",
-      "content": "I'm watching a Godot tutorial and someone mentions in a comment: \"##If you're already at the level of using patterns like in Factory, what are you doing watching a video about learning to use dictionaries? This is an example!\" What are patterns? In the example, they're creating an enemy that summons more enemies. submitted by /u/diemyeah [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhccsu/what_are_patterns_in_godot/",
-      "author": "/u/diemyeah",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T18:52:26.097496"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qhc8wg",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Feedback wanted on my palette shader AND added names!",
-      "content": "The artist who made the wizard is u/lebifstek - on instagram. It is free art listed on Itch.io for a PixelArt Jam. This is for a game that I have not named or finished. submitted by /u/Yellowthrone [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhc8wg/feedback_wanted_on_my_palette_shader_and_added/",
-      "author": "/u/Yellowthrone",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T18:52:26.097505"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qh9wgs",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I added Parallax to my background as someone here suggested",
-      "content": "Obviously much of the background is unfinished 😅 But hopefully the effect comes through submitted by /u/Obvious-Sorbet5852 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qh9wgs/i_added_parallax_to_my_background_as_someone_here/",
-      "author": "/u/Obvious-Sorbet5852",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T18:52:26.097516"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qh9rie",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Implemented more Parallax into my game as someone suggested",
-      "content": "Obviously the art isn't done 😅 But hopefully the parallax effect is apparent. submitted by /u/Obvious-Sorbet5852 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qh9rie/implemented_more_parallax_into_my_game_as_someone/",
-      "author": "/u/Obvious-Sorbet5852",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T18:52:26.097526"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhcn9z",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -11735,7 +11639,139 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-21T23:14:24.181457"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjdn7l",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Thank you to everyone who wishlisted Eldoria on Steam!",
+      "content": "We're getting close to 100 wishlists!! Let's hit it together! Wishlist Eldoria here . :) https://reddit.com/link/1qjdn7l/video/vwzv0zmwaseg1/player submitted by /u/nataliadalomba [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjdn7l/thank_you_to_everyone_who_wishlisted_eldoria_on/",
+      "author": "/u/nataliadalomba",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T23:43:53.100278"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qje06e",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Tabsy an app made for tracking IOUs",
+      "content": "submitted by /u/BestOfDays32 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qje06e/tabsy_an_app_made_for_tracking_ious/",
+      "author": "/u/BestOfDays32",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T23:43:53.100288"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjdyy5",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Lava rings",
+      "content": "submitted by /u/bigjobbyx [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjdyy5/lava_rings/",
+      "author": "/u/bigjobbyx",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T23:43:53.100295"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjdna0",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I made some modernization to my inventory icons... What do you think?",
+      "content": "I'm making a cozy island survival game. Recently, I got feedback from people saying that UI in my game looks lifeless and inconsistent. And here is the new pack of inventory icons. What do you think? Do they reflect the cozy vibe of the game? Or still need improvements? I'm considering renewing the inventory slots and panel visuals as well. submitted by /u/cegtheripper [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjdna0/i_made_some_modernization_to_my_inventory_icons/",
+      "author": "/u/cegtheripper",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T23:43:53.100339"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qje9sy",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Using Godot for simulating destruction and debris dispersion",
+      "content": "I am looking to use Godot (or something similar) to simulate the destruction of man-made environments under different loading conditions - think a roof ripping off during a hurricane, or a wall falling over during an earthquake. I have seen some similar work done using PyBullet, but from what I have read, the Jolt physics engine may yield better results. My question for this subreddit is, is Godot a good choice for this sort of application? I am not looking to develop a game (though I have some personal interest in that area), this is primarily for realistic simulations of debris dispersion. I am also completely new to the world of game/physics engines, and have a solid, but basic, foundation in coding. Any advice regarding getting started would also be greatly appreciated! submitted by /u/Dr-LJG [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qje9sy/using_godot_for_simulating_destruction_and_debris/",
+      "author": "/u/Dr-LJG",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T23:43:53.100360"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qjdxky",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Im going to make a Turn Based tactical game. Are these 2 templates good or should i start from scratch?",
+      "content": "1: Unreal Engine Strategy Template: https://www.fab.com/listings/f229a0dd-e4e5-4a95-a31a-5c25d6d384f3 https://www.youtube.com/watch?v=tEn3KstYfJQ Turn-Based Strategy RPG Template https://www.fab.com/listings/f3fe31dd-85f7-4720-b485-301bd77996e8 Turn Based Strategy https://www.fab.com/listings/3efedfe9-f1e8-4b33-9bdc-14155dbfebbe I'm normally hesitant to go for templates, especially if they are blueprints, because of how confusing everything seems. It seems most of the time it is better to do it yourself from scratch. Did anyone try any of these templates? Should i go with any of these? submitted by /u/FutureLynx_ [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qjdxky/im_going_to_make_a_turn_based_tactical_game_are/",
+      "author": "/u/FutureLynx_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T23:43:53.100382"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qje15s",
+      "type": "search",
+      "subreddit": "marvelrivals",
+      "title": "Is the Deadpool rewards event scamming anyone else with false wins?",
+      "content": "I rolled on the event today and it landed on 300 units but I got a pop up saying better luck next time? Is this possible to happen on all spaces even if I land on the correct one? As you can see the space landed on is still highlighted in the photo. 😔 submitted by /u/agenderghoul to r/marvelrivals [link] [comments]",
+      "link": "https://www.reddit.com/r/marvelrivals/comments/1qje15s/is_the_deadpool_rewards_event_scamming_anyone/",
+      "author": "/u/agenderghoul",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T23:43:53.100655"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjdxa3",
+      "type": "search",
+      "subreddit": "blackops7",
+      "title": "Fallout Promotion code",
+      "content": "Hello CoD community! I genuinely enjoyed playing a few matches of CoD which was a nice break from my usual Fallout rotation (and I hope members of this community have been able to check out the Fallout games as a result too)! But I wanted to see if any kind redditors had a spare code from the Fallout collaboration I had no issue playing CoD matches, but unfortunately I have yet to be granted anything. Both Bethesda Support and Activision Support haven't been helpful submitted by /u/CamTheNeko67 to r/blackops7 [link] [comments]",
+      "link": "https://www.reddit.com/r/blackops7/comments/1qjdxa3/fallout_promotion_code/",
+      "author": "/u/CamTheNeko67",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T23:43:53.100670"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qje4a1",
+      "type": "search",
+      "subreddit": "WallStreetbetsELITE",
+      "title": "The most popular stocks on Reddit today",
+      "content": "Sandisk, Intel and Immunitybio are standing out as new hot stocks. If you had to pick one for the next 3–6 months, which would it be? submitted by /u/AltIndexApp to r/WallStreetbetsELITE [link] [comments]",
+      "link": "https://www.reddit.com/r/WallStreetbetsELITE/comments/1qje4a1/the_most_popular_stocks_on_reddit_today/",
+      "author": "/u/AltIndexApp",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T23:43:53.102120"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjeb3p",
+      "type": "search",
+      "subreddit": "Ultrakill",
+      "title": "Is Fraud trying to achieve something never before attempted in video games?",
+      "content": "Portals are in a good few games now, however I don't think any of them are as complex as Ultrakill. The obvious portal game that comes to mind is Portal. You are basically only bringing stationary objects through portals, the most complex being Turrets. However, Turrets don't have any pathfinding, and don't even look up. They just send hitscan fire through portals. I've seen people mention other games that have \"portal mechanics\" when in reality the portals are just PNGs that teleport you to another PNG. Not seamless like the portals seen in Portal and Fraud. The closest game that is somewhat similar to the mechanics seen in Fraud is Splitgate. It has both seamless portals and combat mechanics. However, Splitgate is PvP, meaning there are no NPCs that need to pathfind through portals. I'm making this post because I don't actually know a lot about Splitgate, or any other games that might include portals (except Portal). There might already be a game that combines portals and PvE. If not, then we have a reason why Fraud is taking so long. The game devs are trying make something that has never been made before. (Some stuff in this post is probably completely wrong, so please correct me) submitted by /u/radayrk to r/Ultrakill [link] [comments]",
+      "link": "https://www.reddit.com/r/Ultrakill/comments/1qjeb3p/is_fraud_trying_to_achieve_something_never_before/",
+      "author": "/u/radayrk",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T23:43:53.102170"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qje18q",
+      "type": "search",
+      "subreddit": "stellarblade",
+      "title": "Why Was The Game Called \"Stellar BLADE?\"",
+      "content": "I was always curious if the Dev team every mentioned why they decided to call the game \"Stellar BLADE?\" What is the game's relevance to that title? Why not something like \"EVE Protocol\" instead, as that has greater narrative relevance? submitted by /u/Farronhart to r/stellarblade [link] [comments]",
+      "link": "https://www.reddit.com/r/stellarblade/comments/1qje18q/why_was_the_game_called_stellar_blade/",
+      "author": "/u/Farronhart",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T23:43:53.102280"
     }
   ],
-  "last_updated": "2026-01-21T23:15:50.921804"
+  "last_updated": "2026-01-21T23:45:34.371152"
 }
