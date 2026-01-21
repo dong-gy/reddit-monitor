@@ -1,138 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qh21mm",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "We've just announced Wild Wits' third game, Sovereign Tower, still made with Godot!",
-      "content": "Hey everyone, the game I've been working on with the Wild Wits' team and Curve Games, Sovereign Tower, has just been revealed! This is the third project of Wild Wits Games, after Aetheris and Crown Gambit, and all of them are made with Godot of course :D In this story-rich, Round Table management RPG, you'll have to form a team of eccentric Knights, assign them to quests and balance their egos whilst carving out your kingdom's destiny. If you're intrigued, we've released a demo on Itch.io and you can also check our Steam page to wishlist! submitted by /u/MrPouletBZH [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qh21mm/weve_just_announced_wild_wits_third_game/",
-      "author": "/u/MrPouletBZH",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T12:22:12.717140"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qh2981",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "MD-DL-0 error? this works.",
-      "content": "credits to : Lazy-Blacksmith-6137 ⁠⁠Close the launcher , and make sure its not running from TaskManager ⁠⁠edit DefaultEngine.ini from inside launcher install directory (in my case its in C:\\Program Files\\Epic Games\\Launcher\\Portal\\Config\\DefaultEngine.ini) open it then under [http] remove HttpTotalTimeout=30 line (open notepad as admin so you can save ) submitted by /u/Chk232 [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qh2981/mddl0_error_this_works/",
-      "author": "/u/Chk232",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T12:22:12.717158"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qh23p0",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "hi gamers i created a Free Psychological pc horror game in 20 days so please check it out ! this is a final release of game !",
-      "content": "submitted by /u/NegativeLanguage4837 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qh23p0/hi_gamers_i_created_a_free_psychological_pc/",
-      "author": "/u/NegativeLanguage4837",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T12:22:12.717165"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qfkkl3",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "Do players always expect magic-based mechanics in a fantasy setting?",
-      "content": "I'm making Hotline Miami influenced bullet parrying game. Basically both the hook and the core pillar is \"Knight versus Guns\". I want to have a contrast between firearms and medieval/fantasy world, but I started questioning fantasy part. Could it be harmful to have fantasy/magical feel in a game that has no magic at all, neither in gameplay nor in the story? submitted by /u/hogon2099 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qfkkl3/do_players_always_expect_magicbased_mechanics_in/",
-      "author": "/u/hogon2099",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T12:22:12.717179"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qh22uu",
-      "type": "search",
-      "subreddit": "Gamesir",
-      "title": "Questions about AliExpress and this offer for a GameSir Nova Lite",
-      "content": "This is my first purchase on AliExpress, and I got this offer for this controller, which is supposedly €30. Do you think it will arrive? Or will I get a refund? submitted by /u/Daap_9 to r/Gamesir [link] [comments]",
-      "link": "https://www.reddit.com/r/Gamesir/comments/1qh22uu/questions_about_aliexpress_and_this_offer_for_a/",
-      "author": "/u/Daap_9",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T12:22:12.717826"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qh2os4",
-      "type": "search",
-      "subreddit": "footballmanagergames",
-      "title": "What's a no-go for you in FM because of real life?",
-      "content": "I'm talking about things that don't affect gameplay but you wouldn't do in FM because of some real life connection. The most classic example would be managing your team's rival, of course even if it was the most fun save that everyone was suggesting, you probably wouldn't manage Man Utd as a Man City fan. But that's the most obvious one (also signing Greenwood and other such scum). However I'm taking about less obvious stuff than these two examples. Also everything is connected to real life of course, Man City is good in game because they're good IRL but I'm talking mostly about things that don't affect gameplay (Greenwood is just code in-game and a decent player in the engine). I'll start with one (or two) examples that are a bit less obvious. Many people start lower league saves with non-historic clubs, maybe it's their local club, maybe they have the best badge, maybe they're the worst in the league etc. I however can't bring myself to manage one of the least-supported clubs in the league, even if I start in the lower leagues, I'm definitely picking the fallen giant with a big fan base for the level. This has gameplay implications of course with higher attendances and revenue but that's not my reason for doing it at all. I want to feel like I'm making lots of people happy and that I can feel part of the team by searching about them and finding some resources. I also can't pick a \"plastic\" club such as MK Dons, even ones with fans, because they've been turned into an RB club for example. TL;DR: What are some less-obvious things you do because of real life, and not because of gameplay implications. submitted by /u/Mackarosh to r/footballmanagergames [link] [comments]",
-      "link": "https://www.reddit.com/r/footballmanagergames/comments/1qh2os4/whats_a_nogo_for_you_in_fm_because_of_real_life/",
-      "author": "/u/Mackarosh",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T12:22:12.717882"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qh2o94",
-      "type": "search",
-      "subreddit": "robloxgamedev",
-      "title": "macos issue (dev forum posting access people please read)",
-      "content": "The latest roblox release has ruined almost all creator games for MacOS players. This is because of a key feature in all these games known as \"multi select\" losing its ability to work. With the new release of roblox switching the input for Ctrl from the \"command\" key to the \"control\" key on MacOS devices, all systems that used to require the input of the command key, including multi-selecting objects in creator games no longer work. To reproduce this simply go into a game like \"Tower Creator\" or \"Obby Creator\" on a mac device and try selecting multiple objects while holding down the command/control key. What I found most peculiar is how roblox studio still uses command+c and command+click for cloning and multi-select respectively yet actual roblox games had their MacOS keybinds changed causing issues. Would really appreciate if this got decent traction cause it's causing me and a lot of other mac users alot of trouble trying to build things and if anyone reading this has dev forum posting access I would heavily appreciate awareness being brought to this issue. submitted by /u/Negative-Courage2889 to r/robloxgamedev [link] [comments]",
-      "link": "https://www.reddit.com/r/robloxgamedev/comments/1qh2o94/macos_issue_dev_forum_posting_access_people/",
-      "author": "/u/Negative-Courage2889",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T12:22:12.718883"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qh2l1z",
-      "type": "search",
-      "subreddit": "IndieDev",
-      "title": "Moral decision for beating the\"DevTime\" in the game.",
-      "content": "In the 2D platformer game that I'm making, I've set the time completion medals. They aren't adding any mandatory challenge, they are only there for those that are a bit more competitive. I've also added the dev time to beat.... But... It's not actually MY time... I have a friend that is really good at these type of games, much better than me, definitely. Even at my own game, and he is playtesting every version. But not an expert in these games. He is passionate about doing things as optimally as possible. So he set some times that would be very, very hard for me to beat or come close to. I've set HIS time as the DevTime. Is that morally ok? Or am I being a liar for it? I do want these DevTimes to be a sweaty challenge, but I don't want to cheat, and just put some senseless time. submitted by /u/SShone95 to r/IndieDev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qh2l1z/moral_decision_for_beating_thedevtime_in_the_game/",
-      "author": "/u/SShone95",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T12:22:12.718903"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qh2j6t",
-      "type": "search",
-      "subreddit": "HighGuardgame",
-      "title": "If you had 3 questions to ask devs, what would they be ?",
-      "content": "We're now 1 week away from launch and we still have nothing to eat about the game. I'm genuinely curious : what would you ask the devs if you could ? Here's mine : * What triggered the birth of the game ? * What did you take from Apex Legends / Titanfall to put in this game ? * According to you, what is that make Highguard so special ? submitted by /u/Mean-Kaleidoscope-18 to r/HighGuardgame [link] [comments]",
-      "link": "https://www.reddit.com/r/HighGuardgame/comments/1qh2j6t/if_you_had_3_questions_to_ask_devs_what_would/",
-      "author": "/u/Mean-Kaleidoscope-18",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T12:22:12.718936"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qh2drd",
-      "type": "search",
-      "subreddit": "Catan",
-      "title": "Guess what tile I invested in?",
-      "content": "submitted by /u/TinUser to r/Catan [link] [comments]",
-      "link": "https://www.reddit.com/r/Catan/comments/1qh2drd/guess_what_tile_i_invested_in/",
-      "author": "/u/TinUser",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T12:22:12.719009"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qh3sku",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "This game was developed by 1 person and has no dialogue at all",
-      "content": "submitted by /u/acronkyoung [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qh3sku/this_game_was_developed_by_1_person_and_has_no/",
-      "author": "/u/acronkyoung",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T13:15:15.488370"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qh3frr",
       "type": "post",
       "subreddit": "indiegaming",
@@ -9383,7 +9251,91 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-21T08:52:51.450904"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qit8ey",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "A clip from the Firearms Factory's opening cinematic depicting the transformation of the candy factory into a weapons factory.",
+      "content": "submitted by /u/FirearmsFactory [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qit8ey/a_clip_from_the_firearms_factorys_opening/",
+      "author": "/u/FirearmsFactory",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T09:21:19.582313"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qit88p",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "A clip from the Firearms Factory's opening cinematic depicting the transformation of the candy factory into a weapons factory.",
+      "content": "submitted by /u/FirearmsFactory [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qit88p/a_clip_from_the_firearms_factorys_opening/",
+      "author": "/u/FirearmsFactory",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T09:21:19.582336"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qit3tp",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "We've just started the next beta for Defold 1.12.1",
+      "content": "submitted by /u/PabloTitan21 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qit3tp/weve_just_started_the_next_beta_for_defold_1121/",
+      "author": "/u/PabloTitan21",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T09:21:19.582345"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qisx1h",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "At what point in your journey did Imposter Syndrome hit you?",
+      "content": "For me, it’s hitting me exactly right now. submitted by /u/wolfbloodiso [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qisx1h/at_what_point_in_your_journey_did_imposter/",
+      "author": "/u/wolfbloodiso",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T09:21:19.582368"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedesign/t3_1qit0q1",
+      "type": "post",
+      "subreddit": "gamedesign",
+      "title": "How are support character/class designed and how do you make them fun to play?",
+      "content": "Support classes are fun to play personally for me; however, some supports are absolutely boring to play especially if they are just clicking buttons to heal and are given a weapon as an afterthought so this got me thinking. How do you make supports fun? and what are some good examples? Any genre counts especially if it's a PvE but PvP is good as well. submitted by /u/DocSlayingyoudown [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedesign/comments/1qit0q1/how_are_support_characterclass_designed_and_how/",
+      "author": "/u/DocSlayingyoudown",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T09:21:19.582442"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qit5fj",
+      "type": "search",
+      "subreddit": "XboxGamePass",
+      "title": "Game Pass from another region",
+      "content": "I bought a code on Eneba that I can't redeem because my region is Mexico. No, it wasn't a mistake; I've bought games and memberships this way before and never had a problem until now. It requires a credit or debit card from the region to activate it, so if anyone is interested or thinks they can activate it, I'll sell it to them. My region is Canada. I just want to get my money back and not let the code go to waste. I'd prefer someone else use it. Thanks. submitted by /u/EngineerHappy3838 to r/XboxGamePass [link] [comments]",
+      "link": "https://www.reddit.com/r/XboxGamePass/comments/1qit5fj/game_pass_from_another_region/",
+      "author": "/u/EngineerHappy3838",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T09:21:19.582786"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qit9al",
+      "type": "search",
+      "subreddit": "Genshin_Impact",
+      "title": "How can I make good teams?",
+      "content": "Hi all!! I'm new to the game and since I started a few days ago I just used ChatGPT helping me to make my teams, but I was just wondering how I can learn to make a good team alone. As an example, I was looking yesterday for a good team for Sethos. I tried to ask here but none replied and online I can only find teams with characters I don't have. And since I have 14 characters, I want to be able to make a good team with what I have. So how can I learn to make a good team with what I have without having to ask? Sadly I don't have too much free time to play and watch long videos, it's one or the other. And I prefer to play. :) Thank you in advance! :) submitted by /u/AboutKemosabe to r/Genshin_Impact [link] [comments]",
+      "link": "https://www.reddit.com/r/Genshin_Impact/comments/1qit9al/how_can_i_make_good_teams/",
+      "author": "/u/AboutKemosabe",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-21T09:21:19.583836"
     }
   ],
-  "last_updated": "2026-01-21T08:54:48.043449"
+  "last_updated": "2026-01-21T09:22:51.807476"
 }
