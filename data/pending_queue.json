@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qk9t2u",
-      "type": "search",
-      "subreddit": "Endfield",
-      "title": "My issue with the story so far",
-      "content": "To be fair I've only played up to the bridge portion of the valley, so this issue might be resolved later on, plus I've been having a great time with the rest of the game. My main issue with the game though is the story. I personally don't really enjoy how Endmin is immediately loved by every character that we meet (aside from the enemies of course). Although apparently lore wise it makes sense for Endmin to be well liked, I personally find it tough to read through the story when a lot of the characters are immediately \"wow it's the Endmin!\" or \"Endmin you're so cool and great! please solve this crisis.\" when I barely know the reason behind other than they were super powerful with Originium and that they saved the Dijiang during a crisis. I honestly prefer how Arknights wrote the Doctor more than the Endmin. Since for the Doctor we had a variety of characters with different views and emotions regarding us. With some characters loving us, some hating our guts, and some on the fence about what to think about us. It made the Doctor feel relatable, well designed, and human instead of what most other gachas and Endfield did with their mc's so far. Plus it feels rewarding seeing character opinion about us change as the game progresses. On a somewhat unrelated note: Although it might be tough, I hope they add something like the side stories in Arknights, where the Endmin takes a minor to non-existent role and the spotlight/story temporarily takes focuses on a different character. It makes the world feel bigger and that there are other major events happening outside of our influence. submitted by /u/Boxed_Lore to r/Endfield [link] [comments]",
-      "link": "https://www.reddit.com/r/Endfield/comments/1qk9t2u/my_issue_with_the_story_so_far/",
-      "author": "/u/Boxed_Lore",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-01-22T23:11:15.501506"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qhwhs4",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Industrial Puzzle in Godot 4.5: Using .svg textures and Gold UI. Thoughts?",
-      "content": "submitted by /u/Ok-Football800 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhwhs4/industrial_puzzle_in_godot_45_using_svg_textures/",
-      "author": "/u/Ok-Football800",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T09:51:45.541429"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhwtow",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "First 14 days of dev my cozy worldbuilder | BlockLand",
-      "content": "Just want to show of my progress 🙂 What do you think? submitted by /u/altulek [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhwtow/first_14_days_of_dev_my_cozy_worldbuilder/",
-      "author": "/u/altulek",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T09:51:45.541443"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhww12",
-      "type": "search",
-      "subreddit": "DieOfDeathRoblox",
-      "title": "I found this guy while playing that was hacking in every ability",
-      "content": "He had every ability and fly hacks (as seen in the pics), so I thought I should’ve sent it here. Mods, if you can contact the devs or the game’s moderators, please ask them to ban this guy, thank you :) submitted by /u/filix0106 to r/DieOfDeathRoblox [link] [comments]",
-      "link": "https://www.reddit.com/r/DieOfDeathRoblox/comments/1qhww12/i_found_this_guy_while_playing_that_was_hacking/",
-      "author": "/u/filix0106",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T09:51:45.542940"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhwwwp",
-      "type": "search",
-      "subreddit": "virginvschad",
-      "title": "Dunmer supremacy!",
-      "content": "submitted by /u/Fun-Explanation7233 to r/virginvschad [link] [comments]",
-      "link": "https://www.reddit.com/r/virginvschad/comments/1qhwwwp/dunmer_supremacy/",
-      "author": "/u/Fun-Explanation7233",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T09:51:45.543011"
-    },
-    {
       "id": "https://www.reddit.com/r/unity/t3_1qhx3iz",
       "type": "post",
       "subreddit": "unity",
@@ -13823,7 +13763,115 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-22T23:11:15.500273"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qkalxd",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Is it \"wrong\" to push lots of little things to github?",
+      "content": "I don't like the idea of \"mixing\" github pushes, where multiple systems are changed or multiple problems are fixed in one push. I like to choose an issue, fix it, then only push that. however sometimes between big fixes i make lots of little adjustments, and each of these adjustments gets it's own push with stupid summaries like \"moved *item* up a bit\". What is best practice for this? Or does it not really matter? submitted by /u/AcademicArtist4948 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qkalxd/is_it_wrong_to_push_lots_of_little_things_to/",
+      "author": "/u/AcademicArtist4948",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T23:40:03.359827"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qka498",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Hello , i am planning to make A huge Animated UI Icons pack For 2D GAMES i want to your feedback and if you would use them or no !",
+      "content": "submitted by /u/magicofire [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qka498/hello_i_am_planning_to_make_a_huge_animated_ui/",
+      "author": "/u/magicofire",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T23:40:03.359880"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qka468",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "My demo release is delayed due to itch.io upload limits",
+      "content": "submitted by /u/NoName_Studio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qka468/my_demo_release_is_delayed_due_to_itchio_upload/",
+      "author": "/u/NoName_Studio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T23:40:03.359886"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qka17i",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "UI Peeps Presents: Rive Workflow Demo w/ Sanu Sagar",
+      "content": "submitted by /u/UIPeeps [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qka17i/ui_peeps_presents_rive_workflow_demo_w_sanu_sagar/",
+      "author": "/u/UIPeeps",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T23:40:03.359903"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qkah46",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "How does my core loop look? (It's a rougelite I plan to pitch to publishers in bout 2 weeks)",
+      "content": "I have mostly finished the core loop of my tight swarm shooter rougelite, I know the visuals have some crappy stuff going on but believe me we are working on them as I type this, also give some feedback on stuff, also ik publishers can be a bad thing if not handled properly but I am willing to take the bet. Any guidence is always helpful, kudos🥹 submitted by /u/DojoDucks [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qkah46/how_does_my_core_loop_look_its_a_rougelite_i_plan/",
+      "author": "/u/DojoDucks",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T23:40:03.359924"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qk9ytv",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "unity.com/download is a 404 page, help would be appreciated!",
+      "content": "if i click the download button it takes me to a 404. submitted by /u/Flaky_Marionberry665 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qk9ytv/unitycomdownload_is_a_404_page_help_would_be/",
+      "author": "/u/Flaky_Marionberry665",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T23:40:03.360012"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkagfr",
+      "type": "search",
+      "subreddit": "hockey",
+      "title": "Weighted points standings for NHL",
+      "content": "I've always thought about this, a goal that ties the game with 2 minutes left feels way more important than scoring the 6th goal in a blowout. But they count exactly the same in the stats. While on parental leave I started to vibe code this small site which weights points based on game situation. Everything was done during naptime, no kids were harmed :) https://clutchpuck.com Tying goals and go-ahead goals count more. Garbage time goals count less. Empty netters are basically worth little. Shorthanded goals get a bump etc. Adrian Kempe, Kevin Fiala and Tyler Bertuzzi rise the most on the standings. Biggest \"garbage time\" players are Glaude Giroux, Quinn Hughes, John Carlson. Cole Caufield rises +20 positions (from 29th to 9th). Curious if anyone else has thought about this or has further ideas on how the weights should work? You can also adjust the weights yourself if those seem too low or high. Clicking the player name will open up further information. https://preview.redd.it/3rsk1szwjzeg1.png?width=2590&format=png&auto=webp&s=871cba4dadf7e23080606bd79f4476864390cebf submitted by /u/valstu to r/hockey [link] [comments]",
+      "link": "https://www.reddit.com/r/hockey/comments/1qkagfr/weighted_points_standings_for_nhl/",
+      "author": "/u/valstu",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T23:40:03.360644"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkakw8",
+      "type": "search",
+      "subreddit": "realms",
+      "title": "Realm still says \"Your subscription has expired.\" 2 days after renewing subscription.",
+      "content": "A couple days ago I renewed a subscription for an old Realm I had on Minecraft: Java Edition, but I (as well as my friends) have been completely unable to join it as the game still seems to think the Realm is expired. The payment went through fine and the Realm is considered active when checking my account page on the website, though I am unable to click \"Realm settings\" without being given an error. I have tried to contact Mojang support twice now about the issue but I still haven't received any responses from them. Is anybody else experiencing the same problem right now? submitted by /u/TheBlockJohnson to r/realms [link] [comments]",
+      "link": "https://www.reddit.com/r/realms/comments/1qkakw8/realm_still_says_your_subscription_has_expired_2/",
+      "author": "/u/TheBlockJohnson",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T23:40:03.360958"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkaicn",
+      "type": "search",
+      "subreddit": "thedivision",
+      "title": "Question about the lvl 40 boost for a new player to division 2",
+      "content": "I have heard that they changed how having multiple characters works now, something about points being shared accross every character rather then per character. so it would seem that alot of the pre-brooklyn videos about character boosts are outdated. say me and my friends are playing through the game from level 1 and i wanted to make another character with the boost to start playing endgame, how would that work exactly? does my level 15 guy suddenly get a bunch of spec points because i have another lvl 40 character? any clarification would be cool, tyty submitted by /u/Charliebitme1234 to r/thedivision [link] [comments]",
+      "link": "https://www.reddit.com/r/thedivision/comments/1qkaicn/question_about_the_lvl_40_boost_for_a_new_player/",
+      "author": "/u/Charliebitme1234",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T23:40:03.361580"
     }
   ],
-  "last_updated": "2026-01-22T23:12:47.053798"
+  "last_updated": "2026-01-22T23:41:44.677320"
 }
