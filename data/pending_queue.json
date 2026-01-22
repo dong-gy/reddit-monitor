@@ -1,174 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qhglll",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "(sound on) I got ange-yaghi realistic engine sounds working in Godot!",
-      "content": "I ported ange-yaghi's engine-sim over into gdExtension so that I could have realistic engine sounds inside my game! The code is a real mess but it works! submitted by /u/jak6jak1 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhglll/sound_on_i_got_angeyaghi_realistic_engine_sounds/",
-      "author": "/u/jak6jak1",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:09:43.939829"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qhgfi6",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "did I make any mistakes with this class nodes?",
-      "content": "I'm trying to change the variable using class nodes and it changes but then goes right back to to it's original value. any Ideas why? submitted by /u/Top_Pay_5692 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhgfi6/did_i_make_any_mistakes_with_this_class_nodes/",
-      "author": "/u/Top_Pay_5692",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:09:43.939837"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qhg7h7",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "👀👀👀👀👀",
-      "content": "What do you guys think of this? This is also my first time adding sound to a game submitted by /u/SweetberryJerry [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhg7h7/_/",
-      "author": "/u/SweetberryJerry",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:09:43.939846"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qhgt3h",
-      "type": "search",
-      "subreddit": "Trophies",
-      "title": "[tetris effect] attempting my second 10/10 difficulty platinum after I did fall guys a couple years ago, wish me luck!",
-      "content": "I beat this game a long time ago on PSVR1 for PS4? but now that I have PSVR2 for the PS5 I’m replaying the updated version and going for the platinum now. It honestly surprised me at first that it was a 10/10 difficulty, but after looking at what I have to do I get why 😭 submitted by /u/TunaSalad888 to r/Trophies [link] [comments]",
-      "link": "https://www.reddit.com/r/Trophies/comments/1qhgt3h/tetris_effect_attempting_my_second_1010/",
-      "author": "/u/TunaSalad888",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:09:43.942417"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhhjt7",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I just finished the icon and logo for my game, and I didn’t expect it to feel this good. Seeing it all together somehow makes the project feel much more real. I would love to hear your thoughts or any feedback you might have.",
-      "content": "submitted by /u/Due-Horse-791 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhhjt7/i_just_finished_the_icon_and_logo_for_my_game_and/",
-      "author": "/u/Due-Horse-791",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:38:54.984754"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhhc41",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "procedural ship generator attempt",
-      "content": "submitted by /u/sinanata [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhhc41/procedural_ship_generator_attempt/",
-      "author": "/u/sinanata",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:38:54.984760"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhgzgs",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Working on a Aggressive Offroad Arcade Racer \"DUST\"",
-      "content": "submitted by /u/Krinsher_ [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhgzgs/working_on_a_aggressive_offroad_arcade_racer_dust/",
-      "author": "/u/Krinsher_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:38:54.984765"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhh9zb",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "procedural ship generator attempt",
-      "content": "submitted by /u/sinanata [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhh9zb/procedural_ship_generator_attempt/",
-      "author": "/u/sinanata",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:38:54.984781"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhh32v",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Is it possible to make a clone of Frostpunk like with RTS battle? This is what I am trying to do with Dusk Of War. Any feedback?",
-      "content": "submitted by /u/Silly_Reason_2168 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhh32v/is_it_possible_to_make_a_clone_of_frostpunk_like/",
-      "author": "/u/Silly_Reason_2168",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:38:54.984789"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhh2s4",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "New Squishy Enemy",
-      "content": "It's a kamikaze creature filled with pus, any feedback? submitted by /u/Rich_Bee_120 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhh2s4/new_squishy_enemy/",
-      "author": "/u/Rich_Bee_120",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:38:54.984795"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qhh75a",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "anyone know where i can get some good lever action shotgun sfx",
-      "content": "I'm making an FPS and i just can't find a sfx for my shotgun. submitted by /u/Parker7n [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhh75a/anyone_know_where_i_can_get_some_good_lever/",
-      "author": "/u/Parker7n",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:38:54.984851"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qhhgvi",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Wake Up 3D",
-      "content": "Hi everyone, This is just a little spoiler of our 3D version of Wake Up submitted by /u/trifon1402 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qhhgvi/wake_up_3d/",
-      "author": "/u/trifon1402",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:38:54.984857"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qhh383",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Is it possible to make a clone of Frostpunk like with RTS battle? This is what I am trying to do with Dusk Of War. Any feedback?",
-      "content": "submitted by /u/Silly_Reason_2168 [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qhh383/is_it_possible_to_make_a_clone_of_frostpunk_like/",
-      "author": "/u/Silly_Reason_2168",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:38:54.984865"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhhkxx",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I just finished the icon and logo for my game, and I didn’t expect it to feel this good. Seeing it all together somehow makes the project feel much more real. I would love to hear your thoughts or any feedback you might have.",
-      "content": "submitted by /u/Due-Horse-791 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhhkxx/i_just_finished_the_icon_and_logo_for_my_game_and/",
-      "author": "/u/Due-Horse-791",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-19T21:38:54.984877"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qhhj0p",
       "type": "search",
       "subreddit": "BasketballTips",
@@ -11987,7 +11819,67 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-22T07:45:49.006756"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjonuf",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Deckbuilding Roguelike, Master of Piece is coming to Early Access on 4 Feb, 2026!",
+      "content": "submitted by /u/Suspicious-Sir-8346 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjonuf/deckbuilding_roguelike_master_of_piece_is_coming/",
+      "author": "/u/Suspicious-Sir-8346",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T08:16:09.395814"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjoug1",
+      "type": "search",
+      "subreddit": "Gamingcirclejerk",
+      "title": "Which way Western man?",
+      "content": "Too bad them Japanese went woke submitted by /u/Manusiawii to r/Gamingcirclejerk [link] [comments]",
+      "link": "https://www.reddit.com/r/Gamingcirclejerk/comments/1qjoug1/which_way_western_man/",
+      "author": "/u/Manusiawii",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T08:16:09.396599"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjos5r",
+      "type": "search",
+      "subreddit": "resumes",
+      "title": "[1+ YoE , Unemployed , Software Engineer, UAE]",
+      "content": "Can’t beat ATS with this resume , Need improvement ideas and advices. submitted by /u/ThinkSet7135 to r/resumes [link] [comments]",
+      "link": "https://www.reddit.com/r/resumes/comments/1qjos5r/1_yoe_unemployed_software_engineer_uae/",
+      "author": "/u/ThinkSet7135",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T08:16:09.396608"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjoohb",
+      "type": "search",
+      "subreddit": "hytale",
+      "title": "For the people saying that \"they just added old content that already exists in the game\"",
+      "content": "just posting this post from Simon a few days ago where he clarified that alot of the things in the game have been new and wasn't just \"old content\" that they implemented in the game. Most of the updates have been new since then including the Necromancer grimoire which wasn't even planned to be a thing. I really hate that people are trying to downplay the Dev's hardwork. submitted by /u/Luzekiel to r/hytale [link] [comments]",
+      "link": "https://www.reddit.com/r/hytale/comments/1qjoohb/for_the_people_saying_that_they_just_added_old/",
+      "author": "/u/Luzekiel",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T08:16:09.396622"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjou1z",
+      "type": "search",
+      "subreddit": "relationshipproblems",
+      "title": "(F25) Feelings fading for bf (m28) but so attached I feel horrible for feeling this way",
+      "content": "My bf of 4 years and I have been living together for 3.5 years and I am growing resentment for his lifestyle. I am currently in college and working full time, and he is on disability for (fetal alcohol syndrome) borderline personality disorder, and major depressive disorder. He is also receiving a 250k inheritance in a few months so he will have that to live off of. For the first 2 years of our relationship I was unemployed and living off of welfare and was really trying to find myself and get out of my depression. I felt extremely lost. I've luckily found a passion and I'm pursuing it in school and finally found a full time job and a part time job a year ago. Back when I was unemployed, I didn't mind his lifestyle because I could also play video games and relax all day. I deeply connected with him emotionally from the start, we have so much in common except for our ambition. Now that I've been working on myself a lot for the last year I've started becoming worried for our future. I imagined I'd feel this way and I wish I would have left early on before becoming way too attached. We want to have kids in the future, he's amazing at communication and he drives me whenever I need a ride to work/school. He just plays video games, day and night, from the moment he wakes up until he sleeps. He will literally wake up at 8pm and play until I leave for work at 7:30am usually. We do spend 30 minutes or 3 hours together everyday watching a show or something but then it's back to games But we are so happy living together and the intimacy is always perfect. We also have 2 cats and a whole future life imagined. I've communicated that I would really love to see him try to become more productive at least a little bit with time management, so I can feel secure with his reliability for the future, and he replies with \"well as long as im driving you and spending time with you it doesnt matter when I sleep or what I do when you're sleeping or at work\" I've expressed that it would be more attractive to me if I knew he was doing something to help him grow at least in little ways while I'm not around, to not have his whole life revolve around me and video games. This is just something we constantly fight about lately, because he sees it as an attack but I am just expressing that I am happy now, but worried that out mindsets and lifestyles will make us grow apart. I can't imagine leaving him it literally makes me want to throw up but at the same time I am so scared to be a mother who does everything herself while her man is napping cause he gamed all night. How the hell do I make a decision when he truly feels like the love of my life, but he clearly is so comfortable with how he lives I don't think he'll put that effort for me. And pf course it's even worse because he deals with bpd, fasd, and major depressive disorder. He has no family and not many friends so I feel even worse thinking about leaving him submitted by /u/ThrowRAfxntasi to r/relationshipproblems [link] [comments]",
+      "link": "https://www.reddit.com/r/relationshipproblems/comments/1qjou1z/f25_feelings_fading_for_bf_m28_but_so_attached_i/",
+      "author": "/u/ThrowRAfxntasi",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T08:16:09.396847"
     }
   ],
-  "last_updated": "2026-01-22T07:47:47.979540"
+  "last_updated": "2026-01-22T08:18:13.447814"
 }
