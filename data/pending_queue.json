@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qho6yg",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Inconsistent block breaking with RayCast3D and GridMap (sometimes works, sometimes not)",
-      "content": "i am using a RayCast3D to break blocks in a GridMap. Sometimes the block is removed correctly, but other times nothing happens, even though the RayCast is clearly hitting the object. is_colliding() returns true, the collider is detected as a GridMap, and destroy_block() is called, but the result is inconsistent: Sometimes the block is deleted Sometimes no block is deleted at all It seems the issue is related to how the collision point is converted into GridMap cell coordinates, or because the hit point is on the edge of a cell, causing it to resolve to an empty or wrong cell. Because of this, the block-breaking behavior is unreliable and only works “sometimes” instead of always. # Player script if Input.is_action_just_pressed(\"attack\"): if ray\\_cast\\_3d.is\\_colliding(): var hit = ray\\_cast\\_3d.get\\_collider() print(hit.name) if hit.has\\_method(\"destroy\\_block\"): hit.destroy\\_block( ray_cast_3d.get_collision_point() - ray_cast_3d.get_collision_normal() ) # GridMap script extends GridMap func destroy_block(world_coordinate): var map\\_coordinate = local\\_to\\_map(world\\_coordinate) set\\_cell\\_item(map\\_coordinate, -1) submitted by /u/Sweaty_Lab9738 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qho6yg/inconsistent_block_breaking_with_raycast3d_and/",
-      "author": "/u/Sweaty_Lab9738",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T02:54:48.614596"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qhnjiw",
       "type": "post",
       "subreddit": "godot",
@@ -12023,7 +12011,223 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-22T13:24:38.194433"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjup5r",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Completely reworked the art-style of the planet side missions. (Up is old, down is new)",
+      "content": "I think this fits much more with the space combat and the overall more serious tone of the game's plot. :) If you are interested, it's for my upcoming game \"Max Savage\": https://store.steampowered.com/app/4305030/Max_Savage/ submitted by /u/Good_Punk2 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjup5r/completely_reworked_the_artstyle_of_the_planet/",
+      "author": "/u/Good_Punk2",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.052910"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjumwl",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "horror game inspired by resident evil",
+      "content": "https://preview.redd.it/vh0r8np2lweg1.png?width=1920&format=png&auto=webp&s=a51c25727fbce56d1277d9081d1ca65e7b1ec48d https://preview.redd.it/cq5t4pp2lweg1.png?width=1920&format=png&auto=webp&s=0f7135a8a7e29b381dc0785fc96d7e8197008afc https://preview.redd.it/elc6rpp2lweg1.png?width=1920&format=png&auto=webp&s=7c6e7ee00ae079ad225ef81155a05437355f5951 https://preview.redd.it/ioshvqp2lweg1.png?width=1920&format=png&auto=webp&s=64da0846151086fa5d0d550299ef20efd93e1b54 https://preview.redd.it/969qxtp2lweg1.png?width=1920&format=png&auto=webp&s=f86e9bb9bc9b71836bac7f80e0169029aa71de5e https://preview.redd.it/hc0sxup2lweg1.png?width=1920&format=png&auto=webp&s=a21f40ae4ac030739d420ded8772a323d220672c submitted by /u/Fyberaxe [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjumwl/horror_game_inspired_by_resident_evil/",
+      "author": "/u/Fyberaxe",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.052928"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjujna",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Others captures",
+      "content": "submitted by /u/Radiant_Barracuda932 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjujna/others_captures/",
+      "author": "/u/Radiant_Barracuda932",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.052934"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjv0u9",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "My wishlists are low, should I release the demo on Steam?",
+      "content": "This is my game: https://store.steampowered.com/app/4221920/Shogun_Chronicles/ submitted by /u/Dependent_Cut8783 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjv0u9/my_wishlists_are_low_should_i_release_the_demo_on/",
+      "author": "/u/Dependent_Cut8783",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.052991"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjur0e",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Dungeon Master -> https://foxleyy.itch.io/dungeon-master",
+      "content": "I am currently developing this game and would appreciate analysis and feedback on its mechanics and overall concept. https://preview.redd.it/zajmk2bdmweg1.png?width=1570&format=png&auto=webp&s=e73c4e5ffab2f3c864b2dd758431221f116689f1 submitted by /u/impetiginosus [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjur0e/dungeon_master_httpsfoxleyyitchiodungeonmaster/",
+      "author": "/u/impetiginosus",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.053059"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjuqxf",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Woaaa wtf my game is doing here in a trending list 🤯",
+      "content": "I released the demo of my first \"real game\" on Steam yesterday, and a friend just sent me this?!! Promoting the game is so difficult, I feel like I'm mostly shouting into the void and sometime it's frustrating, but seeing this was a HUGE motivational boost!! I'm so pumped to continue working on it now!!! submitted by /u/Laywelin [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjuqxf/woaaa_wtf_my_game_is_doing_here_in_a_trending_list/",
+      "author": "/u/Laywelin",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.053076"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjulys",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "After years without finishing any project, I just launched the demo of my game on steam!!!",
+      "content": "submitted by /u/benvurlod [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjulys/after_years_without_finishing_any_project_i_just/",
+      "author": "/u/benvurlod",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.053082"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qjv8uw",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Does anyone know what’s going on here?",
+      "content": "submitted by /u/OptimisticLynxGames [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qjv8uw/does_anyone_know_whats_going_on_here/",
+      "author": "/u/OptimisticLynxGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.053090"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qjv4ji",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I made a tutorial on building a mining game in Godot 4",
+      "content": "I've recorded a tutorial for making a top-down mining game in Godot 4 and wanted to share it here. It's about 3.5 hours long and covers the core mechanics from scratch. It covers: Top-down player with animations Mining system with directional attacks Destroying rocks and collect ores Setting up tilemaps and collision Handling player-object interactions Adding visual and audio polish Link: https://youtu.be/iKm0JDi9nF0 Let me know if you have any questions! submitted by /u/Russ_CW [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qjv4ji/i_made_a_tutorial_on_building_a_mining_game_in/",
+      "author": "/u/Russ_CW",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.053145"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qjv4et",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "How do I view the models in Outlast Trials (UE4)",
+      "content": "Hey, I want to view the models of the game specifically Sister Lilya's models forrrr..... ok, non of your business ok ? submitted by /u/ugle-kid [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qjv4et/how_do_i_view_the_models_in_outlast_trials_ue4/",
+      "author": "/u/ugle-kid",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.053194"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qjurb1",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Need help with Occlusion Culling optimization",
+      "content": "In UE Insights the OcclusionCullingPipline is at 36.2ms and has Oversubscription on 36.1ms How can I optimize the Occlusion Culling Pipeline or do I have to look into the Oversubscription part? (also, what is the Oversubscription?) The project uses World Partition if that information is needed. submitted by /u/xPiingy [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qjurb1/need_help_with_occlusion_culling_optimization/",
+      "author": "/u/xPiingy",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.053204"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjv7eg",
+      "type": "search",
+      "subreddit": "MBBSindia",
+      "title": "Feeling guilty after convincing my parents to buy a expensive ipad",
+      "content": "i, being a mbbs student wants to buy a ipad and wants the best one (13' pro) and my parents also got along but now when it's time to buy it I'm feeling extreme guilt i don't know whether i should be grateful for my parents or be reasonably and responsible and buy a cheap one which will also work fine mind that I'm doing my mbbs from a private college so my parents are already investing a lot of their money into me i also like to play some heavy games that I'll enjoy on that ipad with better battery life and display so please tell me whether i should go with something cheaper or accept this gift with gratitude and return them back by being a successful doctor and making them proud. submitted by /u/Laddidhillon to r/MBBSindia [link] [comments]",
+      "link": "https://www.reddit.com/r/MBBSindia/comments/1qjv7eg/feeling_guilty_after_convincing_my_parents_to_buy/",
+      "author": "/u/Laddidhillon",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.053795"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjv5o8",
+      "type": "search",
+      "subreddit": "Jigsawpuzzles",
+      "title": "Really cool Stephen King 1000 piece puzzle",
+      "content": "submitted by /u/mbchiquet to r/Jigsawpuzzles [link] [comments]",
+      "link": "https://www.reddit.com/r/Jigsawpuzzles/comments/1qjv5o8/really_cool_stephen_king_1000_piece_puzzle/",
+      "author": "/u/mbchiquet",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.054082"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjv4zi",
+      "type": "search",
+      "subreddit": "u_Peakayo",
+      "title": "Another based dev, gonna look into buying this game for this comment alone.",
+      "content": "submitted by /u/Peakayo to u/Peakayo [link] [comments]",
+      "link": "https://www.reddit.com/r/u_Peakayo/comments/1qjv4zi/another_based_dev_gonna_look_into_buying_this/",
+      "author": "/u/Peakayo",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.054325"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjv35t",
+      "type": "search",
+      "subreddit": "indiegamedevforum",
+      "title": "Meet The Devs - Senior Games Designer - Jay Alexander-Saulog",
+      "content": "submitted by /u/Aquila_Interactive to r/indiegamedevforum [link] [comments]",
+      "link": "https://www.reddit.com/r/indiegamedevforum/comments/1qjv35t/meet_the_devs_senior_games_designer_jay/",
+      "author": "/u/Aquila_Interactive",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.054333"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjv5i0",
+      "type": "search",
+      "subreddit": "silenthill",
+      "title": "Just got out of Return to Silent Hill here in Australia",
+      "content": "Hoo boy, I went into this with low expectations and I was still surprised just how bad it was. It somehow misses every opportunity to lean on the game’s excellent story and its iconic moments and then adds a bunch of other elements that make it even worse. When it does focus on moments of horror in the otherworld it looks pretty good, but every other aspect of it was disappointing and infuriating. I’m usually a real glass half full kind of person about this fandom, but on this one, y’all have every right to be pissed. Especially about a very significant change towards the end that is gonna make everyone very, very mad. I’m gonna go watch Jacob’s Ladder to wash the taste out of my mouth submitted by /u/StrangeFarulf to r/silenthill [link] [comments]",
+      "link": "https://www.reddit.com/r/silenthill/comments/1qjv5i0/just_got_out_of_return_to_silent_hill_here_in/",
+      "author": "/u/StrangeFarulf",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.054656"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjv4yj",
+      "type": "search",
+      "subreddit": "LFMMO",
+      "title": "What MMORPG have done their endgame “right”?",
+      "content": "Most game specific subreddits I’ve been a part of end up with tons of posts about how there’s nothing to do at endgame. What makes a good endgame? It seems difficult to make something people can pour hundreds of hours into without running out of worthwhile content. Who’s done it the best? submitted by /u/Mucek121 to r/LFMMO [link] [comments]",
+      "link": "https://www.reddit.com/r/LFMMO/comments/1qjv4yj/what_mmorpg_have_done_their_endgame_right/",
+      "author": "/u/Mucek121",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.054715"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjv338",
+      "type": "search",
+      "subreddit": "OmnicideIsTheAnswer",
+      "title": "Minecraft",
+      "content": "I haven't seen minecraft mojang poeple make an update to minecraft that genuinly imporved the game since forever. The first alphas were shit and very shit and not fun. Then they added stuff that didn't help that the game was a block game with nothing much in it. Then they added structures and shit, that doesn't work in a sandbox game. And now they're adding building blocks and mobs and graphics updates when the game was total unenjoyable shit from the get-go and hasn't got any better no matter how much they add. They don't stop adding stuff then they make new hytale game which is also shit like minecraft so now we have two games that are the same and shit. Can they delete the games already? submitted by /u/john_the_inhaler to r/OmnicideIsTheAnswer [link] [comments]",
+      "link": "https://www.reddit.com/r/OmnicideIsTheAnswer/comments/1qjv338/minecraft/",
+      "author": "/u/john_the_inhaler",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T13:59:37.054760"
     }
   ],
-  "last_updated": "2026-01-22T13:26:22.370008"
+  "last_updated": "2026-01-22T14:01:25.284112"
 }
