@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qhuwg8",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Where I actually find free game assets (compiled my go-to sources)",
-      "content": "I see this question pop up a lot, so I figured I'd just write down where I actually get my assets from. Been collecting stuff for years.. 3D models, sprites, audio, textures, and these are the places I keep going back to. Tried to include the pros and cons of each since not all \"free\" is created equal. https://assethoard.com/blog/where-to-find-free-game-assets-2026 Covers itch.io , OpenGameArt, Kenney, Poly Pizza, Freesound, and a bunch of others. Also got into the different Creative Commons licences because that trips people up (myself included). Happy to add any I've missed if you've got favourites. submitted by /u/dolfoz [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qhuwg8/where_i_actually_find_free_game_assets_compiled/",
-      "author": "/u/dolfoz",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T07:46:12.138869"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhukyu",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I just released a demo for my solo-developed indie game, Orbit to Riches",
-      "content": "submitted by /u/EmilijusD [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhukyu/i_just_released_a_demo_for_my_solodeveloped_indie/",
-      "author": "/u/EmilijusD",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T07:46:12.138904"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qhujxp",
       "type": "post",
       "subreddit": "IndieDev",
@@ -13271,7 +13247,151 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-22T19:41:37.840978"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qk4nkt",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "How crazy is it to have no music of sfx in a very small game?",
+      "content": "First of all, extremely important clarification, the game is very very small, a narrative 5 min mobile game to be played on the browser on itch.io. It's a pixel art game about social anxiety and most of the screens depict chat conversations and similar stuff. And yeah, I'm having a really hard time with the sound effects, the game already looks a bit light hearted because of the pixel art and the colors, which it's kind of softened by the theme and it ends up fitting well, but any kind of sound effect I try pushes the vibe to just silly and a bit ridiculous. And I've been at it for a while now. I know in the end it's not that deep because it's a very small project, but it's one of the first ones I make and it hits some personal spots so I don't want to get stuck here and end up shelving it, especially because the rest is all finished already. So yeah my question is, how weird for a very small game to have no audio whatsoever? Would you be weirded out if nothing played when you turned on the volume? Thanks a lot! submitted by /u/bikinikill9 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qk4nkt/how_crazy_is_it_to_have_no_music_of_sfx_in_a_very/",
+      "author": "/u/bikinikill9",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T20:13:27.185647"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qk547z",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Do you think this UI for lobby is good enough for an alpha build? (dynamic white dots in background, on team button dynamic fire plus unmark ready slider golden effect)",
+      "content": "submitted by /u/Gogiseq [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qk547z/do_you_think_this_ui_for_lobby_is_good_enough_for/",
+      "author": "/u/Gogiseq",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T20:13:27.185743"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qk4p48",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "🚀 Pixel Shinobi is out now! 🎮",
+      "content": "submitted by /u/LevelUpStudiosSteam [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qk4p48/pixel_shinobi_is_out_now/",
+      "author": "/u/LevelUpStudiosSteam",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T20:13:27.185841"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qk5a4o",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Does this look \"cursed\" enough? New concept for a Cursed Griffin in my RPG.",
+      "content": "I used to buy monster packs for my RPG, but it always felt like a collection of random assets rather than a real world. It just didn't have any \"soul.\" Now, I’m trying a different approach: corrupted biodiversity . I design a habitat first, decide what animals would live there naturally, and then \"infect\" them based on the lore (eldritch, Illithid-style invaders). This Cursed Griffin is the first result. I wanted it to look like a majestic creature that is being physically rewritten and hollowed out by something \"other.\" What do you think - does this actually work? Does the decay feel like a part of the world’s biology, or just another \"zombie bird\"? I’m running a playtest soon to see how these environments feel in-game. Would love some honest feedback on the design before I build the rest of the flock. submitted by /u/lightning_f [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qk5a4o/does_this_look_cursed_enough_new_concept_for_a/",
+      "author": "/u/lightning_f",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T20:13:27.185927"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qk51e4",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Working on making the move pace feel more natural, but something went wrong :D",
+      "content": "submitted by /u/Rakudajin [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qk51e4/working_on_making_the_move_pace_feel_more_natural/",
+      "author": "/u/Rakudajin",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T20:13:27.185934"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qk519r",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Problems with an array and audio stream player nodes",
+      "content": "So i've been learning Godot trough an online course and im currently working with audio stream players nodes, as you can see I have declared an array where i plan to put the children of the sound manager in, but when i drag the sound stream nodes, they don't add to the array, any ideas why this Is happening? submitted by /u/ale0282 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qk519r/problems_with_an_array_and_audio_stream_player/",
+      "author": "/u/ale0282",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T20:13:27.186003"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qk4kau",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I cobbled together a stylised water shader",
+      "content": "I spent the last few evenings cobbling together this stylised water shader. It's a mix of my own implementation of the sum of sines approach along with some depth and foam elements from others on Godot Shaders. Let me know what you think! When I've got some extra time I'll tidy up the shader code and upload it :) submitted by /u/IronsideDev [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qk4kau/i_cobbled_together_a_stylised_water_shader/",
+      "author": "/u/IronsideDev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T20:13:27.186046"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qk58ge",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "A friend told me that my game lacked a clear art direction, so I’m reworking my assets",
+      "content": "I'm making a turn-based tactical game so the tileset plays a big part in the game's aesthetics. This tile is an Outpost, a very useful building that cures your units and provide resources once you capture it. Instead of trying to do a \"far top-down view\" style, I now went for the tabletop/chesspiece aesthetics for my game, do you like it ? submitted by /u/Overlooked-Games [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qk58ge/a_friend_told_me_that_my_game_lacked_a_clear_art/",
+      "author": "/u/Overlooked-Games",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T20:13:27.186082"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qk5bvs",
+      "type": "search",
+      "subreddit": "AmazonRME",
+      "title": "AE Position",
+      "content": "I understand a bachelors degree is required for the AE position. Does anyone know if it's still possible to get the job without a degree? I plan on applying for an the AE position, though I don't have a degree. I have been studying to take the assessment if I am even given an opportunity. Should I even make the effort? Also no prior experience as a controls tech. Opinions? submitted by /u/nic3flamingo to r/AmazonRME [link] [comments]",
+      "link": "https://www.reddit.com/r/AmazonRME/comments/1qk5bvs/ae_position/",
+      "author": "/u/nic3flamingo",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T20:13:27.186442"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qk5b38",
+      "type": "search",
+      "subreddit": "farialimabets",
+      "title": "Dona Ubisoft está tendo aulas com os melhores desse sub, que orgulho!",
+      "content": "https://preview.redd.it/fn5bjgejjyeg1.png?width=1032&format=png&auto=webp&s=a0cbdf44cd96ef7563491797cfa141f2951785bd submitted by /u/CorneredJackal to r/farialimabets [link] [comments]",
+      "link": "https://www.reddit.com/r/farialimabets/comments/1qk5b38/dona_ubisoft_está_tendo_aulas_com_os_melhores/",
+      "author": "/u/CorneredJackal",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T20:13:27.186831"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qk4oc0",
+      "type": "search",
+      "subreddit": "OutcomeMemories",
+      "title": "I dont really understand why you guys are happy",
+      "content": "No offense or something i just dont understand. Can you guys give me context? Yes i am dumb lol submitted by /u/NoCollection9575 to r/OutcomeMemories [link] [comments]",
+      "link": "https://www.reddit.com/r/OutcomeMemories/comments/1qk4oc0/i_dont_really_understand_why_you_guys_are_happy/",
+      "author": "/u/NoCollection9575",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T20:13:27.187021"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qk5bbm",
+      "type": "search",
+      "subreddit": "Abandonedbylogan",
+      "title": "Hey there",
+      "content": "I really like how we have 84 members, I genuinely wanted to point that out lmao Also, I'm the guy that made Anguish's/I'm Sorry Chef Pee Pee's story just to let you know<3 But I plan on posting more shit on this since I'm a developer of this lovely game! So, I will possibly make fan art and post it. No guarantee. But, thank you all for all of the support! ~Unknown Developer ​​ submitted by /u/EyeAny2618 to r/Abandonedbylogan [link] [comments]",
+      "link": "https://www.reddit.com/r/Abandonedbylogan/comments/1qk5bbm/hey_there/",
+      "author": "/u/EyeAny2618",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T20:13:27.187233"
     }
   ],
-  "last_updated": "2026-01-22T19:43:10.881850"
+  "last_updated": "2026-01-22T20:15:06.781773"
 }
