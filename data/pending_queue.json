@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qhnjiw",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "New Bullets and Bullet Holes",
-      "content": "submitted by /u/MicesterWayne [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhnjiw/new_bullets_and_bullet_holes/",
-      "author": "/u/MicesterWayne",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T02:54:48.614602"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qhmkk9",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I finished my Godot integration on Symbols",
-      "content": "This is the continuation of that post I finished on this work and the pull request is now ready for review. The final result is right above Meanwhile, you can use it from my own release , unless the PR is approved. If not, I'll keep it for the people they want to use it, and add more icons for more softwares even. Any suggestion is welcome. Thanks! submitted by /u/Andresit_1524 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhmkk9/i_finished_my_godot_integration_on_symbols/",
-      "author": "/u/Andresit_1524",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T02:54:48.614615"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qhockk",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "My unity projects just aren't booting up at all. All except for One...",
-      "content": "submitted by /u/SuperAlexTheRedditor [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qhockk/my_unity_projects_just_arent_booting_up_at_all/",
-      "author": "/u/SuperAlexTheRedditor",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T02:54:48.614634"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhnkaq",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "My solo developed horror game comes out next month!",
-      "content": "submitted by /u/Gosugames [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhnkaq/my_solo_developed_horror_game_comes_out_next_month/",
-      "author": "/u/Gosugames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T02:54:48.614686"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhmwbu",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -12227,7 +12179,139 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-22T13:59:37.054760"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjvq1c",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Another stage finished.",
+      "content": "Deep Sheol game project https://store.steampowered.com/app/3998990/Deep_Sheol/ submitted by /u/Moyses_dev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjvq1c/another_stage_finished/",
+      "author": "/u/Moyses_dev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:30:01.250422"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjvpex",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I was finally able to implement steam workshop into my game",
+      "content": "I should've expected it, but making the editor was so much more complicated than the whole workshop. It's not very aesthetically appealing, but it works and that makes me really happy. One thing that was a bit confusing about the steam workshop setup was a need for steam cloud setup, because that's where the preview images are uploaded to. submitted by /u/piskvorka [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjvpex/i_was_finally_able_to_implement_steam_workshop/",
+      "author": "/u/piskvorka",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:30:01.250437"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjvbsz",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Any suggestions for improving the game banner for Steam?",
+      "content": "submitted by /u/LittleBitHasto [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjvbsz/any_suggestions_for_improving_the_game_banner_for/",
+      "author": "/u/LittleBitHasto",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:30:01.250462"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qjvmt8",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "You know what? F*ck you! *takes all your extra lives",
+      "content": "Final Boss takes your lives for itself. submitted by /u/Dull_File370 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qjvmt8/you_know_what_fck_you_takes_all_your_extra_lives/",
+      "author": "/u/Dull_File370",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:30:01.250470"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qjvmqz",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Scaling of sprites happens after node is shown causing flicker",
+      "content": "Hi, I have an issue where nodes are shown with scale value of 1.0, only after a few frames they are scaled to appropriate size. My sprites have 4k resolution and are scaled by 0.25 everywhere in app. I noticed that when a new scene node is loaded you sometimes see a flicker. When I debugged the code, I realised that some assets are initially shown with incorrect, too large shape. Anyway I can prevent that flicker? Image taken when the scene has loaded The same scene after few frames submitted by /u/DrDokotor [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qjvmqz/scaling_of_sprites_happens_after_node_is_shown/",
+      "author": "/u/DrDokotor",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:30:01.250485"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qjvl5r",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Come on get him a job..",
+      "content": "He has been playing megabonk all day submitted by /u/Neoccat [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qjvl5r/come_on_get_him_a_job/",
+      "author": "/u/Neoccat",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:30:01.250491"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qjvcds",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "War - Unreal Blender After Effects animation",
+      "content": "Nanite is my savior submitted by /u/bojo600 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qjvcds/war_unreal_blender_after_effects_animation/",
+      "author": "/u/bojo600",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:30:01.250499"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjv98s",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "First solo game - released on Steam!",
+      "content": "Just wanted to share with you that my first solo indie game Drones Drop Bombs is now released on Steam!💜 https://preview.redd.it/ojesgmdkpweg1.png?width=1920&format=png&auto=webp&s=39e5c43463bc3ebbaa103a92ca56f107a6c3d332 Game page: https://store.steampowered.com/app/4034740/Drones_Drop_Bombs/ Six months from idea to release, it was an unbelievable experience! Really excited for what's next 💜 submitted by /u/EsestorNonletal [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjv98s/first_solo_game_released_on_steam/",
+      "author": "/u/EsestorNonletal",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:30:01.250526"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedesign/t3_1qjir1h",
+      "type": "post",
+      "subreddit": "gamedesign",
+      "title": "Controls on a Hex Based Roguelike",
+      "content": "I am making a classical turn based roguelike game, old school, when we act, enemies act simultaneously Inspired by the pico8 game Into Ruins (really great game def try it out) I want to made it hexagonal Movement is done by ASD for direction and W for movement in that direction Problem is the integration of the skill, I have 3 skill slots player can select and use in battle but I can’t find a good input system for that Things I have tried - Cycle skill with QE and apply if an enemy is in range if attack -Assigning 123 for direct usage when pressed They seem okay, but not very comfortable so I want to ask Does it sound too complex to manage for the player or you would get used to it in couple min? submitted by /u/sackboy0131 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedesign/comments/1qjir1h/controls_on_a_hex_based_roguelike/",
+      "author": "/u/sackboy0131",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:30:01.250553"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjvxv7",
+      "type": "search",
+      "subreddit": "minnesotavikings",
+      "title": "The Vikings can win a SB next year if they do this right around Flores",
+      "content": "Vikings need to go all in on the Defense. Draft all defense! They can rework the cap and free up at least 25 million ie rework O’Neil and cutting a handful of bad contracts TJ, Jones, and Greenard or possibly reworking his deal. You could look at Derek Henry and run the ball and play legendary Defense. It’s what Michigan did with McCarthy and the NFL is in the verge of seeing the running game strong defense making a comeback. submitted by /u/vikinginsider0228 to r/minnesotavikings [link] [comments]",
+      "link": "https://www.reddit.com/r/minnesotavikings/comments/1qjvxv7/the_vikings_can_win_a_sb_next_year_if_they_do/",
+      "author": "/u/vikinginsider0228",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:30:01.251525"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjvxor",
+      "type": "search",
+      "subreddit": "macgaming",
+      "title": "Has anyone got Openplanet working for Trackmania 2020 on Steam?",
+      "content": "I'm trying to play Trackmania 2020 on Steam in CrossOver. While I got the game itself working, Openplanet, a plugin manager for Trackmania , wouldn't work. I was able to get Openplanet working in Ubisoft Connect on CrossOver; so Steam seems to be the problem. Has anyone found any fixes for the Steam version of Trackmania? Thanks in advance! submitted by /u/Effective-Court-1243 to r/macgaming [link] [comments]",
+      "link": "https://www.reddit.com/r/macgaming/comments/1qjvxor/has_anyone_got_openplanet_working_for_trackmania/",
+      "author": "/u/Effective-Court-1243",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:30:01.252137"
     }
   ],
-  "last_updated": "2026-01-22T14:01:25.284112"
+  "last_updated": "2026-01-22T14:31:36.608157"
 }
