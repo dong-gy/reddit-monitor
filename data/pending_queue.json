@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhmwbu",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Just finished making a new low poly enemy for my tower defense game. How's it looking?",
-      "content": "I'm trying to keep the polycount down and only using diffuse shader as there can be hundreds of enemies on screen at once so that's why it looks a bit final fantasy 7 esque. Here's a link to the game if you're curious. I have a demo out too. https://store.steampowered.com/app/2143600/Axom_Conquest/ submitted by /u/maxpower131 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qhmwbu/just_finished_making_a_new_low_poly_enemy_for_my/",
-      "author": "/u/maxpower131",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T02:54:48.614698"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qhmrk7",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -12311,7 +12299,139 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-22T14:30:01.252137"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qjwjdo",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Pros and cons of scaling asset vs whole game in pixel art games?",
+      "content": "Hi! I've been developing a pixel art game on a 640x360 resolution that I can later scale to 720p, 1080p, etc. However, I've been reading about the freedom that gives to have a native 1080p game with scaled assets, giving the possibility of sub-pixel movement, easier UI design, etc. I'm not trying to emulate a particular gaming period so that's no really important to me. Are the biggest cons of moving to a native 1080p that I'll have to be disciplined with my asset scalings so the art doesn't look inconsistent? What else should one take into account? Thanks! submitted by /u/Juanouo [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qjwjdo/pros_and_cons_of_scaling_asset_vs_whole_game_in/",
+      "author": "/u/Juanouo",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:56:37.915742"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjw7ak",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "What are some good coding games?",
+      "content": "I recently played \"The farmer was replaced\" which is a game where you control a drone to farm using python coding. This got me curious and I am wondering what are some good games for this genre. I have heard about \"human resource manger\" submitted by /u/Duck0War [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjw7ak/what_are_some_good_coding_games/",
+      "author": "/u/Duck0War",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:56:37.915801"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qjw3rs",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Thank you to all of users and betatesters that have played my game :D",
+      "content": "submitted by /u/Traderday24 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjw3rs/thank_you_to_all_of_users_and_betatesters_that/",
+      "author": "/u/Traderday24",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:56:37.915808"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjwgx6",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "My Journey out of Tutorial Hell (wall of text warning)",
+      "content": "submitted by /u/NapalmIgnition [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjwgx6/my_journey_out_of_tutorial_hell_wall_of_text/",
+      "author": "/u/NapalmIgnition",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:56:37.915848"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjwbkv",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I’m making a game where you can stick hamsters all over your Desktop",
+      "content": "submitted by /u/Dotori_Doguldan [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjwbkv/im_making_a_game_where_you_can_stick_hamsters_all/",
+      "author": "/u/Dotori_Doguldan",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:56:37.915876"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjw0mz",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Replaced the Invaders art out of legal fear. Love the new version even more.",
+      "content": "submitted by /u/Obsolete0ne [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjw0mz/replaced_the_invaders_art_out_of_legal_fear_love/",
+      "author": "/u/Obsolete0ne",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:56:37.915908"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qjw0kl",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I will build your website for FREE",
+      "content": "We usually build SaaS and have spare dev capacity. Instead of demos, we want to build real websites Free build. You keep the site. If you like it, we can talk about deeper work later. If not, no worries Comment or DM 👋 submitted by /u/NoObm_ster69koRg [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qjw0kl/i_will_build_your_website_for_free/",
+      "author": "/u/NoObm_ster69koRg",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:56:37.915922"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjw2kd",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "1 years of development",
+      "content": "Space racing VR Game submitted by /u/Appropriate-Fun5992 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjw2kd/1_years_of_development/",
+      "author": "/u/Appropriate-Fun5992",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:56:37.915973"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjwmjn",
+      "type": "search",
+      "subreddit": "NonZeroDay",
+      "title": "Day 179 - Side project: Making a video game",
+      "content": "I'm occasionally working on a side project is: a video game. That'll be amateurish, and more of an excuse to program in Rust. Productivity: Work + colorized the console output Move: Callisthenics Reading: Started a chapter of Royal Assassin - Robin Hobb Meditation: Done Chore: Cooking + vacuuming + dishes Great day! submitted by /u/Kiwiatomik to r/NonZeroDay [link] [comments]",
+      "link": "https://www.reddit.com/r/NonZeroDay/comments/1qjwmjn/day_179_side_project_making_a_video_game/",
+      "author": "/u/Kiwiatomik",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:56:37.917378"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjwj3v",
+      "type": "search",
+      "subreddit": "Helldivers",
+      "title": "Arrowhead thinks their game is GTFO",
+      "content": "They think making helldivers, aka. players, weaker makes their game challenging and harder but no. they somehow only made game more frustrating and most importantly, Not Fun. it's not a matter of difficulty. its matter of mission design itself Commando mission is basically a hive world mission with bots but with forced stealth as everyone expected. Stealth itself was surprisingly not bad. but the problem is absense of Super destroyer and No stratagem Devs clearly don't understand what makes Helldivers 2 fun. ps. new warbound is basically Helldivers Mobilize! with supressor and slower bullet speed. don't waste your credits unless you want C4 submitted by /u/Advanced_Ad5867 to r/Helldivers [link] [comments]",
+      "link": "https://www.reddit.com/r/Helldivers/comments/1qjwj3v/arrowhead_thinks_their_game_is_gtfo/",
+      "author": "/u/Advanced_Ad5867",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:56:37.918278"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qjwigw",
+      "type": "search",
+      "subreddit": "CallOfDutyMobile",
+      "title": "So Ferg posed this question and I undoubtedly say yes. There needs to be an entire overhaul of what COD Champs is",
+      "content": "We Have so much talented players and teams and what champs is now was good when it started, but the community has grown to include BR only Groups and Players as well as DMZ now... we Also as players need to stop being so negative and perpetuate the COD Mobile is dead stereotype and realise that contributes to how Dev's probably see the game is possibly part of the reason chmaps was so crappy last year. we need to put our heads together and come up with fanzones, Watch parties/ ares in Host city's throughout the city to grow it to be a truly world class event. It's a one of Its kind game, I believe it still it and still can have the potential to be amazing. Devs you too need to give more money into this, you can get more out of it if you invest into it because as fans, we want to be there and be more involved in it... with 7 years being considered golden in some cultures and religions, we should take advantage of that and mame this years Champs something special. submitted by /u/Diablo_ZAR to r/CallOfDutyMobile [link] [comments]",
+      "link": "https://www.reddit.com/r/CallOfDutyMobile/comments/1qjwigw/so_ferg_posed_this_question_and_i_undoubtedly_say/",
+      "author": "/u/Diablo_ZAR",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-22T14:56:37.918303"
     }
   ],
-  "last_updated": "2026-01-22T14:31:36.608157"
+  "last_updated": "2026-01-22T14:58:19.499815"
 }
