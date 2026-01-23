@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qiho8m",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "First Public Demo of Queen of the Dead TM?",
-      "content": "submitted by /u/MissItalia2022 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qiho8m/first_public_demo_of_queen_of_the_dead_tm/",
-      "author": "/u/MissItalia2022",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T00:51:43.752130"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qiiy6w",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "My short horror game Awaken is finally out!",
-      "content": "You can find it on Steam: https://store.steampowered.com/app/3701250/Awaken/ submitted by /u/HereticDev [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qiiy6w/my_short_horror_game_awaken_is_finally_out/",
-      "author": "/u/HereticDev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T00:51:43.752138"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qiitx2",
       "type": "post",
       "subreddit": "godot",
@@ -15371,7 +15347,151 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-23T22:41:30.107003"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1ql5o4j",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Dig, upgrade, and try not to blow yourself up! A Motherload-inspired mobile game I made after work",
+      "content": "submitted by /u/trashatdev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1ql5o4j/dig_upgrade_and_try_not_to_blow_yourself_up_a/",
+      "author": "/u/trashatdev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:11:03.438926"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1ql5yxd",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Do a Barrel Roll! 🐬",
+      "content": "submitted by /u/MichaelKondracki [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1ql5yxd/do_a_barrel_roll/",
+      "author": "/u/MichaelKondracki",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:11:03.438992"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1ql5t53",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "i also removed the pointer",
+      "content": "https://preview.redd.it/5ely88rwi6fg1.png?width=1920&format=png&auto=webp&s=643148d6bd12abcfc4959190836a10c6b7346f75 submitted by /u/jssubs [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1ql5t53/i_also_removed_the_pointer/",
+      "author": "/u/jssubs",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:11:03.439003"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1ql5svx",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "We just implemented flight crashes in our dragon game and it's feeling good!",
+      "content": "submitted by /u/GiveMeKittensOrElse [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1ql5svx/we_just_implemented_flight_crashes_in_our_dragon/",
+      "author": "/u/GiveMeKittensOrElse",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:11:03.439011"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1ql5k3j",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "hey new update",
+      "content": "what version was this update? i added a new pause menu (very usefull) added the bars on the top and bottom and bugfixes (a lot) submitted by /u/jssubs [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1ql5k3j/hey_new_update/",
+      "author": "/u/jssubs",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:11:03.439019"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1ql646t",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I know this probably gets asked a lot but... Where should I start with making a proper game? 2d? 3d?",
+      "content": "Should I watch a complete tutorial on how do use Godot? Or just tutorials on what I'm trying to do? I don't know if this is breaking any rules so sorry if so. submitted by /u/CoconutPure5326 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1ql646t/i_know_this_probably_gets_asked_a_lot_but_where/",
+      "author": "/u/CoconutPure5326",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:11:03.439056"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1ql5zz7",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Does Unreal have empty objects?",
+      "content": "I want to parent a static mesh to an empty, like in Blender, so that it has a different pivot to rotate around submitted by /u/LalaCrowGhost [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1ql5zz7/does_unreal_have_empty_objects/",
+      "author": "/u/LalaCrowGhost",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:11:03.439112"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1ql5wq4",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Ninja Battle",
+      "content": "submitted by /u/Hot-Cartoonist4428 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1ql5wq4/ninja_battle/",
+      "author": "/u/Hot-Cartoonist4428",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:11:03.439118"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql63e2",
+      "type": "search",
+      "subreddit": "Helldivers",
+      "title": "New booster idea",
+      "content": "We can all agree that 90% of the boosters in this game are lackluster. So I came up with one that not only changes the idea of stealth but can be used in almost every situation. It's the ability to see enemies through walls. If you've played any Farcry game before you would know what I'm talking about. Basically it would be a red outline or the color would match the enemy type like the illuminate being purple. This way you can plan attacks better and would be great for avoiding enemies when being stealthy. To balance the effects it would tag enemies in a radius that is half of your radar. This would also make the recon armor passive better. I really like the idea but it may be too good. submitted by /u/Unique_Ad1643 to r/Helldivers [link] [comments]",
+      "link": "https://www.reddit.com/r/Helldivers/comments/1ql63e2/new_booster_idea/",
+      "author": "/u/Unique_Ad1643",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:11:03.439652"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql63br",
+      "type": "search",
+      "subreddit": "BodyHackGuide",
+      "title": "Do I have to stay on testosterone once I start?",
+      "content": "My doc told me testosterone shrinks your testicles because they slow production when your supplementing artificially. Are there tips and tricks to make it work without slowing my body's production? 50 year old male. submitted by /u/RisingReps to r/BodyHackGuide [link] [comments]",
+      "link": "https://www.reddit.com/r/BodyHackGuide/comments/1ql63br/do_i_have_to_stay_on_testosterone_once_i_start/",
+      "author": "/u/RisingReps",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:11:03.439663"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql63a5",
+      "type": "search",
+      "subreddit": "redstone",
+      "title": "Is it possible to make a machine that takes specific numbers of payment? 1.20.1",
+      "content": "i am trying to make a casino game where there is a guarantee of prizes, but with a guarantee i think it should be more expensive. how do i make it so this machine takes 2 or 3 diamonds instead of 1? https://preview.redd.it/qrzdixcwk6fg1.png?width=789&format=png&auto=webp&s=dd66901058258493f4de594fff3e65e61db65ad9 submitted by /u/boopboop1111 to r/redstone [link] [comments]",
+      "link": "https://www.reddit.com/r/redstone/comments/1ql63a5/is_it_possible_to_make_a_machine_that_takes/",
+      "author": "/u/boopboop1111",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:11:03.439675"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql6384",
+      "type": "search",
+      "subreddit": "PlayWatchListen",
+      "title": "Episode 180 podcast - they forgot to edit out a whole thing",
+      "content": "They gossip about another game dev, and say they should definitely cut it (not sarcastically) but they didn't 😂 submitted by /u/AmazingAd192 to r/PlayWatchListen [link] [comments]",
+      "link": "https://www.reddit.com/r/PlayWatchListen/comments/1ql6384/episode_180_podcast_they_forgot_to_edit_out_a/",
+      "author": "/u/AmazingAd192",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:11:03.439902"
     }
   ],
-  "last_updated": "2026-01-23T22:43:01.429892"
+  "last_updated": "2026-01-23T23:12:48.895119"
 }
