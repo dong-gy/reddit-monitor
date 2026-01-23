@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qi7mf1",
-      "type": "search",
-      "subreddit": "Rematch",
-      "title": "We don’t got this",
-      "content": "I don’t know if it’s just me, but lately I’ve been feeling like I’m just getting the most ass teammates. I am usually a good passer and will always look for that extra man, but all my teammates are playing like it’s their first time opening the game. It’s either someone who makes a childish mistake on-goal, or someone who just doesn’t pass, despite many teammate calls from me or any other person. I don’t know how many “We got this!” I have in me anymore😔 submitted by /u/Will_madickfit to r/Rematch [link] [comments]",
-      "link": "https://www.reddit.com/r/Rematch/comments/1qi7mf1/we_dont_got_this/",
-      "author": "/u/Will_madickfit",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T17:51:03.665643"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qi7kji",
-      "type": "search",
-      "subreddit": "SummonSign",
-      "title": "Need Vertebra Shackles on DS3 PS5 !",
-      "content": "Hey everyone! I was hoping someone would volunteer to let me kill them 30 times so I can get the Warmth pyromancy from the Mound-Makers covenant. I’m also down to play the game with anyone, lol. Let me know! PSN: Foodogs79 submitted by /u/Foodogs79 to r/SummonSign [link] [comments]",
-      "link": "https://www.reddit.com/r/SummonSign/comments/1qi7kji/need_vertebra_shackles_on_ds3_ps5/",
-      "author": "/u/Foodogs79",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T17:51:03.665775"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qi7i6k",
-      "type": "search",
-      "subreddit": "CarXStreets",
-      "title": "This is too much now!!!",
-      "content": "Wtf is wrong with the traffic in this game? And specially at Night(after winter update every mission is at night) during car and gift delivery... Ok i understand more traffic to increase difficulty bcz the prize is high, but what is with the phucking NPCs hitting me intentionally... Like while overtaking I try to avoid the incoming car but they intentionally turn to me and hit me EVERY DAM TIME!!... Whyyyyy? What are the devs trying to prove? C'mon man it's clearly visible they are trying to make us lose... If u r making it so impossible just bcz u r giving extra money then don't give I don't want ur extra money but plz stop this bs now... If a car game is frustrating me and making me angry then what am i supposed to play? Fkn candy crush?! submitted by /u/unknown_void77 to r/CarXStreets [link] [comments]",
-      "link": "https://www.reddit.com/r/CarXStreets/comments/1qi7i6k/this_is_too_much_now/",
-      "author": "/u/unknown_void77",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T17:51:03.665843"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qi7ec7",
-      "type": "search",
-      "subreddit": "indiegames",
-      "title": "I'm starting to notice a lot of frog games.",
-      "content": "Maybe it's just me, but this seems to be a common protagonist in Indie games. Sapo 3D, Rubato, Jigrift, Big Hops, Frogmonster, the list goes on. I mean, frogs are cool and all, but what is it about frogs that have made them endearing to indie devs? Also, do you know any more frog-related indie games? submitted by /u/LukePellar to r/indiegames [link] [comments]",
-      "link": "https://www.reddit.com/r/indiegames/comments/1qi7ec7/im_starting_to_notice_a_lot_of_frog_games/",
-      "author": "/u/LukePellar",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T17:51:03.665872"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qi7bod",
-      "type": "search",
-      "subreddit": "MyHeroUltraRumble",
-      "title": "Devs are making solid moves",
-      "content": "With the showcase of Fumikage and Nejire QSS I think this is a healthy direction the devs are taking as far as adding characters and additions that put a focus on teamwork, Fumikage has solid utility with his shield and being able to do actions like healing and reviving behind the shield. And Nejire QSS is basically the spitting image of what a support role is in most examples. I think this is a nice change of pace to the focus of individual strength that have been at the center of the recent additions to the game (like immortal shiggy build, Nagant, Rapid Deku, Iron might, etc.). What do y’all think of it? submitted by /u/mello_snipes2378 to r/MyHeroUltraRumble [link] [comments]",
-      "link": "https://www.reddit.com/r/MyHeroUltraRumble/comments/1qi7bod/devs_are_making_solid_moves/",
-      "author": "/u/mello_snipes2378",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T17:51:03.665894"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qi7jag",
       "type": "search",
       "subreddit": "zionistrevolution",
@@ -13775,7 +13715,127 @@
       "search_keyword": "",
       "relevance_score": 0,
       "added_at": "2026-01-23T10:48:15.067777"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qknqux",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "How do you save your project?",
+      "content": "How do you make sure your game project is safe? I currently use Git for version control and an external hard drive for backups. Every evening I commit my changes and copy the project to the drive. That feels solid to me, but I’m curious: what’s your backup strategy? submitted by /u/Mondkap [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qknqux/how_do_you_save_your_project/",
+      "author": "/u/Mondkap",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:11:47.116170"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qknq3l",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Would you trust him?",
+      "content": "submitted by /u/alperozgunyesil [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qknq3l/would_you_trust_him/",
+      "author": "/u/alperozgunyesil",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:11:47.116177"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qknr2o",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "How do you save your project?",
+      "content": "submitted by /u/Mondkap [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qknr2o/how_do_you_save_your_project/",
+      "author": "/u/Mondkap",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:11:47.116266"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qknp2q",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Would you trust him?",
+      "content": "submitted by /u/alperozgunyesil [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qknp2q/would_you_trust_him/",
+      "author": "/u/alperozgunyesil",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:11:47.116272"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qkntem",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Are there any Sonic frameworks for Godot similar to Sonic Worlds Next?",
+      "content": "I want to create a Sonic fan game and I’d like to know if there’s a project similar to Sonic Worlds Next (built in Clickteam), but made for Godot. submitted by /u/Rotorvek_ [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qkntem/are_there_any_sonic_frameworks_for_godot_similar/",
+      "author": "/u/Rotorvek_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:11:47.116367"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qknhbr",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Actor reference shown as not valid after spawning",
+      "content": "Hi i am currently working on a project where i have a custom event which spawns an Actor and than i set a variable with the return value. Than i got an other custom node which meant to start the game.. i use the variable as valid get and call the start function of the spawned actor from there, but somehow it keep going to the not valid side.. i watched the debug nodes, and the spawn actor node definitely runs before the valid get but still it come out as not valid... what could be the problem? Do mi still need to use the variable to cast to the bp? Screenshots are in the first comment.. if anybody has any idea what could go wrong please let me know submitted by /u/Efficient-Regular-30 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qknhbr/actor_reference_shown_as_not_valid_after_spawning/",
+      "author": "/u/Efficient-Regular-30",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:11:47.116422"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qko0y9",
+      "type": "search",
+      "subreddit": "Endfield",
+      "title": "Payment system is so bad",
+      "content": "Their payment system is god damn crap. They are writing my countries currency in the game but if I want to buy anything just before I approve I see it in another countries currency which makes it 30% more submitted by /u/Karzak85 to r/Endfield [link] [comments]",
+      "link": "https://www.reddit.com/r/Endfield/comments/1qko0y9/payment_system_is_so_bad/",
+      "author": "/u/Karzak85",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:11:47.117699"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qknxex",
+      "type": "search",
+      "subreddit": "ArknightsEndfield",
+      "title": "What was the reaction of the CN community after launch?",
+      "content": "Chinese devs naturally will prioritize the CN community over others so I was curious what was the CN communities reaction to the initial PayPal crisis and the overall situation of the game. Especially the gacha system, the combat, the story and the current pull economy. submitted by /u/iwanthidan to r/ArknightsEndfield [link] [comments]",
+      "link": "https://www.reddit.com/r/ArknightsEndfield/comments/1qknxex/what_was_the_reaction_of_the_cn_community_after/",
+      "author": "/u/iwanthidan",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:11:47.118226"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qknw17",
+      "type": "search",
+      "subreddit": "LenovoLegion",
+      "title": "What do you think of this laptop?",
+      "content": "Is it worth buying in 2026 I was thinking of playing FOS games rivals , valiant and doing this with blender and game dev . It has 16gb vram as well submitted by /u/Heavy_Tax_6958 to r/LenovoLegion [link] [comments]",
+      "link": "https://www.reddit.com/r/LenovoLegion/comments/1qknw17/what_do_you_think_of_this_laptop/",
+      "author": "/u/Heavy_Tax_6958",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:11:47.118234"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qknzke",
+      "type": "search",
+      "subreddit": "leagueoflegends",
+      "title": "I’m quitting League after playing for 10 years",
+      "content": "Been playing this game since 2016. The game just isn’t the same anymore. The ranking system makes no sense, and the punishments are ridiculous. My cat accidentally turned off my PC, it took me literally two minutes to get back into the game, and somehow I end up with a 15 minute penalty for five games? How does that make any sense? It honestly feels like Riot is pushing people away from ranked and forcing them into normal games instead. The community has become insanely sensitive, the new champions feel pointless, and everything is a mess. They add things like Atakhan just to remove them, add new boots and then remove those too which just proves those updates were useless from the start. I’ve been saying I’d quit since 2023, but after hitting Challenger, this was the final moment. I’m done with the game. Good luck to the people who still enjoy this shii submitted by /u/SnooGrapes3884 to r/leagueoflegends [link] [comments]",
+      "link": "https://www.reddit.com/r/leagueoflegends/comments/1qknzke/im_quitting_league_after_playing_for_10_years/",
+      "author": "/u/SnooGrapes3884",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T11:11:47.118334"
     }
   ],
-  "last_updated": "2026-01-23T10:49:52.897348"
+  "last_updated": "2026-01-23T11:13:15.352687"
 }
