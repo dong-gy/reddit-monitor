@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qibxg8",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Credit Godot",
-      "content": "What'd devs think, did I create Godot Android editor good submitted by /u/Emperor_g123 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qibxg8/credit_godot/",
-      "author": "/u/Emperor_g123",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T20:37:40.625912"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qibfs2",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Help! Can I use same button/Input for two different actions?",
-      "content": "I’m in my 3rd month of game development, so I’m still pretty new to both the engine and game dev in general. I’m having an issue where my player keeps attacking whil dragging items in the inventory. The attack and drag actions both use the left mouse button. I’ve tried changing the input handling in the player states from _input to _unhandled_input, but it didn’t solve the problem. Other actions like dash and sprint work fine, but attacking doesn’t. I want to keep using the same button for both, if possible. Can this actually be done in Godot, or should I just use a different input for one of them? Any alternatives or solutions? submitted by /u/omyudev [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qibfs2/help_can_i_use_same_buttoninput_for_two_different/",
-      "author": "/u/omyudev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T20:37:40.625949"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qib62s",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Does my student project stand out at all compared to other mobile games? - Visuals or machanics wise",
-      "content": "submitted by /u/CarlHasNuts [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qib62s/does_my_student_project_stand_out_at_all_compared/",
-      "author": "/u/CarlHasNuts",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T20:37:40.625956"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qibdp7",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "community for sharing TTTT",
-      "content": "Solo dev here, I went about making a discord for a project as we all do. Decided why not make something for everyone, theres got to be a way for solo devs to team up to promote our finished projects to compete with the big companies right? Its together marketing, we all wishlist eachothers game. https://discord.gg/GSYdMTHkb Has the other bloat, resources etc. But yeah the more the merrier submitted by /u/Optideras [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qibdp7/community_for_sharing_tttt/",
-      "author": "/u/Optideras",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T20:37:40.626044"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qicmjj",
-      "type": "search",
-      "subreddit": "Monopoly_GO",
-      "title": "Broke Friend Link",
-      "content": "CS says there’s no issue with the links, even when they don’t work. 🙄 submitted by /u/Karmawhore6996 to r/Monopoly_GO [link] [comments]",
-      "link": "https://www.reddit.com/r/Monopoly_GO/comments/1qicmjj/broke_friend_link/",
-      "author": "/u/Karmawhore6996",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T20:37:40.626102"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qiclib",
-      "type": "search",
-      "subreddit": "Minecraft",
-      "title": "Is this old card still redeemable?",
-      "content": "I found this old card in a box of stuff from my childhood, it was never redeemed and wasn’t even scratched off until now. Not sure how old the card actually is but it’s from the Mojang era so I thought there’s probably no way I can redeem it but maybe one of you know something. I already own Minecraft and so I don’t need the code. If it is possible to redeem it I will probably just give it away cause I don’t need it. Kinda cool to see the old Minecraft art! submitted by /u/Skepticul to r/Minecraft [link] [comments]",
-      "link": "https://www.reddit.com/r/Minecraft/comments/1qiclib/is_this_old_card_still_redeemable/",
-      "author": "/u/Skepticul",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T20:37:40.626121"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qicaiz",
-      "type": "search",
-      "subreddit": "XboxGamePass",
-      "title": "Question about about a fire tv discount code.",
-      "content": "I've been getting this message on my home page of GamePass ultimate pc It basically says: \"Get your discount code The only streaming media player with the Xbox app: Call of Duty Black Ops 7, Fallout 76, Outer Worlds 2, Hogwarts Legacy, and hundreds more games on your Fire TV Stick 4K with Xbox Game Pass in Cloud Gaming. Fire TV is also an Xbox. No console needed.\" But when i click on redeem code it opens a blank amazon page. any idea why its happens? Thanks in advance. https://preview.redd.it/pdudv0c4ckeg1.png?width=1917&format=png&auto=webp&s=c799dda5e9bcfce83a8ce837e503b4998dda936a submitted by /u/Alternative-Beat-100 to r/XboxGamePass [link] [comments]",
-      "link": "https://www.reddit.com/r/XboxGamePass/comments/1qicaiz/question_about_about_a_fire_tv_discount_code/",
-      "author": "/u/Alternative-Beat-100",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T20:37:40.626172"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qic9nf",
-      "type": "search",
-      "subreddit": "PcBuild",
-      "title": "Help",
-      "content": "Can’t get my graphics card to update after new copy of windows submitted by /u/Educational-Lie-5733 to r/PcBuild [link] [comments]",
-      "link": "https://www.reddit.com/r/PcBuild/comments/1qic9nf/help/",
-      "author": "/u/Educational-Lie-5733",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T20:37:40.626181"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qicq6s",
       "type": "search",
       "subreddit": "greentext",
@@ -13979,7 +13883,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-23T13:56:03.222867"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qkrw2u",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Steam demo should be on long before Next Fest?",
+      "content": "HI guys. As I know, Steam platform would exposure your produce if you put on demo. My question is if I put my demo right before the Next Fest. Would I lose this opportunity of demo exposure? Since all the demos are promoted at that time, the time to exposure my demo before NF would be very short. Am I understanding this right? submitted by /u/Popular_Molasses962 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qkrw2u/steam_demo_should_be_on_long_before_next_fest/",
+      "author": "/u/Popular_Molasses962",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:16:31.501174"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qkrtyo",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Commissioned an animated intro to my solodev Scottish-voice-acted game! Did the artist do a good job?",
+      "content": "submitted by /u/BeaconDev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkrtyo/commissioned_an_animated_intro_to_my_solodev/",
+      "author": "/u/BeaconDev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:16:31.501242"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qkrox7",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "We’re making a medieval pinball game with roguelite deckbuilding – our free demo is now out on Steam!",
+      "content": "Hey everyone! I'm very happy to share with you that we just launched the demo for PinKeep, our pinball roguelite deckbuilder! PinKeep is a pinball deckbuilding roguelite – use the ball and flippers to collect resources and defeat your enemies! Place buildings from your deck on the playfield to defend your Keep. Check out the demo on Steam: https://store.steampowered.com/app/4156090/PinKeep_Demo/ If that sparks your interest, please give the demo a try. We are actively gathering feedback to make the best version of the game we can! Let me know if you have any questions and have fun playing! Best Tim submitted by /u/timserafin [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qkrox7/were_making_a_medieval_pinball_game_with/",
+      "author": "/u/timserafin",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:16:31.501281"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkrw8n",
+      "type": "search",
+      "subreddit": "EASportsFC",
+      "title": "How do my opponents manage to push my players out and make them stumble consistently without using the tackle?",
+      "content": "I’m a new player and I watched defending guides and everything, but it’s never shown. This is in ultimate team. submitted by /u/Pajca to r/EASportsFC [link] [comments]",
+      "link": "https://www.reddit.com/r/EASportsFC/comments/1qkrw8n/how_do_my_opponents_manage_to_push_my_players_out/",
+      "author": "/u/Pajca",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:16:31.502892"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkrjk4",
+      "type": "search",
+      "subreddit": "tipofmyjoystick",
+      "title": "[console] [late 2000s] female protagonist futuristic sci-fi shooter-cyberpunk similar to oni",
+      "content": "Edit: 2000-2005 just remembered it was 100% around this time cause I played it at my old house The character was over the top stylish when dodging bullets and generally in combat. You would go through these facilities and fight enemies, I can’t remember what the enemies looked like all though I doubt they were human submitted by /u/OddPomegranate5211 to r/tipofmyjoystick [link] [comments]",
+      "link": "https://www.reddit.com/r/tipofmyjoystick/comments/1qkrjk4/console_late_2000s_female_protagonist_futuristic/",
+      "author": "/u/OddPomegranate5211",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:16:31.503386"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkrsm0",
+      "type": "search",
+      "subreddit": "comicstriphistory",
+      "title": "Comic book history 3",
+      "content": "gasoline alley article submitted by /u/Nervous_Departure706 to r/comicstriphistory [link] [comments]",
+      "link": "https://www.reddit.com/r/comicstriphistory/comments/1qkrsm0/comic_book_history_3/",
+      "author": "/u/Nervous_Departure706",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T14:16:31.503567"
     }
   ],
-  "last_updated": "2026-01-23T13:57:31.694760"
+  "last_updated": "2026-01-23T14:18:09.275505"
 }
