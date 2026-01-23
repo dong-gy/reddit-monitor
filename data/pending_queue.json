@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qiitx2",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "My brother and I just released our second jam game with the theme \"Sub-Zero\".",
-      "content": "https://frog-squad.itch.io/shrub-zero Fortify your garden and protect your plants from freezing wind in this turn-based strategy gardening game! (Please vote for us here: https://www.pixelgamemakerawards.com/ ) In case you're confused by the \"Probablus Nottingham\" stuff, the owner of the game jam is called ProbabIy_Not and everybody calls him old because he's 24 and it's a game jam for teens. A lot of the jokes are based off of inside jokes from the jam's Discord. submitted by /u/LordHIshimidoink [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qiitx2/my_brother_and_i_just_released_our_second_jam/",
-      "author": "/u/LordHIshimidoink",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T00:51:43.752156"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qiio5m",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I made Godot Zombie survival Apocalypse Scene with veo",
-      "content": "I was just trying out Veo 3 for fun and thought I’d experiment with something featuring Godot … and the result was insane ! watch video : https://www.youtube.com/watch?v=iJ9ml_NxS28 https://preview.redd.it/0p10rrnnjleg1.png?width=1344&format=png&auto=webp&s=14886b09c618ebc217ff95c2d1e67a77a7f7bae5 submitted by /u/NoHeart8194 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qiio5m/i_made_godot_zombie_survival_apocalypse_scene/",
-      "author": "/u/NoHeart8194",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T00:51:43.752173"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qiizvi",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "When a demo is ready?",
-      "content": "I’m a solo developer working on a vampire-survival-like game ( Iron Hunters) , and I’ve been working on a demo of the game. I’m not sure if it’s ready for other people to play yet, or if I’m just over-polishing and delaying feedback. Part of me wants to release already, but another part thinks I should keep refining it more. How do you determine when a demo is ready to be shared and how much content a demo needs? submitted by /u/stein_sir [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qiizvi/when_a_demo_is_ready/",
-      "author": "/u/stein_sir",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T00:51:43.752301"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qihzfj",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Release in 5 weeks, solo dev 45 years old.",
-      "content": "submitted by /u/OkPie4503 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qihzfj/release_in_5_weeks_solo_dev_45_years_old/",
-      "author": "/u/OkPie4503",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T00:51:43.752334"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qikoc4",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Pitching to publishers",
-      "content": "I am developing a puzzle game. It is still in the very early stages, but if I ever get close to finishing the game, which point should I try to pitch it to some indie publishers? Of course I could self-publish, but I feel like I would need a lot of help with visuals and audio. So I am thinking if I can get a publisher interested, I might get help with those parts and of course some marketing. Also I know that it is probably a long shot to get a publisher interested as there is so much competition. submitted by /u/Rokitty [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qikoc4/pitching_to_publishers/",
-      "author": "/u/Rokitty",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T02:53:47.866142"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qikmhs",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Planning on getting into development as a writer and musician. How much of a general understanding of other aspects of game development should I have, and how can I learn more?",
-      "content": "I'm planning on getting a team of people together to make a HD2D RPG in UE5, and while I'm pretty comfortable with writing and music, I don't know much about other things like character/monster design, animation, programming, 3D environments, lighting, visual effects, etc. If anyone has any resources for learning more about different aspects of game development I would greatly appreciate it submitted by /u/elhaymhiatus [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qikmhs/planning_on_getting_into_development_as_a_writer/",
-      "author": "/u/elhaymhiatus",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T02:53:47.866166"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qim1ks",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Behind the Scenes Interview with the Lost Cabinet Games devs",
-      "content": "submitted by /u/Shane1023 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qim1ks/behind_the_scenes_interview_with_the_lost_cabinet/",
-      "author": "/u/Shane1023",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T02:53:47.866379"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qilk29",
       "type": "post",
       "subreddit": "indiegaming",
@@ -15491,7 +15407,103 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-23T23:11:03.439902"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1ql6ofo",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Dugouts and Dragons - Combining D&D and Football: The genre combo literally nobody asked for (but I made it anyway).",
+      "content": "Hi all, I've been working on this game for a little while now. It's a card game where you collect footballers from history and legend to build your ultimate team. The game engine/card game takes inspiration from dungeons and dragons mechanics but turns them into a game of football (or soccer). Is it a fantasy themed football game or a football themed fantasy game? I'm not sure. I'd call it fantasy football but that means something else. All I know is I enjoy playing it and I hope you do too. It's free to play, browser based and mobile friendly. You can access it at https://alienheadwars.itch.io/dugouts-and-dragons Love it/hate it/think the puns are terrible, I'd love to know your thoughts submitted by /u/AlienHeadwars [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1ql6ofo/dugouts_and_dragons_combining_dd_and_football_the/",
+      "author": "/u/AlienHeadwars",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:39:47.942063"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1ql6lno",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "We just released our first chess game on Steam – would love your feedback ♟️",
+      "content": "Hey everyone! After a long dev journey, we finally released our indie chess game on Steam 🎉 Here is the steam page link: https://store.steampowered.com/app/3576290/Chess_Quest_A_Cozy_Puzzle/ We’re a small team and this is our first proper release, so any feedback (good or bad) would honestly help us a lot. If you have a moment to check it out or just share your thoughts, we’d really appreciate it 🙏 Thanks for being such a helpful community! submitted by /u/Flashy-Spinach1690 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1ql6lno/we_just_released_our_first_chess_game_on_steam/",
+      "author": "/u/Flashy-Spinach1690",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:39:47.942113"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1ql67gc",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My first Low-poly 3D survival game made in 20 days",
+      "content": "https://kidpudel.itch.io/discourses-by-campfire Hey everyone! I've just released my first 3D game (and third overall), which is my biggest project yet on itch.io. Made with Godot, and I had an absolute blast creating it. This is also the first time I've made all the music and SFX myself (except for couple of nature ambient) using FL Studio. submitted by /u/KidPudel [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1ql67gc/my_first_lowpoly_3d_survival_game_made_in_20_days/",
+      "author": "/u/KidPudel",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:39:47.942135"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1ql64ws",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Yeti Breakdance competition",
+      "content": "Hi everybody, I am a Godot enthusiast since last year! Currently I am working on a rigid body character controller with active ragdolls. While setting up my 'Yetis', something went terribly wrong, resulting in a breakdance battle of epic proportions! I hope you like this spontaneous dance improvisation as much as I did. Have a nice evening. submitted by /u/Marparaman [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1ql64ws/yeti_breakdance_competition/",
+      "author": "/u/Marparaman",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:39:47.942147"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql6rvb",
+      "type": "search",
+      "subreddit": "MiniJeep",
+      "title": "Making a 4x4 mini jeep without radically rebuilding.",
+      "content": "I have been looking at these 4x4 go kart kits on temu and Amazon. I really want to add 4x4 to this thing. I haven't been able to find any reliable information on these kits or anyone who has tried one on any go cart build. Does anyone know anything about these kits? Has anyone tried adding 4x4 to these jeeps yet? submitted by /u/BioWeaponAlias to r/MiniJeep [link] [comments]",
+      "link": "https://www.reddit.com/r/MiniJeep/comments/1ql6rvb/making_a_4x4_mini_jeep_without_radically/",
+      "author": "/u/BioWeaponAlias",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:39:47.942729"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql6rss",
+      "type": "search",
+      "subreddit": "PaxHistoria",
+      "title": "They should add multiplayer support",
+      "content": "Wouldn't it be great to play with a friend online in one same game ? You could be both different countries and you could see the events that happen in each country. It would be really fun for making alliances or war. I know it might be difficult to implement but it would really be cool submitted by /u/gIasco90 to r/PaxHistoria [link] [comments]",
+      "link": "https://www.reddit.com/r/PaxHistoria/comments/1ql6rss/they_should_add_multiplayer_support/",
+      "author": "/u/gIasco90",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:39:47.942741"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql6phm",
+      "type": "search",
+      "subreddit": "outerwilds",
+      "title": "[SPOILERS] Is there a lore reason why can't hatchling read the other reels at the forbidden reel archives?",
+      "content": "I've completed the game and the DLC a good while ago, so anything that might be a 'spoiler' is alright with me. Each of the reel archives seem to have hundreds of mint condition reels, why can't I read them? I get that from a realistic real-world standpoint, it's just impossible for the devs to come up with that much content to put in those reels whilst being meaningful. I was just wondering if there's an in-game explanation as to why that's so. Everything about this game is so intentionally put there so I'm guessing there's a very viable in-game explanation/ theories from you guys. thanks submitted by /u/Denhas_ to r/outerwilds [link] [comments]",
+      "link": "https://www.reddit.com/r/outerwilds/comments/1ql6phm/spoilers_is_there_a_lore_reason_why_cant/",
+      "author": "/u/Denhas_",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:39:47.943082"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1ql6lno",
+      "type": "search",
+      "subreddit": "IndieDev",
+      "title": "We just released our first chess game on Steam – would love your feedback ♟️",
+      "content": "Hey everyone! After a long dev journey, we finally released our indie chess game on Steam 🎉 Here is the steam page link: https://store.steampowered.com/app/3576290/Chess_Quest_A_Cozy_Puzzle/ We’re a small team and this is our first proper release, so any feedback (good or bad) would honestly help us a lot. If you have a moment to check it out or just share your thoughts, we’d really appreciate it 🙏 Thanks for being such a helpful community! submitted by /u/Flashy-Spinach1690 to r/IndieDev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1ql6lno/we_just_released_our_first_chess_game_on_steam/",
+      "author": "/u/Flashy-Spinach1690",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T23:39:47.943205"
     }
   ],
-  "last_updated": "2026-01-23T23:12:48.895119"
+  "last_updated": "2026-01-23T23:41:23.707659"
 }
