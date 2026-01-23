@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qid0wl",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Who is your favorite villager lady? (swipe right!)",
-      "content": "submitted by /u/BleaklightFalls [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qid0wl/who_is_your_favorite_villager_lady_swipe_right/",
-      "author": "/u/BleaklightFalls",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T21:11:59.272006"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qidm6d",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I made more reload animations and i think I've improved, any feedback?",
-      "content": "I Made 2 more reload animations and improved the first one, i listened to the feedback and improved the first animation by bringing the right arm closer to the camera, i also added some hand movement to the right hand to make it touch the mag release button on the right of the gun, and finally i added a small camera shake to make them look better. For anyone wondering why 3 types of magazines are being inserted into the same gun, the game is a roguelite shooter where you could build up your own gun using attachments, so it isn't meant to be realistic. The 3 magazines are separated by weight and power. submitted by /u/potato_min [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qidm6d/i_made_more_reload_animations_and_i_think_ive/",
-      "author": "/u/potato_min",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T21:11:59.272070"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qidlap",
       "type": "post",
       "subreddit": "IndieDev",
@@ -14171,7 +14147,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-23T15:14:32.986876"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qktvy3",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Top or Bottom?",
+      "content": "steam: https://store.steampowered.com/app/3342130/SurgePoint/ Recieved ALOT of feedback that the game was too dark and muddy, so I've been working on brightening it up and changing some of the visual style:) submitted by /u/popthehoodbro [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qktvy3/top_or_bottom/",
+      "author": "/u/popthehoodbro",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T15:46:01.697621"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qktvmj",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "code not working",
+      "content": "submitted by /u/Toya-Aoyagay [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qktvmj/code_not_working/",
+      "author": "/u/Toya-Aoyagay",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T15:46:01.697814"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qktk0p",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "New to the game development space and trying to get a better understanding!",
+      "content": "Why would a developer use Unity over other game engines like Unreal or Godot for game development? I am new to the space and was trying to understand it better. Any insights, even if they are loosely related, would be much appreciated! submitted by /u/ProposalOk1046 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qktk0p/new_to_the_game_development_space_and_trying_to/",
+      "author": "/u/ProposalOk1046",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T15:46:01.697826"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qku88x",
+      "type": "search",
+      "subreddit": "HomeKit",
+      "title": "Exporting summary of accessories & automations?",
+      "content": "I need to recreate my home to be able to reassign \"owner\" status to another user/Apple ID since Apple for some reason doesn't feel reassigning should be a non-torturous process. Is there any third-party app or script or something that can output a report of accessories and their settings (room/setup code/etc) and automations so I have a decent reference sheet to recreate everything without having to switch back and forth and swim through menus to get things setup more easily? I see Controller shows setup codes but only if you've scanned them in manually. HomeCare doesn't really seem to have anything relevant. Any others that might help? submitted by /u/chad917 to r/HomeKit [link] [comments]",
+      "link": "https://www.reddit.com/r/HomeKit/comments/1qku88x/exporting_summary_of_accessories_automations/",
+      "author": "/u/chad917",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T15:46:01.699326"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qktww4",
+      "type": "search",
+      "subreddit": "pcgaming",
+      "title": "After 1 Year of Solo Dev - My Photography Horror Game The 18th Attic Is Finally On Steam!",
+      "content": "Hey everyone! I am the solo developer of The 18th Attic and today I just launched the game after over 1 year in development! It's a horror game where you have to take pictures of ghosts and anomalies using your Polaroid camera (inspired by goat Fatal Frame!) but each time you get attacked or scared you have to pet your cat to restore your sanity. If it goes down, you can slow down and it will be harder to focus on catching ghosts! If you like, I would appreciate if you can check it out and share any feedback as it helps a ton. This is the game on steam: https://store.steampowered.com/app/3403660/The_18th_Attic__Paranormal_Anomaly_Hunting_Game Thank you all so much! submitted by /u/Steelkrill to r/pcgaming [link] [comments]",
+      "link": "https://www.reddit.com/r/pcgaming/comments/1qktww4/after_1_year_of_solo_dev_my_photography_horror/",
+      "author": "/u/Steelkrill",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T15:46:01.700037"
     }
   ],
-  "last_updated": "2026-01-23T15:16:13.505462"
+  "last_updated": "2026-01-23T15:47:40.919807"
 }
