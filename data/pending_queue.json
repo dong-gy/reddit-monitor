@@ -1,126 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qhyj3v",
-      "type": "search",
-      "subreddit": "MegabonkOfficial",
-      "title": "Console port please!",
-      "content": "Got nearly 200 hours of megabonk under my belt, to me it's the best game ever made! Please please please bring it to console. I work in IT so after a day of hard work behind a pc it hurts my back to sit behind the pc to play megabonk. Playing on console would be perfect for me to chill with megabonk Please dev bring it to console I'll buy the game a second time I promise, I would understand if it is more expensive, maybe you can get some help with the port? 1000x please!!! submitted by /u/Outside-Pause8593 to r/MegabonkOfficial [link] [comments]",
-      "link": "https://www.reddit.com/r/MegabonkOfficial/comments/1qhyj3v/console_port_please/",
-      "author": "/u/Outside-Pause8593",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T11:41:58.798061"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qhzgrc",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "I'm making a Cyberpunk RPG, Free Demo",
-      "content": "Game Title: Beta 3000 Demo Playable Link: https://store.steampowered.com/app/4016650/Beta_3000_Demo/ Platform: PC Windows Description: Retro Cyberpunk Action RPG. Party System up to 3 members, real time combat and semi open world. Solve puzzles, fight enemies and complete NPC quests. Free to Play Status: Free to play Demo Involvement: Solo Dev Feed back welcome! submitted by /u/Redsam121 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qhzgrc/im_making_a_cyberpunk_rpg_free_demo/",
-      "author": "/u/Redsam121",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.255468"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qhzmmh",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I quit my job to make the ultimate \"Mining\" game. Here is the result after 6 months. (Thoughts?)",
-      "content": "submitted by /u/Sea_Recording_3604 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qhzmmh/i_quit_my_job_to_make_the_ultimate_mining_game/",
-      "author": "/u/Sea_Recording_3604",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.255549"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhzhns",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I made a satisfying slider, what do you think?",
-      "content": "Normal sliders are boring , or so i thought. I don't like sliders where you can tell, it's the default Unity slider underneath. So i did everything, so that you can not tell! My Slider still uses the default slider component from the unity UI underneath, but it is invisible and only there to catch the players input. The slider then builds it's own visuals by letting the correct number of golden panels appear according to the fill amount. Another component i use very frequently in the game i'm currently working on, plays a plop-up animation on UI elements every time they are enabled. This natively creates an animation on top of the panels just appearing. I think, the result is very satisfying to use and look at! What do you guys think? submitted by /u/hdydworld [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhzhns/i_made_a_satisfying_slider_what_do_you_think/",
-      "author": "/u/hdydworld",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.255597"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhzh7h",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "What needs \"polish\"?",
-      "content": "submitted by /u/TVCruelty [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhzh7h/what_needs_polish/",
-      "author": "/u/TVCruelty",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.255602"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhza81",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I’ve just released my terminal game colony deep core on steam!",
-      "content": "Thanks to feedback from streamers and players. Thank you for playing and the support. Steam: https://store.steampowered.com/app/4161680/ Itch.io: https://meapps.itch.io/terminal-colony-deep-core Build in Rust, featuring Bevy and egui. https://bevy.org/ https://www.egui.rs/ submitted by /u/Big_Membership9737 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhza81/ive_just_released_my_terminal_game_colony_deep/",
-      "author": "/u/Big_Membership9737",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.255619"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qhyzf2",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Royal Barcelona Games Provisional Logo",
-      "content": "Im a new here, im trying to complete the game idea, meanwhile, heres the Crown Company intro. submitted by /u/EsperanzaArts2020 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qhyzf2/royal_barcelona_games_provisional_logo/",
-      "author": "/u/EsperanzaArts2020",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.255627"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qhzj9e",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Hello :) Please rate my game",
-      "content": "This is my first time making a game with a full plan. i have worked on this platfighter for three days. Please tell me what I can improve on . Thank You https://reddit.com/link/1qhzj9e/video/irypxgt6xheg1/player submitted by /u/Major_Illustrator206 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhzj9e/hello_please_rate_my_game/",
-      "author": "/u/Major_Illustrator206",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.255637"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qhywfs",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Collision shapes makes no unique collsions .Genuinely lost here ...",
-      "content": "submitted by /u/Choice-Ad8163 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qhywfs/collision_shapes_makes_no_unique_collsions/",
-      "author": "/u/Choice-Ad8163",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.255653"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qhziiz",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "why will it autocomplete nothing?",
-      "content": "submitted by /u/katty913 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qhziiz/why_will_it_autocomplete_nothing/",
-      "author": "/u/katty913",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T12:21:57.255659"
-    },
-    {
       "id": "https://www.reddit.com/r/unrealengine/t3_1qhyylr",
       "type": "post",
       "subreddit": "unrealengine",
@@ -14315,7 +14195,55 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-23T05:18:29.023004"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qkiaq6",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "My indie game in development",
+      "content": "submitted by /u/Aggravating-Aerie-16 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkiaq6/my_indie_game_in_development/",
+      "author": "/u/Aggravating-Aerie-16",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T05:48:20.048890"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qkin75",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Launch the Snake",
+      "content": "Upcoming voxel snake game I made called Spacey Snake. Wishlist is live, launching early February on Steam. submitted by /u/Charlie_Sierra_996 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qkin75/launch_the_snake/",
+      "author": "/u/Charlie_Sierra_996",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T05:48:20.048913"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qki5uy",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Roguelike game Adventure Jam is having a big sale this week.",
+      "content": "submitted by /u/Rightclickwise [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qki5uy/roguelike_game_adventure_jam_is_having_a_big_sale/",
+      "author": "/u/Rightclickwise",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T05:48:20.049035"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkigp2",
+      "type": "search",
+      "subreddit": "OutcomeMemories",
+      "title": "The Current State of Our Community",
+      "content": "Recently, as I'm sure 99% of you are aware, we received confirmation that LuaGuy has taken over the majority of ownership of Outcome Memories. While I personally don't know much about him, it seems that things, especially within the community, are beginning to look less bleak. I for one, am excited and hopeful, thanks to the non-stop encouragement and engagement Romeo has been giving our community. I think I speak for everyone when I say this, we are eternally grateful for the loyal members of the development team, be it Community Managers, coders, moderators, or what have you. We will continue to support this amazing project as long as you guys are committed to doing what you love. If anyone from the dev team or mod team is reading this, we're proud of you. We love and appreciate you. And you deserve this break. With all the recent drama, things seemed to be truly over. Chaos and doubt began to build within the community, but through Romeo, PR, and others, we were able to hold onto hope. As for now, as a whole, I think we the community need to take a step back from the devs and give them room to breathe, spread hope to those around us, and most importantly, continue showing the devs our support through posts akin to this, and playing the game. While I am sad that the game is on hiatus, and that the server is closed, it's time we come together in this moment to enjoy what we've already been given. Despite the jank and balancing and bugs, we still love this game, because we know what it can become. This is an ambitious project, and I believe in every single one of the developers, and all of us to show them that we want them to do their best, to flourish, and keep going, whenever they are ready. Thank you for reading. HOPE & PROSPER! submitted by /u/a_sweet_token to r/OutcomeMemories [link] [comments]",
+      "link": "https://www.reddit.com/r/OutcomeMemories/comments/1qkigp2/the_current_state_of_our_community/",
+      "author": "/u/a_sweet_token",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T05:48:20.050516"
     }
   ],
-  "last_updated": "2026-01-23T05:20:09.388335"
+  "last_updated": "2026-01-23T05:50:19.675686"
 }
