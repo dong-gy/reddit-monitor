@@ -1,162 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qi483f",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "What's new in Top Down Sprite Maker v1.3.0",
-      "content": "Top Down Sprite Maker (TDSM) is the ultimate pixel art character creator. Customize your character and export your sprite sheet in a matter of a few clicks. Multiple sprite styles, full control over customization and sprite sheet layout, and no need to draw. Links: * v1.3.0 changelog * v1.3.0 blog post * Buy Top Down Sprite Maker on itch.io * All TDSM sprite styles made or approved by me submitted by /u/flinkerflitzer [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qi483f/whats_new_in_top_down_sprite_maker_v130/",
-      "author": "/u/flinkerflitzer",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T15:51:53.750942"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qi40pm",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Is there a scatter add-on for Godot like Scatter Objects in Blender?",
-      "content": "I find the MultiMeshInstance3D to be limiting because it can only scatter throughout the entire mesh. Lmk if anyone has successfully replicated this Blender feature in Godot. submitted by /u/Gold-Committee8298 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qi40pm/is_there_a_scatter_addon_for_godot_like_scatter/",
-      "author": "/u/Gold-Committee8298",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T15:51:53.750952"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qi3yeu",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Help with error code CS0246",
-      "content": "Trying to create a top down shooter using KetraGames guide . Ran into this error message . Assets\\Scripts\\Game\\Enemy\\EnemyMovement.cs(22,51): error cs0246: The type or namespace name ‘_playerAwarenessController’ could not be found. submitted by /u/ProfessionAlarmed697 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qi3yeu/help_with_error_code_cs0246/",
-      "author": "/u/ProfessionAlarmed697",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T15:51:53.751053"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qi4c9l",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Overwatch / marvel rival ??",
-      "content": "Hello, I am a game design student in my final year creating a game. I am creating a FPS game on unreal and I want to include the same mechanic Marvel Rivals and Overwatch has where you can choose different characters with different attributes and weapons. Any tips? or any tutorials that would help. submitted by /u/Careless_Cabinet_489 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qi4c9l/overwatch_marvel_rival/",
-      "author": "/u/Careless_Cabinet_489",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T15:51:53.751065"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qi4080",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "What's new in Top Down Sprite Maker v1.3.0",
-      "content": "Top Down Sprite Maker (TDSM) is the ultimate pixel art character creator. Customize your character and export your sprite sheet in a matter of a few clicks. Multiple sprite styles, full control over customization and sprite sheet layout, and no need to draw. Links: * v1.3.0 changelog * v1.3.0 blog post * Buy Top Down Sprite Maker on itch.io * All TDSM sprite styles made or approved by me submitted by /u/flinkerflitzer [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qi4080/whats_new_in_top_down_sprite_maker_v130/",
-      "author": "/u/flinkerflitzer",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T15:51:53.751075"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qi4nke",
-      "type": "search",
-      "subreddit": "Eldenring",
-      "title": "I Need help with these 2 gestures",
-      "content": "i'm trying to 100% the game and these are the only things i Need to finish the game, if anyone has pre-ordered the game or the DLC dm me pls submitted by /u/ImpossibleCherry555 to r/Eldenring [link] [comments]",
-      "link": "https://www.reddit.com/r/Eldenring/comments/1qi4nke/i_need_help_with_these_2_gestures/",
-      "author": "/u/ImpossibleCherry555",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T15:51:53.752282"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qi5hkl",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "good ways to plan out systems before you start coding it?",
-      "content": "gamedesign aside, do ya'll know of good ways to plan out systems before you start coding it? I've noticed a spend a lot of time sitting idly trying to think of which classes should be in charge of what, and how they should all interact with eachother to get my game working how i'd like. Right now im attempting to code a kind of board game, so drawing pieces, placing pieces, how they move on the board and in your hand and all inbetween. It would probably be smart to plan out before i get too deep in the code, so i can avoid spaghetti and sitting idly. Maybe there's some kind of planning approaches for systems like these i dont know about. (in coding websites i sometimes made a wireframe and mockup before i did the html and styling) submitted by /u/STANN_co [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qi5hkl/good_ways_to_plan_out_systems_before_you_start/",
-      "author": "/u/STANN_co",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T16:19:53.240774"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qi5du6",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "My SoloDev, 10 days build in public experiment.",
-      "content": "submitted by /u/WonderfulWeird960 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qi5du6/my_solodev_10_days_build_in_public_experiment/",
-      "author": "/u/WonderfulWeird960",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T16:19:53.240823"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qi5fmu",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "My SoloDev, 10 days build in public experiment.",
-      "content": "submitted by /u/WonderfulWeird960 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qi5fmu/my_solodev_10_days_build_in_public_experiment/",
-      "author": "/u/WonderfulWeird960",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T16:19:53.240832"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qi589z",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "We’re experimenting with our bite mechanic, trying out all the different things you can do with it. What other things do you think would be fun to try?",
-      "content": "submitted by /u/StayDeadGame [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qi589z/were_experimenting_with_our_bite_mechanic_trying/",
-      "author": "/u/StayDeadGame",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T16:19:53.240866"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qi50re",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "How do you guys come up with your game ideas?",
-      "content": "I've been working in game development for about 2 years as primarily a level designer. I would say i im ok at both art and programming to a passable standard, but I find it hard to come up with original/ interesting concepts that I could do with my skillset as a level designer. I'm very good at coming up with designs for ideas i get pitched to me, but not the actual initial idea generation itself... I've always heard that if you're good at art, do more art-heavy games and programming more systems/mechanic-driven games, but havent found a good base for design. any sugestions or tips on how you guys come up with your games? submitted by /u/Solidduty [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qi50re/how_do_you_guys_come_up_with_your_game_ideas/",
-      "author": "/u/Solidduty",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T16:19:53.240885"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qi4s7b",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Right?",
-      "content": "submitted by /u/Fluid_Associate7017 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qi4s7b/right/",
-      "author": "/u/Fluid_Associate7017",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T16:19:53.240905"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qi4ti1",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Right?",
-      "content": "submitted by /u/Fluid_Associate7017 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qi4ti1/right/",
-      "author": "/u/Fluid_Associate7017",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-20T16:19:53.240947"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qi6bl0",
       "type": "post",
       "subreddit": "indiegaming",
@@ -14063,7 +13907,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-23T08:51:10.218440"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qklw3l",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Working on a game The Soul - is a story about a hunter of monsters that hide among humans (inspired by the Supernatural)",
+      "content": "submitted by /u/mahooney98 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qklw3l/working_on_a_game_the_soul_is_a_story_about_a/",
+      "author": "/u/mahooney98",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T09:18:56.791355"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkm6oa",
+      "type": "search",
+      "subreddit": "blackdesertonline",
+      "title": "Crimson Desert Pre Order bonus",
+      "content": "I'm kinda confused on how the Pre-order bonus will be handled if I don't play on the Steam version. Will they just send a code to you once the game releases or is it exclusive to the steam verson? submitted by /u/Chibbbs to r/blackdesertonline [link] [comments]",
+      "link": "https://www.reddit.com/r/blackdesertonline/comments/1qkm6oa/crimson_desert_pre_order_bonus/",
+      "author": "/u/Chibbbs",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T09:18:56.791809"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qklsgf",
+      "type": "search",
+      "subreddit": "videogames",
+      "title": "What's the best boss music you've heard?",
+      "content": "Hey guys, I'm currently working on a playlist with boss fight musics while I'm working out and I was wondering what's the best boss music you've heard? Personally that would be the Toy Maker from Castlevania LoS 2. I know the game has had lot of hate but I liked it and this music is still one of the best for a boss fight. https://youtu.be/YjMgc9SNUEk?si=gzCiIt2mIp-ggPgW The Final Battle from Elden Ring is also one of my favorite. Any suggestions? P.S.: it's not a boss fight but Suicide Mission from Mass Effect 2 is also pretty epic submitted by /u/Eki63 to r/videogames [link] [comments]",
+      "link": "https://www.reddit.com/r/videogames/comments/1qklsgf/whats_the_best_boss_music_youve_heard/",
+      "author": "/u/Eki63",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T09:18:56.792163"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkm3cy",
+      "type": "search",
+      "subreddit": "indiegames",
+      "title": "Our 3D first-person psychological horror game \"Dread Neighbor\" has released its demo!",
+      "content": "Hey guys, I'm one of the devs developing \"Dread Neighbor\". I'm happy to announce that this 3D psychological horror game has finally released its free demo! Have a try if you're interested in horror games. submitted by /u/JustAGamePlayerBA to r/indiegames [link] [comments]",
+      "link": "https://www.reddit.com/r/indiegames/comments/1qkm3cy/our_3d_firstperson_psychological_horror_game/",
+      "author": "/u/JustAGamePlayerBA",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T09:18:56.792244"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkm2ue",
+      "type": "search",
+      "subreddit": "programare",
+      "title": "Părere Echo School?(Game dev)",
+      "content": "Salut! Am dat intamplator de contul celor de la Echo school si mi s-a parut foarte interesant programul(nu prea avem ceva game dev ish in Romania), cineva care studiaza/a studiat acolo?? sau stie pe cineva care urmeaza acest program de licenta si poate sa mi spuna ce parere are per total?? (profesori, materie, program in sine si posibilitati viitor) submitted by /u/Thin-Floor1494 to r/programare [link] [comments]",
+      "link": "https://www.reddit.com/r/programare/comments/1qkm2ue/părere_echo_schoolgame_dev/",
+      "author": "/u/Thin-Floor1494",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T09:18:56.792261"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qkm0a2",
+      "type": "search",
+      "subreddit": "HorrorGames",
+      "title": "Need some feedback on my Japanese-inspired horror TPS demo!",
+      "content": "Hello! I'm a solo dev working on a horror game inspired by the famous Japanese legend, Kisaragi station. The title of this game is 'Kisaragi' It’s a mix of a creepy atmosphere and TPS action. Since this community knows horror best, I wanted to show a snippet of my recent test build. I’m trying to balance the tension and the combat. Any feedback on the camera work or the environment would be greatly appreciated! If you're interested, you can check out more on Steam https://store.steampowered.com/app/3728280/Kisaragi/ submitted by /u/Some-Pie-564 to r/HorrorGames [link] [comments]",
+      "link": "https://www.reddit.com/r/HorrorGames/comments/1qkm0a2/need_some_feedback_on_my_japaneseinspired_horror/",
+      "author": "/u/Some-Pie-564",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-23T09:18:56.792324"
     }
   ],
-  "last_updated": "2026-01-23T08:52:58.212669"
+  "last_updated": "2026-01-23T09:20:48.748748"
 }
