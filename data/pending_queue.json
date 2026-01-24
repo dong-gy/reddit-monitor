@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qj1zfw",
-      "type": "search",
-      "subreddit": "IndieDev",
-      "title": "i've got nothing to add",
-      "content": "submitted by /u/Cute-Peep to r/IndieDev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qj1zfw/ive_got_nothing_to_add/",
-      "author": "/u/Cute-Peep",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T16:22:24.625685"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qj43iy",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "reminder: blitz3d is adware , for people who like making old games",
-      "content": "i downloaded it to open a old project called (BlitzSonic) well it appeared to be adware,it has a adware called Win32/ShopHome submitted by /u/Next-Future5973 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qj43iy/reminder_blitz3d_is_adware_for_people_who_like/",
-      "author": "/u/Next-Future5973",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T17:34:20.831553"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qj2kx2",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Is there a market for games with regional inspiration?",
-      "content": "I am working on a card roguelite, with gameplay heavily inspired by a traditional card game from my country. Sort of like what Balatro did with poker, but with a regional game instead. I am aware this will probably make the game sell a bit better in my country, but do you guys think it will make it sell *worse* in the rest of the world, if i do get to that stage? Of course I would make tutorials and stuff, but this traditional game has pretty complex rules that aren't entirely intuitive. If people have to learn a sub-game to be able to play the game itself, will that pull them away from it? How can I breach this knowledge gap between people from my country and everyone else? submitted by /u/Leods-The-Observer [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qj2kx2/is_there_a_market_for_games_with_regional/",
-      "author": "/u/Leods-The-Observer",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T17:34:20.831581"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qj3wsx",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "procedural 3d ship generation",
-      "content": "submitted by /u/sinanata [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qj3wsx/procedural_3d_ship_generation/",
-      "author": "/u/sinanata",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T17:34:20.831685"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qj2pd0",
       "type": "post",
       "subreddit": "indiegaming",
@@ -15719,7 +15671,139 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-24T19:08:27.873738"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qlw8wd",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "EVERDAWN, the tile-based game, keeps evolving!",
+      "content": "submitted by /u/SOLIDSStudio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlw8wd/everdawn_the_tilebased_game_keeps_evolving/",
+      "author": "/u/SOLIDSStudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T19:33:13.517912"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qlw24w",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Turning on the light is dangerous!",
+      "content": "At the beginning of the VR game Xenolocus, the zombies are quite slow, but once you turn on the light they start moving toward it and can surround any careless player. What do you think, is it better to fight in the dark, or with light but a greater risk of being eaten? :) submitted by /u/RelevantOperation422 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlw24w/turning_on_the_light_is_dangerous/",
+      "author": "/u/RelevantOperation422",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T19:33:13.517923"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qlvxw4",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Developed it, tested it, now we can't stop playing it!",
+      "content": "submitted by /u/BlekolGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlvxw4/developed_it_tested_it_now_we_cant_stop_playing_it/",
+      "author": "/u/BlekolGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T19:33:13.517929"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qlvwnz",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We spent almost 3 years making a 1-4 player co-op horror game… and it finally left Early Access - Ghost Janitors IS HERE",
+      "content": "Hi everyone! I'm Wave, the lead developer of a small team of three, and we've just fully launched Ghost Janitors after spending almost three years working on it. The game recently left Early Access. It's not perfect yet and there are still some bugs, but our community has been incredibly helpful in reporting issues and giving feedback, which helps us improve it with every update. I’ve left the Steam page below. We'd genuinely love to hear your first impressions, what you like, what feels off, and what you think could be improved. https://store.steampowered.com/app/2772990/Ghost_Janitors/ Thanks for checking it out! <3 submitted by /u/ghostjanitors [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlvwnz/we_spent_almost_3_years_making_a_14_player_coop/",
+      "author": "/u/ghostjanitors",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T19:33:13.517956"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qlvysh",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Developed it, tested it, now we can't stop playing it!",
+      "content": "submitted by /u/BlekolGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qlvysh/developed_it_tested_it_now_we_cant_stop_playing_it/",
+      "author": "/u/BlekolGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T19:33:13.517963"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qlvvtm",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I'm in Level Design 0, this is my first job. Rate it",
+      "content": "I need your advice! What can be added? submitted by /u/CreepsBronZ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qlvvtm/im_in_level_design_0_this_is_my_first_job_rate_it/",
+      "author": "/u/CreepsBronZ",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T19:33:13.517971"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qlvv1l",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Added night, evening, and day modes",
+      "content": "submitted by /u/alekblom [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qlvv1l/added_night_evening_and_day_modes/",
+      "author": "/u/alekblom",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T19:33:13.517977"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qlvwbv",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "3d visual bug involving Blender 3d models",
+      "content": "First of all, i'm sharing this only bc i want to help anybody with the same problem. I started using Blender a few days ago to 3d model some enemies to my project and problems showed up with some body parts of the models i imported into Godot like this: a single leg of the model showed up kinda \\\"empty\\\" Today i just discovered what the problem is and how fix it, but i have no clue how it started. by standart the \\\"Cull Mode\\\" option in Godot is BACK I don't know why, but some bodyparts of the model have the cull mode kinda inverted. When the material is created, the standart option BACK is selected, but some body parts act like the FRONT option is selected instead. And it goes further: when i select the FRONT option, the bugged body part shows like the BACK options is selected. like it is inverted. To fix this you just have to disable the Cull Mode option. just like this And the model is fixed. submitted by /u/boombatis [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qlvwbv/3d_visual_bug_involving_blender_3d_models/",
+      "author": "/u/boombatis",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T19:33:13.517999"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qlvvm2",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My Godot emulator Front end with LIBRETRO SUPPORT is now open source!",
+      "content": "https://github.com/arthiee4/catui Its not ready and theres no final build yet, but this is what we actually have (u can download the code on Godot and test) <3 submitted by /u/Any-Recording3042 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qlvvm2/my_godot_emulator_front_end_with_libretro_support/",
+      "author": "/u/Any-Recording3042",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T19:33:13.518008"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlweue",
+      "type": "search",
+      "subreddit": "Fallout4Mods",
+      "title": "New Mod: Hazardous Glowing Sea",
+      "content": "Hello everyone. I just released a mod called Hazardous Glowing Sea on Nexus Mods, which adds more creature spawns to the Glowing Sea region of Fallout 4. I encountered a couple other mods which do something similar, but I found them to be either a bit too much or not quite enough for my taste. So I made one that hopefully makes the Glowing Sea feel like more of a risk at virtually any level, without completely overwhelming the experience. Though, you can be overwhelmed. Think swarms and proliferation. More radroaches, bloodbugs, stingwings, bloatflies, and ghouls. I imagined they'd thrive in larger numbers rivaled only by other species. Some creatures level with you. Other stronger variants don't. Most use leveled lists so that spawns aren't exactly alike each time. There are a few unique variants of ghouls and behemoths as well and some I'll leave you to discover. Give it a shot and let me know what you think. Danger isn't everywhere you go, but you can be ambushed at any point, so bring plenty of stimpaks, radaway, and heavy artillery. Mod Link: https://www.nexusmods.com/fallout4/mods/100605?tab=files submitted by /u/AldenTemple521 to r/Fallout4Mods [link] [comments]",
+      "link": "https://www.reddit.com/r/Fallout4Mods/comments/1qlweue/new_mod_hazardous_glowing_sea/",
+      "author": "/u/AldenTemple521",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T19:33:13.518687"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlw397",
+      "type": "search",
+      "subreddit": "CultOfTheLamb",
+      "title": "Woolhaven is a buggy mess of a DLC",
+      "content": "I’ve encountered so many bugs in the Switch version of the game. From soft locks while dungeoning, weapons disappearing so you can’t attack, crafting issues that result in crashing, visual bugs and glitches… the DLC is a mess at the moment. I’m scared to even push forward because my game crashes or bugs out so often, and I lose 10 to 15 min. of progression each time. Have the devs committed to a timeframe yet on when this all will be reviewed and fixed? I’m stunned that so many bugs went under the radar and made it to the release version. submitted by /u/PrincessImpeachment to r/CultOfTheLamb [link] [comments]",
+      "link": "https://www.reddit.com/r/CultOfTheLamb/comments/1qlw397/woolhaven_is_a_buggy_mess_of_a_dlc/",
+      "author": "/u/PrincessImpeachment",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T19:33:13.519494"
     }
   ],
-  "last_updated": "2026-01-24T19:09:56.393147"
+  "last_updated": "2026-01-24T19:34:52.865306"
 }
