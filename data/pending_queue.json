@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qj01sf",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Check the updates about our heartwarming adventure game Whiskers' Wish!",
-      "content": "submitted by /u/VonWratts [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qj01sf/check_the_updates_about_our_heartwarming/",
-      "author": "/u/VonWratts",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T14:57:30.157707"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qj019i",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "My Firewatch-inspired road trip game - solo dev",
-      "content": "Hey! I’m a solo developer with 4 years of full-time Unity experience. This is my first commercial Steam game. It’s a cozy, story-driven road trip experience where you travel through small towns in a van that doubles as a mobile trading shop. I’d love to hear what you think about the concept , atmosphere and visuals. submitted by /u/Head_Yoghurt_3588 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qj019i/my_firewatchinspired_road_trip_game_solo_dev/",
-      "author": "/u/Head_Yoghurt_3588",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T14:57:30.157725"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qizyyv",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Adding a new \"Shrine\"-System to my game. What do you think?",
-      "content": "Which Shrine seems the coolest/most useful? Do you have ideas for more? Wishlist \"PESKY ORCS!\" on Steam now: https://store.steampowered.com/app/4184880/PESKY_ORCS/ submitted by /u/Plus_Astronomer1789 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qizyyv/adding_a_new_shrinesystem_to_my_game_what_do_you/",
-      "author": "/u/Plus_Astronomer1789",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T14:57:30.157736"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qizm2r",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I made a game in Unreal Engine 5 that looks like a drawing come to life.",
-      "content": "Quite a while ago, I met a friend who draws in a unique style, and we decided to make a game together. In terms of gameplay, it's not overly complicated, but we focused a lot on the visuals and atmosphere. All the textures in the game are hand-drawn. The game is fully finished, but there are some technical issues. https://pazatrah.itch.io/my-paper-forest submitted by /u/Prestigious-Cup-9659 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qizm2r/i_made_a_game_in_unreal_engine_5_that_looks_like/",
-      "author": "/u/Prestigious-Cup-9659",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T14:57:30.157781"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qizlrr",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Discovery (a song for cutscenes)",
-      "content": "submitted by /u/YoomiMusic [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qizlrr/discovery_a_song_for_cutscenes/",
-      "author": "/u/YoomiMusic",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T14:57:30.157787"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qiztfi",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I'm quite pleased at the minimalist design for my word game!",
-      "content": "submitted by /u/Deagle81 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qiztfi/im_quite_pleased_at_the_minimalist_design_for_my/",
-      "author": "/u/Deagle81",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T14:57:30.157855"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qizjhz",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "My game Hyperslice is out!",
-      "content": "That's it, my game Hyperslice finally released on Steam and Itch ! It's an arena roguelike where your only weapon is your dash. It supports Windows, Linux and Steamdeck and costs less than 5 bucks at release! I've been having a love/hate relationship with this game for a while now but I always came back to it. I'm so happy it's finally out. I hope you'll enjoy :) Fun fact, it's still using Godot 3.6. I'm wondering how many games are still using Godot 3 submitted by /u/MrEliptik [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qizjhz/my_game_hyperslice_is_out/",
-      "author": "/u/MrEliptik",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T14:57:30.157905"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qizmqm",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "What do you think about my sensor mechanics?",
-      "content": "My game takes place in an abandoned mine. The overall theme of the game is dark, so we may not be able to see some dangers. How do you think the mechanics feel, and will they negatively affect the player during long play sessions? If you like it, you can add it to your wishlist by typing “Worker75:49” on Steam! submitted by /u/worker01dev [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qizmqm/what_do_you_think_about_my_sensor_mechanics/",
-      "author": "/u/worker01dev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T14:57:30.157921"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qizzie",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -15239,7 +15143,115 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-24T14:40:49.977885"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qlpb4m",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "The review / release stats of my demo for \"Steinstern: Spacewar\" look very funny because I released the separate demo page just some weeks ago. May I ask for reviews?",
+      "content": "submitted by /u/dopefish86 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlpb4m/the_review_release_stats_of_my_demo_for/",
+      "author": "/u/dopefish86",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T15:09:27.459513"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qlp8jf",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Nihilist Penguin from my game. And in the end… he found his way back home🥹",
+      "content": "submitted by /u/thatsme000 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlp8jf/nihilist_penguin_from_my_game_and_in_the_end_he/",
+      "author": "/u/thatsme000",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T15:09:27.459539"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qlorut",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "What is the most beautiful/iconic place in your favorite indie games?",
+      "content": "submitted by /u/BelCifer-GT [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlorut/what_is_the_most_beautifuliconic_place_in_your/",
+      "author": "/u/BelCifer-GT",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T15:09:27.459575"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qlpc9m",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I made a Bullet Hell where you never press a single button. What do you think of the \"No Click\" gameplay?",
+      "content": "Hey everyone! I’ve been working on Hover Point , a minimalist bullet hell roguelike where the goal was to see if I could make a high intensity action game using only mouse movement. Auto-fire is always on, so the entire game is about the \"flow state\" of dodging and positioning. I just released the demo on Steam and would love some feedback from fellow devs on the movement weight and the readability of the bullets. Demo Link: Hover Point on Steam (And yes, you still have to click the menu buttons!) submitted by /u/chaqibrahim0 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qlpc9m/i_made_a_bullet_hell_where_you_never_press_a/",
+      "author": "/u/chaqibrahim0",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T15:09:27.459618"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qloy0t",
+      "type": "search",
+      "subreddit": "learnpython",
+      "title": "Do I need to learn all the basics just to scrape",
+      "content": "I've got really no interest (at least right now) in making like any games or apps only scrapping, can I figure out what I need to know just from videos on scrapping. Or will I struggle to actually code myself and problem solve submitted by /u/AdForsaken5106 to r/learnpython [link] [comments]",
+      "link": "https://www.reddit.com/r/learnpython/comments/1qloy0t/do_i_need_to_learn_all_the_basics_just_to_scrape/",
+      "author": "/u/AdForsaken5106",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T15:09:27.460771"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlpbjs",
+      "type": "search",
+      "subreddit": "GoldenAgeMinecraft",
+      "title": "caught this one. name?",
+      "content": "https://preview.redd.it/i9wdb9vubbfg1.png?width=1366&format=png&auto=webp&s=edf3d935460a6744a9f6887378bb82ced0ff2dab submitted by /u/EtvPlayYT_ru to r/GoldenAgeMinecraft [link] [comments]",
+      "link": "https://www.reddit.com/r/GoldenAgeMinecraft/comments/1qlpbjs/caught_this_one_name/",
+      "author": "/u/EtvPlayYT_ru",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T15:09:27.461076"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlpc9m",
+      "type": "search",
+      "subreddit": "IndieDev",
+      "title": "I made a Bullet Hell where you never press a single button. What do you think of the \"No Click\" gameplay?",
+      "content": "Hey everyone! I’ve been working on Hover Point , a minimalist bullet hell roguelike where the goal was to see if I could make a high intensity action game using only mouse movement. Auto-fire is always on, so the entire game is about the \"flow state\" of dodging and positioning. I just released the demo on Steam and would love some feedback from fellow devs on the movement weight and the readability of the bullets. Demo Link: Hover Point on Steam (And yes, you still have to click the menu buttons!) submitted by /u/chaqibrahim0 to r/IndieDev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qlpc9m/i_made_a_bullet_hell_where_you_never_press_a/",
+      "author": "/u/chaqibrahim0",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T15:09:27.461148"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlpbt1",
+      "type": "search",
+      "subreddit": "Mecharashi_Global",
+      "title": "Mecharashi is a prime candidate to receive the Mega Men X Dive treatment.",
+      "content": "Hello everyone so Mecharashi as it is right now is a prime candidate to receive a offline mode like with Capcom did with Mega Men X Dive when they shutdown the server. The game has a ok story , the online functionality of the game can be patch with bots easily and they can change the rewards to not be a one time and the economy for a offline game is fixed. I hope when the devs shutdown the server don't waste the amazing game. submitted by /u/Cidnelson85 to r/Mecharashi_Global [link] [comments]",
+      "link": "https://www.reddit.com/r/Mecharashi_Global/comments/1qlpbt1/mecharashi_is_a_prime_candidate_to_receive_the/",
+      "author": "/u/Cidnelson85",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T15:09:27.461163"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlp7jm",
+      "type": "search",
+      "subreddit": "iosgaming",
+      "title": "[DEV] Solo game inspired by Codenames (Zero ads and zero in game purchases)",
+      "content": "Been working on this game for a few months now, adding new puzzles each day, and trying to improve UX based on feedback. Have about over 100 puzzles now, going to be adding some puzzles created by friends and family in the near future. Open to any feedback. I have about ~30 active users I think, mostly friends and family, haven't had the time to focus on marketing, but I'm also not planning on making money off of this, so it's mostly just for fun. Thanks! submitted by /u/StoryRemarkable1270 to r/iosgaming [link] [comments]",
+      "link": "https://www.reddit.com/r/iosgaming/comments/1qlp7jm/dev_solo_game_inspired_by_codenames_zero_ads_and/",
+      "author": "/u/StoryRemarkable1270",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T15:09:27.461197"
     }
   ],
-  "last_updated": "2026-01-24T14:42:28.763833"
+  "last_updated": "2026-01-24T15:11:22.660836"
 }
