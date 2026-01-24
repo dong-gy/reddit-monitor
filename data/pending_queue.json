@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qj21cr",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Hand-drawn game world and characters in “Punch Lunch: Foodtruck Fighter” — art by @Krzymsky.",
-      "content": "submitted by /u/MGrzabka [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qj21cr/handdrawn_game_world_and_characters_in_punch/",
-      "author": "/u/MGrzabka",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T16:22:24.624170"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qj1zla",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I made a short horror game with PSX graphics.",
-      "content": "https://caliskangiga.itch.io/midnight-pizzeria submitted by /u/Glad-Heart5222 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qj1zla/i_made_a_short_horror_game_with_psx_graphics/",
-      "author": "/u/Glad-Heart5222",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T16:22:24.624191"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qj1v68",
       "type": "post",
       "subreddit": "indiegaming",
@@ -15431,7 +15407,91 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-24T17:08:19.544650"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qlt5gg",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Steamworks SDK Upload Timeout uploading manifest",
+      "content": "Hi, I'm uploading my game to Steam through Steampipe Build Uploader but I received an error: [2026-01-24 22:56:03]: uploading new manifest to depot_ingest.discovery.steamserver.net (handle 2830597565932821745, 42181 bytes). [2026-01-24 22:56:05]: error! timeout uploading manifest (size 42181) All my appID, depot ID are correct and I've just uploaded a demo couple months ago. submitted by /u/hlinh0411hd [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qlt5gg/steamworks_sdk_upload_timeout_uploading_manifest/",
+      "author": "/u/hlinh0411hd",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T17:39:29.451200"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qlsvwh",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Making a Mgs Arkham Like hybrid (grapple hook polish and invisibility showcase)",
+      "content": "https://youtu.be/Fp9qa07zvmM submitted by /u/ExplosivArt [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlsvwh/making_a_mgs_arkham_like_hybrid_grapple_hook/",
+      "author": "/u/ExplosivArt",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T17:39:29.451233"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qlt458",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Our game’s Steam page is now live. If you’re into incremental / idle games, feel free to add it to your wishlist.",
+      "content": "https://store.steampowered.com/app/4276980/Tiny_Biomes_Cozy_Idle/ submitted by /u/newt0n53 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qlt458/our_games_steam_page_is_now_live_if_youre_into/",
+      "author": "/u/newt0n53",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T17:39:29.451250"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qlsp5z",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Orbrix! An incremental breakout game with mesmerizing visuals. Made in Godot! Wishlist on Steam",
+      "content": "https://store.steampowered.com/app/4350100/Orbrix/ submitted by /u/redpikmin4 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qlsp5z/orbrix_an_incremental_breakout_game_with/",
+      "author": "/u/redpikmin4",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T17:39:29.451480"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlt4hm",
+      "type": "search",
+      "subreddit": "ClashOfClans",
+      "title": "It finally happened 🥲",
+      "content": "submitted by /u/joeswatches to r/ClashOfClans [link] [comments]",
+      "link": "https://www.reddit.com/r/ClashOfClans/comments/1qlt4hm/it_finally_happened/",
+      "author": "/u/joeswatches",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T17:39:29.453111"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlt8m7",
+      "type": "search",
+      "subreddit": "Endfield",
+      "title": "Keybinds being stupidly locked on PC, where do I edit it in the game-files please ?",
+      "content": "I have no idea why the devs are letting us change the keycaps if half the options are force locked. Especially the movment ones that are the #1 keycaps to change. They translated the game in European languages but didn't adapt their game to our keyboards it seems. So for now we have to investigate the game files. If anyone already did it I am more than happy to have a glimpse at your fix ! Thanks ! submitted by /u/Jokow_ to r/Endfield [link] [comments]",
+      "link": "https://www.reddit.com/r/Endfield/comments/1qlt8m7/keybinds_being_stupidly_locked_on_pc_where_do_i/",
+      "author": "/u/Jokow_",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T17:39:29.453175"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlt7r2",
+      "type": "search",
+      "subreddit": "DenverBroncos",
+      "title": "Iddybittystiddycommitee",
+      "content": "Not sure if there is one yet, but for anyone blessed with the opportunity to be tomorrows game, I think you should make up a sign and see how many members we can pull together to show some love to Stiddy! submitted by /u/Original_DSqueeze to r/DenverBroncos [link] [comments]",
+      "link": "https://www.reddit.com/r/DenverBroncos/comments/1qlt7r2/iddybittystiddycommitee/",
+      "author": "/u/Original_DSqueeze",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T17:39:29.453437"
     }
   ],
-  "last_updated": "2026-01-24T17:09:55.258584"
+  "last_updated": "2026-01-24T17:41:14.647006"
 }
