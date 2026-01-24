@@ -1,138 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qiyjbs",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I redesigned the cat's face for the Steam game cover. Is it better?",
-      "content": "submitted by /u/Helga-game [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qiyjbs/i_redesigned_the_cats_face_for_the_steam_game/",
-      "author": "/u/Helga-game",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:59:31.364073"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qixxaz",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "My game hit its first $1000 of total revenue!",
-      "content": "submitted by /u/LVL90DRU1D [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qixxaz/my_game_hit_its_first_1000_of_total_revenue/",
-      "author": "/u/LVL90DRU1D",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:59:31.364107"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qixw0f",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Final frame of a special attack — focusing on emotion and impact",
-      "content": "Working on an indie action game. This is the final frame of a special attack — trying to make it feel brutal and emotional. submitted by /u/OiranSuvival [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qixw0f/final_frame_of_a_special_attack_focusing_on/",
-      "author": "/u/OiranSuvival",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:59:31.364118"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qixona",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "User Interface 📝",
-      "content": "submitted by /u/_V3X3D_ [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qixona/user_interface/",
-      "author": "/u/_V3X3D_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:59:31.364125"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qiyl7k",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Time for refactoring yet?",
-      "content": "submitted by /u/jackalope268 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qiyl7k/time_for_refactoring_yet/",
-      "author": "/u/jackalope268",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:59:31.364132"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qixy2z",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Where I learn to Godot?",
-      "content": "submitted by /u/Hungry-Scene7195 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qixy2z/where_i_learn_to_godot/",
-      "author": "/u/Hungry-Scene7195",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:59:31.364161"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qixor1",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Much easier to manage",
-      "content": "submitted by /u/double_dmg_bonks [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qixor1/much_easier_to_manage/",
-      "author": "/u/double_dmg_bonks",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:59:31.364180"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qixlt3",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Can't find blender path",
-      "content": "How do I find the blender path for importing blender files to godot? (btw, I installed Godot and Blender from Steam) submitted by /u/AwarenessSuperb2232 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qixlt3/cant_find_blender_path/",
-      "author": "/u/AwarenessSuperb2232",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:59:31.364188"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qiydj6",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Why does my selection change itself automatically after I stop playtest?",
-      "content": "https://reddit.com/link/1qiydj6/video/g1ar6vm7jpeg1/player submitted by /u/PsychologicalDare457 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qiydj6/why_does_my_selection_change_itself_automatically/",
-      "author": "/u/PsychologicalDare457",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:59:31.364236"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qiyd87",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Working on a new layout for my game",
-      "content": "submitted by /u/mfgjames [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qiyd87/working_on_a_new_layout_for_my_game/",
-      "author": "/u/mfgjames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:59:31.364253"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qiy0b7",
-      "type": "search",
-      "subreddit": "projectzomboid",
-      "title": "Mod List",
-      "content": "For u/Downtown-Tone-9175 submitted by /u/Butcher820 to r/projectzomboid [link] [comments]",
-      "link": "https://www.reddit.com/r/projectzomboid/comments/1qiy0b7/mod_list/",
-      "author": "/u/Butcher820",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:59:31.365039"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qiylal",
       "type": "search",
       "subreddit": "Jabalpur",
@@ -15047,7 +14915,103 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-24T12:18:00.476956"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qlmb5l",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "💀💀Static curse editz for those who say indie developers never develop good games !",
+      "content": "submitted by /u/NegativeLanguage4837 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlmb5l/static_curse_editz_for_those_who_say_indie/",
+      "author": "/u/NegativeLanguage4837",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T13:05:36.171464"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qlloav",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Has anyone tried making games with Gaussian Splat on Unreal Engine?",
+      "content": "If soo, what’s the best way to it? submitted by /u/KSzkodaGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qlloav/has_anyone_tried_making_games_with_gaussian_splat/",
+      "author": "/u/KSzkodaGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T13:05:36.171559"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qllmmc",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "New here! I'm a solo dev working on a 'clinical pink' body-horror project. Finally mustered the courage to show some art.",
+      "content": "It's a surreal point-and-click experience where your body is no longer your own, but a specimen in flux. I'm trying to blend Natural History aesthetics with Body Horror to explore the anxiety of identity. ​I recently got the Steam page up (it's barebones, but it's a start!). I’d love to hear what you think of this \"clinical pink\" art style. submitted by /u/papapaaaaaaaa [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qllmmc/new_here_im_a_solo_dev_working_on_a_clinical_pink/",
+      "author": "/u/papapaaaaaaaa",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T13:05:36.171577"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qllweb",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "POV: you are not expecting how bad things can go on some GPUs, here's my collection",
+      "content": "submitted by /u/ReasonNotFoundYet [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qllweb/pov_you_are_not_expecting_how_bad_things_can_go/",
+      "author": "/u/ReasonNotFoundYet",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T13:05:36.171604"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qllm2q",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Universal Animation Library 2 is out! Godot compatible with 40+ free animations",
+      "content": "The Universal Animation Library 2 is a kit of 130+ animations, created using a universal humanoid rig, this kit complements the first library, covering everything from melee and armed combos, parkour movement, farming, fishing, zombie locomotion and a lot more! You can download it here https://quaternius.com/packs/universalanimationlibrary2.html You can preview which ones are in the Standard(free) version here https://quaternius.com/animviewer.html Free to use in personal, educational and commercial projects. (CC0 License) submitted by /u/QuaterniusDev [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qllm2q/universal_animation_library_2_is_out_godot/",
+      "author": "/u/QuaterniusDev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T13:05:36.171644"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qlmae7",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "💀💀Static curse editz for those who say indie developers never develop good games !",
+      "content": "submitted by /u/NegativeLanguage4837 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qlmae7/static_curse_editz_for_those_who_say_indie/",
+      "author": "/u/NegativeLanguage4837",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T13:05:36.171676"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qlm4y3",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Share a small moment from a game I’m working on",
+      "content": "Mossbound is a small, atmospheric exploration game set in an overgrown miniature world. You follow Milo on a quiet journey through moss, roots, and forgotten spaces, searching for a way to help his brother Just passed 360 wishlists. Thank you so much for the support submitted by /u/RocketGecko_Studio [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qlm4y3/share_a_small_moment_from_a_game_im_working_on/",
+      "author": "/u/RocketGecko_Studio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T13:05:36.171690"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlme7y",
+      "type": "search",
+      "subreddit": "projectzomboid",
+      "title": "Server stopped during launch (normal termination)",
+      "content": "Hello, I can't create a server. I get the error message in the title. I'm posting a screenshot from the console. Does anyone know what this error means? https://preview.redd.it/65o3ts7uoafg1.png?width=3840&format=png&auto=webp&s=994b6c92433e896184b282ad99a83e33d0275421 submitted by /u/Miccho00 to r/projectzomboid [link] [comments]",
+      "link": "https://www.reddit.com/r/projectzomboid/comments/1qlme7y/server_stopped_during_launch_normal_termination/",
+      "author": "/u/Miccho00",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T13:05:36.173237"
     }
   ],
-  "last_updated": "2026-01-24T12:19:50.121189"
+  "last_updated": "2026-01-24T13:07:28.155224"
 }
