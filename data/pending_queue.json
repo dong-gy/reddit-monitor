@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qivmb5",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I finally gave NPCs the courage to fight back during carjackings... and the police immediately humbled him.",
-      "content": "submitted by /u/Bufuak_ [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qivmb5/i_finally_gave_npcs_the_courage_to_fight_back/",
-      "author": "/u/Bufuak_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T11:42:59.989987"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qivbwk",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Finally the game is Developed! Do check it out, wish-listing would support me alott",
-      "content": "#solodev #gamedev #wishlistwednesday #steam submitted by /u/Neither_Affect4507 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qivbwk/finally_the_game_is_developed_do_check_it_out/",
-      "author": "/u/Neither_Affect4507",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T11:42:59.989994"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qiv84d",
-      "type": "search",
-      "subreddit": "projects",
-      "title": "I built a gaming platform to make joining private games easy. I’d really appreciate your honest thoughts.",
-      "content": "submitted by /u/Alert-Ad-5918 to r/projects [link] [comments]",
-      "link": "https://www.reddit.com/r/projects/comments/1qiv84d/i_built_a_gaming_platform_to_make_joining_private/",
-      "author": "/u/Alert-Ad-5918",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T11:42:59.990712"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qivp56",
-      "type": "search",
-      "subreddit": "RSDragonwilds",
-      "title": "Game keep crashing and many texture bugs",
-      "content": "Hi everyone, the game keeps crashing after a few minutes of playing in an online world. I tried : - insert both -vulkan and -dx11 in the startup commands - chance the properties of the .exe making it run as administrator and with compatibility -verify integrity of files on steam -change graphics settings All my drivers are updated and my BIOS too, other games work as they should… Instead in the game the textures of the Sky at like geometric figures and grass are like pixels… Thanks in advance guys! submitted by /u/TalaKun to r/RSDragonwilds [link] [comments]",
-      "link": "https://www.reddit.com/r/RSDragonwilds/comments/1qivp56/game_keep_crashing_and_many_texture_bugs/",
-      "author": "/u/TalaKun",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T11:42:59.990746"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qivov7",
-      "type": "search",
-      "subreddit": "oneplus",
-      "title": "OnePlus 12 - CPH2573_16.0.3.500(V120P02) update released (India)",
-      "content": "submitted by /u/LastOfLateBrakers to r/oneplus [link] [comments]",
-      "link": "https://www.reddit.com/r/oneplus/comments/1qivov7/oneplus_12_cph2573_1603500v120p02_update_released/",
-      "author": "/u/LastOfLateBrakers",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T11:42:59.990829"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qivuvl",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Be honest: Isn't marketing 100x harder than actual game development?",
-      "content": "After several years of running an indie studio, I’ve come to a frustrating conclusion: Making a great game is the easy part. Building a \"reproducible\" marketing strategy feels impossible. I’ve tried social media, press releases, and influencers. Sometimes they work, but they never seem to work the same way twice. It feels like we're all just gambling on luck rather than following a proven system. I'm starting to believe that marketing is the true \"final boss\" of game dev. Do you agree? Or have you actually found a reliable, repeatable method to get your game in front of thousands of players? I’d love to hear your \"hot takes\" or any strategies you swear by. Prove me wrong—is there a way to make marketing more than just a roll of the dice? submitted by /u/Miserable-Recipe-844 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qivuvl/be_honest_isnt_marketing_100x_harder_than_actual/",
-      "author": "/u/Miserable-Recipe-844",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T12:22:12.581822"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qiw8d9",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I just put up the Itch page for my new Sokoban game where you play as a worm. Snip Snip!",
-      "content": "submitted by /u/alexisnotonfire [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qiw8d9/i_just_put_up_the_itch_page_for_my_new_sokoban/",
-      "author": "/u/alexisnotonfire",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T12:22:12.581831"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qiw41w",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -14975,7 +14891,139 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-24T10:10:25.516093"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qljle1",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Anyone know the NPC/customer asset packs used in Supermarket Simulator-style games?",
+      "content": "I’m wondering what customer NPC assets are used in games like Mall Simulator , Tobacco Shop Simulator , and Supermarket Simulator . The customer models in these games look very similar (same style, animations, proportions etc.), so I suspect they’re coming from the same asset packs rather than being custom-made. Does anyone know: which exact asset packs these games use for customer NPCs? whether they’re from the Unity Asset Store etc.? Any info or links to the packs would be appreciated! submitted by /u/Signal_Coast_8186 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qljle1/anyone_know_the_npccustomer_asset_packs_used_in/",
+      "author": "/u/Signal_Coast_8186",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T10:42:23.063446"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qljn4u",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Which music style is better? (sound ON)",
+      "content": "submitted by /u/eldidou_ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qljn4u/which_music_style_is_better_sound_on/",
+      "author": "/u/eldidou_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T10:42:23.063565"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qljkwj",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Combat showcase for my upcoming Turn-based RPG-Roguelike set in Finnish Mythology",
+      "content": "submitted by /u/SnowDogg0 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qljkwj/combat_showcase_for_my_upcoming_turnbased/",
+      "author": "/u/SnowDogg0",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T10:42:23.063572"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qljp2t",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Which music style is better? (sound ON)",
+      "content": "submitted by /u/eldidou_ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qljp2t/which_music_style_is_better_sound_on/",
+      "author": "/u/eldidou_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T10:42:23.063581"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qljmv3",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "It's the first time I catch our game (Into The Grid) in someone's Tierlist, I could cry right now XD",
+      "content": "submitted by /u/Doudens [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qljmv3/its_the_first_time_i_catch_our_game_into_the_grid/",
+      "author": "/u/Doudens",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T10:42:23.063588"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qljhjf",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Explore the new Era of horror on October 21st 2026 when FUNTIME officially releases!",
+      "content": "submitted by /u/TopLab2544 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qljhjf/explore_the_new_era_of_horror_on_october_21st/",
+      "author": "/u/TopLab2544",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T10:42:23.063594"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qljm3i",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Which music style is better? (sound ON)",
+      "content": "submitted by /u/eldidou_ [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qljm3i/which_music_style_is_better_sound_on/",
+      "author": "/u/eldidou_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T10:42:23.063616"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qljix0",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Something is coming",
+      "content": "submitted by /u/Emperor_g123 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qljix0/something_is_coming/",
+      "author": "/u/Emperor_g123",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T10:42:23.063622"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qljtkk",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Art of falling - UE5 ragdoll 2.5d test",
+      "content": "Hi, Presentation of my 2.5d ragdoll sprite system. Featuring falling state, angled based roll and ledge hang... Enjoy submitted by /u/Mateusz_88 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qljtkk/art_of_falling_ue5_ragdoll_25d_test/",
+      "author": "/u/Mateusz_88",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T10:42:23.063637"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qljvgc",
+      "type": "search",
+      "subreddit": "MensDiscipline",
+      "title": "[Dating Advice] 3 playful texts that actually lead to a date (feat. Matthew Hussey’s secret sauce)",
+      "content": "Everyone’s texting but no one’s dating. You match, you vibe, you talk... then it dies. Ghosted. Or worse, things drag on with zero real-world plans. If you’re feeling like your convos go nowhere, you’re not alone. A ton of people get stuck in the “talking stage” and never graduate to an actual date. Let’s fix that. This post is based on insights from Matthew Hussey’s Get The Guy , plus research from behavioral psychology and texting studies on attraction. What you're about to see actually works because it's playful, low-pressure, and makes people want to meet you. Unlike the boring “wyd” or forced flirty lines that flood TikTok. Let’s break down 3 playful, low-key texts that almost always lead to a date (when there’s mutual attraction). “Stop… you just gave me an idea.” This opener creates curiosity without being cliché or cringey. You follow it with something like, “We should do a coffee taste test and settle the iced vs. hot debate once and for all,” or “Mildly tempted to challenge you to a museum art-off… loser buys gelato.” According to Hussey, playful banter that subtly frames a date as a shared adventure makes it more appealing. It’s not about asking , it’s about imagining together. Harvard psychologist Dan Gilbert’s research on prediction and happiness (“Stumbling on Happiness”) shows we’re more likely to say yes to things that feel novel and lighthearted. “Ok so do you get into debates during brunch or are you normal?” This one’s gold. You’re teasing them playfully while implying a brunch date. It plays into what Hussey calls “assumptive flirting” you pretend the date is already happening. Studies by Dr. Arthur Aron (Stony Brook University) show that shared imagination and humor spike dopamine and connection even before people meet. Sneak that date idea in, don’t pitch it like a job interview. “Not to be dramatic, but I just found our new go-to spot.” You send this with a location (café, ramen place, bookstore bar whatever fits your vibe). Why it works: it’s bold and casual. You’re not begging for time, you’re offering a shared experience. Behavioral economist Dan Ariely talks about the “default bias”when you present something as a given, people are more willing to go along with it. You’re not saying, “Do you want to go?” You’re saying, “This should be ours.” These lines aren’t magic spells. They work best when you’ve already got a little spark . But most people mess up by texting safe, boring stuff. These texts invite curiosity, play, and shared imagination which are the real drivers of attraction, according to multiple studies in The Journal of Social and Personal Relationships . Text smarter, not harder. submitted by /u/nambi2002 to r/MensDiscipline [link] [comments]",
+      "link": "https://www.reddit.com/r/MensDiscipline/comments/1qljvgc/dating_advice_3_playful_texts_that_actually_lead/",
+      "author": "/u/nambi2002",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T10:42:23.064324"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qljv5s",
+      "type": "search",
+      "subreddit": "Ps4portable",
+      "title": "Final result – My portable PS4 (PS4P)",
+      "content": "Hey everyone, I wanted to give you a small update on the project. The PS4P now fully stable and playable, so the next step is obvious: real in-game footage 🎮🔥 I’m currently preparing a full in-game video, recorded directly from the handheld, to show: • real performance • thermals under load • noise level • and how it actually feels to play on it This build was all about pushing limits — making the console as small as possible, while keeping it reliable and safe. No renders, no concepts… this is a real, working machine. I’ll also start sharing more behind-the-scenes content: • short clips from the fabrication process • design choices & mistakes • and honest user feedback Thanks to everyone who’s been following, commenting, and supporting this project from the start. The video is coming very soon 👀🔥 Stay tuned. submitted by /u/wewillmakeitnow to r/Ps4portable [link] [comments]",
+      "link": "https://www.reddit.com/r/Ps4portable/comments/1qljv5s/final_result_my_portable_ps4_ps4p/",
+      "author": "/u/wewillmakeitnow",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T10:42:23.064405"
     }
   ],
-  "last_updated": "2026-01-24T10:12:14.198991"
+  "last_updated": "2026-01-24T10:44:00.194804"
 }
