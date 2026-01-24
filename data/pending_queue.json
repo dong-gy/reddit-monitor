@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qj68hw",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Spacey Snake on Steam",
-      "content": "I did it. My first steam game! 🍻🍻😁😅 submitted by /u/Charlie_Sierra_996 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qj68hw/spacey_snake_on_steam/",
-      "author": "/u/Charlie_Sierra_996",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T19:04:35.632161"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qj66wx",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Creating a Duck Hunt like game with some caveats",
-      "content": "https://reddit.com/link/1qj66wx/video/s10wx26nyqeg1/player Let me know what you guys think... submitted by /u/marcelofviana [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qj66wx/creating_a_duck_hunt_like_game_with_some_caveats/",
-      "author": "/u/marcelofviana",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T19:04:35.632168"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qj68ts",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Creating a Duck Hunt like game with some caveats",
-      "content": "https://reddit.com/link/1qj68ts/video/nvqfnl41zqeg1/player Let me know what you guys think... submitted by /u/marcelofviana [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qj68ts/creating_a_duck_hunt_like_game_with_some_caveats/",
-      "author": "/u/marcelofviana",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T19:04:35.632194"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qj6lit",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Une balle dont la trajectoire est différente de celle prévue par la courbe qui la prédit.",
-      "content": "submitted by /u/Dazzling-Light-8641 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qj6lit/une_balle_dont_la_trajectoire_est_différente_de/",
-      "author": "/u/Dazzling-Light-8641",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T19:04:35.632284"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qj6w80",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Where to direct users on mobile games for action (instead of Steam wishlists)",
-      "content": "submitted by /u/vipnet1 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qj6w80/where_to_direct_users_on_mobile_games_for_action/",
-      "author": "/u/vipnet1",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T19:04:35.632291"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qj6mkq",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "Your favourite turn order system in a turn based game?",
-      "content": "Best turn order/speed system you know submitted by /u/Altuk_ [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qj6mkq/your_favourite_turn_order_system_in_a_turn_based/",
-      "author": "/u/Altuk_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T19:04:35.632299"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qj6v20",
-      "type": "search",
-      "subreddit": "PlayStation_X",
-      "title": "PS5 Slim or Pro: Which Actually Makes Sense Right Now?",
-      "content": "I remember staring at the PS5 shelves, wondering if the Pro was really worth the extra cash. Here’s the thing: if you don’t currently have a 4K TV or aren’t chasing ultra-high refresh rates, the Pro’s benefits are minimal. Most games that offer Pro enhancements make you choose between higher frame rates or better visuals anyway, so the “best of both worlds” pitch doesn’t really land. For someone playing single-player story-driven games like Horizon, Spider-Man 2, or Elden Ring, the base PS5 handles them beautifully. Adding a disc drive can actually save you money in the long run by letting you buy cheaper physical copies or secondhand games. The Pro only really shines if you plan to invest in a 4K 120hz setup in the future or want that extra storage, since it comes with a bigger internal drive. From my experience, focusing on offline play lets you ignore the Pro’s minor advantages and just enjoy the games as intended. You still get all the major features and stunning visuals on the base model, and if you ever upgrade your monitor or TV, you can consider the Pro down the line. For anyone in the same boat, are you going for the Slim and saving the difference, or planning to future-proof with the Pro? submitted by /u/edward_dd to r/PlayStation_X [link] [comments]",
-      "link": "https://www.reddit.com/r/PlayStation_X/comments/1qj6v20/ps5_slim_or_pro_which_actually_makes_sense_right/",
-      "author": "/u/edward_dd",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T19:04:35.633487"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qj6uzp",
-      "type": "search",
-      "subreddit": "u_AbolishHumanArchism",
-      "title": "Love is Love?",
-      "content": "'The drinking and eating disorders of people may be just as much a compulsion as sexual orientation. And people may be drawn or even compelled beyond their personal control toward alcoholism, drug use or obesity by natural inheritance as well as emotional trauma and addiction. No one would dare say that these individuals or members of society cannot change these unfruitful and sometimes even destructive behavior or damaging practices. No one would think it is okay to buy alcohol for or encourage an alcoholic to drink. The changing of compulsive behavior often requires a more in depth approach to the problem or practice than many are willing to make. Many of the conditions labelled as problematic are really only symptoms of deeper issues. Treating the symptom seldom helps in overcoming the problem. In fact such treatment may merely mask the real problem behind more symptoms and/or side effects. Ideas that become accepted in the mind as unchangeable facts can become immune to reason, being rooted deeper in the mind of men than they are willing to go. To even question those ideas is often perceived as a personal attack and source of anger and fear. If someone can be groomed to accept an idea or a pattern of behavior, that behavior is not the product of birth but of external influence that may have infected the individual. You cannot rightfully address the mentally accepted behavior without addressing the mental influence of the grooming and the presence of the vulnerability that allowed the grooming to become effective. It may also be true that strongly conservative religious views that lead an individual to seek to change themselves in their sexual orientation are often motivating and even driving the process through a form of ideological grooming. Their own religious beliefs may be a product of preprogrammed religious practices and rituals that resulted in their own Mass Formation of Psychosis.' preparingyou.com/wiki/Homosexuality #AbolishHumanArchism #RepentWithUs #ChristianAnarchy https://preview.redd.it/27677jsy4leg1.jpg?width=7700&format=pjpg&auto=webp&s=ae7e57f4ae41e731057b1208b015c03f4845c009 submitted by /u/AbolishHumanArchism to u/AbolishHumanArchism [link] [comments]",
-      "link": "https://www.reddit.com/r/u_AbolishHumanArchism/comments/1qj6uzp/love_is_love/",
-      "author": "/u/AbolishHumanArchism",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T19:04:35.633530"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qj6tqe",
       "type": "search",
       "subreddit": "2XKO",
@@ -15995,7 +15899,91 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-24T22:09:34.340062"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qm0yr1",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Blue Detective - Showcase Video - I am just showing basic mechanics",
+      "content": "Hello guys, any first impressions? I use Godot 4.3 compability if you may ask... I inspired series like Danganronpa and Zero Escape. submitted by /u/Nooarth [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qm0yr1/blue_detective_showcase_video_i_am_just_showing/",
+      "author": "/u/Nooarth",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T22:40:44.484636"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qm0w60",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "TerraBrush 0.14.2Alpha is out! ⛰️",
+      "content": "TerraBrush 0.14.2Alpha is out! ⛰️ Some bug fixes and cool new features (full release on github)! Enjoy! submitted by /u/spimort [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qm0w60/terrabrush_0142alpha_is_out/",
+      "author": "/u/spimort",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T22:40:44.484673"
+    },
+    {
+      "id": "https://www.reddit.com/t5_l3hwv",
+      "type": "search",
+      "subreddit": "PixelGameMaker",
+      "title": "Pixel Game Maker",
+      "content": "This is a subreddit dedicated to the latest release in the Maker series: Pixel Game Maker [link]",
+      "link": "https://www.reddit.com/r/PixelGameMaker/",
+      "author": "/u/PixelDJ",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T22:40:44.485461"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qm18s3",
+      "type": "search",
+      "subreddit": "ArkNova",
+      "title": "49–48 Ark Nova game today. Asian Elephant choosing a Final Scoring card felt huge",
+      "content": "submitted by /u/songhya to r/ArkNova [link] [comments]",
+      "link": "https://www.reddit.com/r/ArkNova/comments/1qm18s3/4948_ark_nova_game_today_asian_elephant_choosing/",
+      "author": "/u/songhya",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T22:40:44.485545"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qm18wv",
+      "type": "search",
+      "subreddit": "OutcomeMemories",
+      "title": "It wholeheartedly wouldn't surprise me if LuaGuy either sold the game, added P2W to piss off SEGA, snuck distasteful Easter Eggs into the game or replaced the whole dev team with shady people. This is almost a coup d'etat.",
+      "content": "submitted by /u/Extension-Show-2520 to r/OutcomeMemories [link] [comments]",
+      "link": "https://www.reddit.com/r/OutcomeMemories/comments/1qm18wv/it_wholeheartedly_wouldnt_surprise_me_if_luaguy/",
+      "author": "/u/Extension-Show-2520",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T22:40:44.485675"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qm13se",
+      "type": "search",
+      "subreddit": "wargames",
+      "title": "Citiewar A cool browser world map war game check it out",
+      "content": "Check the game out its made by a solo dev with a long history and a small community, you might enjoy it submitted by /u/Lost-Present-9891 to r/wargames [link] [comments]",
+      "link": "https://www.reddit.com/r/wargames/comments/1qm13se/citiewar_a_cool_browser_world_map_war_game_check/",
+      "author": "/u/Lost-Present-9891",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T22:40:44.485726"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qm18tk",
+      "type": "search",
+      "subreddit": "WatcherofRealmsGame",
+      "title": "Do you actually pay for this game?",
+      "content": "I would like to support this game and buy some packs but they are so outrageously overpriced that I cant do it. But they have to be making money. So who out there is paying $30 for 8 ancient summons? No matter how much money I have I dont like to be ripped off. Im platinum on Google Play so I am obviously willing to pay. But I cant even bring myself to buy a $.99 pack. A single summon is basically just burning a dollar. It makes zero sense. submitted by /u/Outrageous-Fact1646 to r/WatcherofRealmsGame [link] [comments]",
+      "link": "https://www.reddit.com/r/WatcherofRealmsGame/comments/1qm18tk/do_you_actually_pay_for_this_game/",
+      "author": "/u/Outrageous-Fact1646",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T22:40:44.485772"
     }
   ],
-  "last_updated": "2026-01-24T22:10:51.309433"
+  "last_updated": "2026-01-24T22:42:13.445152"
 }
