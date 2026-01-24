@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qiy39t",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "A short clip from DOSMIC, a dark cinematic puzzle-platformer",
-      "content": "It’s my Reddit cake day today 🎂 One year since I joined and started sharing things here. Here’s a short 15-second clip from DOSMIC , a cinematic puzzle-platformer I’ve been developing solo. It’s inspired by games like Little Nightmares and LIMBO . If you like what you see, a wishlist would mean a lot 🙂 https://store.steampowered.com/app/3450900/DOSMIC/ Thanks for checking it out! submitted by /u/Black_Cheeze [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qiy39t/a_short_clip_from_dosmic_a_dark_cinematic/",
-      "author": "/u/Black_Cheeze",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T13:59:31.364034"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qiyjbs",
       "type": "post",
       "subreddit": "IndieDev",
@@ -14939,7 +14927,127 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-24T11:35:04.428060"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qllajv",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Updated the header graphics for my game",
+      "content": "Just updated my dungeon crawler header graphics. I hope it conveys the game's vibe. submitted by /u/kotogames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qllajv/updated_the_header_graphics_for_my_game/",
+      "author": "/u/kotogames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T12:18:00.474358"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qll1s0",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The Butter-knife..",
+      "content": "submitted by /u/JesperS1208 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qll1s0/the_butterknife/",
+      "author": "/u/JesperS1208",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T12:18:00.474428"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qlkzr6",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "FF9 Tetra Masters but you are a Roman Senator",
+      "content": "Hello indie devs, I'd really appreciate any feedback. Does the concept sound interesting to you? Does the execution (I mean art) match what you'd expect? In regard to the Steam tags, we are of corse using Card Battles, Deck Building, Rome, but would you use the Political Sim tag? The card battle simulates a debate in the Roman Senate, but in this tag I would expect something very different from what the game is and will be. Also worth mentioning, for now it only shows the core of the game (senate debate/card battle), however it will include a whole map of Rome with events & decisions you build your deck. If anyone interested on more info, you'll find more in te Steam description: https://store.steampowered.com/app/4094470/Senatus/ submitted by /u/alejandro_penedo [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qlkzr6/ff9_tetra_masters_but_you_are_a_roman_senator/",
+      "author": "/u/alejandro_penedo",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T12:18:00.474449"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qlky31",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Shots from The Sphinx Teaser",
+      "content": "submitted by /u/Repulsive-Fix-5117 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qlky31/shots_from_the_sphinx_teaser/",
+      "author": "/u/Repulsive-Fix-5117",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T12:18:00.474455"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qll9f5",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Softbody performance",
+      "content": "is the softbody3d node safe to use for clothes in terms of performance? for example the bottom of my character's coat needs to move when the player is moving around submitted by /u/Secure_Hospital7199 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qll9f5/softbody_performance/",
+      "author": "/u/Secure_Hospital7199",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T12:18:00.474484"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qll77f",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "In Development Resources Are Not Loading",
+      "content": "Hey guys, this is not a \"build\" problem I started facing this issue in the development. I have this resource: extends Resource class_name CardData (\"Meta\") var card_id: CardConstants.Cards # unique ID for this card (e.g., \"fireball_01\") (\"UI\") var card_name: String = \"Card Name\" var card_description: String = \"Card Description\" var card_texture: Texture2D and I when I try to use it with this script: extends Node2D var cardData: CardData func _ready() -> void: print(cardData.card_name) I get <null> why is the engine not loading the resource? and yes i have a cardData resource attached to the node submitted by /u/TheFirst1Hunter [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qll77f/in_development_resources_are_not_loading/",
+      "author": "/u/TheFirst1Hunter",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T12:18:00.474500"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qlkw4g",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Is a greyscale OK ?",
+      "content": "submitted by /u/ErasorOff [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qlkw4g/is_a_greyscale_ok/",
+      "author": "/u/ErasorOff",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T12:18:00.474544"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qlkwfo",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Hello would someone like to try my demo out?",
+      "content": "https://relaxygenstudios.itch.io/legend-of-the-coin-knight submitted by /u/Unable_Bumblebee7241 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qlkwfo/hello_would_someone_like_to_try_my_demo_out/",
+      "author": "/u/Unable_Bumblebee7241",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T12:18:00.474600"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qllix4",
+      "type": "search",
+      "subreddit": "Referral",
+      "title": "Bitvavo – 50 EUR in BTC for 20 EUR deposit (EU, Norway, Switzerland)",
+      "content": "https://preview.redd.it/di3kzl5ehafg1.png?width=1971&format=png&auto=webp&s=b72fb2994db13437db8ca7ec005f97c026bcef4a Bitvavo is a leading European cryptocurrency exchange headquartered in Amsterdam, the Netherlands, where it was founded in 2018. The platform is officially regulated under the EU's MiCAR framework and is supervised by the Dutch Authority for the Financial Markets (AFM), ensuring high standards of security and transparency for its millions of users. STEPS Register with my code on the sign up page: EE39EC01E1 After pasting the code in press APPLY . Make sure you see the \" Get €50 in BTC ...\" text. Do the KYC with ID + selfie. Deposit at least 20 EUR. Your account will be instantly credited with 50 EUR in BTC. REMARKS SEPA transfer from Revolut / banks from / to your Bitvavo account is instant. You can withdraw your 20 EUR deposit at any time. Eligible countries: all EU states + Norway + Switzerland If you have more questions or need a new code because all spots are filled, write a comment or DM me submitted by /u/LuminousAviator to r/Referral [link] [comments]",
+      "link": "https://www.reddit.com/r/Referral/comments/1qllix4/bitvavo_50_eur_in_btc_for_20_eur_deposit_eu/",
+      "author": "/u/LuminousAviator",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T12:18:00.475623"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qllgen",
+      "type": "search",
+      "subreddit": "OkBuddySharkCard",
+      "title": "This post made me dark",
+      "content": "made me dark and gritty all over my screen from how tuff it is submitted by /u/Pipesforwater to r/OkBuddySharkCard [link] [comments]",
+      "link": "https://www.reddit.com/r/OkBuddySharkCard/comments/1qllgen/this_post_made_me_dark/",
+      "author": "/u/Pipesforwater",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T12:18:00.476956"
     }
   ],
-  "last_updated": "2026-01-24T11:36:50.146991"
+  "last_updated": "2026-01-24T12:19:50.121189"
 }
