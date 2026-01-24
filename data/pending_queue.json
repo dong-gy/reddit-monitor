@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qit3tp",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "We've just started the next beta for Defold 1.12.1",
-      "content": "submitted by /u/PabloTitan21 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qit3tp/weve_just_started_the_next_beta_for_defold_1121/",
-      "author": "/u/PabloTitan21",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T09:21:19.582345"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qisx1h",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "At what point in your journey did Imposter Syndrome hit you?",
-      "content": "For me, it’s hitting me exactly right now. submitted by /u/wolfbloodiso [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qisx1h/at_what_point_in_your_journey_did_imposter/",
-      "author": "/u/wolfbloodiso",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T09:21:19.582368"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedesign/t3_1qit0q1",
-      "type": "post",
-      "subreddit": "gamedesign",
-      "title": "How are support character/class designed and how do you make them fun to play?",
-      "content": "Support classes are fun to play personally for me; however, some supports are absolutely boring to play especially if they are just clicking buttons to heal and are given a weapon as an afterthought so this got me thinking. How do you make supports fun? and what are some good examples? Any genre counts especially if it's a PvE but PvP is good as well. submitted by /u/DocSlayingyoudown [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedesign/comments/1qit0q1/how_are_support_characterclass_designed_and_how/",
-      "author": "/u/DocSlayingyoudown",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T09:21:19.582442"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qit5fj",
       "type": "search",
       "subreddit": "XboxGamePass",
@@ -15251,7 +15215,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-24T07:37:39.597906"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qlhasz",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Super Alloy Crush – We tried the Demo",
+      "content": "submitted by /u/IndieGamesDevel [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlhasz/super_alloy_crush_we_tried_the_demo/",
+      "author": "/u/IndieGamesDevel",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T08:13:23.635546"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qlh29w",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "650 wishlists in one day without any promo! Are these real wishlists?",
+      "content": "Recently we finally got all our things ready for the Steampage for a Game of Chaess. We have not yet done any promo, because we are still finalizing things for the alpha build. To be honest, I did not even know we were going \"live\". I had gathered about 25 wishlists and suddenly today I see +680 Wishlist (and -30 deletions). Apparently because it's now visible in the store. Well, I'm really happy with that! But when I look at the Wishlist breakdown from countries : I see Belarus, China, Russia and Argentina in the top. These countries (except) Argentina do like Chess, but are also kind of known for spam. I'm just a little sceptical of this sudden popularity for a chessgame, I suppose. submitted by /u/Brilliant_Feed4158 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qlh29w/650_wishlists_in_one_day_without_any_promo_are/",
+      "author": "/u/Brilliant_Feed4158",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T08:13:23.635626"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qlh6km",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Why is it beingprinted two times?",
+      "content": "I am trying to make a chess game and as you can see when i press a square the code gets printed say 2 or 3 times instead of once. Every chessboard has an area node with the same script extends Area3D u/onready var p = self.get_parent() func _input_event(camera: Camera3D, event: InputEvent, event_position: Vector3, normal: Vector3, shape_idx: int) -> void: if Input.is_action_pressed(\"Press\"): print(p.name) # Called when the node enters the scene tree for the first time. func _ready() -> void: pass # Replace with function body. # Called every frame. 'delta' is the elapsed time since the previous frame. func _process(delta: float) -> void: pass submitted by /u/Rude-Statistician197 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qlh6km/why_is_it_beingprinted_two_times/",
+      "author": "/u/Rude-Statistician197",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T08:13:23.635677"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qlh2yo",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Rotating the enemy to look where it's going?",
+      "content": "I feel like i've already solved this problem, but nothing works. I've got an enemy node, which has a navigation agent used to follow the player or to run away from it. The original solution was used in the follow state, i think back then it worked, but without touching anything it stopped working. What i need is being able to make the enemy look where it's going (NOT the player) I've tried: LookAt(): didn't work with stuff like (enemy.globalpos + velocity/direction) AND there's no easing/interpolation/lerp Globaltransform.lookingat(): still didn't work with the correct direction Enemy.rotation: same as previous Enemy.rotate: i don't remember what the problem was but it didn't work There was also another solution i found but it rotated the enemy in different axis submitted by /u/mentina_ [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qlh2yo/rotating_the_enemy_to_look_where_its_going/",
+      "author": "/u/mentina_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T08:13:23.635711"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlhar4",
+      "type": "search",
+      "subreddit": "coolgithubprojects",
+      "title": "a sandbox game on github",
+      "content": "https://github.com/jason1015-coder/TesselBox welocme contributors submitted by /u/Sufficient_Spare6894 to r/coolgithubprojects [link] [comments]",
+      "link": "https://www.reddit.com/r/coolgithubprojects/comments/1qlhar4/a_sandbox_game_on_github/",
+      "author": "/u/Sufficient_Spare6894",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T08:13:23.635860"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qlhag6",
+      "type": "search",
+      "subreddit": "reading",
+      "title": "Based on previous feedback, i've made a new poster for my weekly The Hangout \"3rd space\" every Wednesday at the Pentahotel. Feeback welcome :)",
+      "content": "It's every wednesday, 18:30 ish to about 21:30 ish (we've stayed past midnight before). We mostly just do exactly as mentioned, Hangout, chat a load of nonsense and play some games. Think of it as an escape from both work and home, a place to unwind and get around a load of friendly people. I bring some board games and my Switch for Mario Kart but feel free to bring anything along you want to play or even do a show and tell for lol. The event this week: https://www.meetup.com/people-of-reading-rg/events/312978158 Hopefully see you this wednesday :) Sharpy submitted by /u/SharpyRG13 to r/reading [link] [comments]",
+      "link": "https://www.reddit.com/r/reading/comments/1qlhag6/based_on_previous_feedback_ive_made_a_new_poster/",
+      "author": "/u/SharpyRG13",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-24T08:13:23.635880"
     }
   ],
-  "last_updated": "2026-01-24T07:39:20.899204"
+  "last_updated": "2026-01-24T08:15:12.713628"
 }
