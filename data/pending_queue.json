@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qjrwpn",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Going Throw It With Mirumi : The Rage Game",
-      "content": "https://preview.redd.it/vu25ooynwveg1.png?width=1201&format=png&auto=webp&s=e4d8e42a7f51ec18773c6e5e95d31e59ec586212 submitted by /u/Clear-Environment907 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qjrwpn/going_throw_it_with_mirumi_the_rage_game/",
-      "author": "/u/Clear-Environment907",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T11:41:51.442831"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qjsbvy",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "CGI Showreel 2026 | Unreal Engine 5",
-      "content": "submitted by /u/Visual_Xception [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qjsbvy/cgi_showreel_2026_unreal_engine_5/",
-      "author": "/u/Visual_Xception",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T11:41:51.442838"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjs36w",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Going Throw It With Mirumi : The Rage Game",
-      "content": "submitted by /u/Clear-Environment907 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjs36w/going_throw_it_with_mirumi_the_rage_game/",
-      "author": "/u/Clear-Environment907",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T11:41:51.442844"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjs0ah",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -16631,7 +16595,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-25T19:08:47.882661"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmsjgd",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Added a Whip to my game, it went Viral on Tiktok",
+      "content": "Steam Page: https://store.steampowered.com/app/3345570/MAD_TOYS/ submitted by /u/Desert-Knight [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmsjgd/added_a_whip_to_my_game_it_went_viral_on_tiktok/",
+      "author": "/u/Desert-Knight",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T19:34:04.273265"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmsgjo",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Added a Slave to my game MAD TOYS, it went viral on Tiktok",
+      "content": "Steam Page: https://store.steampowered.com/app/3345570/MAD_TOYS/ Note: i do not approve of taking someones freedom slavery is wrong. submitted by /u/Desert-Knight [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmsgjo/added_a_slave_to_my_game_mad_toys_it_went_viral/",
+      "author": "/u/Desert-Knight",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T19:34:04.273279"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmscl0",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The middle-ground",
+      "content": "after reading the feedback from my last post, i realized that most people asked for a middle-ground between the 2 versions, what do you think? submitted by /u/Total_Impression_382 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmscl0/the_middleground/",
+      "author": "/u/Total_Impression_382",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T19:34:04.273288"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmsur9",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Back From Hiatus and ready to Spin The Wheel!",
+      "content": "I had to take a hiatus from game dev for a bit, but I'm back and ready to return to weekly updates! To kick off my return, I stopped procrastinating and finally moved my game to GitHub so I could have proper version control and backups. I also have reworked the tile system for the game. Originally, maps consisted of a start and end tile, with 3 rows of 5 tiles in between. All of the connections between tiles were also hard-coded. Now, paths can be randomized without any hard-coding (with the exception of the start/end tiles since both of those should always connect to the start/end of the paths between them). I also added in an arrow to visualize which way a tile leads so players can plan their routing more strategically. submitted by /u/TheOGRG [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmsur9/back_from_hiatus_and_ready_to_spin_the_wheel/",
+      "author": "/u/TheOGRG",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T19:34:04.273365"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmsgnz",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Hiya! Coming over from unity (storage issues and I only just started) should I use gdscript or c#?",
+      "content": "Title says it all submitted by /u/ChaosCreatorLord [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmsgnz/hiya_coming_over_from_unity_storage_issues_and_i/",
+      "author": "/u/ChaosCreatorLord",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T19:34:04.273422"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmsnfv",
+      "type": "search",
+      "subreddit": "csMajors",
+      "title": "Question regarding this data structures course as an IT major",
+      "content": "Is this data structures course actually a DSA course? Just curious. I am an information technology major that is interested in the fields of game dev/game design, computer graphics, VR and creative software engineering. So, I am studying math course (calculus I-II, Linear Algebra & Matrix Theory, Discrete Structures, Probability & Statistics, Algebra & Trig I-II), design courses (Graphics Design I for Technical Design & User Experience, Design Technology) and programming courses (OOP Python, Applied Java + OPP, and the data structures course w/ C++). submitted by /u/Azriel_Noir to r/csMajors [link] [comments]",
+      "link": "https://www.reddit.com/r/csMajors/comments/1qmsnfv/question_regarding_this_data_structures_course_as/",
+      "author": "/u/Azriel_Noir",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T19:34:04.274494"
     }
   ],
-  "last_updated": "2026-01-25T19:10:39.125695"
+  "last_updated": "2026-01-25T19:35:59.717899"
 }
