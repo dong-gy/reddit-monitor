@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjrqas",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Double Play Riddles",
-      "content": "WARNING: This will change how you look (at letters lol). In Double Play , you can change a↔️e, b↔️q, c↔️o, and so on. Solve today’s riddle in seconds — then drop your answer in the comments (spoiler tags: like this ) https://www.reddit.com/r/doubleplayriddles/comments/1qjeumh/double_play_riddle_22_january_22_2026/ submitted by /u/playdoubleplay [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjrqas/double_play_riddles/",
-      "author": "/u/playdoubleplay",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T11:14:32.984227"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjrp8s",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Revisiting an old game project trying to expand on it",
-      "content": "submitted by /u/Solidduty [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjrp8s/revisiting_an_old_game_project_trying_to_expand/",
-      "author": "/u/Solidduty",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T11:14:32.984251"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qjrpgm",
       "type": "post",
       "subreddit": "godot",
@@ -16571,7 +16547,115 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-25T18:14:45.068717"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qmrcfv",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "What's a good safety net study in case I can't get in the industry ?",
+      "content": "Hey ! I'm a university student who just finished a major in video games where we learned a bit of everything and a minor in marketing. A dream of mine would be to open up my own studio but, obviously, that's not super realistic right now. Just getting a job seems hardly possible. Which brings me to my point, I'd like to get into a new program that would : -Give me usefull skills for a game dev career but also -Open up a career path outside of the games industry in the worst case scenario For now I've been looking at project management, more publicity stuff, administration etc. So what do you think ? What would be the best thing I could study to get me a good safety net ? submitted by /u/BlexterYT [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qmrcfv/whats_a_good_safety_net_study_in_case_i_cant_get/",
+      "author": "/u/BlexterYT",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T18:49:28.094449"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmr7yo",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Cooler Goblin",
+      "content": "https://preview.redd.it/4lfop4jqhjfg1.png?width=1280&format=png&auto=webp&s=bdc394b9c951a3661cefb627ff52acdc78853a30 submitted by /u/RevealApprehensive53 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmr7yo/cooler_goblin/",
+      "author": "/u/RevealApprehensive53",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T18:49:28.094470"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmqrk3",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Added Arc Trajectory to Our Pickup Throw Object, feedback are welcome",
+      "content": "submitted by /u/Thevestige76 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmqrk3/added_arc_trajectory_to_our_pickup_throw_object/",
+      "author": "/u/Thevestige76",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T18:49:28.094516"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmrj70",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Find the Differences 3D on Steam finally! Our first 3D puzzle game",
+      "content": "https://store.steampowered.com/app/3753590/Find_the_Differences_3D/ submitted by /u/bal_akademi [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmrj70/find_the_differences_3d_on_steam_finally_our/",
+      "author": "/u/bal_akademi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T18:49:28.094530"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmrelt",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My Brodot plush arrived",
+      "content": "submitted by /u/ab_plus_ [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmrelt/my_brodot_plush_arrived/",
+      "author": "/u/ab_plus_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T18:49:28.094578"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmqr0x",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Discord RPC Plugin stops working after a while?",
+      "content": "When i installed the plugin it worked, but apparently only when i refreshed it for the first time (in the _ready() function) but would stop working right after, updating nothing, and after opening the game for 5(?) times the RPC would just stop working. The Plugin in question: https://godotengine.org/asset-library/asset/1968 submitted by /u/NikoTheCoolGuy [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmqr0x/discord_rpc_plugin_stops_working_after_a_while/",
+      "author": "/u/NikoTheCoolGuy",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T18:49:28.094591"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmqwe6",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "What is better?",
+      "content": "Day OR Night submitted by /u/Rare-Direction9506 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmqwe6/what_is_better/",
+      "author": "/u/Rare-Direction9506",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T18:49:28.094666"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmqvpp",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "I built a real life room cleanup game for kids & parents: TIDY UP!",
+      "content": "submitted by /u/legion_commanderr [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmqvpp/i_built_a_real_life_room_cleanup_game_for_kids/",
+      "author": "/u/legion_commanderr",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T18:49:28.094672"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmr7uv",
+      "type": "search",
+      "subreddit": "Trophies",
+      "title": "[Ghost of Tsushima] - Platinum number 4 (second for the year)",
+      "content": "submitted by /u/Mukomana_ to r/Trophies [link] [comments]",
+      "link": "https://www.reddit.com/r/Trophies/comments/1qmr7uv/ghost_of_tsushima_platinum_number_4_second_for/",
+      "author": "/u/Mukomana_",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T18:49:28.094885"
     }
   ],
-  "last_updated": "2026-01-25T18:16:33.880897"
+  "last_updated": "2026-01-25T18:51:11.218077"
 }
