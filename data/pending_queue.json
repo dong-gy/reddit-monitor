@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjlwuf",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I built a self-balancing ragdoll in Unity using physics + procedural animation, not sure what to do now.. thoughts?",
-      "content": "submitted by /u/Rudy_AA [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjlwuf/i_built_a_selfbalancing_ragdoll_in_unity_using/",
-      "author": "/u/Rudy_AA",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:50:05.985403"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjly58",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Custom Engine Art Pipeline",
-      "content": "Made a nice pipeline for my custom engine to pump out game art efficiently! https://youtu.be/brbSq54dGI8 submitted by /u/x8664mmx_intrin_adds [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjly58/custom_engine_art_pipeline/",
-      "author": "/u/x8664mmx_intrin_adds",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:50:05.985415"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjlxdp",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I built a self-balancing ragdoll in Unity using physics + procedural animation, not sure what to do now.. thoughts?",
-      "content": "submitted by /u/Rudy_AA [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjlxdp/i_built_a_selfbalancing_ragdoll_in_unity_using/",
-      "author": "/u/Rudy_AA",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:50:05.985422"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjlo2k",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Yes that’s right, I made an incredible niche and free game because I like money.",
-      "content": "submitted by /u/Deklaration [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjlo2k/yes_thats_right_i_made_an_incredible_niche_and/",
-      "author": "/u/Deklaration",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:50:05.985447"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjmd8q",
-      "type": "search",
-      "subreddit": "OPBR",
-      "title": "So I guess 14 support characters is coming?",
-      "content": "I've been seeing this weird spacing, I'm guessing there gonna make it 14 support characters. So if 178% is max for rgb for 10 support characters. That adds up to 17.8% per character if 4 star boost 4. That'd push rgb to roughly 244% support on a maxed account. On light and dark elements it push it past 260% easy. I'm not sure if this is a good change since the disparity between New players and old players will be huge. It will probably make rerolling less viable since the gap is to much. Have yall seen this too? Or is my game glitching ? submitted by /u/Civil-Understanding5 to r/OPBR [link] [comments]",
-      "link": "https://www.reddit.com/r/OPBR/comments/1qjmd8q/so_i_guess_14_support_characters_is_coming/",
-      "author": "/u/Civil-Understanding5",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:50:05.986597"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjm6z7",
-      "type": "search",
-      "subreddit": "gamememes",
-      "title": "which game is that,",
-      "content": "submitted by /u/PHRsharp_YouTube to r/gamememes [link] [comments]",
-      "link": "https://www.reddit.com/r/gamememes/comments/1qjm6z7/which_game_is_that/",
-      "author": "/u/PHRsharp_YouTube",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T05:50:05.986789"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qjmr8p",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Am I Using @export To Much",
-      "content": "I was thinking about this and was wondering what others have to say, do I use @export to much and what is are downside of using it. I like having the ability to control variables for testing and also being able to change stuff dynamically and it appearing in the editor is nice, but like 95% of all my variables are @export. Looking at my current open scripts I got 3/5 2/2 8/8 and 11/11 variables as @export and I'm wondering if that's a lot and I'm weird for it or how others feel. It would also be nice to know if there is any reason why I shouldn't be doing this submitted by /u/DiamondInTheRough429 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qjmr8p/am_i_using_export_to_much/",
-      "author": "/u/DiamondInTheRough429",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T06:17:57.681485"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qjmt7z",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Should anyone start in 2026?",
-      "content": "Hi everyone! I hope it’s okay to ask this here. I’m currently at a major turning point in my life. I’ve worked as a restaurant manager for over 10 years, coordinating large teams, but I feel like it’s time for a change. I’ve been thinking about starting a Unity course, however I should be clear that my programming knowledge is basically zero. How realistic is it to get into Unity development in 2026? I’m genuinely interested in it, but of course job opportunities are a big factor as well. My English is at a high level, so that’s not an issue. Thanks a lot for your time and any advice! submitted by /u/No_Ozi [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qjmt7z/should_anyone_start_in_2026/",
-      "author": "/u/No_Ozi",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T06:17:57.681564"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qjmjxh",
       "type": "search",
       "subreddit": "gamecollecting",
@@ -15815,7 +15719,127 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-25T11:08:25.090233"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmgp6x",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We got chess pieces going through 🌀Portals🌀!!♟️",
+      "content": "Quite a fun mechanic with a lot of twists. Wishlist on Steam 👉 https://store.steampowered.com/app/4297910/Chess_Tales/ submitted by /u/IRGStudios [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmgp6x/we_got_chess_pieces_going_through_portals/",
+      "author": "/u/IRGStudios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:35:40.863894"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmgq2k",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Symbiosis - early incremental open for teaser",
+      "content": "submitted by /u/Brehmdig [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmgq2k/symbiosis_early_incremental_open_for_teaser/",
+      "author": "/u/Brehmdig",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:35:40.863919"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmgkrs",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Late-night campfire vibes",
+      "content": "a camp near the mine where workers can rest before their shift. This location is also key to the plot, as the prologue ends after it. submitted by /u/OlympStudio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmgkrs/latenight_campfire_vibes/",
+      "author": "/u/OlympStudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:35:40.863928"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmgluy",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Newest level of my upcoming game",
+      "content": "submitted by /u/Jeheno [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmgluy/newest_level_of_my_upcoming_game/",
+      "author": "/u/Jeheno",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:35:40.863968"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmgux7",
+      "type": "search",
+      "subreddit": "LoudlyGreasy",
+      "title": "Dogcom Promo Codes | 30% Off January 2026 Coupons",
+      "content": "Use the Dog coupon code in January 2026 . There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/flakyanemian to r/LoudlyGreasy [link] [comments]",
+      "link": "https://www.reddit.com/r/LoudlyGreasy/comments/1qmgux7/dogcom_promo_codes_30_off_january_2026_coupons/",
+      "author": "/u/flakyanemian",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:35:40.864851"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmgur3",
+      "type": "search",
+      "subreddit": "SpottedUprising",
+      "title": "Backlinks Indexer Promo Codes | 30% Off January 2026 Coupons",
+      "content": "Use the Backlinks Indexer coupon code in January 2026 . There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/cageyadages to r/SpottedUprising [link] [comments]",
+      "link": "https://www.reddit.com/r/SpottedUprising/comments/1qmgur3/backlinks_indexer_promo_codes_30_off_january_2026/",
+      "author": "/u/cageyadages",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:35:40.865169"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmguix",
+      "type": "search",
+      "subreddit": "nintendeen",
+      "title": "Super Mario Wonder upgrade talk",
+      "content": "If you ignore what he says, this almost serves as an advertisement for the base game. I understand his arguments and concern. And he's not the first person to worry about this, he's just the most known. If you're getting a Switch 2, I believe you need to be OK with paying 70 or 80 dollars a game. If you're a Nintendo fan who bought Amiibos, you're basically already there. I think it'll take time for other Nintendo fans to make that jump, they'll just be whining through the process. submitted by /u/paulcshipper to r/nintendeen [link] [comments]",
+      "link": "https://www.reddit.com/r/nintendeen/comments/1qmguix/super_mario_wonder_upgrade_talk/",
+      "author": "/u/paulcshipper",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:35:40.865416"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmgrkm",
+      "type": "search",
+      "subreddit": "SteamDeck",
+      "title": "Boosteroid on Deck <3",
+      "content": "Hey there fellow deck enjoyers. After I could not find a single good setup guide for boosteroid, I googled a bit and found this article https://steamdeckhq.com/news/nonsteamlaunchers-hits-4-0-with-new-programs/ This is the non Steam launcher and I can perfectly setup boosteroid! Controls are function as they should, I was already signed in (did it before in edge) and when you launch a game, in the right side you can adjust your Bitrate to a maximum of 80mbps! Games run flawlessly now! Credits to the script maker and Steam deck hq! submitted by /u/National-Ad4224 to r/SteamDeck [link] [comments]",
+      "link": "https://www.reddit.com/r/SteamDeck/comments/1qmgrkm/boosteroid_on_deck_3/",
+      "author": "/u/National-Ad4224",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:35:40.865503"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmgplb",
+      "type": "search",
+      "subreddit": "xbox",
+      "title": "Fable lets you enter and even buy any building in its world because that was one of the \"requirements that we took from the original games,\" dev says",
+      "content": "submitted by /u/Cold_Two_4372 to r/xbox [link] [comments]",
+      "link": "https://www.reddit.com/r/xbox/comments/1qmgplb/fable_lets_you_enter_and_even_buy_any_building_in/",
+      "author": "/u/Cold_Two_4372",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:35:40.865695"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmgp1f",
+      "type": "search",
+      "subreddit": "Planetside",
+      "title": "Planetside 3 / Ps2 reboot?",
+      "content": "Is there any news about planetside 3? I love this game so much but since it's outdated it doesn't have that much traction. To be honest this game would be super popular if people knew more about it since the gameplay is so much fun being a massive battle between many players. I lowkey think that just an entire reboot would even be better than making a new planetside. Not sure how, maybe just by increasing the quality of graphics(idk i like og graphics) or just making the game overall smoother. More guns(?) I have no clue what would reignite the games popularity... it's just such a good game and wish more people would play it... submitted by /u/fluxanimations to r/Planetside [link] [comments]",
+      "link": "https://www.reddit.com/r/Planetside/comments/1qmgp1f/planetside_3_ps2_reboot/",
+      "author": "/u/fluxanimations",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T11:35:40.866009"
     }
   ],
-  "last_updated": "2026-01-25T11:10:03.453910"
+  "last_updated": "2026-01-25T11:37:34.981284"
 }
