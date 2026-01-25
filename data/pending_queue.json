@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qj6z3e",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Minivan internals view of my game about survival on the road.",
-      "content": "submitted by /u/_Paracorn_ [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qj6z3e/minivan_internals_view_of_my_game_about_survival/",
-      "author": "/u/_Paracorn_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T19:47:48.770522"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qj835a",
-      "type": "search",
-      "subreddit": "SaGa",
-      "title": "Keep going?",
-      "content": "I recently played through Romancing Saga 2 and thought it was one of the best games ever made But 3 isn’t clicking with me, I think it’s because it doesn’t have the generation system (which I know is pretty much just in 2). Without that system the light story kinda bores me, should I try the other games or are they all pretty light in story overall? submitted by /u/Manwitnovoice to r/SaGa [link] [comments]",
-      "link": "https://www.reddit.com/r/SaGa/comments/1qj835a/keep_going/",
-      "author": "/u/Manwitnovoice",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-21T19:47:48.771666"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qj820g",
       "type": "search",
       "subreddit": "CODZombies",
@@ -16463,7 +16439,151 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-25T03:06:40.379521"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qm8o87",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Defiant RPG 2020 PDF vs 2022 Hard Copy",
+      "content": "Hello. I had originally posted this in the RPGs Subredit but got no answers. It was suggested i repost this here. I would like to run a Defiant game for some friends. I have a physical book published in 2022. One of my players (who lives on the other side of the continent) has a PDF published in 2020 and is labled the \"old version\" in the file name. I am assuming there are some differences between these but do not want to do a side by side comparison of 600 pages. Does anyone know of any differences? submitted by /u/auraseer11 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qm8o87/defiant_rpg_2020_pdf_vs_2022_hard_copy/",
+      "author": "/u/auraseer11",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T04:33:43.965044"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qm8lvt",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "[For Hire] CHARACTER ARTIST FOR HIRE! Hello, I'm a character artist looking to serve my work in this scene. Thanks guys for looking! Feel free to DM me! :))",
+      "content": "Heya! Name's Jegsuuu. I want to share some of my personal character designs and commissioned work! I enjoy creating visual representations of characters and designing them from scratch! Discord: .jegsuuu Instagram: https://www.instagram.com/jegsuuu/ submitted by /u/ShinyDugong [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qm8lvt/for_hire_character_artist_for_hire_hello_im_a/",
+      "author": "/u/ShinyDugong",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T04:33:43.965062"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qm8kam",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Hollow Knight",
+      "content": "Is it possible to remake Hollow Knight in Godot? submitted by /u/Alecx2111 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qm8kam/hollow_knight/",
+      "author": "/u/Alecx2111",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T04:33:43.965086"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qm84xq",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Progress continues...actually building gameplay now. It's an...ambitious project.",
+      "content": "Step by step...coding phased gameplay now. It's kind of exciting to see stuff start to move. submitted by /u/gman55075 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qm84xq/progress_continuesactually_building_gameplay_now/",
+      "author": "/u/gman55075",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T04:33:43.965125"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qm95xp",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Check out Reverse Horizons on Steam",
+      "content": "submitted by /u/Aggravating-Aerie-16 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qm95xp/check_out_reverse_horizons_on_steam/",
+      "author": "/u/Aggravating-Aerie-16",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T04:33:43.965133"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qm8tf5",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "How Do I Make it use the current scene/next scene in the build index, as opposed to a specific scene.",
+      "content": "doing this will make the overall scene transitions much easier, i just cant figure it out though submitted by /u/kitchentablestudios [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qm8tf5/how_do_i_make_it_use_the_current_scenenext_scene/",
+      "author": "/u/kitchentablestudios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T04:33:43.965142"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qm92ie",
+      "type": "search",
+      "subreddit": "EU5",
+      "title": "I made a Holy Order as Swiss and now I'm stuck in an indefinite Interregnum because the game set me to an Admiral Election for some reason. I can't change my succession law because I'm stuck in a regency and I can't get an admiral because I'm landlocked Switzerland. What do I do? Am I softlocked?",
+      "content": "Image 1: Showing Election type. Image 2: Showing Succession Law. Image 3: Showing Regency. submitted by /u/TheChangelingKing to r/EU5 [link] [comments]",
+      "link": "https://www.reddit.com/r/EU5/comments/1qm92ie/i_made_a_holy_order_as_swiss_and_now_im_stuck_in/",
+      "author": "/u/TheChangelingKing",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T04:33:43.965712"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qm87nq",
+      "type": "search",
+      "subreddit": "MurderMystery",
+      "title": "What's a murder mystery theme you would love to play, but haven't ever seen before?",
+      "content": "I run MystifyMysteries.com I have a few new games in development. But I would love to create something that someone else has always wanted to play and upload it to our app. What's a murder mystery game you've always thought would be great, but haven't located? I'll create the game and upload it to our site. I'll give you a code to play the game for free and I'll just leave it there for others to purchase in the future. At Mystify, our games have no downloading or printing. It's all done through the web app. submitted by /u/MystifyMysteries to r/MurderMystery [link] [comments]",
+      "link": "https://www.reddit.com/r/MurderMystery/comments/1qm87nq/whats_a_murder_mystery_theme_you_would_love_to/",
+      "author": "/u/MystifyMysteries",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T04:33:43.966400"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qm97b0",
+      "type": "search",
+      "subreddit": "NameThatSong",
+      "title": "\"Spend the night/don't hit rewind/just spend the night\"",
+      "content": "I keep getting an ad on YouTube that features a song in the background with the lyrics in the title. It's a woman singing, it's a bit poppy, with a bit of bounce, but lowkey and chill at the same time. Since it's in an ad I'm guessing it's probably from a sound library of some kind, so I don't know if anyone will have any idea what it is. But I really like the vibe of it. (If it helps, the ad it's in is for the Chinese dating sim/gacha game Love & Deepspace. But I'm sure the American ads are made by some ad studio, not the devs.) submitted by /u/songofafreeheart to r/NameThatSong [link] [comments]",
+      "link": "https://www.reddit.com/r/NameThatSong/comments/1qm97b0/spend_the_nightdont_hit_rewindjust_spend_the_night/",
+      "author": "/u/songofafreeheart",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T04:33:43.967390"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qm92ae",
+      "type": "search",
+      "subreddit": "plsdonategame",
+      "title": "Please give me money (its for a good reason)",
+      "content": "Need to pay devs for my game but im short on cash, any donos would be appreciated User: YOURSAFETY609 submitted by /u/realluckylol to r/plsdonategame [link] [comments]",
+      "link": "https://www.reddit.com/r/plsdonategame/comments/1qm92ae/please_give_me_money_its_for_a_good_reason/",
+      "author": "/u/realluckylol",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T04:33:43.967438"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qm90l5",
+      "type": "search",
+      "subreddit": "gameDevClassifieds",
+      "title": "Composer [for hire]",
+      "content": "Hi, I'm Nick from Chicago! If you're a small team or solo dev with a modest budget, but big dreams, I'm likely a good fit. Portfolio I've composed for RPG's, mobile games, game jams, and would love to work on a 3D platformer like A Corgi's Cozy Hike (shown in video). Cheers submitted by /u/reddye40 to r/gameDevClassifieds [link] [comments]",
+      "link": "https://www.reddit.com/r/gameDevClassifieds/comments/1qm90l5/composer_for_hire/",
+      "author": "/u/reddye40",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T04:33:43.967450"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qm8zwp",
+      "type": "search",
+      "subreddit": "nintendeen",
+      "title": "Just gonna leave this here",
+      "content": "submitted by /u/knightofthewind2 to r/nintendeen [link] [comments]",
+      "link": "https://www.reddit.com/r/nintendeen/comments/1qm8zwp/just_gonna_leave_this_here/",
+      "author": "/u/knightofthewind2",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T04:33:43.967483"
     }
   ],
-  "last_updated": "2026-01-25T03:08:23.959466"
+  "last_updated": "2026-01-25T04:36:06.501872"
 }
