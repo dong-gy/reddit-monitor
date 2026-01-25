@@ -1,174 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qjnvpn",
-      "type": "search",
-      "subreddit": "pcmasterrace",
-      "title": "Should I buy this Prebuild",
-      "content": "https://preview.redd.it/aytd8oijpueg1.png?width=1600&format=png&auto=webp&s=6210eedccd17e6b6f991a8809fdcc8bd7ad01e18 I found this prebuild, is it worth? If yes, is it worth to take the 5070ti ( 150$+ ) or should I stick with the RX 9070XT? https://costplusgaming.com/products/a1-arctic?variant=51702034596114 submitted by /u/Dangerous-Meet9169 to r/pcmasterrace [link] [comments]",
-      "link": "https://www.reddit.com/r/pcmasterrace/comments/1qjnvpn/should_i_buy_this_prebuild/",
-      "author": "/u/Dangerous-Meet9169",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T07:21:22.736112"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjnts0",
-      "type": "search",
-      "subreddit": "Smite",
-      "title": "Smite 2 Health Bars",
-      "content": "I’m just wondering if anyone else wants to be able to set their health bar default look to smite 1 health bars? Because tbh I kind of really don’t like smite 2’s health bars.. they just don’t satisfy me as much to look at when I’m killing an enemy. I’m sure there’s a way the devs could give us a customization option for the combat stuff, PLEASEEE🙏. I’m a huge fan of this game, and I just would love if they did this for us. submitted by /u/Peppermintblade to r/Smite [link] [comments]",
-      "link": "https://www.reddit.com/r/Smite/comments/1qjnts0/smite_2_health_bars/",
-      "author": "/u/Peppermintblade",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T07:21:22.736702"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qjo1zu",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "My DIY capsule art so far has a ~21 % CTR. Should I still spend $500 on a professional illustration?",
-      "content": "Just yesterday, I launched my first steam page for my hard sci-fi roguelike ( Pilot 6174 ). Think HighFleet meets KSP . Currently, my capsule art is just a 3D render of the in-game cockpit. I chose this route as I wanted to focus on the \"Simulation / Diegetic UI\" aspect that defines the genre. Here is my data (~24 hours since page launch) Wishlists: ~ 50 (With any wishlists from family / friends / associates subtracted.) CTR (Coming Soon List): 21.43% (Although very small sample size) Page Conversion Rate: ~19% ( page visits divided by wishlist count ) The Question: I have heard (from this sub and others) that for the steam capsule art I really should hire a professional illustrator. However, considering my target audience is simulation fans, who often prefer fidelity/tech over stylized art, I'm wondering if sticking with the 3D render might be better. Does this current art look \"professional enough\" for the genre? For context I am both the project's developer and artist, everything you see was modeled in blender and rendered in Godot 4. submitted by /u/kotgedev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qjo1zu/my_diy_capsule_art_so_far_has_a_21_ctr_should_i/",
-      "author": "/u/kotgedev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T07:45:49.005310"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qjo5yb",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Hi everyone! I am working on the game named Twisted Ball Pool. Do you find this game interesting? :)",
-      "content": "https://reddit.com/link/1qjo5yb/video/9ymg72m2sueg1/player submitted by /u/Longjumping-Tough581 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qjo5yb/hi_everyone_i_am_working_on_the_game_named/",
-      "author": "/u/Longjumping-Tough581",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T07:45:49.005375"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjodhf",
-      "type": "search",
-      "subreddit": "ThousandSons",
-      "title": "Thoughts and advice on Custom Character.",
-      "content": "Hey y’all! I’m making a custom character for some home games with my friends, and was wondering if I could get advice on any balancing stuff and how many points it would potentially be? Thank you! Astel, Meddler of Fate. M: 10” T: 4 SV: 2+ W: 6 LD: 6+ OC: 2 Ranged Weapons~ Inferno Bolt Pistol- Range: 12”, A: 1, BS: 2+, S: 4, AP: -1 l, D: 1. Keyword-Pistol Arcane Might- >Soul Piercer- Range: 24”, A: 2, BS: 2+, S: 10, AP: -3, D: D6+1. Keywords- Precision, Psychic. >Empyrean Winds- Range: 18”, A: 2d6, BS: N/A, S: 6, AP: -1, D: 2. Keywords- Ignores cover, Psychic, Torrent. Melee Weapons~ Force Weapon- A: 5, WS: 2+, S: 6, AP: -1, D: D3. Keyword- Psychic. Abilities~ Leader: This model can be attached to the following units: Rubric Marines, Tzaangor Enlightened. Invulnerable Save: 4+ Veil of Illusions: While this model is leading a unit, models in that unit have the Stealth and “While this model is leading a unit, that unit can only be selected as the target of a ranged attack if the attacking model is within 18” “. Dangerous Lies: Once per battle, in your opponents Shooting phase or Fight phase, when a enemy Infantry unit within 24” that this model can see is declaring it’s attacks, that unit instead forgoes making its attacks. For each model in that unit, roll a D6, on a roll of 6 that unit takes 1 mortal wound. Rules: Leader, Cabal of Sorcerers, Torrent, Ignores Cover, Psychic, Precision, Pistol. Keywords: Astel, Chaos, Character, Epic Hero, Faction: Thousand Sons, Fly, Infantry, Mounted, Psyker, Tzeentch. submitted by /u/c3nnye to r/ThousandSons [link] [comments]",
-      "link": "https://www.reddit.com/r/ThousandSons/comments/1qjodhf/thoughts_and_advice_on_custom_character/",
-      "author": "/u/c3nnye",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T07:45:49.006719"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjodgh",
-      "type": "search",
-      "subreddit": "MTGRumors",
-      "title": "Isn't Reality Fracture just the Xerex Set, Or Am I Missing Something?",
-      "content": "I feel like Reality Fracture being the set where we travel to the plane of Xerex just makes sense. The MtgWiki for the plane even describes the plane as \" Escherian reality - or physics-bending effects - and kaleidoscopic geometric features.\" Seems very Reality fracture-y to me. I remember Gavin or Mark Rosewater talking years ago about how they were fascinated with the plane when it first appeared on a Plane chase card. The MtgWiki also mentions that Xerex won the player vote for plane featured on a Battle card during MOM that they most wanted to see recieve an actual set. That was in 2023... it takes ≈ 2 years to design a Magic set... what am I missing? I know there was a post about how Reality Fracture includes an innovation that was difficult to implement, but I also remember Gavin or Mark Rosewater mentioning that all cards featuring Xerex are symmetrical by design or something (I honestly don't remember exactly, I'll try to find the video or article source). And just look at the art we do have for Xerex. Xerex Strobe-Knight seems pretty Reality Fracture-y to me. Am I missing something, or is this an open and shut case? Does everyone know this already and I'm late to the game? submitted by /u/Digital_Despot to r/MTGRumors [link] [comments]",
-      "link": "https://www.reddit.com/r/MTGRumors/comments/1qjodgh/isnt_reality_fracture_just_the_xerex_set_or_am_i/",
-      "author": "/u/Digital_Despot",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T07:45:49.006756"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjonuf",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Deckbuilding Roguelike, Master of Piece is coming to Early Access on 4 Feb, 2026!",
-      "content": "submitted by /u/Suspicious-Sir-8346 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjonuf/deckbuilding_roguelike_master_of_piece_is_coming/",
-      "author": "/u/Suspicious-Sir-8346",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T08:16:09.395814"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjoug1",
-      "type": "search",
-      "subreddit": "Gamingcirclejerk",
-      "title": "Which way Western man?",
-      "content": "Too bad them Japanese went woke submitted by /u/Manusiawii to r/Gamingcirclejerk [link] [comments]",
-      "link": "https://www.reddit.com/r/Gamingcirclejerk/comments/1qjoug1/which_way_western_man/",
-      "author": "/u/Manusiawii",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T08:16:09.396599"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjos5r",
-      "type": "search",
-      "subreddit": "resumes",
-      "title": "[1+ YoE , Unemployed , Software Engineer, UAE]",
-      "content": "Can’t beat ATS with this resume , Need improvement ideas and advices. submitted by /u/ThinkSet7135 to r/resumes [link] [comments]",
-      "link": "https://www.reddit.com/r/resumes/comments/1qjos5r/1_yoe_unemployed_software_engineer_uae/",
-      "author": "/u/ThinkSet7135",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T08:16:09.396608"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjoohb",
-      "type": "search",
-      "subreddit": "hytale",
-      "title": "For the people saying that \"they just added old content that already exists in the game\"",
-      "content": "just posting this post from Simon a few days ago where he clarified that alot of the things in the game have been new and wasn't just \"old content\" that they implemented in the game. Most of the updates have been new since then including the Necromancer grimoire which wasn't even planned to be a thing. I really hate that people are trying to downplay the Dev's hardwork. submitted by /u/Luzekiel to r/hytale [link] [comments]",
-      "link": "https://www.reddit.com/r/hytale/comments/1qjoohb/for_the_people_saying_that_they_just_added_old/",
-      "author": "/u/Luzekiel",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T08:16:09.396622"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjou1z",
-      "type": "search",
-      "subreddit": "relationshipproblems",
-      "title": "(F25) Feelings fading for bf (m28) but so attached I feel horrible for feeling this way",
-      "content": "My bf of 4 years and I have been living together for 3.5 years and I am growing resentment for his lifestyle. I am currently in college and working full time, and he is on disability for (fetal alcohol syndrome) borderline personality disorder, and major depressive disorder. He is also receiving a 250k inheritance in a few months so he will have that to live off of. For the first 2 years of our relationship I was unemployed and living off of welfare and was really trying to find myself and get out of my depression. I felt extremely lost. I've luckily found a passion and I'm pursuing it in school and finally found a full time job and a part time job a year ago. Back when I was unemployed, I didn't mind his lifestyle because I could also play video games and relax all day. I deeply connected with him emotionally from the start, we have so much in common except for our ambition. Now that I've been working on myself a lot for the last year I've started becoming worried for our future. I imagined I'd feel this way and I wish I would have left early on before becoming way too attached. We want to have kids in the future, he's amazing at communication and he drives me whenever I need a ride to work/school. He just plays video games, day and night, from the moment he wakes up until he sleeps. He will literally wake up at 8pm and play until I leave for work at 7:30am usually. We do spend 30 minutes or 3 hours together everyday watching a show or something but then it's back to games But we are so happy living together and the intimacy is always perfect. We also have 2 cats and a whole future life imagined. I've communicated that I would really love to see him try to become more productive at least a little bit with time management, so I can feel secure with his reliability for the future, and he replies with \"well as long as im driving you and spending time with you it doesnt matter when I sleep or what I do when you're sleeping or at work\" I've expressed that it would be more attractive to me if I knew he was doing something to help him grow at least in little ways while I'm not around, to not have his whole life revolve around me and video games. This is just something we constantly fight about lately, because he sees it as an attack but I am just expressing that I am happy now, but worried that out mindsets and lifestyles will make us grow apart. I can't imagine leaving him it literally makes me want to throw up but at the same time I am so scared to be a mother who does everything herself while her man is napping cause he gamed all night. How the hell do I make a decision when he truly feels like the love of my life, but he clearly is so comfortable with how he lives I don't think he'll put that effort for me. And pf course it's even worse because he deals with bpd, fasd, and major depressive disorder. He has no family and not many friends so I feel even worse thinking about leaving him submitted by /u/ThrowRAfxntasi to r/relationshipproblems [link] [comments]",
-      "link": "https://www.reddit.com/r/relationshipproblems/comments/1qjou1z/f25_feelings_fading_for_bf_m28_but_so_attached_i/",
-      "author": "/u/ThrowRAfxntasi",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T08:16:09.396847"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qjp8xg",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Area2D is not positioned correctly",
-      "content": "So i'm making a Plants Vs Zombies knockoff game and for the moment i just made three plants (all Area2Ds). I have the selection bar with my plants in: when i click on a plant and then click on a TileMapLayer tile, the plant gets spawned. My problem is that Plant1 gets spawned on the tile correctly, meanwhile when i try to spawn the other two plants they get placed in a totally different tile. I did a bit of debug and what's happening is that the first plant gets both the mouse position and the plant's global_position right, meanwhile the other two get the mouse position right but the global_position is completely different. I have checked all the Sprites2D and Collision areas and they all seem good. Here's the code for the spawn (this script is inside a the Level1 Node2D) func _unhandled_input(event: InputEvent) -> void: if event is InputEventMouseButton \\ and event.button_index == MOUSE_BUTTON_LEFT \\ and event.pressed \\ and can_position: call_deferred(\"spawn\") func spawn(): new_plant = plant_preload.instantiate() var tile = ground.local_to_map(ground.to_local(get_global_mouse_position())) new_plant.global_position = ground.to_global(ground.map_to_local(tile)) add_child(new_plant) can_position = false submitted by /u/Silver_Reason9629 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qjp8xg/area2d_is_not_positioned_correctly/",
-      "author": "/u/Silver_Reason9629",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T08:54:46.070639"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qjp1r2",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Multiple translations files for same language.",
-      "content": "Is multiple translations files for the same language not supported or am I doing something wrong? Say for example I have text.en.translation and items.en.translation and perhaps later a dialogue.en.translation , would these last two be ignore since text.en is already present and listed first? In my tests that seems to be the case. https://preview.redd.it/op3j52ci1veg1.jpg?width=487&format=pjpg&auto=webp&s=76d4f88eb90dc4b642bb89588158412f075c7420 submitted by /u/PLYoung [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qjp1r2/multiple_translations_files_for_same_language/",
-      "author": "/u/PLYoung",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T08:54:46.070652"
-    },
-    {
-      "id": "https://www.reddit.com/t5_31ajv",
-      "type": "search",
-      "subreddit": "NoGameNoLife",
-      "title": "No Game No Life",
-      "content": "A subreddit for the popular series No Game No Life! [link]",
-      "link": "https://www.reddit.com/r/NoGameNoLife/",
-      "author": "/u/Burtry",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T08:54:46.070670"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qjpk2a",
       "type": "search",
       "subreddit": "u_PangolinAdept2433",
@@ -15995,7 +15827,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-25T13:47:37.671082"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmjt22",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I made the lighting and music react to the players actions in my upcoming game",
+      "content": "It's an open 3D platformer with an \"evil\" route, and I wanted to make the world react appropriately. Even though the game releases in 2 days, I wanted to add it in right at the end. You can check it out here: Valkyrie Saga submitted by /u/Zenonia_Gold [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmjt22/i_made_the_lighting_and_music_react_to_the/",
+      "author": "/u/Zenonia_Gold",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T14:09:31.214295"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qmk0yt",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "my game about a box... and cleaning coffee :)",
+      "content": "Hi! I'm new to game development and this is my first project, a game called \"What's Inside\". It's really short, but I'm happy that i finally finished something.. I'd really appreciate any feedback I can get tho. the link: https://logikaleks.itch.io/whats-inside submitted by /u/Logikal3ks [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qmk0yt/my_game_about_a_box_and_cleaning_coffee/",
+      "author": "/u/Logikal3ks",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T14:09:31.214308"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmju2f",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Part of the beauty of being a solo developer is adding cool things even right before release",
+      "content": "submitted by /u/Zenonia_Gold [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmju2f/part_of_the_beauty_of_being_a_solo_developer_is/",
+      "author": "/u/Zenonia_Gold",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T14:09:31.214317"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmk0jf",
+      "type": "search",
+      "subreddit": "SpottedUprising",
+      "title": "Rugs USA Promo Codes | 30% Off January 2026 Coupons",
+      "content": "Top Rugs USA Promo Codes for January 25, 2026 . Save up to 30% off with Rugs USA coupons. There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/cageyadages to r/SpottedUprising [link] [comments]",
+      "link": "https://www.reddit.com/r/SpottedUprising/comments/1qmk0jf/rugs_usa_promo_codes_30_off_january_2026_coupons/",
+      "author": "/u/cageyadages",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T14:09:31.215459"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qmjykx",
+      "type": "search",
+      "subreddit": "DiscoElysium",
+      "title": "Finally got the game running properly on Android, Thanks for the Turnip driver's devs",
+      "content": "submitted by /u/FicklePayment7417 to r/DiscoElysium [link] [comments]",
+      "link": "https://www.reddit.com/r/DiscoElysium/comments/1qmjykx/finally_got_the_game_running_properly_on_android/",
+      "author": "/u/FicklePayment7417",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T14:09:31.215990"
     }
   ],
-  "last_updated": "2026-01-25T13:49:21.945285"
+  "last_updated": "2026-01-25T14:11:16.006991"
 }
