@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qjt4za",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "My game is... is this real??",
-      "content": "That’s my game! It doesn’t seem to show up in everyone’s New & Trending section, but honestly, launching a game is an experience I can’t put into words. Take this as motivation, launch your game one day if you haven’t already. The mix of excitement, anxiety, pride, and “is this actually real?” hits all at once. After 4 years in development, Gem Miner TD is finally out on Steam. The biggest moment? My game was released two hours late because of Steam build review issues, but still, there were 30 players instantly hitting F5 to buy it and play, with no idea exactly when it would go live. That feeling is something else. Steam page: https://store.steampowered.com/app/2835780/Gem_Miner_TD/ submitted by /u/iFeral [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qjt4za/my_game_is_is_this_real/",
-      "author": "/u/iFeral",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T13:24:38.193633"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qjudbg",
-      "type": "search",
-      "subreddit": "IndieGaming",
-      "title": "Lostade, an arcade style Diablo-like but with Endless and exponential Endgame scaling. Do you like the Idea ?",
-      "content": "The idea is to use Endless \"roguelites\" mechanics such as restarting the game over and over, but without losing progression, in an endless and exponential way: with new content, lore, enemies, quests, maps, and random events after each restarts (upon killing the last boss), mixed with a mysterious story in a retro arcade-style world. + Parts-based crafting. You can play Lostade demo on steam / wishlist if you like the idea. Made by POE fans ;] submitted by /u/Nuphar_Studio to r/IndieGaming [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjudbg/lostade_an_arcade_style_diablolike_but_with/",
-      "author": "/u/Nuphar_Studio",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T13:24:38.194433"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjup5r",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Completely reworked the art-style of the planet side missions. (Up is old, down is new)",
-      "content": "I think this fits much more with the space combat and the overall more serious tone of the game's plot. :) If you are interested, it's for my upcoming game \"Max Savage\": https://store.steampowered.com/app/4305030/Max_Savage/ submitted by /u/Good_Punk2 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjup5r/completely_reworked_the_artstyle_of_the_planet/",
-      "author": "/u/Good_Punk2",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T13:59:37.052910"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qjumwl",
       "type": "post",
       "subreddit": "indiegaming",
@@ -16919,7 +16883,43 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-25T21:38:04.947115"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmwtvf",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I made a Vampire Survivors-inspired mobile bullet-heaven — feedback welcome",
+      "content": "Hey everyone — I just released my first mobile game, HellWave: Survival (Android). It’s a Vampire Survivors-inspired bullet-heaven where you survive escalating waves, pick upgrades each level, and unlock permanent shop upgrades between runs. I’d love honest feedback on: first 60 seconds (is it clear/fun?) upgrade choices (too random? understandable?) difficulty curve / pacing Google Play: HellWave: Survival - Google Play'de Uygulamalar submitted by /u/Unique-Vermicelli789 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmwtvf/i_made_a_vampire_survivorsinspired_mobile/",
+      "author": "/u/Unique-Vermicelli789",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T22:09:51.101369"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qmwc3b",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "My insect war game, i mostly got inspired by Enter the Gungeon and Nuclear Throne, then made insects with unique powers and added tons of guns",
+      "content": "submitted by /u/limonit_games [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmwc3b/my_insect_war_game_i_mostly_got_inspired_by_enter/",
+      "author": "/u/limonit_games",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T22:09:51.101378"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qmwp3o",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I added a CRT shader to my game!",
+      "content": "submitted by /u/brunuuDev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qmwp3o/i_added_a_crt_shader_to_my_game/",
+      "author": "/u/brunuuDev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-25T22:09:51.101404"
     }
   ],
-  "last_updated": "2026-01-25T21:39:54.058517"
+  "last_updated": "2026-01-25T22:11:29.214969"
 }
