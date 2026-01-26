@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qkdq9e",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Using some MultiMeshes to add candles all over my level.",
-      "content": "submitted by /u/matt_page24 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qkdq9e/using_some_multimeshes_to_add_candles_all_over_my/",
-      "author": "/u/matt_page24",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T02:53:42.411595"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qkd4iy",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Gobutiko - Arcade Mode",
-      "content": "So I made a playable web build out of an internal test scene for my game's haggle mechanic! I kept catching myself screwing around with testing effects and mechanics for fun and figured others might find it fun too. So I wrapped it up into it's own thing and posted it on itch for others to try it! It's not really a demo of the actual project, but I thought it was fun enough on its own submitted by /u/cousin_skeeter [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qkd4iy/gobutiko_arcade_mode/",
-      "author": "/u/cousin_skeeter",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T02:53:42.411607"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qkcuva",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Witness the power of MultiMesh",
-      "content": "Been working on a random city generator, I think we got some strong bones here. submitted by /u/AlphabetMeat [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qkcuva/witness_the_power_of_multimesh/",
-      "author": "/u/AlphabetMeat",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T02:53:42.411614"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qkck0k",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Controls feedback",
-      "content": "I have made a little game, but the mobile controls are bad and I would like to know some tips to improve it. To test(there's web version): kiryd.itch.io/pear-attack submitted by /u/kiryD [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qkck0k/controls_feedback/",
-      "author": "/u/kiryD",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T02:53:42.411621"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qkde0d",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "I need help",
-      "content": "(Linux) what do I do, because I have 70+ gb but unity is saying I only have 3. Is there a reason it does not let me download the editor (outdated software ect) submitted by /u/Square_Beginning3614 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qkde0d/i_need_help/",
-      "author": "/u/Square_Beginning3614",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T02:53:42.411655"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qkdnai",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "I released my horror game thanks to unreal and blender....",
-      "content": "I just launched Liar Masks . You have to find the liar among masked guards to survive the subway. It’s 20% off for launch week—I'd love your feedback! [steam] submitted by /u/iris_minecraft [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qkdnai/i_released_my_horror_game_thanks_to_unreal_and/",
-      "author": "/u/iris_minecraft",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T02:53:42.411682"
-    },
-    {
       "id": "https://www.reddit.com/r/unrealengine/t3_1qkcixs",
       "type": "post",
       "subreddit": "unrealengine",
@@ -17411,7 +17339,115 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-26T17:50:50.543195"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qno10y",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Comparing some of the vehicles in our game, Rescue Ops: Wildfire vs in real life! What do you think?",
+      "content": "submitted by /u/Exkee_Studio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qno10y/comparing_some_of_the_vehicles_in_our_game_rescue/",
+      "author": "/u/Exkee_Studio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T18:18:46.727497"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qnnpvw",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Which version would you prefer to play? Normal or Scaled 3D (chunkier pixels)",
+      "content": "submitted by /u/Neutronized [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qnnpvw/which_version_would_you_prefer_to_play_normal_or/",
+      "author": "/u/Neutronized",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T18:18:46.727530"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qnnltw",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Devlog – Attrape-les-tous (mobile)",
+      "content": "submitted by /u/AppropriateRip732 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qnnltw/devlog_attrapelestous_mobile/",
+      "author": "/u/AppropriateRip732",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T18:18:46.727563"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qnnl0o",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "LIGHTNING BOLT! LIGHTNING BOLT! LIGHTNING BOLT!",
+      "content": "submitted by /u/Red_Dunes_Games [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qnnl0o/lightning_bolt_lightning_bolt_lightning_bolt/",
+      "author": "/u/Red_Dunes_Games",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T18:18:46.727570"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qnnmxp",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Solo dev sharing my first-person melee combat system (Unreal Engine)",
+      "content": "This is the current state of my games combat. Let me know your thoughts! submitted by /u/DrCGI [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qnnmxp/solo_dev_sharing_my_firstperson_melee_combat/",
+      "author": "/u/DrCGI",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T18:18:46.727642"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qnnt92",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Solo dev sharing my first-person melee combat system (Unreal Engine)",
+      "content": "This is the current state of my games combat. Let me know your thoughts! submitted by /u/DrCGI [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qnnt92/solo_dev_sharing_my_firstperson_melee_combat/",
+      "author": "/u/DrCGI",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T18:18:46.727702"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qnnnz3",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Attribute Sets & State Trees",
+      "content": "I’m pretty sure I’m just really slow in the head and overthinking this but does anyone know an efficient way to access values from an attribute set in a state tree? I’ve searched to see if you could access the values from an attribute set directly but it doesn’t seem like you can. I could create variables, get the attribute value, then set the variable on tick or a timer but I’m trying to avoid that. submitted by /u/ItzDudgeon [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qnnnz3/attribute_sets_state_trees/",
+      "author": "/u/ItzDudgeon",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T18:18:46.727719"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qno072",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Solo dev sharing my first-person melee combat system (Unreal Engine)",
+      "content": "This is the current state of my games combat. Let me know your thoughts! submitted by /u/DrCGI [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qno072/solo_dev_sharing_my_firstperson_melee_combat/",
+      "author": "/u/DrCGI",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T18:18:46.727726"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnnsww",
+      "type": "search",
+      "subreddit": "HighGuardgame",
+      "title": "W or L?",
+      "content": "Devs showed off the game, for me it's a No. Hope others like it. submitted by /u/Top_Crow_1022 to r/HighGuardgame [link] [comments]",
+      "link": "https://www.reddit.com/r/HighGuardgame/comments/1qnnsww/w_or_l/",
+      "author": "/u/Top_Crow_1022",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T18:18:46.729005"
     }
   ],
-  "last_updated": "2026-01-26T17:52:30.552500"
+  "last_updated": "2026-01-26T18:20:21.681202"
 }
