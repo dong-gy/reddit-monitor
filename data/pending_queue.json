@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qk96p1",
-      "type": "search",
-      "subreddit": "buildapc",
-      "title": "building PC is such anticlimax",
-      "content": "I feel like how much I could've continued using my laptop, as browsing is all I've noticed I do even on my desktop build (which I own 1 year now). I've played some single player games, but I completely lost interest in gaming recently, as new games feel more like movies with too long cutscenes and not actually experiencing the story through gameplay, and thus games feel dull to me. I've bought kindle 3 months ago, and feel like, I've used kindle more purposefully than desktop PC I've build year ago. I don't want to watch 10 mins cutscenes to have any idea what's happening in game , I could just watch Netflix. Does anyone relate ? I have this rtx3060 on 1080p (144hz) monitor, which I understand, people say is low (budget) end (intel i5-12400F , H610M-K D4, 32gb ram). Which I feel like GPU won't be used much because there's no new games that interest me at all. I always thought it would be great, but I just open chrome. In fact I could reinstall to chromeOS Flex, and I wouldn't feel the difference. I just notice it now (bc I never had PC to my ownership 😂). I feel like smartphone and laptop already killed desktop long time ago. Desktop is just a for gamers or work professionals. (and whole internet is filled with 'coding' tutorials, so.. it's becoming common knowledge.. ) submitted by /u/Ornery-Extension5402 to r/buildapc [link] [comments]",
-      "link": "https://www.reddit.com/r/buildapc/comments/1qk96p1/building_pc_is_such_anticlimax/",
-      "author": "/u/Ornery-Extension5402",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T22:45:12.960019"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qk94ny",
-      "type": "search",
-      "subreddit": "Helldivers",
-      "title": "I CAN'T PLAY WITH MY FRIEND",
-      "content": "No matter how hard we try, both my friend and I have: changed DNS, disabled firewall, tweak in-game settings, changed download region from steam, reinstalled the game, verified files, disabled IPv6, invited via friend code, SOS beam, even started a local network with hamachi, everything we could think of but nothing works, it always gives us the same error: Unable to join game lobby, time expired submitted by /u/afdas_0 to r/Helldivers [link] [comments]",
-      "link": "https://www.reddit.com/r/Helldivers/comments/1qk94ny/i_cant_play_with_my_friend/",
-      "author": "/u/afdas_0",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T22:45:12.960033"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qk97yq",
-      "type": "search",
-      "subreddit": "RocketLeague",
-      "title": "Game lags on 3s only",
-      "content": "My game keeps lagging on 3s, especially when I'm going to hit the ball. I play 1s, 2s, 4s without issues, but 3s constantly lags for the past two weeks. My ping is fine, my internet is fine, my PC isn't the issue either. When it does lag, it shows latency variation as the issue. submitted by /u/Tight-Safety-2055 to r/RocketLeague [link] [comments]",
-      "link": "https://www.reddit.com/r/RocketLeague/comments/1qk97yq/game_lags_on_3s_only/",
-      "author": "/u/Tight-Safety-2055",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T22:45:12.960648"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qk97ou",
       "type": "search",
       "subreddit": "GlobalOffensive",
@@ -16787,7 +16751,91 @@
       "search_keyword": "AI game maker",
       "relevance_score": 0,
       "added_at": "2026-01-26T13:14:56.278851"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qngp0g",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Please critique my pixel art",
+      "content": "I’m new to pixel art I wanna know if this art looks good, I feel like the tree leaves look a little weird, but it might just be me. And please tell me if you think it’ll look good in a game. submitted by /u/chillmonster07 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qngp0g/please_critique_my_pixel_art/",
+      "author": "/u/chillmonster07",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:57:27.014030"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qnghkk",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "2D artist for Game Capsules.",
+      "content": "submitted by /u/Tex_the_wolf [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qnghkk/2d_artist_for_game_capsules/",
+      "author": "/u/Tex_the_wolf",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:57:27.014065"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qngbzi",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The evolution of my game (October - January)",
+      "content": "Is that a good progress? submitted by /u/OlympStudio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qngbzi/the_evolution_of_my_game_october_january/",
+      "author": "/u/OlympStudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:57:27.014072"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qng9kz",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Is someone botting my Steam demo? This traffic is suspicious.",
+      "content": "I launched my demo roughly 3 days ago. The player activity graph so far has looked super suspicious: two spikes with the same amplitude, and a constant ~60 player plateau for hours on end. This looks extremely artificial to me. The play time breakdown is also weird, with a very unnatural looking jump in the 150-160min mark. Thoughts? Why would someone be botting a demo? submitted by /u/rodbotto [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qng9kz/is_someone_botting_my_steam_demo_this_traffic_is/",
+      "author": "/u/rodbotto",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:57:27.014085"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qnfra2",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Turning on the light is dangerous!",
+      "content": "At the beginning of the VR game Xenolocus, the zombies are quite slow, but once you turn on the light they start moving toward it and can surround any careless player. What do you think, is it better to fight in the dark, or with light but a greater risk of being eaten? :) submitted by /u/RelevantOperation422 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qnfra2/turning_on_the_light_is_dangerous/",
+      "author": "/u/RelevantOperation422",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:57:27.014119"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qng673",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Drew more fellas for my RTS Final Divide",
+      "content": "Final Divide is an old-school RTS focused on base building, resource management, and large-scale tactical combat with classic real-time strategy game mechanics. You can follow the project on X . submitted by /u/finaldivide_rts [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qng673/drew_more_fellas_for_my_rts_final_divide/",
+      "author": "/u/finaldivide_rts",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:57:27.014139"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnghpt",
+      "type": "search",
+      "subreddit": "Jujutsufolk",
+      "title": "Disgusting piece of shit",
+      "content": "submitted by /u/AstramIsTheBest to r/Jujutsufolk [link] [comments]",
+      "link": "https://www.reddit.com/r/Jujutsufolk/comments/1qnghpt/disgusting_piece_of_shit/",
+      "author": "/u/AstramIsTheBest",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T13:57:27.015940"
     }
   ],
-  "last_updated": "2026-01-26T13:16:50.359282"
+  "last_updated": "2026-01-26T13:59:05.080138"
 }
