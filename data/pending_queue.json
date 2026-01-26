@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qk0ei2",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Backrooms Level X, our survival horror game, is coming to consoles on February 19th!",
-      "content": "submitted by /u/FirenutGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qk0ei2/backrooms_level_x_our_survival_horror_game_is/",
-      "author": "/u/FirenutGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T17:23:12.294535"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qjzxmw",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Heading to Sunny Beach with my dolphin buddies",
-      "content": "This is a test scene for a game inspired by Wave Race 64. I spent hours tuning the physics so you can do a backflip when you hit a wave just right. submitted by /u/Best-Salamander-2655 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qjzxmw/heading_to_sunny_beach_with_my_dolphin_buddies/",
-      "author": "/u/Best-Salamander-2655",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T17:23:12.294546"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qk0m3y",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "After watching hundreds of dumpster diving videos on YouTube, I decided to make a game about it",
-      "content": "submitted by /u/emrenes1 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qk0m3y/after_watching_hundreds_of_dumpster_diving_videos/",
-      "author": "/u/emrenes1",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T17:23:12.294572"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qk0dv8",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Updating our capsule art ahead of Steam Next Fest. Thoughts on how it turned out?",
-      "content": "submitted by /u/ChicabooGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qk0dv8/updating_our_capsule_art_ahead_of_steam_next_fest/",
-      "author": "/u/ChicabooGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T17:23:12.294580"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qk00wq",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "AAA Is Dying - And Indie Games Are Winning",
-      "content": "A short video essay I made about the rise of indie games and their success in 2025 - would love some feedback from fellow indie fans! Cheers :D submitted by /u/IndieScoutTV [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qk00wq/aaa_is_dying_and_indie_games_are_winning/",
-      "author": "/u/IndieScoutTV",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T17:23:12.294592"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qk0mtn",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "why cant i add a Shape in the CollisionShape3D ???",
-      "content": "https://preview.redd.it/bn5frervpxeg1.png?width=256&format=png&auto=webp&s=fb8024a950e65b8b29295c313c7bc42a5847350e i Use godot to make some shit but never got this problem og me not being able to add a Shpae to the 3d shape even for the mash Bazzite os got godot form steam this time cuz linux and steam is easy to install from help ? submitted by /u/Business-Quote-6315 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qk0mtn/why_cant_i_add_a_shape_in_the_collisionshape3d/",
-      "author": "/u/Business-Quote-6315",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T17:23:12.294620"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qk0i8o",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Does anyone else have this file?",
-      "content": "So today, when I went to work on my unity project, windows defender smart app control blocked a dll called vulkan-1 in the Program Files/Unity Hub folder. I was just wondering if anyone else has this dll in the Unity Hub folder? I'm a bit concerned since the file does not have a digital signature. submitted by /u/SilverDonut3992 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qk0i8o/does_anyone_else_have_this_file/",
-      "author": "/u/SilverDonut3992",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T17:23:12.294632"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qk05yx",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "About debugging",
-      "content": "I’m working on a small project and I use DrawDebugHelpers a lot for visual debugging. My question isn’t really about drawing the debug shapes, but about how you usually turn them on and off during development. I’ve seen a couple of approaches: Using CVars , so you can toggle things through the console. Adding a UPROPERTY bool to the class and toggling it directly in the editor. Curious what people here usually do, what works best in practice, or if there’s a cleaner / more “Unreal-ish” way to handle this. submitted by /u/tizuyuuu [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qk05yx/about_debugging/",
-      "author": "/u/tizuyuuu",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T17:23:12.294653"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qk0kzf",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Working on a groovy loading scene for Tour Mode in my music TD game",
-      "content": "Definitely not a roguelike mode, just something in which you play through each level consecutively and if you beat the whole thing you unlock the entire soundtrack into 'Your Discography'. Wishlist Groove Defense on Steam! submitted by /u/FaceoffAtFrostHollow [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qk0kzf/working_on_a_groovy_loading_scene_for_tour_mode/",
-      "author": "/u/FaceoffAtFrostHollow",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T17:23:12.294666"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qk0m3y",
       "type": "search",
       "subreddit": "IndieDev",
@@ -17159,7 +17051,91 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-26T06:59:08.143206"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qn9fhq",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Made a couple visualizers for a buddies music within the game I've been working on - good chill vibes",
+      "content": "submitted by /u/SlowNibbler [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qn9fhq/made_a_couple_visualizers_for_a_buddies_music/",
+      "author": "/u/SlowNibbler",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T07:26:22.440755"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qn94d6",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Steam Page feedback appreciated",
+      "content": "Hey all! I am looking to release my game in the next month or so, and I was interested in getting some actionable feedback on my Steam Page! If you have the time, please take a look and tell me your thoughts, and what I could improve on. Thanks! submitted by /u/greatcoltini [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qn94d6/steam_page_feedback_appreciated/",
+      "author": "/u/greatcoltini",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T07:26:22.440770"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qn9ft4",
+      "type": "search",
+      "subreddit": "DeadlockTheGame",
+      "title": "#ivoted",
+      "content": "Travelling for 2 weeks without PC. Needed to contribute to make it up. 89 votes to REM. Godspeed little guy. submitted by /u/DapperCoconut to r/DeadlockTheGame [link] [comments]",
+      "link": "https://www.reddit.com/r/DeadlockTheGame/comments/1qn9ft4/ivoted/",
+      "author": "/u/DapperCoconut",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T07:26:22.441145"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qn9fp9",
+      "type": "search",
+      "subreddit": "Atari2600",
+      "title": "My collection of Atari 2600 games",
+      "content": "Only 3 of them, but they are special Space Invaders - it's a literal icon of gaming 👾 Also the Atari version is the best. This copy is from a print without a trademark mention of a cartridge, so it's very early copy Galaxian - I like this game, also the Atari version looks very good, and it's a very advanced game for the platform. Also I find this game an 8-bit, 2d version of Star Fox released 10 years before, because you also fly a spaceship and kill insects Tunnel Runner - I collect first person shooters, and this is not one of them, but is very close. I also remember playing a similar game on my phone in childhood, and I was very impressive. Also it looks like the developers visited the Backrooms way before the creepy pasta appeared submitted by /u/Obvious_Set5239 to r/Atari2600 [link] [comments]",
+      "link": "https://www.reddit.com/r/Atari2600/comments/1qn9fp9/my_collection_of_atari_2600_games/",
+      "author": "/u/Obvious_Set5239",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T07:26:22.441171"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qn9fna",
+      "type": "search",
+      "subreddit": "linux_gaming",
+      "title": "Elden ring micro stutters",
+      "content": "I know I am 4 years late to this discussion lol, but I am having insane micro stutters in Elden ring. I am on Mint, with a RX 6650XT and i3-13100F, 16gb ddr4. The game runs at 60fps with barely any dips (confirmed both by mangohud and steam overlay), but it genuinely feels almost unplayable due to micro stutters on ANY graphics settings. I tried both Steam and Lutris with different proton versions (including GE), I tried switching the force power option to high, and I am using gamemoderun. The only thing that actually helps is lsfg-vk (lossless scaling), which makes my game run capped at 100fps (monitor is 100hz), but introduces latency, which is why I would rather fix it and play it at 60fps native. Pls help! Thanks! submitted by /u/lawdfaquad to r/linux_gaming [link] [comments]",
+      "link": "https://www.reddit.com/r/linux_gaming/comments/1qn9fna/elden_ring_micro_stutters/",
+      "author": "/u/lawdfaquad",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T07:26:22.441189"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qn9a46",
+      "type": "search",
+      "subreddit": "elderscrollsonline",
+      "title": "Is all dlcs coming to base game?",
+      "content": "is all the dlcs coming to the base game? I heard from a friend that all the dlcs are coming to the base game? and I wanna ask a few zos devs if that is happening. idk where to ask so I figured if one of them has reddit I can ask here, since forums are not working for me. so the biggest question is. is everything coming to base game? submitted by /u/Silent_the_furry to r/elderscrollsonline [link] [comments]",
+      "link": "https://www.reddit.com/r/elderscrollsonline/comments/1qn9a46/is_all_dlcs_coming_to_base_game/",
+      "author": "/u/Silent_the_furry",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T07:26:22.441861"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qn9dah",
+      "type": "search",
+      "subreddit": "criticalrole",
+      "title": "[No Spoilers] Aabria venting post",
+      "content": "If I was even pettier I would track and make a chart showing how long each character from all 4 seasons stays silent on average and bet your ass Aabria would come in last. Every single thing other players do, she comments on. She doesn’t just meta comments, she makes her character scream a comment at the other end of the room for a scene that she is not part of. Every beautiful description by Brennan ends with her one liners. She constantly makes small talk with Occtis that does not carry the story forward. Every single dice roll whether high or low warrants an audible reaction by her. EVERY SINGLE ROLL. You don’t have to say ‘Allright!’ ‘Thats good! Thats good right?’ to every 19 rolled…….. I am extremely disappointed on how the Seekers table turned out especially after the treat that was the Soldiers. I think I will skip the Seekers and just recap to catch up because I simply can’t stand it. And I believe except for her every single person on every table understands this concept. This is not just a home game people play for their own enjoyment and just happens to be streamed. This is a quality production. People are not there to be charmed by any single character, they are there to watch a story unfold. When meaningless rambling overshadows the story I believe there is a problem. One of Jester’s core quirks as a character was rambling and talking a lot but Laura could stay silent when others were having a scene. Let me say this I have no problem with her as a person. When it is a collaborative scene where everyone gets the spotlight it really works well. She is a good player. Its just she NEVER shuts up. Curious to hear what other critters think! submitted by /u/Friendly-Arsonist to r/criticalrole [link] [comments]",
+      "link": "https://www.reddit.com/r/criticalrole/comments/1qn9dah/no_spoilers_aabria_venting_post/",
+      "author": "/u/Friendly-Arsonist",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T07:26:22.442065"
     }
   ],
-  "last_updated": "2026-01-26T07:00:46.696356"
+  "last_updated": "2026-01-26T07:28:17.649660"
 }
