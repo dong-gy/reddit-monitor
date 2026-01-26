@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qka498",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Hello , i am planning to make A huge Animated UI Icons pack For 2D GAMES i want to your feedback and if you would use them or no !",
-      "content": "submitted by /u/magicofire [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qka498/hello_i_am_planning_to_make_a_huge_animated_ui/",
-      "author": "/u/magicofire",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T23:40:03.359880"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qka468",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "My demo release is delayed due to itch.io upload limits",
-      "content": "submitted by /u/NoName_Studio [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qka468/my_demo_release_is_delayed_due_to_itchio_upload/",
-      "author": "/u/NoName_Studio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T23:40:03.359886"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qka17i",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "UI Peeps Presents: Rive Workflow Demo w/ Sanu Sagar",
-      "content": "submitted by /u/UIPeeps [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qka17i/ui_peeps_presents_rive_workflow_demo_w_sanu_sagar/",
-      "author": "/u/UIPeeps",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T23:40:03.359903"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkah46",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "How does my core loop look? (It's a rougelite I plan to pitch to publishers in bout 2 weeks)",
-      "content": "I have mostly finished the core loop of my tight swarm shooter rougelite, I know the visuals have some crappy stuff going on but believe me we are working on them as I type this, also give some feedback on stuff, also ik publishers can be a bad thing if not handled properly but I am willing to take the bet. Any guidence is always helpful, kudos🥹 submitted by /u/DojoDucks [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkah46/how_does_my_core_loop_look_its_a_rougelite_i_plan/",
-      "author": "/u/DojoDucks",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T23:40:03.359924"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qk9ytv",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "unity.com/download is a 404 page, help would be appreciated!",
-      "content": "if i click the download button it takes me to a 404. submitted by /u/Flaky_Marionberry665 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qk9ytv/unitycomdownload_is_a_404_page_help_would_be/",
-      "author": "/u/Flaky_Marionberry665",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T23:40:03.360012"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkagfr",
-      "type": "search",
-      "subreddit": "hockey",
-      "title": "Weighted points standings for NHL",
-      "content": "I've always thought about this, a goal that ties the game with 2 minutes left feels way more important than scoring the 6th goal in a blowout. But they count exactly the same in the stats. While on parental leave I started to vibe code this small site which weights points based on game situation. Everything was done during naptime, no kids were harmed :) https://clutchpuck.com Tying goals and go-ahead goals count more. Garbage time goals count less. Empty netters are basically worth little. Shorthanded goals get a bump etc. Adrian Kempe, Kevin Fiala and Tyler Bertuzzi rise the most on the standings. Biggest \"garbage time\" players are Glaude Giroux, Quinn Hughes, John Carlson. Cole Caufield rises +20 positions (from 29th to 9th). Curious if anyone else has thought about this or has further ideas on how the weights should work? You can also adjust the weights yourself if those seem too low or high. Clicking the player name will open up further information. https://preview.redd.it/3rsk1szwjzeg1.png?width=2590&format=png&auto=webp&s=871cba4dadf7e23080606bd79f4476864390cebf submitted by /u/valstu to r/hockey [link] [comments]",
-      "link": "https://www.reddit.com/r/hockey/comments/1qkagfr/weighted_points_standings_for_nhl/",
-      "author": "/u/valstu",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T23:40:03.360644"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkakw8",
-      "type": "search",
-      "subreddit": "realms",
-      "title": "Realm still says \"Your subscription has expired.\" 2 days after renewing subscription.",
-      "content": "A couple days ago I renewed a subscription for an old Realm I had on Minecraft: Java Edition, but I (as well as my friends) have been completely unable to join it as the game still seems to think the Realm is expired. The payment went through fine and the Realm is considered active when checking my account page on the website, though I am unable to click \"Realm settings\" without being given an error. I have tried to contact Mojang support twice now about the issue but I still haven't received any responses from them. Is anybody else experiencing the same problem right now? submitted by /u/TheBlockJohnson to r/realms [link] [comments]",
-      "link": "https://www.reddit.com/r/realms/comments/1qkakw8/realm_still_says_your_subscription_has_expired_2/",
-      "author": "/u/TheBlockJohnson",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T23:40:03.360958"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkaicn",
-      "type": "search",
-      "subreddit": "thedivision",
-      "title": "Question about the lvl 40 boost for a new player to division 2",
-      "content": "I have heard that they changed how having multiple characters works now, something about points being shared accross every character rather then per character. so it would seem that alot of the pre-brooklyn videos about character boosts are outdated. say me and my friends are playing through the game from level 1 and i wanted to make another character with the boost to start playing endgame, how would that work exactly? does my level 15 guy suddenly get a bunch of spec points because i have another lvl 40 character? any clarification would be cool, tyty submitted by /u/Charliebitme1234 to r/thedivision [link] [comments]",
-      "link": "https://www.reddit.com/r/thedivision/comments/1qkaicn/question_about_the_lvl_40_boost_for_a_new_player/",
-      "author": "/u/Charliebitme1234",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-22T23:40:03.361580"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkb60x",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Feedback on party game items",
-      "content": "submitted by /u/guidipolito [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkb60x/feedback_on_party_game_items/",
-      "author": "/u/guidipolito",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T00:51:18.593553"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qkampb",
       "type": "post",
       "subreddit": "indiegaming",
@@ -16931,7 +16823,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-26T14:52:15.647783"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qni7mz",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Anything you wish you knew before building a player-centered minimap?",
+      "content": "For anyone who’s built player centered minimaps or navigation systems before, is there anything you ran into later that you wish you’d known earlier? Edge cases, gameplay interactions, performance issues, UX problems, or things that only show up once real mechanics are layered in. We’re about to go deeper on this and I’m curious what tends to bite people after the basics are already working. submitted by /u/build_logic [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qni7mz/anything_you_wish_you_knew_before_building_a/",
+      "author": "/u/build_logic",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T15:17:52.544803"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qnijyt",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "4.6 is out!",
+      "content": "submitted by /u/Crazy-Red-Fox [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qnijyt/46_is_out/",
+      "author": "/u/Crazy-Red-Fox",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T15:17:52.544924"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qnints",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Cards of Action: i made a roguelike deckbuilder where the battles are real-time",
+      "content": "submitted by /u/Opening-Mongoose-351 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qnints/cards_of_action_i_made_a_roguelike_deckbuilder/",
+      "author": "/u/Opening-Mongoose-351",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T15:17:52.544967"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qniex9",
+      "type": "search",
+      "subreddit": "2007scape",
+      "title": "Who declawed my RGB lizard...?",
+      "content": "submitted by /u/Hemppasd to r/2007scape [link] [comments]",
+      "link": "https://www.reddit.com/r/2007scape/comments/1qniex9/who_declawed_my_rgb_lizard/",
+      "author": "/u/Hemppasd",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T15:17:52.546290"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnichs",
+      "type": "search",
+      "subreddit": "DanceDanceRevolution",
+      "title": "Browser-based DDR/StepMania clone with USB support",
+      "content": "Been working on a side project that lets you play StepMania .sm/.ssc files directly in the browser - no install needed. Started it because I wanted to play on a machine where I couldn't get StepMania to work. It supports USB dance pads (has a Learn Mode for mapping), C-Mod/X-Mod, and even 2-4 player local split-screen. If anyone wants to check it out: - Play it here: https://stepfever.vercel.app/ - Source code: https://github.com/religa/stepfever (MIT license, mess with it if you want) Would love feedback on the game feel from people who actually play ITG/DDR seriously - still tweaking the code to make it better. submitted by /u/tom3141592 to r/DanceDanceRevolution [link] [comments]",
+      "link": "https://www.reddit.com/r/DanceDanceRevolution/comments/1qnichs/browserbased_ddrstepmania_clone_with_usb_support/",
+      "author": "/u/tom3141592",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T15:17:52.546309"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qniqmc",
+      "type": "search",
+      "subreddit": "Helldivers",
+      "title": "I don't see why C4 \"needs\" demo 40",
+      "content": "There are only two other support weapons with a demo of forty, the solo silo and the spear (which I actually did not know until recently). The spear is on the projectile itself, not the explosion, which sort of makes sense where it's like 4000 damage and ap7. The solo silo however is on the explosion so that's what we'll compare to the C4, and if you've seen both of these explosions they are not the same. And from a balance pov the solo is a one shot where as thw C4 has seven. The C4 is way more comparable to something like the RR. Now the elephant in the room is dynamite. I'm gonna be honest this was given a demo of 40 cause they desperately wanted people to pick something other than gas and therm. This was kinda the only unque thing they could give it without cranking the damage to 2250. It was already a good grenade, it just wasn't the therm. I don't think they would have an explosion of this yield do 40 demo if they didn't need to force diversity in the grenade slot. submitted by /u/MiddleConcentrate197 to r/Helldivers [link] [comments]",
+      "link": "https://www.reddit.com/r/Helldivers/comments/1qniqmc/i_dont_see_why_c4_needs_demo_40/",
+      "author": "/u/MiddleConcentrate197",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T15:17:52.546732"
     }
   ],
-  "last_updated": "2026-01-26T14:54:09.354199"
+  "last_updated": "2026-01-26T15:19:33.523273"
 }
