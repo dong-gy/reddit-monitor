@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qkhaoy",
-      "type": "search",
-      "subreddit": "SSBM",
-      "title": "logicman returns with a very familiar argument",
-      "content": "submitted by /u/Fiendish to r/SSBM [link] [comments]",
-      "link": "https://www.reddit.com/r/SSBM/comments/1qkhaoy/logicman_returns_with_a_very_familiar_argument/",
-      "author": "/u/Fiendish",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T04:43:01.306873"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkh9zo",
-      "type": "search",
-      "subreddit": "oneanddone",
-      "title": "How do you manage hobbies as an OAD parent?",
-      "content": "One of the reasons I'm strongly considering being OAD is because I want to be a mother while still keeping some semblance of myself, being able to rest, have time for hobbies, etc. I know that having multiple children would make this absolutely impossible, but I'm curious to see how much time OAD parents have with their hobbies. Plus points if you're into gaming or writing like me! submitted by /u/mrshappyhousewife to r/oneanddone [link] [comments]",
-      "link": "https://www.reddit.com/r/oneanddone/comments/1qkh9zo/how_do_you_manage_hobbies_as_an_oad_parent/",
-      "author": "/u/mrshappyhousewife",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T04:43:01.306885"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkhwwx",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Made vampire survivors + paper.io would love real feedback",
-      "content": "submitted by /u/STierGaming [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkhwwx/made_vampire_survivors_paperio_would_love_real/",
-      "author": "/u/STierGaming",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T05:18:29.021081"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkhwkz",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Let's make a game! 379: Choosing a target for attacks",
-      "content": "submitted by /u/apeloverage [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkhwkz/lets_make_a_game_379_choosing_a_target_for_attacks/",
-      "author": "/u/apeloverage",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T05:18:29.021203"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkhjm1",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Is Your Music Having a Conversation?",
-      "content": "submitted by /u/Trickledownisbull [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkhjm1/is_your_music_having_a_conversation/",
-      "author": "/u/Trickledownisbull",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T05:18:29.021219"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkhgx1",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "ADHD task management app - iOS (pls test🫶)",
-      "content": "submitted by /u/Entire_Raspberry2129 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkhgx1/adhd_task_management_app_ios_pls_test/",
-      "author": "/u/Entire_Raspberry2129",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T05:18:29.021228"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkhemn",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I created a 3D character!",
-      "content": "https://preview.redd.it/f3f4r31p31fg1.png?width=1938&format=png&auto=webp&s=1287617611269a09b3876765d33e66a6ca4fd260 submitted by /u/Miserable-Recipe-844 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkhemn/i_created_a_3d_character/",
-      "author": "/u/Miserable-Recipe-844",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T05:18:29.021236"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qki1bg",
       "type": "post",
       "subreddit": "godot",
@@ -17855,7 +17771,139 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-26T20:46:56.900830"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qnsi81",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Working on the combat feel for my project, Bloody Fate Club. Does the impact look punchy enough?",
+      "content": "Hey everyone! I’ve been tweaking the hitstop and camera shake effects for the gameplay. I’m trying to achieve a visceral feel but I’m worried it might be too much. What do you think about the flow? Any feedback is appreciated! submitted by /u/Particular_Mine_4189 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qnsi81/working_on_the_combat_feel_for_my_project_bloody/",
+      "author": "/u/Particular_Mine_4189",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T21:13:11.755216"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qnsfnb",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Working on the combat feel for my project, Bloody Fate Club. Does the impact look punchy enough?",
+      "content": "Hey everyone! I’ve been tweaking the hitstop and camera shake effects for the gameplay. I’m trying to achieve a visceral feel but I’m worried it might be too much. What do you think about the flow? Any feedback is appreciated! submitted by /u/Particular_Mine_4189 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qnsfnb/working_on_the_combat_feel_for_my_project_bloody/",
+      "author": "/u/Particular_Mine_4189",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T21:13:11.755247"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qnsyea",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "The “compact” UI has so much padding it takes up more space than the old regular UI",
+      "content": "Why? I’m not using my touchscreen for desktop Godot, I promise! You can make buttons small enough to give the windows room to breathe. It’s ok! submitted by /u/Trekintosh [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qnsyea/the_compact_ui_has_so_much_padding_it_takes_up/",
+      "author": "/u/Trekintosh",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T21:13:11.755278"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qnspa6",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Godot went all emo",
+      "content": "Looks really good though submitted by /u/MiguelRSGoncalves [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qnspa6/godot_went_all_emo/",
+      "author": "/u/MiguelRSGoncalves",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T21:13:11.755288"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qnsr7k",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "A hack and slash adventure game I've been working on.",
+      "content": "submitted by /u/Grumpy_Wizard_ [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qnsr7k/a_hack_and_slash_adventure_game_ive_been_working/",
+      "author": "/u/Grumpy_Wizard_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T21:13:11.755370"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnsxz2",
+      "type": "search",
+      "subreddit": "MarioKart8Deluxe",
+      "title": "Anyone else having issues playing Mario Kart 8 Deluxe online with friends?",
+      "content": "Hey y’all, Is anyone else having trouble playing Mario Kart 8 Deluxe online with friends on the Switch? I’m trying to join my friend’s room (they’re also on a Switch), but I keep getting an error code and it won’t let me join their lobby. What’s weird is that Worldwide and Regional work perfectly fine, just not friend rooms. We’ve both restarted our Switches, checked internet, and made sure the game’s updated. Still no luck. Is this a Nintendo server issue or some setting we’re missing? Any fixes would be appreciated submitted by /u/Impressive-Might-285 to r/MarioKart8Deluxe [link] [comments]",
+      "link": "https://www.reddit.com/r/MarioKart8Deluxe/comments/1qnsxz2/anyone_else_having_issues_playing_mario_kart_8/",
+      "author": "/u/Impressive-Might-285",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T21:13:11.755394"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnsnrm",
+      "type": "search",
+      "subreddit": "PBBG",
+      "title": "CyberCode Online — new-to-me game I’ve been enjoying (no referral link)",
+      "content": "Hey everyone — I recently stumbled across CyberCode Online and wanted to share it here in case anyone else is hunting for a new PBBG to try. It’s a browser-based cyberpunk/hacking-themed game with a nice mix of active and chill progression. So far I’ve been having a lot of fun with the loop and the vibe. A few things I’ve liked early on: Battling NPCs as a core progression path (feels satisfying and easy to pick up) Dungeons for a more “run content / get rewards” style mode AFK tasks so you can still make progress even when you’re not actively clicking around Great community — I’ve had good interactions and it feels active/helpful Link: https://cybercodeonline.com/ Also just to be clear: no referral codes/links — I’m only sharing because it’s been a fun find and I figured the PBBG crowd might appreciate it. If you’ve played it longer term, how’s the mid/late game? Does it keep the momentum? submitted by /u/driver_pro to r/PBBG [link] [comments]",
+      "link": "https://www.reddit.com/r/PBBG/comments/1qnsnrm/cybercode_online_newtome_game_ive_been_enjoying/",
+      "author": "/u/driver_pro",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T21:13:11.755934"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnt3z4",
+      "type": "search",
+      "subreddit": "Stellaris",
+      "title": "Latest update makes the game boot times unbearable.",
+      "content": "I made a clean install without mods as I always do whenever a big update drops... but damn. Base game takes as long to load as if I had a 300 mod list enabled. Please paradox, focus on optimization as well, not only balance and pushing DLCs like there's no tomorrow. submitted by /u/Bubbly_Broccoli127 to r/Stellaris [link] [comments]",
+      "link": "https://www.reddit.com/r/Stellaris/comments/1qnt3z4/latest_update_makes_the_game_boot_times_unbearable/",
+      "author": "/u/Bubbly_Broccoli127",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T21:13:11.756418"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnt3o2",
+      "type": "search",
+      "subreddit": "Codeweavers_Crossover",
+      "title": "Running Unravel Two on CrossOver 25 with EA App",
+      "content": "This is the only game thats giving me hell, i installed EA App in a new bottle, afterwards Steam and then the game, still wasnt able to make it run on my mac mini m2, it keeps giving an error even the EA app ist working just fine. Can anyone guide me with this? submitted by /u/HATEM93 to r/Codeweavers_Crossover [link] [comments]",
+      "link": "https://www.reddit.com/r/Codeweavers_Crossover/comments/1qnt3o2/running_unravel_two_on_crossover_25_with_ea_app/",
+      "author": "/u/HATEM93",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T21:13:11.756432"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnswcu",
+      "type": "search",
+      "subreddit": "u_Creepy_Beautiful_258",
+      "title": "Google play games",
+      "content": "Lleva 2 horas así, alguien sabrá cómo arreglarlo?? submitted by /u/Creepy_Beautiful_258 to u/Creepy_Beautiful_258 [link] [comments]",
+      "link": "https://www.reddit.com/r/u_Creepy_Beautiful_258/comments/1qnswcu/google_play_games/",
+      "author": "/u/Creepy_Beautiful_258",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T21:13:11.756783"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qnt2cw",
+      "type": "search",
+      "subreddit": "HighGuardgame",
+      "title": "Yeah nah, this game was not ready",
+      "content": "i feel a bit bad for the devs but they need to go back to the drawing board and need to fix a lot of stuff such as the visual blur, clutter and the map size/team size its not built for 3v3 at all. The gun-play feels solid though and the game has a nice feel to it so it still has potential but as it is rn it needs a bit of work. submitted by /u/swegga_sa to r/HighGuardgame [link] [comments]",
+      "link": "https://www.reddit.com/r/HighGuardgame/comments/1qnt2cw/yeah_nah_this_game_was_not_ready/",
+      "author": "/u/swegga_sa",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-26T21:13:11.756907"
     }
   ],
-  "last_updated": "2026-01-26T20:48:46.116587"
+  "last_updated": "2026-01-26T21:14:42.672957"
 }
