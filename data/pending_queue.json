@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qksh7l",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I always dreamed of working with professional voice actors for one of my projects",
-      "content": "submitted by /u/Torchlight_Games [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qksh7l/i_always_dreamed_of_working_with_professional/",
-      "author": "/u/Torchlight_Games",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T14:49:09.918980"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qksebh",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "floppy-disk eyes and ping-pong / HEAVYDELIC",
-      "content": "Very soon, you’ll be able to launch the demo or jump into early access. Just a few things left to polish: the health bar, an in-game gallery, a mini arcade game, and a handful of animations… then the engines are ready for takeoff. For now, grab a TRINITRON, it looks best on that and we’ll see you on Itchio and Steam. Stay tuned. submitted by /u/eniacninja [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qksebh/floppydisk_eyes_and_pingpong_heavydelic/",
-      "author": "/u/eniacninja",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T14:49:09.919005"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qks3ko",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I'm making a desktop idle game that uses your keyboard input to grow crops. Very cosy, much idle 😌",
-      "content": "submitted by /u/byXToGo [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qks3ko/im_making_a_desktop_idle_game_that_uses_your/",
-      "author": "/u/byXToGo",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T14:49:09.919028"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qks22x",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Steam demo should be on long before Next Fest?",
-      "content": "submitted by /u/Popular_Molasses962 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qks22x/steam_demo_should_be_on_long_before_next_fest/",
-      "author": "/u/Popular_Molasses962",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T14:49:09.919049"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qkskir",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "\"Shader baker\" in export settings doesnt stop particle/shader lag spikes",
-      "content": "Do all of my particles need to be saved to file? I noticed lots of my particles are unique instances and I'm wondering if this could be the cause of the issue. I'm just asking if there's a solution before I implement a shader precomp solution of my own submitted by /u/Venison-County-Dev [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qkskir/shader_baker_in_export_settings_doesnt_stop/",
-      "author": "/u/Venison-County-Dev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T14:49:09.919059"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qksezl",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Steam demo is out for my arcade game!",
-      "content": "It's single player or 2 player local co op. Online leaderboards as well! Living Dead House Demo submitted by /u/jojo_3 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qksezl/steam_demo_is_out_for_my_arcade_game/",
-      "author": "/u/jojo_3",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T14:49:09.919079"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qks3nd",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I'm making a desktop idle game that uses your keyboard input to grow crops. Very cosy, much idle 😌",
-      "content": "submitted by /u/byXToGo [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qks3nd/im_making_a_desktop_idle_game_that_uses_your/",
-      "author": "/u/byXToGo",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T14:49:09.919108"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkt2tp",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I need your help!",
-      "content": "submitted by /u/CoLabGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkt2tp/i_need_your_help/",
-      "author": "/u/CoLabGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T15:14:32.985494"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qktc81",
       "type": "post",
       "subreddit": "IndieDev",
@@ -18287,7 +18191,103 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-27T10:15:35.662162"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qoai4m",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Good Games 357 - Wagotabi",
+      "content": "A demo for a rather good educational game for learning Japanese. https://youtu.be/9hkCy5JLbK0 submitted by /u/FortKenmei [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qoai4m/good_games_357_wagotabi/",
+      "author": "/u/FortKenmei",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T10:52:06.342644"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qoab79",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Why my video can't be shown in the Reddit Community?",
+      "content": "Hi guys. I have made a post to introduce my game in reddit. However, the video I upload could not be seen in the community. But it is normally playing if you click in the post. How this happen? submitted by /u/Popular_Molasses962 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qoab79/why_my_video_cant_be_shown_in_the_reddit_community/",
+      "author": "/u/Popular_Molasses962",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T10:52:06.342670"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qoa5sa",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "another type of fog of war for TRAVEL KNIGHT ADVENTURE",
+      "content": "try it >> https://store.steampowered.com/app/2823980/Travel_Knight_Adventure_Demo/ submitted by /u/fleewortep [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qoa5sa/another_type_of_fog_of_war_for_travel_knight/",
+      "author": "/u/fleewortep",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T10:52:06.342714"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qoadm0",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Godot 4.6 docs now have new selection options to link relevant documentation for your profile",
+      "content": "https://preview.redd.it/6lqzwlh9dvfg1.png?width=857&format=png&auto=webp&s=e8646546897a0b1b05ae5abfeadfca9acc32d56c Underrated update for this version, I think. Reading the docs is now more relevant than ever. submitted by /u/YuutoSasaki [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qoadm0/godot_46_docs_now_have_new_selection_options_to/",
+      "author": "/u/YuutoSasaki",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T10:52:06.342725"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qoad1c",
+      "type": "search",
+      "subreddit": "RivalsCollege",
+      "title": "[VOD REQUEST] [D2] i cant get it. How did i bring value to the table?",
+      "content": "MDSAFS, console, Code: 5048762430. Recently I have been playing thing and thor a lot so this game i decided to play cap and NOT swap no matter what (ik it's a bad idea vut it was for the sake of the vod review). I somehow outperformed almost my team (i think) despite having counters. If you told me i would bring this much table in a game where triple supp+thing+bucky exist i wouldn't have believed you. I want to do more of these games but idk how i did it in the first place (:. Also any criticism is welcomed. Especially with tracking jeff ults🥲 submitted by /u/BA6A6 to r/RivalsCollege [link] [comments]",
+      "link": "https://www.reddit.com/r/RivalsCollege/comments/1qoad1c/vod_request_d2_i_cant_get_it_how_did_i_bring/",
+      "author": "/u/BA6A6",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T10:52:06.343140"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qoandt",
+      "type": "search",
+      "subreddit": "LoudlyGreasy",
+      "title": "Home Depot Gas Grill Sale",
+      "content": "Use the Home Depot Gas Grill Sale . There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/selectivevillad to r/LoudlyGreasy [link] [comments]",
+      "link": "https://www.reddit.com/r/LoudlyGreasy/comments/1qoandt/home_depot_gas_grill_sale/",
+      "author": "/u/selectivevillad",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T10:52:06.343372"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qoand9",
+      "type": "search",
+      "subreddit": "GiftIdeas",
+      "title": "diy gift idea needed",
+      "content": "It’s my boyfriend’s birthday in a week and I got him two dvds (flash dance and grease) and a dnd board game. I’d still like to make something for him that’s self made to show him how much I care cause he knows how much time I always invest in handmade stuff. However I have practically no ideas?? He’s really into retro stuff especially vinyls and likes musicals. Hes also still in school. Does anyone have any ideas? submitted by /u/spidermanfanatic to r/GiftIdeas [link] [comments]",
+      "link": "https://www.reddit.com/r/GiftIdeas/comments/1qoand9/diy_gift_idea_needed/",
+      "author": "/u/spidermanfanatic",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T10:52:06.343389"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qoaiw2",
+      "type": "search",
+      "subreddit": "forhonor",
+      "title": "I won a 2v4 breach match, how should I celebrate?",
+      "content": "The bot on the other team was a last minute quit submitted by /u/UmaThermos1 to r/forhonor [link] [comments]",
+      "link": "https://www.reddit.com/r/forhonor/comments/1qoaiw2/i_won_a_2v4_breach_match_how_should_i_celebrate/",
+      "author": "/u/UmaThermos1",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T10:52:06.343700"
     }
   ],
-  "last_updated": "2026-01-27T10:17:11.686122"
+  "last_updated": "2026-01-27T10:53:57.028580"
 }
