@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qkuxsu",
-      "type": "search",
-      "subreddit": "IndieDev",
-      "title": "Indie Gacha Game",
-      "content": "Hello! I've been working on a game inspired by a discontinued mobile game, and both it and my game have a gacha system where players can pull for creatures like pictured. I was curious about other people's thoughts on a random gacha system in an indie game in general. I don't see much talk about indie devs x gacha mechanics. I have a small discord community of a little over 100 people that are very aware and okay with it, so I think this is a sign there's a way to do it right, generous and non-predatory. submitted by /u/jax133 to r/IndieDev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkuxsu/indie_gacha_game/",
-      "author": "/u/jax133",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T16:15:39.245757"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkv141",
-      "type": "search",
-      "subreddit": "pokemon",
-      "title": "Challenge in FireRed/LeafGreen",
-      "content": "The other day, some friends and I debated what the perfect team for Kanto in FireRed or LeafGreen would be. It inspired me to put this debate into practice and challenge myself to beat the game with a strict set of rules, making team and move selection crucial, but still possible without relying on luck. I'm avoiding Nuzlockes or difficulty mods like Radical Red, because I want to figure out the best team for the original games. My planned rules are: Use only 6 Pokemon for the entire playthrough (MOs included). Set battle style. No in-battle items. To increase difficulty, I'm thinking of setting level caps for Gym Leaders and the Elite Four. My questions are: What level caps would hi that sweet spot (challenging but not luck-based)? Any other rules or ideas to make it harder? How should I hande IVs, EVs and natures? submitted by /u/Green-Grapefruit4713 to r/pokemon [link] [comments]",
-      "link": "https://www.reddit.com/r/pokemon/comments/1qkv141/challenge_in_fireredleafgreen/",
-      "author": "/u/Green-Grapefruit4713",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T16:15:39.245777"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qkvgl7",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Project planning for a game",
-      "content": "I've sat down and sketched out how many things I'll need to complete my game - things that aren't just \"code\". How many 3D models, what UI screens, how many unit sounds, UI sounds, music, 2D artwork etc. How would you go about actually allocating time to these? How do I figure out how long it would take a contracted 3D artist to produce a model ? Or for an hour's worth of music to be produced? Or for 2h of voiceover to be recorded? Thanks for reading submitted by /u/Coordinate-Dev [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qkvgl7/project_planning_for_a_game/",
-      "author": "/u/Coordinate-Dev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T16:53:43.353193"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkvw3t",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "We've just released the Steam demo for our physics-based roguelite, Tower Lab!",
-      "content": "Feel free to grab it on Steam and give it a shot! We'd love to hear what you think! submitted by /u/DevonPowell3D [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkvw3t/weve_just_released_the_steam_demo_for_our/",
-      "author": "/u/DevonPowell3D",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T16:53:43.353231"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkvpgq",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I always love when equipment change something visually, so in my game i'll do a bunch of accessories",
-      "content": "submitted by /u/TheHPZero [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkvpgq/i_always_love_when_equipment_change_something/",
-      "author": "/u/TheHPZero",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T16:53:43.353239"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkveht",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Added rally points to my incremental RTS so you can counter your opponent's setup",
-      "content": "submitted by /u/GFX47 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkveht/added_rally_points_to_my_incremental_rts_so_you/",
-      "author": "/u/GFX47",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T16:53:43.353264"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkvcwm",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "A short evolution clip from Thief’s Shelter",
-      "content": "A few moments from Thief’s Shelter, showing how the game’s tone, environments, and investigation elements changed over time. submitted by /u/GG-GeoGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkvcwm/a_short_evolution_clip_from_thiefs_shelter/",
-      "author": "/u/GG-GeoGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T16:53:43.353276"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkv8w2",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Iron Flight Demo Now On Steam",
-      "content": "submitted by /u/ButchersBoy [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkv8w2/iron_flight_demo_now_on_steam/",
-      "author": "/u/ButchersBoy",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T16:53:43.353281"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qkviuk",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "A taste of BRINE, our retro-fps set in Cornwall, UK",
-      "content": "I've shown off our barrels recently but thought I would show off the wider release. Let me know what you think! We had a lot of questions last time and I'm more than happy to answer each and every one of them. You can find BRINE on Steam here . submitted by /u/StudioWhalefall [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qkviuk/a_taste_of_brine_our_retrofps_set_in_cornwall_uk/",
-      "author": "/u/StudioWhalefall",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T16:53:43.353450"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qkvn84",
       "type": "post",
       "subreddit": "godot",
@@ -18191,7 +18083,127 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-27T11:42:12.842765"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qoc28f",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Synergies are vital to any deckbuilder. Without a good deck and good combinations, you won't get far. What's your favourite card combination to use?",
+      "content": "submitted by /u/playFrostBound [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qoc28f/synergies_are_vital_to_any_deckbuilder_without_a/",
+      "author": "/u/playFrostBound",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T12:21:55.015193"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qobl7l",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Working on an Isometric Combat System – Early Gameplay",
+      "content": "https://reddit.com/link/1qobl7l/video/7u36xy1tpvfg1/player submitted by /u/muffinndev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qobl7l/working_on_an_isometric_combat_system_early/",
+      "author": "/u/muffinndev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T12:21:55.015254"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qobsah",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Godot Update",
+      "content": "Hello. I am extremely new to Godot. I was learning in the previous version but since the new version of Godot is out. How do i go about updating it? Do i need to reinstall it or just installing it will update it? submitted by /u/sophisticatedsalt [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qobsah/godot_update/",
+      "author": "/u/sophisticatedsalt",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T12:21:55.015324"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qobv2x",
+      "type": "search",
+      "subreddit": "buildit",
+      "title": "r/buildit iceberg",
+      "content": "submitted by /u/Wooden_Milk6872 to r/buildit [link] [comments]",
+      "link": "https://www.reddit.com/r/buildit/comments/1qobv2x/rbuildit_iceberg/",
+      "author": "/u/Wooden_Milk6872",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T12:21:55.015901"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qobr13",
+      "type": "search",
+      "subreddit": "makemoneyuk",
+      "title": "Currensea | £10 for new customers spending £100 in foreign currency | Ideal for a holiday",
+      "content": "Currensea is a debit card for using when travelling abroad. You link your current account to it and the funds come from there, so no need to worry about topping it up. It allows you to spend when abroad with only a 0.5% FX fee. Note that some other cards don't have any fees so it may be best to use this just for the bonus, as a backup, or to combine with other cards if you need to withdraw more than the limit in a day. This offer gives you £10 credit when you sign up with a referral link and spend the equivalent of £100 in foreign currency within the first 180 days. Steps: Sign up through a link, download the app, enter referral code NIDW78 https://www.currensea.com/refer-a-friend?utm_source=refer-a-friend&friend-referral-code=NIDW78 Enter referral code: NIDW78 Link your current account Chose the essential plan (free) and order the physical card for free Spend the equivalent of £100 in foreign currency (within 180 days of getting your card) I tried to game the spending from the UK by using the card to deposit into 2 investment platforms based in Europe and in the Euro currency. Neither Income Marketplace nor Profitus allowed the card to be used unfortunately. You can withdraw up to £500/day from an ATM fee-free. But always check the individual ATM as they can charge their own fees like some do in the UK. submitted by /u/Emergency_Arugula_60 to r/makemoneyuk [link] [comments]",
+      "link": "https://www.reddit.com/r/makemoneyuk/comments/1qobr13/currensea_10_for_new_customers_spending_100_in/",
+      "author": "/u/Emergency_Arugula_60",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T12:21:55.015940"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qocbu0",
+      "type": "search",
+      "subreddit": "LoudlyGreasy",
+      "title": "Home Depot Promo Code Free Delivery",
+      "content": "Use the Home Depot Promo Code Free Delivery . There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/selectivevillad to r/LoudlyGreasy [link] [comments]",
+      "link": "https://www.reddit.com/r/LoudlyGreasy/comments/1qocbu0/home_depot_promo_code_free_delivery/",
+      "author": "/u/selectivevillad",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T12:21:55.015985"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qocb3j",
+      "type": "search",
+      "subreddit": "AlgorandOfficial",
+      "title": "Alex spent some time creating a list of algorand ecosystem projects",
+      "content": "https://x.com/algerstmehn/status/2015846918316835177 submitted by /u/semanticweb to r/AlgorandOfficial [link] [comments]",
+      "link": "https://www.reddit.com/r/AlgorandOfficial/comments/1qocb3j/alex_spent_some_time_creating_a_list_of_algorand/",
+      "author": "/u/semanticweb",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T12:21:55.016513"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qoca18",
+      "type": "search",
+      "subreddit": "WebGames",
+      "title": "[DEV] ENIGMA II: The Alchemist's Trial - A multiplayer riddle game with 50 levels and a live-ranking chat",
+      "content": "Hi everyone! I'm the developer of ENIGMA II . It’s a web-based riddle game inspired by the old-school \"riddle\" genre but modernized with live features. 🧪 50 Alchemical Stages: Each one harder than the last. 👥 Live Multiplayer: You can see how many other \"mages\" are currently online and their progress. 📜 The Alchemist's Grimoire: A built-in chat that unlocks channels based on your current level. 💀 Nightmare Mode: For those who want the ultimate challenge (no mistakes allowed). submitted by /u/EconomyOffer6157 to r/WebGames [link] [comments]",
+      "link": "https://www.reddit.com/r/WebGames/comments/1qoca18/dev_enigma_ii_the_alchemists_trial_a_multiplayer/",
+      "author": "/u/EconomyOffer6157",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T12:21:55.016584"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qoc72a",
+      "type": "search",
+      "subreddit": "OutcomeDementia",
+      "title": "Duality of Man",
+      "content": "submitted by /u/NovaKet12 to r/OutcomeDementia [link] [comments]",
+      "link": "https://www.reddit.com/r/OutcomeDementia/comments/1qoc72a/duality_of_man/",
+      "author": "/u/NovaKet12",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T12:21:55.016589"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qoc8k5",
+      "type": "search",
+      "subreddit": "SNK",
+      "title": "[Discussion] What makes a game being broken? When does a game's brokenness stop being fun?",
+      "content": "The King of Fighters 2001 is one of the least popular games in the KOF franchise, for multiple reasons (bad art direction, terrible soundtrack with some exceptions, disappointing story, etc.). And one of the reasons behind this game's infamy is how devoid of balance it is; there is a crazy amount of bugs, infinites, Foxy is too broken, and so on. However, The King of Fighters '97 is one of the most popular KOF games (especially in China), yet it's extremely unbalanced too, with lots of bugs and infinites and... you get it. Yes, it's true KOF '97 is better than KOF 2001 in multiple aspects (story, art direction, and the theme songs, despite being very few, are awesome). The topic of balance in videogames is something I have been thinking about during a couple weeks. Not just about SNK videogames; but also about other fighting games (such as Marvel vs Capcom 2), and even other genres. Some games are easier to break than others. Yet, when does a broken videogame still get fun in spite of (and sometimes because of) the broken stuff; and when does a broken videogame stop being fun because of how broken it is? When trying to balance a game makes it no longer fun? submitted by /u/Remarkable_Town6413 to r/SNK [link] [comments]",
+      "link": "https://www.reddit.com/r/SNK/comments/1qoc8k5/discussion_what_makes_a_game_being_broken_when/",
+      "author": "/u/Remarkable_Town6413",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T12:21:55.016693"
     }
   ],
-  "last_updated": "2026-01-27T11:43:58.385068"
+  "last_updated": "2026-01-27T12:23:44.512086"
 }
