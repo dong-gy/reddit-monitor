@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qkz6jr",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "How can I remove the black border when I run my game?",
-      "content": "https://preview.redd.it/yper8gnk95fg1.png?width=2559&format=png&auto=webp&s=c0fa016d99508d6ff60f7dc2b0d2d10663a820a7 The border shows up when I try to maximize the window. How do I get rid of it? submitted by /u/Wise-Impression697 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qkz6jr/how_can_i_remove_the_black_border_when_i_run_my/",
-      "author": "/u/Wise-Impression697",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T18:55:23.283766"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qkz6gr",
       "type": "post",
       "subreddit": "godot",
@@ -19895,7 +19883,163 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-27T21:08:49.759133"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qorbyn",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I'm trying to make a Found footage Game Thoughts?",
+      "content": "I'm using unreal engine 5 submitted by /u/Space_of_The_Lantern [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qorbyn/im_trying_to_make_a_found_footage_game_thoughts/",
+      "author": "/u/Space_of_The_Lantern",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T21:39:25.361969"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qoriji",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I didn't realize how much of a difference individual foot shadows would make",
+      "content": "I was trying to darken the big blob shadow under the character but it didn't feel right in different lighting setups. Then I wanted to see what it would look like if I added a couple of extra projectors to the feet, and it made a big difference. submitted by /u/sbsmith [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qoriji/i_didnt_realize_how_much_of_a_difference/",
+      "author": "/u/sbsmith",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T21:39:25.361994"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qorbfe",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "My TD game is utilising splines to make enemies/strategy more interesting.",
+      "content": "submitted by /u/Schroederi [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qorbfe/my_td_game_is_utilising_splines_to_make/",
+      "author": "/u/Schroederi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T21:39:25.362057"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qorb06",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Never Give Up",
+      "content": "submitted by /u/icldntgetnameiwanted [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qorb06/never_give_up/",
+      "author": "/u/icldntgetnameiwanted",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T21:39:25.362063"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qor2ns",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Isometric or Third Person View for a Browser MMO?",
+      "content": "submitted by /u/alekblom [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qor2ns/isometric_or_third_person_view_for_a_browser_mmo/",
+      "author": "/u/alekblom",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T21:39:25.362069"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qoqsln",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My 2d pixelart sprite looks weird",
+      "content": "The first and third image is how they look on my game, and the second is the original. I tried turning snap 2d transforms into pixel but that makes the camera glitch. Now I don't know what else to do. The resolution is 320 x 180 and the sprite is 16x16 approximately. submitted by /u/Blacksmith-Cautious [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qoqsln/my_2d_pixelart_sprite_looks_weird/",
+      "author": "/u/Blacksmith-Cautious",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T21:39:25.362111"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qore3w",
+      "type": "search",
+      "subreddit": "gamemaker",
+      "title": "Made a clicker about eating snacks at work while your boss isn't looking. Learning project",
+      "content": "The idea came randomly while i was working in an office. My coworker and I were eating chips and joked: \"Let's stop chewing when someone looks at us and stare suspiciously.\" I thought this could be a cool game idea Gameplay: Click on food to eat while the boss isn't watching Boss has 3 states: Working → About to look → Watching Get caught = lose 50 work points Balance your hunger meter (-50 to +50) while completing your work quota Engine: GameMaker Art: Aseprite Took about 25-30 hours in total to make. Link to the game: https://sf13.itch.io/office-rats submitted by /u/SpringFloyd13 to r/gamemaker [link] [comments]",
+      "link": "https://www.reddit.com/r/gamemaker/comments/1qore3w/made_a_clicker_about_eating_snacks_at_work_while/",
+      "author": "/u/SpringFloyd13",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T21:39:25.362851"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qor5wh",
+      "type": "search",
+      "subreddit": "playmygame",
+      "title": "Made a clicker about eating snacks at work while your boss isn't looking",
+      "content": "Game Title: Office Rats Playable Link: https://sf13.itch.io/office-rats Description: Gameplay: Click on food to eat while the boss isn't watching Boss has 3 states: Working → About to look → Watching Get caught = lose 50 work points Balance your hunger meter (-50 to +50) while completing your work quota The idea came randomly while i was working in an office. My coworker and I were eating chips and joked: \"Let's stop chewing when someone looks at us and stare suspiciously.\" I thought this could be a cool game idea. Involvement: i'm solo developer and it is my learning project Engine: GameMaker Art: Aseprite Took about 25-30 hours in total to make. submitted by /u/SpringFloyd13 to r/playmygame [link] [comments]",
+      "link": "https://www.reddit.com/r/playmygame/comments/1qor5wh/made_a_clicker_about_eating_snacks_at_work_while/",
+      "author": "/u/SpringFloyd13",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T21:39:25.363153"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qorgns",
+      "type": "search",
+      "subreddit": "RogueTraderCRPG",
+      "title": "Yall think Overseer will be nerfed for the next DLC?",
+      "content": "Like they did with blade dancer? This is a typical Russian game dev tactic. Release new class and make it OP and fun to sell max DLC copies. Later nerf it in time to sell the next one. I went through that almost every season with War Gaming games and whatever new OP tank they’re trying to sell. It’s pretty obvious Overseer is really strong so my guess is they will. Am I butthurt about blade dancer? Yeah, a bit. Kibellah is my favorite companion. Am I late to the party? Yeah I am. Was busy playing other games until now. People saying the debuff you get now with bladedancer doesn’t matter cuz the fight “is over in one round”. Which is pure BS. Besides maybe some easy random warp route fight on the ship, there’s many fight like the one on the stolen tithe ship where you’re facing two large groups of enemies one of which you can’t even reach until you hit the button nobody is finishing that fight in one round. So that debuff neutered the class and it sucks. submitted by /u/coldbreweddude to r/RogueTraderCRPG [link] [comments]",
+      "link": "https://www.reddit.com/r/RogueTraderCRPG/comments/1qorgns/yall_think_overseer_will_be_nerfed_for_the_next/",
+      "author": "/u/coldbreweddude",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T21:39:25.363185"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qorda0",
+      "type": "search",
+      "subreddit": "starcitizen",
+      "title": "Twas The Night Before 4.6",
+      "content": "The darkness outside shall frustrate me no more As I deliver the filters to combat the spore This patch feels different not quite the same More like a major win for the game So here's to the devs at the end of the day for making this change that lights up the way And when we all journey from Pyro to Nyx Remember the night before 4.6 submitted by /u/uncle_thermite to r/starcitizen [link] [comments]",
+      "link": "https://www.reddit.com/r/starcitizen/comments/1qorda0/twas_the_night_before_46/",
+      "author": "/u/uncle_thermite",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T21:39:25.363272"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qord0c",
+      "type": "search",
+      "subreddit": "Howrse",
+      "title": "Can we like, try not to be complete jerks on the forums? Is it really so hard?",
+      "content": "So this was posted in the Dev update corners in the forums on the international version a few hours ago. I understand some players are upset about the recent Ascent change, but throwing derogatory comments toward an entire country and culture seems a lil' bit out of pocket imo. Name blocked out to comply with forum rules, which is too bad really. Full disclosure, I live in a French area, but sub in a similarly uncalled-for and offensive comment toward any other country/ethnicity in a supposedly child-friendly, international game...come on. Go throw a tantrum over your pixel ponies, sure, but let's try to keep the racism out of it mmkay? submitted by /u/Weird_Business_9026 to r/Howrse [link] [comments]",
+      "link": "https://www.reddit.com/r/Howrse/comments/1qord0c/can_we_like_try_not_to_be_complete_jerks_on_the/",
+      "author": "/u/Weird_Business_9026",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T21:39:25.363290"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qorfvy",
+      "type": "search",
+      "subreddit": "AtariVCS",
+      "title": "is the atari vcs worth it for retro emulation?",
+      "content": "hi!! im thinking of making a stupid ass purchase, and i got my eyes on this console :3 ive heard a lot of stuff about it since its inception, some criticism to put it lightly 😭 though ive heard it works pretty well for low-end PC gaming, so i just wanted to know how well it handles emulation for most older consoles? might be a good thing to have in the living room if i felt like playing some N64 hacks or smth!![]( https://emojipedia.org/loudly-crying-face#:~:text=Loudly%20Crying%20Face%20Emoji%20Meaning,laughter%2C%20pride%20or%20overwhelming%20joy.)[](https://emojipedia.org/loudly-crying-face#:~:text=Loudly%20Crying%20Face%20Emoji%20Meaning,laughter%2C%20pride%20or%20overwhelming%20joy. ) submitted by /u/67678_202020 to r/AtariVCS [link] [comments]",
+      "link": "https://www.reddit.com/r/AtariVCS/comments/1qorfvy/is_the_atari_vcs_worth_it_for_retro_emulation/",
+      "author": "/u/67678_202020",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T21:39:25.363758"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qorelt",
+      "type": "search",
+      "subreddit": "aternos",
+      "title": "How do I create a server in another version?",
+      "content": "I've tried creating my first server but I cannot seem to find the option to change versions of the game. I usually play 1.16.5 but when I click create it always makes a 1.21 one. How do you change that? submitted by /u/rare_set_1888 to r/aternos [link] [comments]",
+      "link": "https://www.reddit.com/r/aternos/comments/1qorelt/how_do_i_create_a_server_in_another_version/",
+      "author": "/u/rare_set_1888",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T21:39:25.364117"
     }
   ],
-  "last_updated": "2026-01-27T21:10:11.430228"
+  "last_updated": "2026-01-27T21:40:52.610312"
 }
