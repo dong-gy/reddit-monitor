@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qkr4wy",
-      "type": "search",
-      "subreddit": "Endfield",
-      "title": "Devs doesn't wanna add the Game on Steam. fine, I'll do it myself.",
-      "content": "submitted by /u/Courora to r/Endfield [link] [comments]",
-      "link": "https://www.reddit.com/r/Endfield/comments/1qkr4wy/devs_doesnt_wanna_add_the_game_on_steam_fine_ill/",
-      "author": "/u/Courora",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T13:56:03.222129"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkre95",
-      "type": "search",
-      "subreddit": "ufl",
-      "title": "What's Gator Gaming without letting the gators game? 🎮🐊",
-      "content": "Bring your video games to Reitz Room 3320 this upcoming Tuesday, January 27 for our next meeting! Starting at 6 PM, we will be doing what gamers do best: play video games! So bring your own setups and come make some new friends! Hope to see you guys there! submitted by /u/GatorGamingUF to r/ufl [link] [comments]",
-      "link": "https://www.reddit.com/r/ufl/comments/1qkre95/whats_gator_gaming_without_letting_the_gators_game/",
-      "author": "/u/GatorGamingUF",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T13:56:03.222400"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkrb8q",
-      "type": "search",
-      "subreddit": "godot",
-      "title": "I just made my first solo game jam game",
-      "content": "I made a game years ago in Unity with a friend. Recently, I returned to game dev and have been learning Godot for the last year. This here is the fruit of such a cool engine and hard work. submitted by /u/G_aku to r/godot [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qkrb8q/i_just_made_my_first_solo_game_jam_game/",
-      "author": "/u/G_aku",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T13:56:03.222823"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qkr73n",
-      "type": "search",
-      "subreddit": "GodotEngine",
-      "title": "This app is really useful or is scam?",
-      "content": "submitted by /u/PitifulRoad5151 to r/GodotEngine [link] [comments]",
-      "link": "https://www.reddit.com/r/GodotEngine/comments/1qkr73n/this_app_is_really_useful_or_is_scam/",
-      "author": "/u/PitifulRoad5151",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T13:56:03.222867"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qkrw2u",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Steam demo should be on long before Next Fest?",
-      "content": "HI guys. As I know, Steam platform would exposure your produce if you put on demo. My question is if I put my demo right before the Next Fest. Would I lose this opportunity of demo exposure? Since all the demos are promoted at that time, the time to exposure my demo before NF would be very short. Am I understanding this right? submitted by /u/Popular_Molasses962 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qkrw2u/steam_demo_should_be_on_long_before_next_fest/",
-      "author": "/u/Popular_Molasses962",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T14:16:31.501174"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkrtyo",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Commissioned an animated intro to my solodev Scottish-voice-acted game! Did the artist do a good job?",
-      "content": "submitted by /u/BeaconDev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkrtyo/commissioned_an_animated_intro_to_my_solodev/",
-      "author": "/u/BeaconDev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T14:16:31.501242"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qkrox7",
       "type": "post",
       "subreddit": "IndieDev",
@@ -18215,7 +18143,127 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-27T09:21:32.179724"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qo9lz8",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "My six-question survey about locale-related issues in games and other software",
+      "content": "I’m running a short six-question anonymous survey about locale-related issues in games and other software (e.g. language-dependent casing, Unicode edge cases, and other internationalization pitfalls like inconsistent decimal number and date formatting). I will post a brief summary of the results in the comments or as a follow-up post once responses slow down. The survey is multiple-choice and takes about 5–10 minutes. Survey link: https://forms.gle/UwRa4AwjZAaDQdeEA Thanks to anyone who participates or wants to discuss related experiences. submitted by /u/BoloFan05 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qo9lz8/my_sixquestion_survey_about_localerelated_issues/",
+      "author": "/u/BoloFan05",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T09:52:25.832053"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qo9la7",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Will players notice changes in gamma and saturation along 2-3 hours of gameplay?",
+      "content": "Hello, I'm making a realistic-looking game about cleaning up nature places, and recently I had an idea to change the appearance of the game as the player completes missions (like gamma and saturation slightly travels from -20% on the start to +20% to the end), but will players notice the difference if its spread out over 2-3 hours of gameplay? submitted by /u/Used_Produce_3208 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qo9la7/will_players_notice_changes_in_gamma_and/",
+      "author": "/u/Used_Produce_3208",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T09:52:25.832075"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qo9fhh",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Released my inverse-minesweeper/mining game about the heat death of the universe to positive reviews on Steam! I'm so glad it worked out",
+      "content": "submitted by /u/dklassic [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qo9fhh/released_my_inverseminesweepermining_game_about/",
+      "author": "/u/dklassic",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T09:52:25.832110"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qo99h3",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Big day (and big stress): I'm launching the first public playtest for KAZ after months of dev",
+      "content": "submitted by /u/Punzk [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qo99h3/big_day_and_big_stress_im_launching_the_first/",
+      "author": "/u/Punzk",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T09:52:25.832129"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qo97av",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Golden Gamble Just Launched on iOS After Months of Apple Review Hell – FREE Token Duel Game with Casino Vibes!",
+      "content": "submitted by /u/Ok_Development9433 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qo97av/golden_gamble_just_launched_on_ios_after_months/",
+      "author": "/u/Ok_Development9433",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T09:52:25.832139"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qo977e",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "A hack and slash adventure game I've been working on.",
+      "content": "submitted by /u/Grumpy_Wizard_ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qo977e/a_hack_and_slash_adventure_game_ive_been_working/",
+      "author": "/u/Grumpy_Wizard_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T09:52:25.832149"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qo9i0l",
+      "type": "search",
+      "subreddit": "digitaltabletop",
+      "title": "Don't Freeze in Board Game Fest - digital solo survival with board game design",
+      "content": "During Steam Board Game Fest and wanted to share Don't Freeze with the digital tabletop community. Design philosophy: Built to feel like a physical solo board game (Friday, Robinson Crusoe's solo mode, One Deck Dungeon). Core loop: - Navigate a location map (the board) - Manage hand of resource cards - Make strategic decisions each turn - Time advances based on actions (like action point systems) - Survive or die trying - Meta-progression between runs Why digital vs physical: - Automated bookkeeping (health, warmth, time tracking) - Randomized events/spawns - Save states for long sessions - But could theoretically be played with physical components Made it because I got motion sickness from FPS survival games. Turn-based solved that problem and ended up creating board game-style gameplay. Demo during fest: https://store.steampowered.com/app/3853360/Dont_Freeze_A_Winter_Card_Survival_Demo/ Other digital tabletop fans here? submitted by /u/yolo35games to r/digitaltabletop [link] [comments]",
+      "link": "https://www.reddit.com/r/digitaltabletop/comments/1qo9i0l/dont_freeze_in_board_game_fest_digital_solo/",
+      "author": "/u/yolo35games",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T09:52:25.832673"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qo9gvp",
+      "type": "search",
+      "subreddit": "MLPIOS",
+      "title": "My account was restored",
+      "content": "submitted by /u/Vanilla_Ice_Best_Boi to r/MLPIOS [link] [comments]",
+      "link": "https://www.reddit.com/r/MLPIOS/comments/1qo9gvp/my_account_was_restored/",
+      "author": "/u/Vanilla_Ice_Best_Boi",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T09:52:25.833153"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qo9gk6",
+      "type": "search",
+      "subreddit": "okbuddyptfo",
+      "title": "Women ruined Battlefield",
+      "content": "Auggh, those goshdarn women devs turning ma ultra realistic immersion milsim game into woke liberal codslop, if EA wasnt so WOKE they would hire MEN to make skins look like my Reddit avatar, thats what REAL MALE soldiers wear into battle not the WOKE CODslop skins we have in now submitted by /u/Ok_Cut9729 to r/okbuddyptfo [link] [comments]",
+      "link": "https://www.reddit.com/r/okbuddyptfo/comments/1qo9gk6/women_ruined_battlefield/",
+      "author": "/u/Ok_Cut9729",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T09:52:25.833603"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qo99dp",
+      "type": "search",
+      "subreddit": "AppDevelopers",
+      "title": "👋 Welcome to r/GameDevOutsourcing - Introduce Yourself and Read First!",
+      "content": "submitted by /u/Playful_Click_453 to r/AppDevelopers [link] [comments]",
+      "link": "https://www.reddit.com/r/AppDevelopers/comments/1qo99dp/welcome_to_rgamedevoutsourcing_introduce_yourself/",
+      "author": "/u/Playful_Click_453",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T09:52:25.833645"
     }
   ],
-  "last_updated": "2026-01-27T09:23:12.477529"
+  "last_updated": "2026-01-27T09:54:06.595955"
 }
