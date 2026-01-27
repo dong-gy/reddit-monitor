@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qknc4i",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "When changing active camera, its transform is off by a little bit for the first frame?",
-      "content": "When I change the active camera in Godot, this thing happens. I don't understand what is causing this, since nothing should be changing the new camera's transform afterwards. Code posted into the comments. submitted by /u/SanttuPOIKA---- [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qknc4i/when_changing_active_camera_its_transform_is_off/",
-      "author": "/u/SanttuPOIKA----",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T10:48:15.067777"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qknqux",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "How do you save your project?",
-      "content": "How do you make sure your game project is safe? I currently use Git for version control and an external hard drive for backups. Every evening I commit my changes and copy the project to the drive. That feels solid to me, but I’m curious: what’s your backup strategy? submitted by /u/Mondkap [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qknqux/how_do_you_save_your_project/",
-      "author": "/u/Mondkap",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T11:11:47.116170"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qknq3l",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Would you trust him?",
-      "content": "submitted by /u/alperozgunyesil [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qknq3l/would_you_trust_him/",
-      "author": "/u/alperozgunyesil",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T11:11:47.116177"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qknr2o",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "How do you save your project?",
-      "content": "submitted by /u/Mondkap [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qknr2o/how_do_you_save_your_project/",
-      "author": "/u/Mondkap",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T11:11:47.116266"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qknp2q",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Would you trust him?",
-      "content": "submitted by /u/alperozgunyesil [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qknp2q/would_you_trust_him/",
-      "author": "/u/alperozgunyesil",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T11:11:47.116272"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qkntem",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Are there any Sonic frameworks for Godot similar to Sonic Worlds Next?",
-      "content": "I want to create a Sonic fan game and I’d like to know if there’s a project similar to Sonic Worlds Next (built in Clickteam), but made for Godot. submitted by /u/Rotorvek_ [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qkntem/are_there_any_sonic_frameworks_for_godot_similar/",
-      "author": "/u/Rotorvek_",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T11:11:47.116367"
-    },
-    {
-      "id": "https://www.reddit.com/r/unrealengine/t3_1qknhbr",
-      "type": "post",
-      "subreddit": "unrealengine",
-      "title": "Actor reference shown as not valid after spawning",
-      "content": "Hi i am currently working on a project where i have a custom event which spawns an Actor and than i set a variable with the return value. Than i got an other custom node which meant to start the game.. i use the variable as valid get and call the start function of the spawned actor from there, but somehow it keep going to the not valid side.. i watched the debug nodes, and the spawn actor node definitely runs before the valid get but still it come out as not valid... what could be the problem? Do mi still need to use the variable to cast to the bp? Screenshots are in the first comment.. if anybody has any idea what could go wrong please let me know submitted by /u/Efficient-Regular-30 [link] [comments]",
-      "link": "https://www.reddit.com/r/unrealengine/comments/1qknhbr/actor_reference_shown_as_not_valid_after_spawning/",
-      "author": "/u/Efficient-Regular-30",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T11:11:47.116422"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qko0y9",
-      "type": "search",
-      "subreddit": "Endfield",
-      "title": "Payment system is so bad",
-      "content": "Their payment system is god damn crap. They are writing my countries currency in the game but if I want to buy anything just before I approve I see it in another countries currency which makes it 30% more submitted by /u/Karzak85 to r/Endfield [link] [comments]",
-      "link": "https://www.reddit.com/r/Endfield/comments/1qko0y9/payment_system_is_so_bad/",
-      "author": "/u/Karzak85",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T11:11:47.117699"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qknxex",
-      "type": "search",
-      "subreddit": "ArknightsEndfield",
-      "title": "What was the reaction of the CN community after launch?",
-      "content": "Chinese devs naturally will prioritize the CN community over others so I was curious what was the CN communities reaction to the initial PayPal crisis and the overall situation of the game. Especially the gacha system, the combat, the story and the current pull economy. submitted by /u/iwanthidan to r/ArknightsEndfield [link] [comments]",
-      "link": "https://www.reddit.com/r/ArknightsEndfield/comments/1qknxex/what_was_the_reaction_of_the_cn_community_after/",
-      "author": "/u/iwanthidan",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T11:11:47.118226"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qknw17",
       "type": "search",
       "subreddit": "LenovoLegion",
@@ -18455,7 +18347,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-27T06:18:42.456946"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qo642z",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Does anyone know of any interesting cosmic horror or arcade racing indie titles?",
+      "content": "I’ve begun getting into small one person indie titles, and I would love any of your suggestions on where to start. submitted by /u/ethanw04 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qo642z/does_anyone_know_of_any_interesting_cosmic_horror/",
+      "author": "/u/ethanw04",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T06:57:44.255799"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qo61gk",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I've been working on Runic Winds, a top-down pixel-art RPG inpired by Zelda and Souls. What do you think? Steam page is linked in my bio if you're curious.",
+      "content": "https://reddit.com/link/1qo61gk/video/sfwsm0v84ufg1/player submitted by /u/Green_Coffee_8192 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qo61gk/ive_been_working_on_runic_winds_a_topdown/",
+      "author": "/u/Green_Coffee_8192",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T06:57:44.255818"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qo60hc",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My first attempt at a platformer",
+      "content": "Any suggestions would be amazing. I'm just proud of what I've made so far. submitted by /u/dontleftclick [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qo60hc/my_first_attempt_at_a_platformer/",
+      "author": "/u/dontleftclick",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T06:57:44.255848"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qo6o43",
+      "type": "search",
+      "subreddit": "RimWorld",
+      "title": "So flame damage stopped working at all for some reason?",
+      "content": "After installing big and small framework, I officially hate that mod now lol, which supposedly meant no problem mid game, for some reason all flame damage is gone and pawns don't get at all causing a red error. Anyone who knows about code can give some insight on this? I already tried to remove it, but doing so still gives me errors. Here's my latest log: https://gist.github.com/HugsLibRecordKeeper/e9fb38811d862e498cc4ae785426b44d submitted by /u/JCLKingAOG to r/RimWorld [link] [comments]",
+      "link": "https://www.reddit.com/r/RimWorld/comments/1qo6o43/so_flame_damage_stopped_working_at_all_for_some/",
+      "author": "/u/JCLKingAOG",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T06:57:44.255869"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qo6chk",
+      "type": "search",
+      "subreddit": "HytaleMods",
+      "title": "Magic",
+      "content": "Okay, I am crazy inexperienced no coding or modding experience ever and blockbench looks really intimidating but I would pay money for a mod that let's me craft spells like in the game portal knights. I was thinking of using the essences and crystal shards to craft different spells and making different tiers? How hard would that be? I mean I would have to make models and textures for the spells and add the recipes to the arcanists bench and all of that? submitted by /u/ScribexOfxFate to r/HytaleMods [link] [comments]",
+      "link": "https://www.reddit.com/r/HytaleMods/comments/1qo6chk/magic/",
+      "author": "/u/ScribexOfxFate",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T06:57:44.255993"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qo6jzi",
+      "type": "search",
+      "subreddit": "Endfield",
+      "title": "The Stock Distribution and Factory System is awesome",
+      "content": "Was not expecting to enjoy this game after all the pull currency income bs. If only I didn't need more stock bills I wouldn't even go to the next area. Once you unlock more depot nodes it will make your stock bills skyrocket. I didn't care much about the characters at this point than having more stock bills. Hoping in the future we'll have more things to dump bills for. Out of all the gachas I've played this system is very unique and enjoyable, kudos to the devs. submitted by /u/iamyourtypicalguy to r/Endfield [link] [comments]",
+      "link": "https://www.reddit.com/r/Endfield/comments/1qo6jzi/the_stock_distribution_and_factory_system_is/",
+      "author": "/u/iamyourtypicalguy",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T06:57:44.257840"
     }
   ],
-  "last_updated": "2026-01-27T06:20:37.570208"
+  "last_updated": "2026-01-27T06:59:17.725769"
 }
