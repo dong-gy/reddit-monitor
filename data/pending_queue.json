@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkxg92",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Reconquista demo is out. I’d really appreciate it if you could try it and share your feedback.",
-      "content": "https://reddit.com/link/1qkxg92/video/g2gu381ey4fg1/player submitted by /u/krststore [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkxg92/reconquista_demo_is_out_id_really_appreciate_it/",
-      "author": "/u/krststore",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T17:43:59.951665"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkx6xb",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Announcement | Devil Lift",
-      "content": "submitted by /u/Enkaem [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkx6xb/announcement_devil_lift/",
-      "author": "/u/Enkaem",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T17:43:59.951671"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qkwza6",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Blasphemy Seed Project",
-      "content": "I recently had a small project: creating an indie game, the concept of which came from Blasphemous. For gameplay, I had in mind either an RPG or a 2D Metroidvania. The graphic style will be pixel art, while other factors like the soundtrack, characters, and game mechanics still need to be worked out. As for the plot, I still need to structure it well because it doesn't sound great right now. I'm therefore asking for advice on programming, as I'm very ignorant about it. submitted by /u/Th3_JuggerN4uT [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qkwza6/blasphemy_seed_project/",
-      "author": "/u/Th3_JuggerN4uT",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T17:43:59.951685"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qkx1tx",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Released the demo for my Godot desktop buddy game on Steam",
-      "content": "Happy to finally get this out. Still need to work to finish up for full release but feels good to get to this point. #godot4ever submitted by /u/russpuppy [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qkx1tx/released_the_demo_for_my_godot_desktop_buddy_game/",
-      "author": "/u/russpuppy",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T17:43:59.951771"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qkxfos",
       "type": "search",
       "subreddit": "HeroForgeMinis",
@@ -18755,7 +18707,79 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-27T15:19:39.623792"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qoed5p",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "If a game is truly fun, does it even need marketing?",
+      "content": "I've been wrestling with this question for months as I work on my own project. There's this romantic idea that \"great games market themselves\" — that if you make something genuinely fun and polished, players will naturally discover it, streamers will pick it up, and word-of-mouth will do the rest. But then I look at Steam's \"new releases\" page. Dozens of games launch every single day. Many look solid. Some even look incredible. And most of them? Vanish without a trace. So here's my question: In 2026, with algorithmic feeds, influencer gatekeeping, and players drowning in options, can a truly great game still succeed with zero marketing? Or is \"fun\" simply not enough anymore? I'm not talking about AAA budgets — I mean even basic things like: - Building a community before launch - Reaching out to content creators - Running a Steam page with regular updates Have any of you seen games blow up purely on merit? Or is the \"build it and they will come\" philosophy just survivorship bias from the few lucky ones? Curious to hear your experiences — especially from devs who've shipped something. submitted by /u/Grass_SummerFlower [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qoed5p/if_a_game_is_truly_fun_does_it_even_need_marketing/",
+      "author": "/u/Grass_SummerFlower",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:48:39.387962"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qoh54t",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I know it's not a huge amount but feels amazing to be getting pre-orders for my mobile word game from all around the world!",
+      "content": "submitted by /u/emzigamesmzg [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qoh54t/i_know_its_not_a_huge_amount_but_feels_amazing_to/",
+      "author": "/u/emzigamesmzg",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:48:39.387990"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qoh4fs",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Dungeons (Assets For Devs)",
+      "content": "submitted by /u/_V3X3D_ [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qoh4fs/dungeons_assets_for_devs/",
+      "author": "/u/_V3X3D_",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:48:39.388110"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qogzd1",
+      "type": "search",
+      "subreddit": "witcher",
+      "title": "sad to see the reaction of people to the \"witcher online\" mod",
+      "content": "rant incoming. i think a lot of people will not like it but i have to get it off my chest because genuinely.... What The Fuck is wrong with you people ! i think everyone have learned by now rejuvenate released the witcher online mod, gaming \"journalist\" and influencer have made their bread and butter on it, i doubt people here didn't see atleast ONE article or one short about it but for those who don't know : a mod creator of the name of rejuvenate just have managed to make an online mod for witcher 3 despite the limitation of the game itself and released it for free on nexus i'm friend with him, we are part of the same modding discord i saw him those past few months work on it. Even if i saw it coming i'm really dissapointed by people reaction, i expected he'd get some negative comments but genuinely i'm flabergasted by the amount of hate he is receiving, on twitter (even sometimes reddit) people say his mod is shit because they expected a full working online mode like an actual online game, rejuvenate due to the limitation was able to make it so you explore the world together and see each other and speak, but he cannot sync the combat, he is currently working on syncing the horses of each players but thats all he can do. the amount of negativity he receive is really killing his moral, he worked for month on the mod and people insult him because it's not enough despite the fact it was the best he could do with what he is given, people that know nothing about modding or codding call him lazy, say his mod is dissapointing between other worse comment. i'm really sad for him and i'm mad at the community, modders aren't professional, it's a hobby, we don't have experience of actual devs studio neither the budget and more importantly, we are always blocked by the limits of the game itself. Rejuvenate released his mod for free and received more negativity than anything, i know some people who would have locked it behind a paywall, he get no money from it just insult and genuinely i'm sad to see the comunity act like that. the witcher online mod is a prowess to manage to make a game not built at all for solo online its impressive, yes there is somethings you can't do BUT IT'S A MOD ! not an update from cdpr ! and it doesn't excuse the behavior of some of you. and yes i see some comming \"yes but x game have an online mod and it work\" yes but each game is different, each engine, each code it's not because one game can another can reach the same level. i don't say you have to like the mod or even want to force you to use it. i'm just sad of the people reaction and dissapointed by the community, if you don't like it just don't instal it but don't insult the mod author it won't make him want to improve it, it will just demoralize him. submitted by /u/CranEXE to r/witcher [link] [comments]",
+      "link": "https://www.reddit.com/r/witcher/comments/1qogzd1/sad_to_see_the_reaction_of_people_to_the_witcher/",
+      "author": "/u/CranEXE",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:48:39.388638"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qohe53",
+      "type": "search",
+      "subreddit": "moza",
+      "title": "Request for better Xbox support for MOZA HGP Shifter",
+      "content": "I recently got into sim racing and bought my first setup: the MOZA R3 (Xbox) and the MOZA HGP shifter. I checked MOZA’s website before buying and it stated the HGP shifter was supported on Xbox. After setting everything up, I was disappointed to find that the shifter only works in two games on Xbox. The shifter was a major reason I chose this setup, and driving without it significantly hurts the experience. The hardware itself is great, but the current Xbox support is very limited and not clearly communicated. Better game compatibility and clearer information on what “Xbox supported” actually means would go a long way, especially for new sim racers. submitted by /u/YokedGrinch to r/moza [link] [comments]",
+      "link": "https://www.reddit.com/r/moza/comments/1qohe53/request_for_better_xbox_support_for_moza_hgp/",
+      "author": "/u/YokedGrinch",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:48:39.388785"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qohbjw",
+      "type": "search",
+      "subreddit": "ArenaBreakoutInfinite",
+      "title": "Keep gold ammo and T5 armor and above our of Normal Tact Ops",
+      "content": "Hi everyone ( and maybe members of the devs )! Been playing for approx 50 hours now and have great fun on the game so far ! But I have a gripe with some players bringing overpowered armor and ammo in Normal Ops to dunk on newer players and people who just want a \"lower\" risk experience, when I go in Normal Ops I just bring T4 armor (or sometime below) and purple ammo, with two weapons I'm \"just\" below the 450k budget limit ... but recently I stumble upon players with full T5 kits with gold ammo who can kill me with 2 shots to the chest, it feels like smurfs in other games ... thanks everyone for attending to my Ted Talk and thanks to the devs for addressing this issue and maybe giving every player who wants a lower risk experience a chance to shoot back ! submitted by /u/bdemon45 to r/ArenaBreakoutInfinite [link] [comments]",
+      "link": "https://www.reddit.com/r/ArenaBreakoutInfinite/comments/1qohbjw/keep_gold_ammo_and_t5_armor_and_above_our_of/",
+      "author": "/u/bdemon45",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-27T15:48:39.389682"
     }
   ],
-  "last_updated": "2026-01-27T15:21:16.963604"
+  "last_updated": "2026-01-27T15:50:25.065033"
 }
