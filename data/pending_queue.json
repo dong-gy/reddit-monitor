@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1ql5yxd",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Do a Barrel Roll! 🐬",
-      "content": "submitted by /u/MichaelKondracki [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1ql5yxd/do_a_barrel_roll/",
-      "author": "/u/MichaelKondracki",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T23:11:03.438992"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1ql5t53",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "i also removed the pointer",
-      "content": "https://preview.redd.it/5ely88rwi6fg1.png?width=1920&format=png&auto=webp&s=643148d6bd12abcfc4959190836a10c6b7346f75 submitted by /u/jssubs [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1ql5t53/i_also_removed_the_pointer/",
-      "author": "/u/jssubs",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T23:11:03.439003"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1ql5svx",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "We just implemented flight crashes in our dragon game and it's feeling good!",
-      "content": "submitted by /u/GiveMeKittensOrElse [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1ql5svx/we_just_implemented_flight_crashes_in_our_dragon/",
-      "author": "/u/GiveMeKittensOrElse",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T23:11:03.439011"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1ql5k3j",
       "type": "post",
       "subreddit": "IndieDev",
@@ -20771,7 +20735,103 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-28T09:23:08.329401"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qp6xko",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "My Free Child Support Paying Frog Game!",
+      "content": "Hey guys and gals. I've been solo developing my game Technically Frogs Can Fly on and off for around 1 1/2 years now. I have a steam page and around 200 Wishlist's. This is my first steam release and I'm not expecting to make a fortune, but to learn as a new developer. https://preview.redd.it/35t7d9dq82gg1.png?width=1920&format=png&auto=webp&s=5d2186adca9f24d21039bf00f82405c519bc0b79 If you would like to play it's out for free on my itch page Play Technically Frogs Can Fly (GAME LINK)! Technically Frogs Can Fly is a roguevania adventure where you play as a frog just trying to survive by any means necessary. Jump, Mine, Gamble, Drink, and fight your way through a strange, ever-changing world while working off your ever-growing Child Support debt. submitted by /u/FLAME13O [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qp6xko/my_free_child_support_paying_frog_game/",
+      "author": "/u/FLAME13O",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T09:52:37.925504"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qp70p8",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Why is my Godot acting like this 😭",
+      "content": "Why does the Editor and other windows in Godot 4.6 show the issue in the video? When I click Close, Godot crashes after a few seconds 😭 https://reddit.com/link/1qp70p8/video/lay3wt8s92gg1/player submitted by /u/Euphoric-Actuary5576 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qp70p8/why_is_my_godot_acting_like_this/",
+      "author": "/u/Euphoric-Actuary5576",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T09:52:37.925520"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qp70o3",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Made some changes to my Text Editor Color Themes.",
+      "content": "I finally updated my Color Theme. Now has Dark, Midnight and Light Themes. Download the themes here . submitted by /u/Fiery_Griffin [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qp70o3/made_some_changes_to_my_text_editor_color_themes/",
+      "author": "/u/Fiery_Griffin",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T09:52:37.925528"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qp6zgy",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "A minute of gameplay and a question on scene preloading",
+      "content": "submitted by /u/Restless-Gamedev [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qp6zgy/a_minute_of_gameplay_and_a_question_on_scene/",
+      "author": "/u/Restless-Gamedev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T09:52:37.925556"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qp72ve",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "How do i export the metahuman which i have posed in the level sequencer?",
+      "content": "submitted by /u/FlickVfx [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qp72ve/how_do_i_export_the_metahuman_which_i_have_posed/",
+      "author": "/u/FlickVfx",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T09:52:37.925601"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qp6txo",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Steam Page Launch - Things you wish you knew before...",
+      "content": "submitted by /u/InspectorSpacetime49 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qp6txo/steam_page_launch_things_you_wish_you_knew_before/",
+      "author": "/u/InspectorSpacetime49",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T09:52:37.925648"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp74xs",
+      "type": "search",
+      "subreddit": "scratch",
+      "title": "im making a new game genre,i call it vconsole(yes i know ufo 50 already did this)",
+      "content": "also please give feedback on like whatever you can idk submitted by /u/acceptable_shoez to r/scratch [link] [comments]",
+      "link": "https://www.reddit.com/r/scratch/comments/1qp74xs/im_making_a_new_game_genrei_call_it_vconsoleyes_i/",
+      "author": "/u/acceptable_shoez",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T09:52:37.926865"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp73j0",
+      "type": "search",
+      "subreddit": "Dell",
+      "title": "erasing and reinstalling windows on a new laptop doesnt remove these perks?",
+      "content": "on a new laptop where the free offered perks like free office and xbox game pass which aren't yet utilized or logged in to any account, would completely erasing and reinstalling Windows make those perks obsolete? Or no matter how mnay time windows is erased they will stay there? btw reisntall meaning not from Dell recovery, but Windows USB recovery from ms website submitted by /u/Parking-Suggestion97 to r/Dell [link] [comments]",
+      "link": "https://www.reddit.com/r/Dell/comments/1qp73j0/erasing_and_reinstalling_windows_on_a_new_laptop/",
+      "author": "/u/Parking-Suggestion97",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T09:52:37.927672"
     }
   ],
-  "last_updated": "2026-01-28T09:24:47.181949"
+  "last_updated": "2026-01-28T09:54:27.913093"
 }
