@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1ql6rvb",
-      "type": "search",
-      "subreddit": "MiniJeep",
-      "title": "Making a 4x4 mini jeep without radically rebuilding.",
-      "content": "I have been looking at these 4x4 go kart kits on temu and Amazon. I really want to add 4x4 to this thing. I haven't been able to find any reliable information on these kits or anyone who has tried one on any go cart build. Does anyone know anything about these kits? Has anyone tried adding 4x4 to these jeeps yet? submitted by /u/BioWeaponAlias to r/MiniJeep [link] [comments]",
-      "link": "https://www.reddit.com/r/MiniJeep/comments/1ql6rvb/making_a_4x4_mini_jeep_without_radically/",
-      "author": "/u/BioWeaponAlias",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T23:39:47.942729"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1ql6rss",
-      "type": "search",
-      "subreddit": "PaxHistoria",
-      "title": "They should add multiplayer support",
-      "content": "Wouldn't it be great to play with a friend online in one same game ? You could be both different countries and you could see the events that happen in each country. It would be really fun for making alliances or war. I know it might be difficult to implement but it would really be cool submitted by /u/gIasco90 to r/PaxHistoria [link] [comments]",
-      "link": "https://www.reddit.com/r/PaxHistoria/comments/1ql6rss/they_should_add_multiplayer_support/",
-      "author": "/u/gIasco90",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T23:39:47.942741"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1ql6phm",
-      "type": "search",
-      "subreddit": "outerwilds",
-      "title": "[SPOILERS] Is there a lore reason why can't hatchling read the other reels at the forbidden reel archives?",
-      "content": "I've completed the game and the DLC a good while ago, so anything that might be a 'spoiler' is alright with me. Each of the reel archives seem to have hundreds of mint condition reels, why can't I read them? I get that from a realistic real-world standpoint, it's just impossible for the devs to come up with that much content to put in those reels whilst being meaningful. I was just wondering if there's an in-game explanation as to why that's so. Everything about this game is so intentionally put there so I'm guessing there's a very viable in-game explanation/ theories from you guys. thanks submitted by /u/Denhas_ to r/outerwilds [link] [comments]",
-      "link": "https://www.reddit.com/r/outerwilds/comments/1ql6phm/spoilers_is_there_a_lore_reason_why_cant/",
-      "author": "/u/Denhas_",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T23:39:47.943082"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1ql6lno",
-      "type": "search",
-      "subreddit": "IndieDev",
-      "title": "We just released our first chess game on Steam – would love your feedback ♟️",
-      "content": "Hey everyone! After a long dev journey, we finally released our indie chess game on Steam 🎉 Here is the steam page link: https://store.steampowered.com/app/3576290/Chess_Quest_A_Cozy_Puzzle/ We’re a small team and this is our first proper release, so any feedback (good or bad) would honestly help us a lot. If you have a moment to check it out or just share your thoughts, we’d really appreciate it 🙏 Thanks for being such a helpful community! submitted by /u/Flashy-Spinach1690 to r/IndieDev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1ql6lno/we_just_released_our_first_chess_game_on_steam/",
-      "author": "/u/Flashy-Spinach1690",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T23:39:47.943205"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1ql82be",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Which aspect of making a game is easiest to learn?",
-      "content": "I'm mostly talking about the big 3 of coding, art (2d and 3rd) & music. I'd be pretty sure coding is the hardest but if anyone has experiance in the other 3 i'd appreciate a list from easiest to hardest. submitted by /u/kaktus_420 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1ql82be/which_aspect_of_making_a_game_is_easiest_to_learn/",
-      "author": "/u/kaktus_420",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T00:48:16.079477"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1ql7zoq",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Game engines",
-      "content": "I'm trying to figure out which game engine is the absolute easiest to learn/make games in. There might be one that i don't even know about. I know scratch and have heard of pico-8. submitted by /u/kaktus_420 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1ql7zoq/game_engines/",
-      "author": "/u/kaktus_420",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T00:48:16.079493"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1ql8bwu",
       "type": "post",
       "subreddit": "indiegaming",
@@ -20855,7 +20783,91 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-28T10:16:43.615080"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qp84i3",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "The difference professional voice acting makes is crazy",
+      "content": "submitted by /u/Torchlight_Games [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qp84i3/the_difference_professional_voice_acting_makes_is/",
+      "author": "/u/Torchlight_Games",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T10:52:04.752272"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qp7y57",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Reaching the end is harder than it looks, Parkour Pulse is coming soon",
+      "content": "Reaching the end is harder than it looks. Parkour Pulse is a parkour focused action simulation game where momentum is everything. There’s no auto correction, no shortcuts and your speed depends entirely on how well you read the route. Every jump, grapple, wall-run and slide is connected. One small mistake and momentum collapses. A clean run feels incredibly satisfying. We’re currently in the final testing phase and getting ready to publish. Here’s a short gameplay clip from the build: https://youtu.be/705vSRIkAkQ If movement-heavy games and skill based traversal are your thing, you can wishlist Parkour Pulse on Steam and keep it there till launch 👀👇 Steam page: https://store.steampowered.com/app/3720790/Parkour_Pulse Launching soon. submitted by /u/WhyThisGameWorks [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qp7y57/reaching_the_end_is_harder_than_it_looks_parkour/",
+      "author": "/u/WhyThisGameWorks",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T10:52:04.752314"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qp7u38",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I'm making a scrabble-like game inspired by Balatro, what cool features would you like to see?",
+      "content": "submitted by /u/CallMeCurious [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qp7u38/im_making_a_scrabblelike_game_inspired_by_balatro/",
+      "author": "/u/CallMeCurious",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T10:52:04.752416"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp85rm",
+      "type": "search",
+      "subreddit": "Hungergames",
+      "title": "I'm making a roblox hunger games game but I need cornucopia ideas..",
+      "content": "The arena is to be a bamboo forrest filled with tunnels and all the weapons being ancient japanese weapons. Eg: The kama or tanto. I just have no idea what to do for the cornucopia because I want something unique. I was thinking maybe like one of those traditional japanese style houses but that feels too on the nose so I came here to ask you peoples for ideas. (hoping this doesn't count as self promotion because I didn't link the gamae) submitted by /u/Ok-Preparation1537 to r/Hungergames [link] [comments]",
+      "link": "https://www.reddit.com/r/Hungergames/comments/1qp85rm/im_making_a_roblox_hunger_games_game_but_i_need/",
+      "author": "/u/Ok-Preparation1537",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T10:52:04.754277"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp82ck",
+      "type": "search",
+      "subreddit": "Stix",
+      "title": "Morimens Devs QA on the future of the game",
+      "content": "submitted by /u/HessianQrow to r/Stix [link] [comments]",
+      "link": "https://www.reddit.com/r/Stix/comments/1qp82ck/morimens_devs_qa_on_the_future_of_the_game/",
+      "author": "/u/HessianQrow",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T10:52:04.754720"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp7vhx",
+      "type": "search",
+      "subreddit": "gamedevnet",
+      "title": "Early testers wanted (platform for indie & solo game devs)",
+      "content": "submitted by /u/gamedevnet to r/gamedevnet [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedevnet/comments/1qp7vhx/early_testers_wanted_platform_for_indie_solo_game/",
+      "author": "/u/gamedevnet",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T10:52:04.754920"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp82kg",
+      "type": "search",
+      "subreddit": "ArmaReforger",
+      "title": "Do you care to see the end of the match?",
+      "content": "Vanilla games often last for 4+ hours, and it’s rare for players to join at the start and stay until the very end. Especially for those of us with real-life commitments. I’m curious how many of you would enjoy playing a full two-hour match from start to finish? There is a game mode designed precisely for this purpose - making matches more intense and concise, so players can experience the full impact of their actions and see the outcomes play out. Please cast your vote below, and do share your thoughts in the comments. Your feedback will be invaluable in helping us shape this gamemode the right way. View Poll submitted by /u/Companion_QB to r/ArmaReforger [link] [comments]",
+      "link": "https://www.reddit.com/r/ArmaReforger/comments/1qp82kg/do_you_care_to_see_the_end_of_the_match/",
+      "author": "/u/Companion_QB",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T10:52:04.755659"
     }
   ],
-  "last_updated": "2026-01-28T10:18:21.574899"
+  "last_updated": "2026-01-28T10:53:38.176217"
 }
