@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1ql1j69",
-      "type": "search",
-      "subreddit": "lonely",
-      "title": "These days I feel loneliness at a degree that I have never felt before.",
-      "content": "Normally, I am someone who has no problem with being alone. These days, I am letting myself feel everything without coping them. Feeling a strong loneliness all of a sudden makes me think that each time I feel lonely, I might be stopping myself to feel this somehow. submitted by /u/Smyra-- to r/lonely [link] [comments]",
-      "link": "https://www.reddit.com/r/lonely/comments/1ql1j69/these_days_i_feel_loneliness_at_a_degree_that_i/",
-      "author": "/u/Smyra--",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T20:12:59.826532"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1ql18rd",
-      "type": "search",
-      "subreddit": "coralisland",
-      "title": "Sunny likes fish now? (What other changes went unreported?)",
-      "content": "So months ago I posted how odd it was that Sunny, the \"fish\" guy didn't like fish. After debating someone on another thread this morning I decided to manually update my game and lo and behold he suddenly loves fish! I checked the dev log and it doesn't explicitly state this was changed. At the bottom of the update list it simply says, \"And more.\" This makes me wonder what else got changed without much hullabaloo. Anyone come across things, like gift changes, that weren't reported? Does Jim love Pink Diamonds now? (I'm gonna go test it). submitted by /u/bisectionalloveseat to r/coralisland [link] [comments]",
-      "link": "https://www.reddit.com/r/coralisland/comments/1ql18rd/sunny_likes_fish_now_what_other_changes_went/",
-      "author": "/u/bisectionalloveseat",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T20:12:59.828053"
-    },
-    {
       "id": "https://www.reddit.com/t3_1ql1fqh",
       "type": "search",
       "subreddit": "WeGotPolishAtHome",
@@ -21047,7 +21023,103 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-28T06:19:35.990625"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qp3kr4",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "24 hours after publishing Steam page!",
+      "content": "submitted by /u/meltedgore [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qp3kr4/24_hours_after_publishing_steam_page/",
+      "author": "/u/meltedgore",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:57:35.375878"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qp3kbr",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I made a VS Code extension so you can use Antigravity from a mobile device: Antigravity Link",
+      "content": "submitted by /u/Traditional_Doubt_51 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qp3kbr/i_made_a_vs_code_extension_so_you_can_use/",
+      "author": "/u/Traditional_Doubt_51",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:57:35.375885"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qp3kb9",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Unique African Extraction multiplayer - Early gameplay /Devlog",
+      "content": "submitted by /u/Alkebulan_survival [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qp3kb9/unique_african_extraction_multiplayer_early/",
+      "author": "/u/Alkebulan_survival",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:57:35.375892"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qp3y8b",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Collision between CharacterBody2D and RigidBody2D",
+      "content": "character body mask projectile layer https://preview.redd.it/ony0v1ycc1gg1.png?width=445&format=png&auto=webp&s=b2726104172898ace202e5e4fd608a47a71b989d https://preview.redd.it/ooggr6dec1gg1.png?width=518&format=png&auto=webp&s=3ca1b9baf830c023d48402b35302de868eb50ba3 Why does the projectile collide with the body despite the fact that they have no intersection in layers? submitted by /u/Camuslaballe [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qp3y8b/collision_between_characterbody2d_and_rigidbody2d/",
+      "author": "/u/Camuslaballe",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:57:35.375927"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qp3w7f",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "The enemies are exhibiting teamwork to commit suicide 😭",
+      "content": "I have no clue why are they doing this, their directives did not specify teamwork. btw I fixed it later submitted by /u/CountryProper3722 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qp3w7f/the_enemies_are_exhibiting_teamwork_to_commit/",
+      "author": "/u/CountryProper3722",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:57:35.375957"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qp3m8n",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "When you try improve performance but the game Jumpscare you",
+      "content": "https://reddit.com/link/1qp3m8n/video/ymmmqxyc91gg1/player I set the ReflectionProbe to update every 10 second and this happened submitted by /u/Clear-Environment907 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qp3m8n/when_you_try_improve_performance_but_the_game/",
+      "author": "/u/Clear-Environment907",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:57:35.375965"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp48q9",
+      "type": "search",
+      "subreddit": "AlfaOxtrot",
+      "title": "How WE are gonna be feeling on February 5th",
+      "content": "This was the last place were I felt the community was. And seeing this place go is really sad even though the subreddit fell off like 2 years ago it was still nice to see that even after over a year without any uploads people were still posting. which is a testament to how strong of a community this really was. I started watching Alfa about 2 years ago when I saw his liminal Space video and ever since than he was my favorite YouTuber and that liminal video is still my favorite YouTube video I’ve ever seen and this is gonna be some wild glaze but if I had to make a Top 10 YouTube video list I think all of them would be one of his. his videos got me through a lot of hard times and I’ll still occasionally rewatch them (for the 100th time) and I remember some of my days being made seeing him laugh at some of my posts. thanks for the good memories but I guess this is the end of the Cheese Army.🫡 Good riddance. submitted by /u/OkBeginning1449 to r/AlfaOxtrot [link] [comments]",
+      "link": "https://www.reddit.com/r/AlfaOxtrot/comments/1qp48q9/how_we_are_gonna_be_feeling_on_february_5th/",
+      "author": "/u/OkBeginning1449",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:57:35.376241"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp48oq",
+      "type": "search",
+      "subreddit": "AmbientNightLight",
+      "title": "🕯️ WHAT THEY’RE STILL KEEPING IN THEIR HEART 💔 No Contact / Separation: Read Your Zodiac Sign",
+      "content": "♈️ Aries: I’m realizing that nobody else makes me feel this alive. ♉️ Taurus: I’m finally ready to stop running and just choose you. ♊️ Gemini: I see my future when I look into your eyes. ♋️ Cancer: I’m done pretending I don’t need you in my life. ♌️ Leo: I’m working on myself so I can be worthy of us. ♍️ Virgo: You’re the only one who truly understands who I am. ♎️ Libra: I’m ready to drop my ego and just love you. ♏️ Scorpio: I can’t imagine my life without your energy in it. ♐️ Sagittarius: I’m terrified of losing the best thing I ever had. ♑️ Capricorn: I want to build a real, lasting commitment with you. ♒️ Aquarius: I’m finally waking up to how much you mean to me. ♓️ Pisces: I feel safe with you in a way I never have. ❤️ Affirm ‘222’ to unlock their heart. 🔓 Extended Messages From Your Person are live now. See the exact secret they’re hiding, the ego battle they’re fighting, and the commitment offer they’re planning with a 7 day fr3e tr1al (🔗 in bi0). submitted by /u/AmbientNightLight777 to r/AmbientNightLight [link] [comments]",
+      "link": "https://www.reddit.com/r/AmbientNightLight/comments/1qp48oq/what_theyre_still_keeping_in_their_heart_no/",
+      "author": "/u/AmbientNightLight777",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:57:35.376290"
     }
   ],
-  "last_updated": "2026-01-28T06:21:11.541497"
+  "last_updated": "2026-01-28T06:59:26.189504"
 }
