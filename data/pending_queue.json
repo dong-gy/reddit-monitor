@@ -1,126 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1ql1965",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I’ve loved Souls games for 5 years — even though I’m bad at them. Today, I released my first demo.",
-      "content": "submitted by /u/Becuzus [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1ql1965/ive_loved_souls_games_for_5_years_even_though_im/",
-      "author": "/u/Becuzus",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T20:12:59.825877"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1ql18qh",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "DO YOU THINK YOU CAN BEAT THE BOSS !!",
-      "content": "submitted by /u/Solo1100-0-0- [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1ql18qh/do_you_think_you_can_beat_the_boss/",
-      "author": "/u/Solo1100-0-0-",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T20:12:59.825883"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1ql112e",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Intrusive Thoughts and the Act of Creating Games",
-      "content": "submitted by /u/Organic-Taro-690 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1ql112e/intrusive_thoughts_and_the_act_of_creating_games/",
-      "author": "/u/Organic-Taro-690",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T20:12:59.825922"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1ql1fi6",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Dynamic path visuals",
-      "content": "submitted by /u/Immediate-Rope-6304 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1ql1fi6/dynamic_path_visuals/",
-      "author": "/u/Immediate-Rope-6304",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T20:12:59.825962"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1ql1242",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I'm making a miniature, tradewinds-style game for fun",
-      "content": "submitted by /u/SingerLuch [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1ql1242/im_making_a_miniature_tradewindsstyle_game_for_fun/",
-      "author": "/u/SingerLuch",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T20:12:59.826009"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1ql0wcd",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "A player is reporting yellow blocks in place of the in-game text.",
-      "content": "submitted by /u/peepops [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1ql0wcd/a_player_is_reporting_yellow_blocks_in_place_of/",
-      "author": "/u/peepops",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T20:12:59.826100"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1ql1adb",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "You shout, but the sound casts into the dark without an echo",
-      "content": "??? submitted by /u/Beefy_Boogerlord [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1ql1adb/you_shout_but_the_sound_casts_into_the_dark/",
-      "author": "/u/Beefy_Boogerlord",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T20:12:59.826206"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1ql0rmu",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Turning on the light is dangerous!",
-      "content": "At the beginning of the VR game Xenolocus, the zombies are quite slow, but once you turn on the light they start moving toward it and can surround any careless player. What do you think, is it better to fight in the dark, or with light but a greater risk of being eaten? :) submitted by /u/RelevantOperation422 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1ql0rmu/turning_on_the_light_is_dangerous/",
-      "author": "/u/RelevantOperation422",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T20:12:59.826223"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1ql1gtg",
-      "type": "search",
-      "subreddit": "techsupport",
-      "title": "My web browsers aren’t working acting as though there isn’t enough memory to work ;-;",
-      "content": "I really need help 😭 my web browsers aren’t working how they should be and I keep getting the error code out of memory, both on chrome and Firefox. I don’t think it’s a ram issue because I’ve never had any issues like this till now and I’ve done many tests that indicated it’s not my ram. I’ve ran the sfc/scannow, I’ve ran the built in windows memory diagnostic, I’ve checked task manager. It all looks good, and no issues have been seen. I’ve also made sure everything is up to date like the GPU, Windows, and Chrome. I’ve also cleared all cache and browsing history. I’ve used the windows security and have done a full scan and I’ve isolated the things that have popped up. It’ll still say I’m out of memory with 2 high memory tabs open. I’ve restarted everything many times, as well as full shutdowns. Specific to chrome I’ve enabled memory saver, I’ve no extensions except for google offline, and I’ve disabled hardware acceleration. I truly don’t know what else to do to fix this issue. My memory also seems to run just fine when playing video games like Stardew Valley. I’m going to run a second windows security full scan and also try to run Marvel rivals to see if it has issues with that. Here is the task manager info: CPU: Base Speed: 3.9 GHz Cores: 6 Log Processors: 12 L1 cache: 384 KB L2 cache: 3.0 MB L3 cache: 16.0 MB (When using chrome my cpu usage is also high) Memory: Speed: 3200MHz Slots: 3/4 Form: DIMM Hardware Reserved: 139 MB Let me know if you need any of info. submitted by /u/Familiar_Party_5040 to r/techsupport [link] [comments]",
-      "link": "https://www.reddit.com/r/techsupport/comments/1ql1gtg/my_web_browsers_arent_working_acting_as_though/",
-      "author": "/u/Familiar_Party_5040",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T20:12:59.826369"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1ql1fl5",
-      "type": "search",
-      "subreddit": "SkytechGamingOfficial",
-      "title": "Last Week of sales",
-      "content": "Use code Uniquekarnage for extra savings on the last week of the New Year sale and Intel Games sale!! Last week to catch New Year and No build fee for custom pcs https://skytechgaming.com/product-category/pre-built-pcs https://preview.redd.it/07iiguido5fg1.png?width=589&format=png&auto=webp&s=b58f4bf060e34f1b3ab8d4ea1ab870ecba811059 Last Week of the Intel deal https://skytechgaming.com/events/2025-intel-holiday-bundle?ref=uniquekarnage Get the choice between 1 of 4 games and some extra stuff With select Intel Purchases. https://preview.redd.it/3u2kz6wco5fg1.png?width=600&format=png&auto=webp&s=67a8594f778fdce7e4d446b441c7574b25a0ce57 submitted by /u/Uniquekarnage to r/SkytechGamingOfficial [link] [comments]",
-      "link": "https://www.reddit.com/r/SkytechGamingOfficial/comments/1ql1fl5/last_week_of_sales/",
-      "author": "/u/Uniquekarnage",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T20:12:59.826385"
-    },
-    {
       "id": "https://www.reddit.com/t3_1ql1j69",
       "type": "search",
       "subreddit": "lonely",
@@ -21071,7 +20951,103 @@
       "search_keyword": "AI game maker",
       "relevance_score": 0,
       "added_at": "2026-01-28T05:50:29.316817"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qp381q",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "What do you think of our new character?",
+      "content": "Just got him in engine, we are still playing with lighting and materials submitted by /u/Humble_Reward_3974 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qp381q/what_do_you_think_of_our_new_character/",
+      "author": "/u/Humble_Reward_3974",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:19:35.988693"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qp36cw",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Hit 260 downloads on my indie game today! Small win, but it feels huge",
+      "content": "Just crossed 260 downloads on my indie game! Still early, but seeing real players try it is surreal. What was your first download milestone? submitted by /u/Inf1nityGamez [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qp36cw/hit_260_downloads_on_my_indie_game_today_small/",
+      "author": "/u/Inf1nityGamez",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:19:35.988724"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qp3fpp",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "[WIP] Animación del jefe de ronda para mi roguelike",
+      "content": "submitted by /u/YazZ_Z [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qp3fpp/wip_animación_del_jefe_de_ronda_para_mi_roguelike/",
+      "author": "/u/YazZ_Z",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:19:35.988810"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp2wh1",
+      "type": "search",
+      "subreddit": "TemuThings",
+      "title": "Temu codes",
+      "content": "Temu Username aheathen84 Farmland 763844733 Free Gifts 766069809 768140327 769424462 Use for new invitations or existent user. Will do your codes as well. Please no dm’s. You post a code and I’ll put it in, regardless if I’m playing that particular game or not, I’m here to help everyone. submitted by /u/Aheathen84 to r/TemuThings [link] [comments]",
+      "link": "https://www.reddit.com/r/TemuThings/comments/1qp2wh1/temu_codes/",
+      "author": "/u/Aheathen84",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:19:35.989015"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp3jph",
+      "type": "search",
+      "subreddit": "CultOfTheLamb",
+      "title": "What's happening with my game?",
+      "content": "So, listen, I really love the game and the update is amazing, but honestly... I've never had so many bugs in my entire life! The screen glitches and gets stuck in one place, the battle music (like when the wolves attack) keeps playing even afterward, the \"death\" icon stays even after I've picked up the corpse, and tons of other weird bugs that make me quit and come back to reset the game. And all of this started after I installed Woolheaven. Why is it doing this? 😭 submitted by /u/luctuo to r/CultOfTheLamb [link] [comments]",
+      "link": "https://www.reddit.com/r/CultOfTheLamb/comments/1qp3jph/whats_happening_with_my_game/",
+      "author": "/u/luctuo",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:19:35.989427"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp3je6",
+      "type": "search",
+      "subreddit": "HeadphoneAdvice",
+      "title": "Breathable open-back headphones",
+      "content": "Hello! I always bought normal gaming headphones, right now i’m rocking the Logitech G Pro X. I work in IT and I dev as a hobby, so I can have headphones for 15 hours a day sometimes, they are wireless so I legit almost never remove them. I think it created some problems and infections in my ears because of the heat and humidity. My ears now need to be dry as a desert for some medical procedure. I need breathable headphones. I was looking at the Sennheiser P38X. Is it safe to assume that openback = breathable? This is my number 1 criteria rn. I think the price of the P38X is right but if theres better for the same price but with no mic, im down. Wireless would be good too, i’m always shirtless like a redneck and cables tickle my man tits Thanks! 😊 submitted by /u/Olick to r/HeadphoneAdvice [link] [comments]",
+      "link": "https://www.reddit.com/r/HeadphoneAdvice/comments/1qp3je6/breathable_openback_headphones/",
+      "author": "/u/Olick",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:19:35.990481"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp3ifu",
+      "type": "search",
+      "subreddit": "Witchfire",
+      "title": "Crash protection.",
+      "content": "Just crashed to desktop after my first Velmorne clear (gnosis 2). Lost everything, crucially the 3rd mysterium i needed for weapon upgrade. Was my first crash and Im lvl 30 something so that's not really a concern. However losing all progress after an intense run is a real kick in the nuts. Seems like the game reset back to the save before the run started. Maybe something the Devs should look into. submitted by /u/slothage666 to r/Witchfire [link] [comments]",
+      "link": "https://www.reddit.com/r/Witchfire/comments/1qp3ifu/crash_protection/",
+      "author": "/u/slothage666",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:19:35.990494"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp3jfm",
+      "type": "search",
+      "subreddit": "Marriage",
+      "title": "I regret marrying older, what should I do?",
+      "content": "Hello all, I (25yo female) and my husband (35 yo male) got married a year ago. We met thru work and dated for a year before getting pregnant and married in 2025. While we were dating, I knew I wanted to marry him bc he’s more mature than guys my age. We were aligned on things like house, finances, kids, big life things. There were things I had to forgive him on while we were dating . They still scarred me and gave me trust issues. I took advice from my mom that if the good outweighs the bad then I shouldn’t leave bc that’s what makes marriage work. The issue is he’s different now than when we first met. He used to never play video games, we were the outdoors/travel couple. Now all he does is go to work and come home and play video games every single day even on weekends, even when we have family who flew 6h to visit us. If giving the choice, that’s all he’ll do all day. I live my life with intention, I don’t relax until the house is cleaned, I work out and study everyday. On my days off, I plan things for us to do, road trips or trying new restaurants. If I ever play video games, I play with him cus it’s still productive since it’s spending time together. I feel that he has no ambition, no desire to have sex, no desire to spend time with me either. tl:dr He is just too comfortable. I can’t help but feel that it’s bc he’s old and stubborn. Alot of times, I feel like I’m wasting my youth and sexual energy. On the other side of the coin, we have a family, house, and life that we agreed on. Is this just how marriage is? Am I wrong for asking him to be more spontaneous and fun? My biggest fear is living a boring life like this - unromantic marriage. submitted by /u/Repulsive_Mall3372 to r/Marriage [link] [comments]",
+      "link": "https://www.reddit.com/r/Marriage/comments/1qp3jfm/i_regret_marrying_older_what_should_i_do/",
+      "author": "/u/Repulsive_Mall3372",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T06:19:35.990625"
     }
   ],
-  "last_updated": "2026-01-28T05:52:26.253952"
+  "last_updated": "2026-01-28T06:21:11.541497"
 }
