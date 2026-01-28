@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1ql3t6s",
-      "type": "search",
-      "subreddit": "HighSodiumSims",
-      "title": "Something I noticed about Sims 3 vs Sims 4",
-      "content": "I know some people don’t like when you compare the games, but that’s exactly what I’m going to do so😛Also this isn’t necessarily hate towards Sims 4, I have over 5000 hours on it and I love that game, but it does lack a lot of the soul and charm Sims 3 has. So I have 2 Simblr accounts, one where I post ts4 stuff and the other for ts3. They both follow similar formats- me reblogging cc I like, getting inspiration from other simmers, and most importantly posting my own gameplay and stories. I’m super active on my ts4 blog, posting edits, dialogue, gameplay, etc. But I haven’t been active on my ts3 blog in months. Is that because I find ts3 boring and not as fun as ts4? …No, actually the opposite. When I play my ts4 saves, I spend a lot of time taking screenshots, posing my sims, and getting the right angle. But when I play ts3, I feel so immersed in the gameplay that I simply don’t want to take screenshots and edit them/pose sims. I can play for 10 generations and not get bored because it will feel different and new each time. But in ts4, the thing that keeps me coming back to do more generations is knowing I can post pretty screenshots for tumblr. My favorite way to play sims is to do family/generational gameplay, and it just feels so much more fun in ts3. Sims 4 is pretty, but Sims 3 is fun. I don’t feel the need to get the perfect screenshot in ts3, I just enjoy playing. I’m always discovering something new about the game, and guess what, I only just started getting all the DLC! I’ve had this much fun already just with the base game and Seasons, so I’m sure I’ll have even more fun with the expansions. Even though I only have 500 hours on ts3 and 5000 in ts4, I like ts3 so much better. It also has that classic sims quirkiness that I feel like isn’t quite there in ts4. I love when my ts3 sims randomly scream (“wibna chogga dog!” anyone?), heckle each other, and fight just because they feel like it. And the biggest help? The freaking open world. Every time I want one of my sims to go out and do something in ts4, I get turned off because I know everyone else at home won’t get anything done and will still be awake with needs in the red even if my sim returns at 3am. It sucks and makes me not want to go out unless the whole family comes. But in ts3, my teen can go out and party while dad is at home watching tv, mom is cooking dinner, and the child sibling is doing homework. I don’t have to worry about their needs going to shit because they have basic survival instincts and will take care of them if they need to. I do plan on posting more on my ts3 blog, but for now I’m just enjoying the gameplay. I wish I started ts3 way sooner, it’s fucking awesome! submitted by /u/Zenphiree to r/HighSodiumSims [link] [comments]",
-      "link": "https://www.reddit.com/r/HighSodiumSims/comments/1ql3t6s/something_i_noticed_about_sims_3_vs_sims_4/",
-      "author": "/u/Zenphiree",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T21:39:47.464241"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1ql39dz",
-      "type": "search",
-      "subreddit": "HungryArtists",
-      "title": "[For Hire] Pixel Art Animation! Assets for GameDev, Social Media, Content Creation and More!",
-      "content": "submitted by /u/quartzstash to r/HungryArtists [link] [comments]",
-      "link": "https://www.reddit.com/r/HungryArtists/comments/1ql39dz/for_hire_pixel_art_animation_assets_for_gamedev/",
-      "author": "/u/quartzstash",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T21:39:47.464982"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1ql4kuo",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I'm working on mastering this pixel art style for a game project of mine. Any thoughts or feedback on it?",
-      "content": "submitted by /u/SeparateElephant3995 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1ql4kuo/im_working_on_mastering_this_pixel_art_style_for/",
-      "author": "/u/SeparateElephant3995",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T22:09:10.396475"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1ql46lz",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Yami Mura (terror game)",
-      "content": "This is my horror game (it's on Steam to add to your wishlist) submitted by /u/Radiant_Barracuda932 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1ql46lz/yami_mura_terror_game/",
-      "author": "/u/Radiant_Barracuda932",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T22:09:10.396552"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1ql4hpk",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Does this shaded ring effect improve the game or is it better before?",
-      "content": "submitted by /u/Brighter__Days [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1ql4hpk/does_this_shaded_ring_effect_improve_the_game_or/",
-      "author": "/u/Brighter__Days",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T22:09:10.396676"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1ql4drj",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I need help with camera controls",
-      "content": "Godot Version 4.1 Question I am making camera controls for my 3d game and I've gotten the mouse controls to work but when I tried to add controller controls I got the error \"Invalid get index ‘JoypadMotion’ (on base: ‘InputEventJoypadMotion’).” my code is var rot_x = 0 var LOOKAROUND_SPEED = 0.01 func _input(event): if event is InputEventMouseMotion or InputEventJoypadMotion: rot_x += event.relative.x * LOOKAROUND_SPEED transform.basis = Basis() # reset rotation rotate_object_local(Vector3(0, -1, 0), rot_x) submitted by /u/Ill_Guess_5542 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1ql4drj/i_need_help_with_camera_controls/",
-      "author": "/u/Ill_Guess_5542",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T22:09:10.396695"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1ql49jr",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Making elemental-archery more juicy!",
-      "content": "submitted by /u/SnowDogg0 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1ql49jr/making_elementalarchery_more_juicy/",
-      "author": "/u/SnowDogg0",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T22:09:10.396700"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1ql4e78",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "I make sfx packs for devs - I’m having a 50% off sale on my new ambience and atmospheres packs!",
-      "content": "submitted by /u/sicklysweetstudios [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1ql4e78/i_make_sfx_packs_for_devs_im_having_a_50_off_sale/",
-      "author": "/u/sicklysweetstudios",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T22:09:10.396777"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1ql4dxk",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Elemental Archer vs Black Lynx in my RPG-Roguelike, Tuoni.",
-      "content": "submitted by /u/SnowDogg0 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1ql4dxk/elemental_archer_vs_black_lynx_in_my_rpgroguelike/",
-      "author": "/u/SnowDogg0",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-23T22:09:10.396782"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1ql46hs",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -20831,7 +20723,67 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-28T07:44:42.490784"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qp5b77",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Grandpa High on Retro, Two Grandpas",
+      "content": "submitted by /u/Valuable-War-9449 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qp5b77/grandpa_high_on_retro_two_grandpas/",
+      "author": "/u/Valuable-War-9449",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T08:16:25.519582"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qp5701",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Engine Jam, the game",
+      "content": "submitted by /u/Phenframe [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qp5701/engine_jam_the_game/",
+      "author": "/u/Phenframe",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T08:16:25.519588"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qp57m0",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "What's going on with this 9.99$ lately?",
+      "content": "Hi fellows, for the last couple months I hear from every corner \"magical\" 9.99$. That below this price player will not take project seriously and it is like OPTIMA for indie. Do you know where it did come from? Where are the roots? submitted by /u/ibackstrom [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qp57m0/whats_going_on_with_this_999_lately/",
+      "author": "/u/ibackstrom",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T08:16:25.519607"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp5kzp",
+      "type": "search",
+      "subreddit": "soccercirclejerk",
+      "title": "best ball boy ever",
+      "content": "https://preview.redd.it/93dv5iqxt1gg1.png?width=1024&format=png&auto=webp&s=48ea6c9cd18740d33dca20af36adc76bb1ef00ba Best ball boy ever submitted by /u/Curious-Elk1638 to r/soccercirclejerk [link] [comments]",
+      "link": "https://www.reddit.com/r/soccercirclejerk/comments/1qp5kzp/best_ball_boy_ever/",
+      "author": "/u/Curious-Elk1638",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T08:16:25.520928"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qp5i0p",
+      "type": "search",
+      "subreddit": "Gaminggridcommunity",
+      "title": "One Indie Game dev in our community needs suggestion on this do join our server to discuss",
+      "content": "Discord server link https://discord.gg/HpWgP4uJNU submitted by /u/Dr__Fantastic to r/Gaminggridcommunity [link] [comments]",
+      "link": "https://www.reddit.com/r/Gaminggridcommunity/comments/1qp5i0p/one_indie_game_dev_in_our_community_needs/",
+      "author": "/u/Dr__Fantastic",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-28T08:16:25.521149"
     }
   ],
-  "last_updated": "2026-01-28T07:46:29.379456"
+  "last_updated": "2026-01-28T08:18:37.998066"
 }
