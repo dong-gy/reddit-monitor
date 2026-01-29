@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlnprw",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "The city of my game is finally complete",
-      "content": "submitted by /u/OK-Games [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlnprw/the_city_of_my_game_is_finally_complete/",
-      "author": "/u/OK-Games",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T14:09:28.907683"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlnq3n",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "3 frame by frame animated bad guys",
-      "content": "submitted by /u/ObjectiveWilling3958 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlnq3n/3_frame_by_frame_animated_bad_guys/",
-      "author": "/u/ObjectiveWilling3958",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T14:09:28.907718"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlnp15",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Testing a new wind system for grass",
-      "content": "I am trying very hard to make the nature in my game beautiful and somehow reveal the potential of pixel graphics, so I want to add wind to the game so that it beautifully sways the grass and leaves on the trees. Unfortunately, PixelPerfect did not work very well for this task, so it is a little “blurry.” There are quite a few weather conditions in the game, so the grass will react to the situation. If a storm starts, it will move very actively, if the game is calm, there will only be slight swaying. This is only the first iteration, it will continue to improve. Yes, for those who are interested, I'm doing something like Kingdom Two Crowns. submitted by /u/LirushIs [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlnp15/testing_a_new_wind_system_for_grass/",
-      "author": "/u/LirushIs",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T14:09:28.907744"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qlni5j",
       "type": "post",
       "subreddit": "IndieDev",
@@ -23771,7 +23735,163 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-29T11:02:22.212013"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qq6bsd",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We added drawing feature for our beer menu ✏",
+      "content": "What do you think of these types of features in games? We are working on a dystopian bar management simulator, and this is a drawing feature we recently added. Check it out on Steam: Drunken Hog on Steam submitted by /u/SnoutAndStout [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq6bsd/we_added_drawing_feature_for_our_beer_menu/",
+      "author": "/u/SnoutAndStout",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:50:07.906679"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qq69r6",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Improved combat in progress — a short look from a 2-person indie team",
+      "content": "We’re a small 2-person indie team currently working on improved combat for our game. This clip shows some recent changes focused on enemy behavior and overall combat flow. Still iterating, but it’s starting to feel much better. 🎮 Steam page: https://store.steampowered.com/app/4131470/ submitted by /u/GiantK_Dev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq69r6/improved_combat_in_progress_a_short_look_from_a/",
+      "author": "/u/GiantK_Dev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:50:07.906698"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qq640z",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We added interactive building interiors to make our town building game feel alive",
+      "content": "Our cozy town building game Spiritstead felt a bit flat since you could only place buildings but not interact with them, so we added interactive interiors and let villagers actually use them. submitted by /u/Neat_Smell_1014 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq640z/we_added_interactive_building_interiors_to_make/",
+      "author": "/u/Neat_Smell_1014",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:50:07.906710"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qq5v2w",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Which one should we go with? (Currently using #3)",
+      "content": "submitted by /u/vrheaven [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq5v2w/which_one_should_we_go_with_currently_using_3/",
+      "author": "/u/vrheaven",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:50:07.906736"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qq66wn",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "s&box engine's new light baking in action!",
+      "content": "submitted by /u/yooberee [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qq66wn/sbox_engines_new_light_baking_in_action/",
+      "author": "/u/yooberee",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:50:07.906743"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qq65sz",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "We added interactive building interiors to make our town building game feel alive",
+      "content": "Our cozy town building game Spiritstead felt a bit flat since you could only place buildings but not interact with them, so we added interactive interiors and let villagers actually use them. submitted by /u/Neat_Smell_1014 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qq65sz/we_added_interactive_building_interiors_to_make/",
+      "author": "/u/Neat_Smell_1014",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:50:07.906755"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qq65bl",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "As a self-funded solodev I don't have a bunch of hardware to test on, so I went a bit unorthodox on my system requirements...",
+      "content": "submitted by /u/BeaconDev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qq65bl/as_a_selffunded_solodev_i_dont_have_a_bunch_of/",
+      "author": "/u/BeaconDev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:50:07.906763"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qq653z",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The new tulips are better, right?",
+      "content": "My game is pixel art, but I want to treat the players for unlocking new flowers. So I asked an artist to make a couple of full flower images a few months ago. However, I always felt they are a bit too cartoonish. When time came to draw all of the tulips, I have asked an artist to adjust the style. I think they worked out nicely. Do you agree? submitted by /u/tiny_tank [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qq653z/the_new_tulips_are_better_right/",
+      "author": "/u/tiny_tank",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:50:07.906776"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qq5xxv",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Some early concept art for ChromaGun 2. Would you trust Chicken Richard?",
+      "content": "submitted by /u/pixel_maniacs [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qq5xxv/some_early_concept_art_for_chromagun_2_would_you/",
+      "author": "/u/pixel_maniacs",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:50:07.906782"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qq5ta8",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "What's up with materials looking significantly worse in 4.6 compared to 4.4?",
+      "content": "submitted by /u/General_Hatestorm [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qq5ta8/whats_up_with_materials_looking_significantly/",
+      "author": "/u/General_Hatestorm",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:50:07.906924"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq6gmh",
+      "type": "search",
+      "subreddit": "ArkNova",
+      "title": "Which cards would you nerf/buff?",
+      "content": "Most cards are well-balanced but there are some that could be tweaked a bit. Which animals/sponsors/action cards would you give buffs or nerfs to? Nerf: Explorer - I would nerf the 2 money per icon instant effect to 1 money only. This card should either be an early or late game card, not both. Having it show up late game and be worth ~18 bucks just for playing the game normally doesn't make sense. 1 money per icon period actually wouldn't be bad because that's still a good chunk of money+appeal for the usual passive effect. Buff: Expert in Europe - This guy needs some help. Maybe his CP requirement needs to be 3 size 1's filled only or he's an auto size 2 build with each Europe icon (that might be too strong though). submitted by /u/MWLexposedParty to r/ArkNova [link] [comments]",
+      "link": "https://www.reddit.com/r/ArkNova/comments/1qq6gmh/which_cards_would_you_nerfbuff/",
+      "author": "/u/MWLexposedParty",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:50:07.907926"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq6fnv",
+      "type": "search",
+      "subreddit": "3on3",
+      "title": "Scoring tips?",
+      "content": "Seems every time I’m forced onto small, I can’t score if I’m not dunking. I can go jack, but it seems every screen my team sets will not stop them from blocking it, I can try and hook them into the screen but it never works. I just end up pump faking and shooting 2 shots the whole game. Any time I stop being scared and shooting I shoot 3/7. Im perfectly fine with being a play maker and passing the whole game, but when my team is locked up I’d like to be able to score submitted by /u/Senior-Entry309 to r/3on3 [link] [comments]",
+      "link": "https://www.reddit.com/r/3on3/comments/1qq6fnv/scoring_tips/",
+      "author": "/u/Senior-Entry309",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:50:07.908396"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq6ew1",
+      "type": "search",
+      "subreddit": "Journaling",
+      "title": "The best advice is someone can give is yourself.......",
+      "content": "submitted by /u/AlternativeDry9665 to r/Journaling [link] [comments]",
+      "link": "https://www.reddit.com/r/Journaling/comments/1qq6ew1/the_best_advice_is_someone_can_give_is_yourself/",
+      "author": "/u/AlternativeDry9665",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T11:50:07.909179"
     }
   ],
-  "last_updated": "2026-01-29T11:02:50.482565"
+  "last_updated": "2026-01-29T11:50:36.297535"
 }
