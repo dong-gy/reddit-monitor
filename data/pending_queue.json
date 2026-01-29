@@ -1,114 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlmb5l",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "💀💀Static curse editz for those who say indie developers never develop good games !",
-      "content": "submitted by /u/NegativeLanguage4837 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlmb5l/static_curse_editz_for_those_who_say_indie/",
-      "author": "/u/NegativeLanguage4837",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T13:05:36.171464"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlloav",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Has anyone tried making games with Gaussian Splat on Unreal Engine?",
-      "content": "If soo, what’s the best way to it? submitted by /u/KSzkodaGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlloav/has_anyone_tried_making_games_with_gaussian_splat/",
-      "author": "/u/KSzkodaGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T13:05:36.171559"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qllmmc",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "New here! I'm a solo dev working on a 'clinical pink' body-horror project. Finally mustered the courage to show some art.",
-      "content": "It's a surreal point-and-click experience where your body is no longer your own, but a specimen in flux. I'm trying to blend Natural History aesthetics with Body Horror to explore the anxiety of identity. ​I recently got the Steam page up (it's barebones, but it's a start!). I’d love to hear what you think of this \"clinical pink\" art style. submitted by /u/papapaaaaaaaa [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qllmmc/new_here_im_a_solo_dev_working_on_a_clinical_pink/",
-      "author": "/u/papapaaaaaaaa",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T13:05:36.171577"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qllweb",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "POV: you are not expecting how bad things can go on some GPUs, here's my collection",
-      "content": "submitted by /u/ReasonNotFoundYet [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qllweb/pov_you_are_not_expecting_how_bad_things_can_go/",
-      "author": "/u/ReasonNotFoundYet",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T13:05:36.171604"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qllm2q",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Universal Animation Library 2 is out! Godot compatible with 40+ free animations",
-      "content": "The Universal Animation Library 2 is a kit of 130+ animations, created using a universal humanoid rig, this kit complements the first library, covering everything from melee and armed combos, parkour movement, farming, fishing, zombie locomotion and a lot more! You can download it here https://quaternius.com/packs/universalanimationlibrary2.html You can preview which ones are in the Standard(free) version here https://quaternius.com/animviewer.html Free to use in personal, educational and commercial projects. (CC0 License) submitted by /u/QuaterniusDev [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qllm2q/universal_animation_library_2_is_out_godot/",
-      "author": "/u/QuaterniusDev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T13:05:36.171644"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qlmae7",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "💀💀Static curse editz for those who say indie developers never develop good games !",
-      "content": "submitted by /u/NegativeLanguage4837 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qlmae7/static_curse_editz_for_those_who_say_indie/",
-      "author": "/u/NegativeLanguage4837",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T13:05:36.171676"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qlm4y3",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Share a small moment from a game I’m working on",
-      "content": "Mossbound is a small, atmospheric exploration game set in an overgrown miniature world. You follow Milo on a quiet journey through moss, roots, and forgotten spaces, searching for a way to help his brother Just passed 360 wishlists. Thank you so much for the support submitted by /u/RocketGecko_Studio [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qlm4y3/share_a_small_moment_from_a_game_im_working_on/",
-      "author": "/u/RocketGecko_Studio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T13:05:36.171690"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlme7y",
-      "type": "search",
-      "subreddit": "projectzomboid",
-      "title": "Server stopped during launch (normal termination)",
-      "content": "Hello, I can't create a server. I get the error message in the title. I'm posting a screenshot from the console. Does anyone know what this error means? https://preview.redd.it/65o3ts7uoafg1.png?width=3840&format=png&auto=webp&s=994b6c92433e896184b282ad99a83e33d0275421 submitted by /u/Miccho00 to r/projectzomboid [link] [comments]",
-      "link": "https://www.reddit.com/r/projectzomboid/comments/1qlme7y/server_stopped_during_launch_normal_termination/",
-      "author": "/u/Miccho00",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T13:05:36.173237"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qlmmg0",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Why do games that advertise “anime cutscenes” just have a bunch at the start and no more after that?",
-      "content": "Unsure if this is the right subreddit. Many games advertise this as part of the game. But it usually tends to be that the cutscenes at the start are animated and maybe the ending is. Every other scene is in-game. I find this odd. Shouldn’t they be almost every cutscene, like in Ni no Kuni, which was the first big game to do this? submitted by /u/Various-Humor4093 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qlmmg0/why_do_games_that_advertise_anime_cutscenes_just/",
-      "author": "/u/Various-Humor4093",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T13:45:47.554043"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qln1am",
       "type": "post",
       "subreddit": "indiegaming",
@@ -23447,7 +23339,91 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-29T07:32:36.118844"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qq246j",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Some footage from my roguelike RPG, made in Godot",
+      "content": "submitted by /u/ThirdDayGuy [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qq246j/some_footage_from_my_roguelike_rpg_made_in_godot/",
+      "author": "/u/ThirdDayGuy",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T08:24:53.171674"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq2xnf",
+      "type": "search",
+      "subreddit": "TemuReferralCodesNew",
+      "title": "Free gift code",
+      "content": "Temu Username aheathen84 Free Gifts 771656933 Use for new invitations or existent user. Will do your codes as well. Please no dm’s. You post a code and I’ll put it in, regardless if I’m playing that particular game or not, I’m here to help everyone. submitted by /u/Aheathen84 to r/TemuReferralCodesNew [link] [comments]",
+      "link": "https://www.reddit.com/r/TemuReferralCodesNew/comments/1qq2xnf/free_gift_code/",
+      "author": "/u/Aheathen84",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T08:24:53.171752"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq2xes",
+      "type": "search",
+      "subreddit": "TemuNewUsersASAp",
+      "title": "Free gift code",
+      "content": "One new user away Temu Username aheathen84 Free Gifts 771656933 Use for new invitations or existent user. Will do your codes as well. Please no dm’s. You post a code and I’ll put it in, regardless if I’m playing that particular game or not, I’m here to help everyone. submitted by /u/Aheathen84 to r/TemuNewUsersASAp [link] [comments]",
+      "link": "https://www.reddit.com/r/TemuNewUsersASAp/comments/1qq2xes/free_gift_code/",
+      "author": "/u/Aheathen84",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T08:24:53.171766"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq2ue0",
+      "type": "search",
+      "subreddit": "FORTnITE",
+      "title": "Founders code error",
+      "content": "I got a code from a friend and I tried to redeem it on the epic store and no error nothing happens and on the Fortnite redeem page and it just comes up with a random error, it detects it as “Fortnite mobile” epic games won’t do anything about it and keeps saying that’s it’s been expired since 2018 but people have been redeeming them after that so I don’t know what to do, any solutions? submitted by /u/TheCapybaraCult to r/FORTnITE [link] [comments]",
+      "link": "https://www.reddit.com/r/FORTnITE/comments/1qq2ue0/founders_code_error/",
+      "author": "/u/TheCapybaraCult",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T08:24:53.171786"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq2zlj",
+      "type": "search",
+      "subreddit": "NBA2k",
+      "title": "Best 6'8 for new players/low # of cap breakers.",
+      "content": "So for starters. Never make a no cap breaker build. The first few are easy enough especially if you can hit lvl 40 the season you got the game to get ones from past seasons. The 4 from crew are basically free if you put in the time to find a max lvl crew in here that will let ya stay a week and help you out. Rookie 5 and 100 lifetime challenges also only take a week maybe 2. Basically its easy enough to get at least 7. My buddy got the game a week ago and has 10 already. This is basically a meta 6'8 that I set up to only absolutely need like 4 cap breakers to be quite usable online but still has useful spots for future cap breakers so you don't just feel the need to make a new build once you get them. First 7 go on the handle/SWB for 86/80. After that, 3 on 3pt for 92. After that, mid range and pass acc are both really solid options. submitted by /u/Himdoood to r/NBA2k [link] [comments]",
+      "link": "https://www.reddit.com/r/NBA2k/comments/1qq2zlj/best_68_for_new_playerslow_of_cap_breakers/",
+      "author": "/u/Himdoood",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T08:24:53.172050"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq2wrb",
+      "type": "search",
+      "subreddit": "SurvivalGaming",
+      "title": "Solo Dev, multiplayer, survival open world game. What you think?",
+      "content": "submitted by /u/Legitimate_Win_7045 to r/SurvivalGaming [link] [comments]",
+      "link": "https://www.reddit.com/r/SurvivalGaming/comments/1qq2wrb/solo_dev_multiplayer_survival_open_world_game/",
+      "author": "/u/Legitimate_Win_7045",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T08:24:53.172343"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq2vzn",
+      "type": "search",
+      "subreddit": "DBGekishinSquadra",
+      "title": "Force move mechanics are genuinely horrendous",
+      "content": "I genuinely don’t know why the devs insist on these stagger/force push mechanics. It just screams poor design because not only are they guaranteed, they are also instantaneous. Why the hell am I being knocked to and fro or stunned by bardock, SS4 Vegeta, Gohan (both but adult is the most toxic in the game), 17, and the gammas? This is coming from someone who is currently top 1k Side note: medical respawn is a terrible game mode. Doing all the work to kill the enemy team just to lose the team fight because you had to prioritize pods submitted by /u/supaboss2015 to r/DBGekishinSquadra [link] [comments]",
+      "link": "https://www.reddit.com/r/DBGekishinSquadra/comments/1qq2vzn/force_move_mechanics_are_genuinely_horrendous/",
+      "author": "/u/supaboss2015",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T08:24:53.172364"
     }
   ],
-  "last_updated": "2026-01-29T07:33:04.263576"
+  "last_updated": "2026-01-29T08:25:21.222786"
 }
