@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlkzr6",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "FF9 Tetra Masters but you are a Roman Senator",
-      "content": "Hello indie devs, I'd really appreciate any feedback. Does the concept sound interesting to you? Does the execution (I mean art) match what you'd expect? In regard to the Steam tags, we are of corse using Card Battles, Deck Building, Rome, but would you use the Political Sim tag? The card battle simulates a debate in the Roman Senate, but in this tag I would expect something very different from what the game is and will be. Also worth mentioning, for now it only shows the core of the game (senate debate/card battle), however it will include a whole map of Rome with events & decisions you build your deck. If anyone interested on more info, you'll find more in te Steam description: https://store.steampowered.com/app/4094470/Senatus/ submitted by /u/alejandro_penedo [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlkzr6/ff9_tetra_masters_but_you_are_a_roman_senator/",
-      "author": "/u/alejandro_penedo",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T12:18:00.474449"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlky31",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Shots from The Sphinx Teaser",
-      "content": "submitted by /u/Repulsive-Fix-5117 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlky31/shots_from_the_sphinx_teaser/",
-      "author": "/u/Repulsive-Fix-5117",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T12:18:00.474455"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qll9f5",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Softbody performance",
-      "content": "is the softbody3d node safe to use for clothes in terms of performance? for example the bottom of my character's coat needs to move when the player is moving around submitted by /u/Secure_Hospital7199 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qll9f5/softbody_performance/",
-      "author": "/u/Secure_Hospital7199",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T12:18:00.474484"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qll77f",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "In Development Resources Are Not Loading",
-      "content": "Hey guys, this is not a \"build\" problem I started facing this issue in the development. I have this resource: extends Resource class_name CardData (\"Meta\") var card_id: CardConstants.Cards # unique ID for this card (e.g., \"fireball_01\") (\"UI\") var card_name: String = \"Card Name\" var card_description: String = \"Card Description\" var card_texture: Texture2D and I when I try to use it with this script: extends Node2D var cardData: CardData func _ready() -> void: print(cardData.card_name) I get <null> why is the engine not loading the resource? and yes i have a cardData resource attached to the node submitted by /u/TheFirst1Hunter [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qll77f/in_development_resources_are_not_loading/",
-      "author": "/u/TheFirst1Hunter",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T12:18:00.474500"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qlkw4g",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Is a greyscale OK ?",
-      "content": "submitted by /u/ErasorOff [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qlkw4g/is_a_greyscale_ok/",
-      "author": "/u/ErasorOff",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T12:18:00.474544"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qlkwfo",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Hello would someone like to try my demo out?",
-      "content": "https://relaxygenstudios.itch.io/legend-of-the-coin-knight submitted by /u/Unable_Bumblebee7241 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qlkwfo/hello_would_someone_like_to_try_my_demo_out/",
-      "author": "/u/Unable_Bumblebee7241",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T12:18:00.474600"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qllix4",
-      "type": "search",
-      "subreddit": "Referral",
-      "title": "Bitvavo – 50 EUR in BTC for 20 EUR deposit (EU, Norway, Switzerland)",
-      "content": "https://preview.redd.it/di3kzl5ehafg1.png?width=1971&format=png&auto=webp&s=b72fb2994db13437db8ca7ec005f97c026bcef4a Bitvavo is a leading European cryptocurrency exchange headquartered in Amsterdam, the Netherlands, where it was founded in 2018. The platform is officially regulated under the EU's MiCAR framework and is supervised by the Dutch Authority for the Financial Markets (AFM), ensuring high standards of security and transparency for its millions of users. STEPS Register with my code on the sign up page: EE39EC01E1 After pasting the code in press APPLY . Make sure you see the \" Get €50 in BTC ...\" text. Do the KYC with ID + selfie. Deposit at least 20 EUR. Your account will be instantly credited with 50 EUR in BTC. REMARKS SEPA transfer from Revolut / banks from / to your Bitvavo account is instant. You can withdraw your 20 EUR deposit at any time. Eligible countries: all EU states + Norway + Switzerland If you have more questions or need a new code because all spots are filled, write a comment or DM me submitted by /u/LuminousAviator to r/Referral [link] [comments]",
-      "link": "https://www.reddit.com/r/Referral/comments/1qllix4/bitvavo_50_eur_in_btc_for_20_eur_deposit_eu/",
-      "author": "/u/LuminousAviator",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T12:18:00.475623"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qllgen",
-      "type": "search",
-      "subreddit": "OkBuddySharkCard",
-      "title": "This post made me dark",
-      "content": "made me dark and gritty all over my screen from how tuff it is submitted by /u/Pipesforwater to r/OkBuddySharkCard [link] [comments]",
-      "link": "https://www.reddit.com/r/OkBuddySharkCard/comments/1qllgen/this_post_made_me_dark/",
-      "author": "/u/Pipesforwater",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T12:18:00.476956"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qlmb5l",
       "type": "post",
       "subreddit": "indiegaming",
@@ -23411,7 +23315,139 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-29T06:31:54.813279"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qq23gl",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Our tactical horror game needed hundreds of unique corpses, so we made them procedural :)",
+      "content": "submitted by /u/healthynobility [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq23gl/our_tactical_horror_game_needed_hundreds_of/",
+      "author": "/u/healthynobility",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T07:32:36.117685"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qq1knd",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "brackeys tutorial slime keeps running of the map",
+      "content": "I'm trying to do the brackeys tutorial and the slime is ignoring the walls (its suppose to turn when colliding with walls) I think this is because the tutorial is out of date not sure though might just be my code extends AnimatedSprite2D const speed = 60 var direction = 1 u/onready var ray_cast_right: RayCast2D = $\"../RayCast right\" u/onready var ray_cast_left: RayCast2D = $\"../RayCast left\" # Called every frame. 'delta' is the elapsed time since the previous frame. func _process(delta): if ray\\_cast\\_right.is\\_colliding(): direction = -1 if ray\\_cast\\_left.is\\_colliding(): direction = 1 position.x += direction \\* speed \\* delta submitted by /u/bunny_cryptid [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qq1knd/brackeys_tutorial_slime_keeps_running_of_the_map/",
+      "author": "/u/bunny_cryptid",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T07:32:36.117783"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qq1qwg",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "My first psychological horror game after 1 year of development",
+      "content": "Wishlist it on Steam! https://store.steampowered.com/app/4166710/Excrucia/ submitted by /u/That-Mongoose5812 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qq1qwg/my_first_psychological_horror_game_after_1_year/",
+      "author": "/u/That-Mongoose5812",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T07:32:36.117806"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qq1ilb",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Differences in Chinese version",
+      "content": "hi I'm looking into game dev trying out all the engines. when I try to download unity it forces me into the Chinese website as I am in hong Kong. is there anyway to get it in English here without the use of vpn? will there be future licencing issues? if I download it with vpn will I always need a VPN to use it? thanks submitted by /u/Egglord0821 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qq1ilb/differences_in_chinese_version/",
+      "author": "/u/Egglord0821",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T07:32:36.117827"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qq20b3",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "It looks like I'm solo art now too",
+      "content": "I made my first 3d model ever in Blender for my game submitted by /u/altulek [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qq20b3/it_looks_like_im_solo_art_now_too/",
+      "author": "/u/altulek",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T07:32:36.117835"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq22v5",
+      "type": "search",
+      "subreddit": "MySummerCar",
+      "title": "Multiplayer mod",
+      "content": "A while ago I posted an idea for a multiplayer mod Basically a online multiplayer mode where players get their own house and satsuma What I was told was I was better off making my own game because the game is so hard coded to have only one car But I’ve been thinking about this a lot here are my ideas Well could there just be no buildable car No that’s haft the fun of the game Maybe I could remake the game and reuse a lot of the code from the original No that’s 100% illegal I thought about remaking my summer car on my own without using any assets from MSC and giving it a different name but that’s a lot of work and it feels weird making a game based around Finnish culture when I’m not Finnish and have never been to Finland I could make a game about my own culture (Washington) but life isn’t really that exotic nor do we have any stereotypes to work off of I don’t know what to do with this idea it’s pretty good but I don’t have any real way of making it happen If someone else wants to adopt this idea you have my full permission and if you want I can tell you more ideas I had submitted by /u/The_carrot_ferret to r/MySummerCar [link] [comments]",
+      "link": "https://www.reddit.com/r/MySummerCar/comments/1qq22v5/multiplayer_mod/",
+      "author": "/u/The_carrot_ferret",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T07:32:36.117887"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq1xpu",
+      "type": "search",
+      "subreddit": "TemuThings",
+      "title": "Temu Free Gifts, 0.1 AWAY!!",
+      "content": "PLEASE PLEASE, just 0.1 away and never won any of these games yet. Temu Username aheathen84 Free Gifts 763950190 Or 771656933 Use for new invitations or existent user. Will do your codes as well. Please no dm’s. You post a code and I’ll put it in, regardless if I’m playing that particular game or not, I’m here to help everyone. submitted by /u/Aheathen84 to r/TemuThings [link] [comments]",
+      "link": "https://www.reddit.com/r/TemuThings/comments/1qq1xpu/temu_free_gifts_01_away/",
+      "author": "/u/Aheathen84",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T07:32:36.118164"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq1q1h",
+      "type": "search",
+      "subreddit": "TemuReferralCodesNew",
+      "title": "Temu Free Gifts Code",
+      "content": "Temu Username aheathen84 Free Gifts 763950190 Or 771656933 Use for new invitations or existent user. Will do your codes as well. Please no dm’s. You post a code and I’ll put it in, regardless if I’m playing that particular game or not, I’m here to help everyone. submitted by /u/Aheathen84 to r/TemuReferralCodesNew [link] [comments]",
+      "link": "https://www.reddit.com/r/TemuReferralCodesNew/comments/1qq1q1h/temu_free_gifts_code/",
+      "author": "/u/Aheathen84",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T07:32:36.118177"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq1ms7",
+      "type": "search",
+      "subreddit": "TemuNewUsersASAp",
+      "title": "Temu Free Gifts",
+      "content": "Temu Username aheathen84 Free Gifts 763950190 Or 771656933 Use for new invitations or existent user. Will do your codes as well. Please no dm’s. You post a code and I’ll put it in, regardless if I’m playing that particular game or not, I’m here to help everyone. submitted by /u/Aheathen84 to r/TemuNewUsersASAp [link] [comments]",
+      "link": "https://www.reddit.com/r/TemuNewUsersASAp/comments/1qq1ms7/temu_free_gifts/",
+      "author": "/u/Aheathen84",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T07:32:36.118224"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq1zuc",
+      "type": "search",
+      "subreddit": "steamachievements",
+      "title": "#86 -- Super Slam Dunk Touchdown",
+      "content": "SSDT is an extremely enjoyable retro-sports game. It's a callback to a time when sports games didn't have to take themselves so seriously and were simply fun to play. The only thing missing were some power-ups, à la the SNES' Baseball Simulator 1000 . The dev (Tipping Goat) is still answering questions on the forums/Discord, which is amazing for a 10-year-old niche game. Anyway, 98 of the achievements are boilerplate story/gameplay grinding achievements. 2 of them require some decent player skill along with a huge dose of luck to finish. (Double Rowdy and Pinball Wizard) The game never got in its way, and replayability is fun/easy enough to keep the hours reasonable and avoid a sense of tedium most of the time. (I left my game on a couple of times, so 48 hours is a gross overestimation of time needed. The hours take some time to figure out some of the pathways or cleverly hidden ones you need to track down.) submitted by /u/Zalym to r/steamachievements [link] [comments]",
+      "link": "https://www.reddit.com/r/steamachievements/comments/1qq1zuc/86_super_slam_dunk_touchdown/",
+      "author": "/u/Zalym",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T07:32:36.118680"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qq1rem",
+      "type": "search",
+      "subreddit": "LifeIsStrangeDE",
+      "title": "story formatting and consequences..",
+      "content": "I feel like the devs have dropped the ball since LIS 2, I really hope reunion has more endings and choices that actually mean something. I’m replaying and now I’m seeing that LIS 2 has so many more options, and opportunities to get another ending. I’ve played all of the games, it truly feels like LIS 2 is a completely different franchise. We need to bring back that type formatting, I hate making all of these decisions to only end up with two choices for an ending. Feel free to tell me I’m wrong ! submitted by /u/AssistantSea3555 to r/LifeIsStrangeDE [link] [comments]",
+      "link": "https://www.reddit.com/r/LifeIsStrangeDE/comments/1qq1rem/story_formatting_and_consequences/",
+      "author": "/u/AssistantSea3555",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T07:32:36.118844"
     }
   ],
-  "last_updated": "2026-01-29T06:33:39.671536"
+  "last_updated": "2026-01-29T07:33:04.263576"
 }
