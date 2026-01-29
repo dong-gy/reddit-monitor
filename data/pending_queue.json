@@ -1,90 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qlojyd",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "What specs should I upgrade my laptop to for game/web development and video editing?",
-      "content": "I have Lenovo IdeaPad 320 with Linux Mint Xfce installed on it. I plan on running Godot(for 2D and 3D games), Blender, Visual Studio Code(for my personal website) , and OpenShot. My laptop's specs here: https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/300-series/320-15iap/80xr/80xr00agus/pf0r0z4y submitted by /u/Dependent-Hamster361 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qlojyd/what_specs_should_i_upgrade_my_laptop_to_for/",
-      "author": "/u/Dependent-Hamster361",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T14:40:49.975703"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlocix",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Our desktop party game Bogos Binted? is launching in full release very soon with a brand-new Crocodile Dentist–themed game mode! We’re super excited! ༼ つ ◕_◕ ༽つ",
-      "content": "submitted by /u/at0micyz [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlocix/our_desktop_party_game_bogos_binted_is_launching/",
-      "author": "/u/at0micyz",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T14:40:49.975790"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlnzfv",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Solo dev — A little deckbuilding game!",
-      "content": "Hello, everyone! It’s still a demo, but I’ve been trimming things down and polishing the core gameplay. Right now it includes a tutorial, more content to try out, and a leaderboard. If you enjoy card games, I’d really appreciate it if you gave it a try! : https://store.steampowered.com/app/4268310/Card_Colony_Demo/ submitted by /u/Deep-Current-4757 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlnzfv/solo_dev_a_little_deckbuilding_game/",
-      "author": "/u/Deep-Current-4757",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T14:40:49.975827"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qloa2e",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Our desktop party game Bogos Binted? is launching in full release very soon with a brand-new Crocodile Dentist–themed game mode! We’re super excited! ༼ つ ◕_◕ ༽つ",
-      "content": "submitted by /u/at0micyz [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qloa2e/our_desktop_party_game_bogos_binted_is_launching/",
-      "author": "/u/at0micyz",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T14:40:49.975839"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qloauv",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Made a cool transition scene for when the day changes",
-      "content": "submitted by /u/TheHPZero [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qloauv/made_a_cool_transition_scene_for_when_the_day/",
-      "author": "/u/TheHPZero",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T14:40:49.975854"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlogb0",
-      "type": "search",
-      "subreddit": "adressme",
-      "title": "69 Upvotes",
-      "content": "submitted by /u/Kind_Fix_9464 to r/adressme [link] [comments]",
-      "link": "https://www.reddit.com/r/adressme/comments/1qlogb0/69_upvotes/",
-      "author": "/u/Kind_Fix_9464",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T14:40:49.977885"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlpb4m",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "The review / release stats of my demo for \"Steinstern: Spacewar\" look very funny because I released the separate demo page just some weeks ago. May I ask for reviews?",
-      "content": "submitted by /u/dopefish86 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlpb4m/the_review_release_stats_of_my_demo_for/",
-      "author": "/u/dopefish86",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T15:09:27.459513"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qlp8jf",
       "type": "post",
       "subreddit": "indiegaming",
@@ -26375,7 +26291,115 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-29T22:51:27.004228"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qqo2z6",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "What game will you develop with Genie? Infinite unrestricted possibilities...",
+      "content": "Check out Project Genie from Google - https://labs.google/projectgenie Since Genie learns from video input rather than a physics engine, we aren't limited by hitboxes or rigid code anymore. We are only limited by what we can show it. If you could feed it any visual from 80s anime to microscopic footage, and turn it into a playable world, what would you build? submitted by /u/heizaman [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qqo2z6/what_game_will_you_develop_with_genie_infinite/",
+      "author": "/u/heizaman",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T23:15:54.813066"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qqntzp",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "AnkiNick-Mon: Gamify your learning",
+      "content": "submitted by /u/AnkiNick [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qqntzp/ankinickmon_gamify_your_learning/",
+      "author": "/u/AnkiNick",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T23:15:54.813087"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qqo5ep",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "What do you think?",
+      "content": "submitted by /u/YosefUwU [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qqo5ep/what_do_you_think/",
+      "author": "/u/YosefUwU",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T23:15:54.813218"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qqofb7",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "First App Published",
+      "content": "Published my first app yesterday!! It’s an IBS tracking app designed to help people work out their symptom triggers. Such a great feeling when you find out it’s passed the review Check it out here: https://www.vylaapp.com or on the App Store: https://apps.apple.com/gb/app/vyla-ibs-tracker/id6758146340 submitted by /u/msmyth21 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qqofb7/first_app_published/",
+      "author": "/u/msmyth21",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T23:15:54.813281"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qqodyq",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Something for the 90s babies :D",
+      "content": "submitted by /u/meltedgore [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qqodyq/something_for_the_90s_babies_d/",
+      "author": "/u/meltedgore",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T23:15:54.813287"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qqoe2r",
+      "type": "search",
+      "subreddit": "teslareferralcode",
+      "title": "Didn’t make it on Beast Games. Need money for Tesla stuff!",
+      "content": "https://www.tesla.com/referral/brian16383 submitted by /u/Briansep26 to r/teslareferralcode [link] [comments]",
+      "link": "https://www.reddit.com/r/teslareferralcode/comments/1qqoe2r/didnt_make_it_on_beast_games_need_money_for_tesla/",
+      "author": "/u/Briansep26",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T23:15:54.813794"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qqodyu",
+      "type": "search",
+      "subreddit": "DnDHomebrew",
+      "title": "Royal Magic Items | Wield instruments of knights and nobility | Free January Royalty Magic Items by LeioCreations",
+      "content": "To continue our little royal theme for January, voted for by our Witness Tier patrons, we shall take a gander away from a subclass and look at some DM catered content: magic items! Be a duty bound knight of the realm with the Shield of the Protector, or be an unswayable noble yourself with the Signet Ring of Politics. Or, be both, a cunning and charismatic lord with the Weapon of Leadership! And for DMs only, use the Crown of the Rightful Ruler, an artifact level item with an optional curse, to give your rulers the power they deserve, or to give it to your low level party and see them panic in a quest to return it to the realm! Beyond that, you can get the PDF here ! submitted by /u/LeioCreations to r/DnDHomebrew [link] [comments]",
+      "link": "https://www.reddit.com/r/DnDHomebrew/comments/1qqodyu/royal_magic_items_wield_instruments_of_knights/",
+      "author": "/u/LeioCreations",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T23:15:54.813813"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qqodkd",
+      "type": "search",
+      "subreddit": "Roborock",
+      "title": "New Roborock Robotic Vacuum, Model RRE0VPC, Surfaces in FCC Filing",
+      "content": "Hey all, was digging through some recent FCC filings and stumbled upon what looks to be a brand-new Roborock model, the RRE0VPC, prepping for a North American release. https://preview.redd.it/d35opd95fdgg1.png?width=1280&format=png&auto=webp&s=2e2c2c7bec6835a2d5a7cc28317f07651785ea25 The confidentiality agreement suggests we could see it before the end of July this year. It's got the standard 2.4 GHz Wi-Fi (no 5 GHz listed, which is interesting) and the label diagrams seem to show a top-loading dustbin, which would be a nice little convenience. Based on the 2.4 GHz Wi-Fi, I'm guessing this might be a new Q-series refresh or a mid-tier model rather than a new flagship S-series. Where do you all think a bot like this would fit into Roborock's current lineup? Sources: https://www.fccidlookup.com/report/roborock-new-robotic-vacuum-rre0vpc-fcc-filing-2AN2O-RRE0VPC02 https://www.fccidlookup.com/fccid/2AN2O-RRE0VPC02 submitted by /u/Any_Resort_6467 to r/Roborock [link] [comments]",
+      "link": "https://www.reddit.com/r/Roborock/comments/1qqodkd/new_roborock_robotic_vacuum_model_rre0vpc/",
+      "author": "/u/Any_Resort_6467",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T23:15:54.813944"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qqodbq",
+      "type": "search",
+      "subreddit": "spiritisland",
+      "title": "Ocean Aspect - Pushes and Pulls",
+      "content": "Eric: I agree to the terms for creating Spirit Island game elements set forth in the FAQ . So I've been playing Spirit island a bit and was taken in by the ocean design, found the aspect that exists a wonderful improvement and very fun to play and yet.. wondered how the pushing and pulling felt more like a limitation than a strength and identity. So here, it is, my homebrew custom Ocean aspect design idea centered around placing more emphasis on the ocean's presence-movement while at the same time making him more immune to player count numbers. https://preview.redd.it/02bq007hddgg1.png?width=988&format=png&auto=webp&s=1ddaa260e4dfc4dfc53eb9a088ddf64ac3251a27 I have the impression it might lean a tad too far into the strong side of things now, but thought I might share it despite. submitted by /u/Aljonau to r/spiritisland [link] [comments]",
+      "link": "https://www.reddit.com/r/spiritisland/comments/1qqodbq/ocean_aspect_pushes_and_pulls/",
+      "author": "/u/Aljonau",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-01-29T23:15:54.815177"
     }
   ],
-  "last_updated": "2026-01-29T22:51:55.609590"
+  "last_updated": "2026-01-29T23:16:23.208898"
 }
