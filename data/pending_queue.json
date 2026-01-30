@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlyv1q",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Minesweeper with a little twist",
-      "content": "I made a little minesweeper game but where the green tiles on the edge are safe https://sweepminer.pages.dev/ submitted by /u/DeadIee [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlyv1q/minesweeper_with_a_little_twist/",
-      "author": "/u/DeadIee",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:08:52.536994"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlykwd",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I'm bringing back my childhood game, need some opinions",
-      "content": "submitted by /u/brmrush [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlykwd/im_bringing_back_my_childhood_game_need_some/",
-      "author": "/u/brmrush",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:08:52.537001"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlyjxv",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "DC World creature reactions to being attacked",
-      "content": "submitted by /u/Bassfaceapollo [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlyjxv/dc_world_creature_reactions_to_being_attacked/",
-      "author": "/u/Bassfaceapollo",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:08:52.537008"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlyjbg",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Added drag-and-dropping files to my game! (NO, THE GAME WON'T USE ANY LLMs)",
-      "content": "submitted by /u/Garage_Heathen [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlyjbg/added_draganddropping_files_to_my_game_no_the/",
-      "author": "/u/Garage_Heathen",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:08:52.537014"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlydcl",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "No one wishlist my game :( PlEasE HeLp",
-      "content": "submitted by /u/unknownterritory9173 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlydcl/no_one_wishlist_my_game_please_help/",
-      "author": "/u/unknownterritory9173",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:08:52.537020"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qlyxd5",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "The full second level of my Sonic-Inspired platformer!",
-      "content": "submitted by /u/Angel_Bur [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qlyxd5/the_full_second_level_of_my_sonicinspired/",
-      "author": "/u/Angel_Bur",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:08:52.537028"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qlywvs",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Platform not moving within the game.",
-      "content": "Hello, I've been following along Brakceys tutorial and now I am modifying it with my own levels. Using the animationplayer, I want a platform to move and also rotate after some time. When I play it in the editor it all works fine, but when I play the actual game, the platform only moves and doesn't rotate, anyone know what is the issue? submitted by /u/Cooldogie123 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qlywvs/platform_not_moving_within_the_game/",
-      "author": "/u/Cooldogie123",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:08:52.537040"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlyuvu",
-      "type": "search",
-      "subreddit": "ASUS",
-      "title": "No error code but no video",
-      "content": "I have an ASUS ROG STRIX 870E-E Gaming Wifi and suddenly the video stopped working and I was stuck on a black screen. At first I thought it was the display because the \"no input\" message would sometimes briefly pop up but I connected my laptop via HDMI and it was fine. There were no error codes on the board. I Googled the problem and it suggested resetting the CMOS which I did and the problem corrected. Any ideas on what might be causing this? There was another day where the screen went black suddenly but after a minute or two it came back. submitted by /u/JonSch581 to r/ASUS [link] [comments]",
-      "link": "https://www.reddit.com/r/ASUS/comments/1qlyuvu/no_error_code_but_no_video/",
-      "author": "/u/JonSch581",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:08:52.537173"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qlyi46",
       "type": "search",
       "subreddit": "DungeonMisterBots",
@@ -29879,7 +29783,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-30T22:49:32.348490"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qrkxsc",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "First-person object manipulation in my custom engine",
+      "content": "submitted by /u/CameleonTH [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qrkxsc/firstperson_object_manipulation_in_my_custom/",
+      "author": "/u/CameleonTH",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T23:15:02.747509"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qrl8b0",
+      "type": "search",
+      "subreddit": "Epstein",
+      "title": "Apparently, Jeffrey Epstein was banned from Xbox Live. No, I’m not kidding.",
+      "content": "submitted by /u/HouseStopAbusingMe to r/Epstein [link] [comments]",
+      "link": "https://www.reddit.com/r/Epstein/comments/1qrl8b0/apparently_jeffrey_epstein_was_banned_from_xbox/",
+      "author": "/u/HouseStopAbusingMe",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T23:15:02.747753"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qrkv0d",
+      "type": "search",
+      "subreddit": "videogames",
+      "title": "Apparently, Jeffrey Epstein was banned from Xbox Live. No, I’m not kidding.",
+      "content": "https://www.justice.gov/epstein/files/DataSet%209/EFTA00634104.pdf submitted by /u/MEMEY_IFUNNY to r/videogames [link] [comments]",
+      "link": "https://www.reddit.com/r/videogames/comments/1qrkv0d/apparently_jeffrey_epstein_was_banned_from_xbox/",
+      "author": "/u/MEMEY_IFUNNY",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T23:15:02.747840"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qrlcyk",
+      "type": "search",
+      "subreddit": "SkincareAddicts",
+      "title": "Why do all moisturisers feel weird on my skin?",
+      "content": "I'm 32 years old now, and been trying moisturisers since I was 15, they all, without exception, make my skin feel so weird; it either feels gummy, or tight, or sticky, or dry even, or it ends up pilling, or some other form of weird uncomfortable texture. And this is across 15 years of different products, routines, order of application, etc... The only thing I've been able to put on my face without these issues is oil, so that's what I do but getting into my 30's now I need to do better, but no moisturiser ever worked! What could be the issue here? Anyone else also have or had the same problem? Did anything help with this? submitted by /u/Swimming_Spray to r/SkincareAddicts [link] [comments]",
+      "link": "https://www.reddit.com/r/SkincareAddicts/comments/1qrlcyk/why_do_all_moisturisers_feel_weird_on_my_skin/",
+      "author": "/u/Swimming_Spray",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T23:15:02.748175"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qrlbbp",
+      "type": "search",
+      "subreddit": "Multifandom",
+      "title": "How do i show im a big fan of a fandom? (The fandom is still WIP, and its not exactly a giant one)",
+      "content": "So theres a game and a fandom that i love for life, and i just wondered, how can i show i really apprecieate the work of the devs, i even started drawing but its still a long way to my final goal, there are also other people in this fandom that joined before me, and the others also make art but its way better than mine. The fandom is SharkCo. submitted by /u/Brilliant_Dog_9066 to r/Multifandom [link] [comments]",
+      "link": "https://www.reddit.com/r/Multifandom/comments/1qrlbbp/how_do_i_show_im_a_big_fan_of_a_fandom_the_fandom/",
+      "author": "/u/Brilliant_Dog_9066",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T23:15:02.748531"
     }
   ],
-  "last_updated": "2026-01-30T22:50:00.597848"
+  "last_updated": "2026-01-30T23:15:31.107713"
 }
