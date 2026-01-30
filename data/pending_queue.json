@@ -1,126 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qlyi46",
-      "type": "search",
-      "subreddit": "DungeonMisterBots",
-      "title": "Script Check: Pope-Tor-All Minions Game",
-      "content": "Original Post: Pope-Tor-All Minions Game Script Check Results: 🟠 Outsider Modification: Without any outsider modification, the evil team will struggle to bluff outsiders 🟡 Misinformation: There are no sources of misinformation on this script. Consider adding more, or using the Fibbin fabled All suggestions are the opinion of /u/dungeon-mister , and not endorsed by TPI, the mods, or the community at large. This bot is still in early development. Did I miss something? Do you disagree? Is there a bug? Let me know! You can find a web-based version of this bot here , and the code here submitted by /u/BotcScriptCheckerBot to r/DungeonMisterBots [link] [comments]",
-      "link": "https://www.reddit.com/r/DungeonMisterBots/comments/1qlyi46/script_check_popetorall_minions_game/",
-      "author": "/u/BotcScriptCheckerBot",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:08:52.538675"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlyqh6",
-      "type": "search",
-      "subreddit": "EscapefromTarkov",
-      "title": "[Discussion] Why SHORELINE spawns are now much worse",
-      "content": "Seems like many spawns are really really bad currently, Image by RE3MR submitted by /u/JoseMnez to r/EscapefromTarkov [link] [comments]",
-      "link": "https://www.reddit.com/r/EscapefromTarkov/comments/1qlyqh6/discussion_why_shoreline_spawns_are_now_much_worse/",
-      "author": "/u/JoseMnez",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:08:52.539263"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlyv1q",
-      "type": "search",
-      "subreddit": "IndieDev",
-      "title": "Minesweeper with a little twist",
-      "content": "I made a little minesweeper game but where the green tiles on the edge are safe https://sweepminer.pages.dev/ submitted by /u/DeadIee to r/IndieDev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlyv1q/minesweeper_with_a_little_twist/",
-      "author": "/u/DeadIee",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:08:52.539419"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlypi2",
-      "type": "search",
-      "subreddit": "OutcomeMemories",
-      "title": "Why",
-      "content": "Yep we are not makng it to fleetway, pack it up submitted by /u/BartDaCat to r/OutcomeMemories [link] [comments]",
-      "link": "https://www.reddit.com/r/OutcomeMemories/comments/1qlypi2/why/",
-      "author": "/u/BartDaCat",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:08:52.539525"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qlz01w",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "In what cases are templates and pre-made assets worth buying? if at all?",
-      "content": "Just wondering what is seen as the right moment/time to use pre-made assets or templates? or are they even worth buying, or should be avoided? What do you think? submitted by /u/PassengerDouble1174 [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qlz01w/in_what_cases_are_templates_and_premade_assets/",
-      "author": "/u/PassengerDouble1174",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:36:39.032578"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlzmaq",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Axe boy's getting ready to chop some wood! Lunging the axe into enemies is coming along, as well as dynamic limb targeting.",
-      "content": "There is no steam page yet, please consider following Project Axe on Discord: https://discord.gg/vAS5t6YNV5 submitted by /u/Tinimations [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlzmaq/axe_boys_getting_ready_to_chop_some_wood_lunging/",
-      "author": "/u/Tinimations",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:36:39.032596"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlzd9e",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "We're making a game about managing a horse farm. In it, our horses don't have a health bar, but they get specific conditions that need specific treatments, all inspired by real life horse husbandry. In this case, the horse has an abrasion and needs an antiseptic to avoid infection",
-      "content": "submitted by /u/AliceTheGamedev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlzd9e/were_making_a_game_about_managing_a_horse_farm_in/",
-      "author": "/u/AliceTheGamedev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:36:39.032608"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlza5i",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Disc Creatures WORLD - A creature collector game inspired by DQ Monsters and Pokémon",
-      "content": "FYI. I'm not the dev. The original dev is Picorinne Soft , a small Japanese indie studio that's comprised of two brothers. I just wanted to share this gif from their upcoming title, Disc Creatures WORLD . A creature collector game with mechanics inspired by early Pokémon games, and Dragon Quest Monsters . Disc Creatures WORLD is a remake of their previous title, Disc Creatures . submitted by /u/Bassfaceapollo [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlza5i/disc_creatures_world_a_creature_collector_game/",
-      "author": "/u/Bassfaceapollo",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:36:39.032627"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlzk8n",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Axe boy's getting ready to chop some wood! Lunging the axe into enemies is coming along, as well as dynamic limb targeting.",
-      "content": "There is no steam page yet, please consider following Project Axe on Discord: https://discord.gg/vAS5t6YNV5 submitted by /u/Tinimations [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlzk8n/axe_boys_getting_ready_to_chop_some_wood_lunging/",
-      "author": "/u/Tinimations",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:36:39.032640"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qlz85u",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Does sharing your progress count as self-promo? Sometimes I genuinely want to share something but don't want to look like a spammer",
-      "content": "Especially considering that later I plan to do actual promoting posts I know self-promo rule is no more, but some subs still follow it internally. This post doesn't imply promoting on this sub, I just thought It'd make sense to ask from fellow devs I also wonder what separates self-promo post from just sharing your progress post because sometimes they might be pretty the same thing.. kinda? submitted by /u/hogon2099 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qlz85u/does_sharing_your_progress_count_as_selfpromo/",
-      "author": "/u/hogon2099",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T21:36:39.032656"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qlzoin",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -29843,7 +29723,67 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-30T23:15:02.748531"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qrlgey",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Working on a game about Drifting!",
+      "content": "submitted by /u/Nathan__Taylor [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qrlgey/working_on_a_game_about_drifting/",
+      "author": "/u/Nathan__Taylor",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T23:45:10.010886"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qrm3g4",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Issue: When camera moves a little bit the light get disabled (2D) but probably related to this issue",
+      "content": "Anybody knows why? submitted by /u/Large-Sprinkles-8998 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qrm3g4/issue_when_camera_moves_a_little_bit_the_light/",
+      "author": "/u/Large-Sprinkles-8998",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T23:45:10.010968"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qrlkr3",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Hello Everyone. Suggestions for a new developer",
+      "content": "I am a full-stack developer who used to work in an Australian company. Because of my hard situation, I had to quit my last full-time job. Now I am planning to start my solo development journey. I have developed two software programs for the university, and one project is ongoing. If there is anything you would like to share with me, thank you for your warm heart! submitted by /u/Ok_Woodpecker9739 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qrlkr3/hello_everyone_suggestions_for_a_new_developer/",
+      "author": "/u/Ok_Woodpecker9739",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T23:45:10.010989"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qrm470",
+      "type": "search",
+      "subreddit": "foodstamps",
+      "title": "Gopuff code/link for $25 off (Accepts Food stamps)",
+      "content": "Hey everyone, If you're like me and trying to stretch your budget—whether you're on food stamps, watching every penny, or just hunting for solid deals—I've got something that might help. Gopuff is a delivery app that brings over 5,000 essentials right to your door in as little as 15 minutes: think fresh groceries, snacks, drinks, household stuff, and even OTC meds. No more late-night runs to the store when you're low on funds or energy. New users get $25 off their first order I used it myself to stock up on basics without breaking the bank, and it was a game-changer during a tight month. Here's the link if you want to give it a shot: https://s.gopuff.com/s/2mUrDgGO618W1Y3X Here's the code as well:GO618W1Y3X Hope someone finds this useful. Stay up my friends and have a great weekend. Peace ✌️ submitted by /u/Marvelous2121 to r/foodstamps [link] [comments]",
+      "link": "https://www.reddit.com/r/foodstamps/comments/1qrm470/gopuff_codelink_for_25_off_accepts_food_stamps/",
+      "author": "/u/Marvelous2121",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T23:45:10.011022"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qrm4qx",
+      "type": "search",
+      "subreddit": "tomodachilife",
+      "title": "How likely do you think they will have heterochromia in Living the Dream?",
+      "content": "With the skin tone of the alien and elf ears shown in the direct, I realize I could make my duskwight elezen from FFXIV. I have another character in mind from that game I may make, but she has heterochromia if I want to be 100% accurate. Is there any evidence for it or shall I have to hope? submitted by /u/SmallestApple to r/tomodachilife [link] [comments]",
+      "link": "https://www.reddit.com/r/tomodachilife/comments/1qrm4qx/how_likely_do_you_think_they_will_have/",
+      "author": "/u/SmallestApple",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T23:45:10.011535"
     }
   ],
-  "last_updated": "2026-01-30T23:15:31.107713"
+  "last_updated": "2026-01-30T23:45:38.397615"
 }
