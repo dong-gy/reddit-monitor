@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qlvkfb",
-      "type": "search",
-      "subreddit": "tf2",
-      "title": "Can you rate my demo loadout out of 10?",
-      "content": "I recently got 5 new items in TF2 and wanted to check if my demo loadout was really cool or not. Do you think it is? submitted by /u/tf2guy20 to r/tf2 [link] [comments]",
-      "link": "https://www.reddit.com/r/tf2/comments/1qlvkfb/can_you_rate_my_demo_loadout_out_of_10/",
-      "author": "/u/tf2guy20",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T19:08:27.873470"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlvq3p",
-      "type": "search",
-      "subreddit": "H3VR",
-      "title": "What's next?",
-      "content": "So I heard that h3 is getting its 1.0 release and development will slow down significantly, so will you be working on a new game or something? I'd be surprised if you're done with game development, but maybe you've got stuff in your personal life and you don't have time to be a game dev. Sorry if this has been mentioned in devlogs or asked before. submitted by /u/yourcatstoiletpaper to r/H3VR [link] [comments]",
-      "link": "https://www.reddit.com/r/H3VR/comments/1qlvq3p/whats_next/",
-      "author": "/u/yourcatstoiletpaper",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T19:08:27.873531"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qlvotb",
-      "type": "search",
-      "subreddit": "depression",
-      "title": "I should hate myself and love others more",
-      "content": "I don't love people enough. Even those closest to me, those who are dear to me. I'm a selfish bastard with a fight or flight way of thinking that only makes me think about myself. I need to learn love. I'm going to cut myself and take ultra cold showers and not allow myself any comfort from now on. It sounds a bit extreme but at least this mindset will finally get me over my shitty addictions like weed porn shitty gacha games social media. It's not even that I think I deserve to suffer or whatever I just have to learn to love others more and put others before myself. Like my selfishness genuinely stops my close ones from having fun. And it even stops them from being safe and sound, I'm not reliable at all, but part of that might also be how irresponsible I am too, which is more reason to hate myself lol. I don't give a fk anymore about whatever trauma happened to me, it's no excuse for not loving people. I'm going to have to remove all sources of stupid comfort. I'm going to have to change this to the opposite of comfort. And also pick up hobbies and interests that allow me to love others. submitted by /u/SubstantialSmile5152 to r/depression [link] [comments]",
-      "link": "https://www.reddit.com/r/depression/comments/1qlvotb/i_should_hate_myself_and_love_others_more/",
-      "author": "/u/SubstantialSmile5152",
-      "search_keyword": "how to make a game",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T19:08:27.873738"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlw8wd",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "EVERDAWN, the tile-based game, keeps evolving!",
-      "content": "submitted by /u/SOLIDSStudio [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlw8wd/everdawn_the_tilebased_game_keeps_evolving/",
-      "author": "/u/SOLIDSStudio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T19:33:13.517912"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qlw24w",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Turning on the light is dangerous!",
-      "content": "At the beginning of the VR game Xenolocus, the zombies are quite slow, but once you turn on the light they start moving toward it and can surround any careless player. What do you think, is it better to fight in the dark, or with light but a greater risk of being eaten? :) submitted by /u/RelevantOperation422 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qlw24w/turning_on_the_light_is_dangerous/",
-      "author": "/u/RelevantOperation422",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-24T19:33:13.517923"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qlvxw4",
       "type": "post",
       "subreddit": "indiegaming",
@@ -27371,7 +27311,127 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-01-30T11:46:49.140814"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qr3w7l",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Our first playtest. We’re collecting feedback.",
+      "content": "Hello, survivors! The time has come - it's time. Hop into the bus with a crew of up to 4 people and head to Fang Island! This test is meant to identify problem areas in the game, and at the same time - let you discover how the story of the bus begins during the apocalypse. The playtest will last for 2 weeks - we will announce the end a couple of days in advance. \"Oh no, I found a bug. What should I do?\" - That's the way it should be, thank you! There are several ways to report a bug: On our Discord server. We check this the most: https://discord.gg/busbro Here, in the comments to this post. In the Steam Discussions. We will see your feedback anywhere! \"I didn't sign up in time. Am I left out?\" - Not at all! You can still join on the game's page: https://store.steampowered.com/app/2852700/BUS_Bro_u_Survived/ submitted by /u/SassyAddicted [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qr3w7l/our_first_playtest_were_collecting_feedback/",
+      "author": "/u/SassyAddicted",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T12:27:05.077852"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qr3kfd",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I just had to think of that meme when I saw today's wish lists",
+      "content": "submitted by /u/SilvanuZ [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qr3kfd/i_just_had_to_think_of_that_meme_when_i_saw/",
+      "author": "/u/SilvanuZ",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T12:27:05.077859"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qr3x44",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My girlfriend’s loving learning Godot.",
+      "content": "submitted by /u/StunSeed69420 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qr3x44/my_girlfriends_loving_learning_godot/",
+      "author": "/u/StunSeed69420",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T12:27:05.077868"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qr3amx",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "make the lip sync working inside editor",
+      "content": "https://reddit.com/link/1qr3amx/video/oma6tkhg5hgg1/player abusing property key to make the realtime lip sync working inside the editor. submitted by /u/game_gland [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qr3amx/make_the_lip_sync_working_inside_editor/",
+      "author": "/u/game_gland",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T12:27:05.077935"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qr3ja3",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Check my upcoming action roguelite made with unity and inspired by Hi-Fi Rush and BPM",
+      "content": "submitted by /u/Serious-Slip-3564 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qr3ja3/check_my_upcoming_action_roguelite_made_with/",
+      "author": "/u/Serious-Slip-3564",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T12:27:05.077942"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qr42cx",
+      "type": "search",
+      "subreddit": "writingfeedback",
+      "title": "I want to start to write a novel. I've always done short stories but not something big. Would this be a good idea for a novel? FEEDBACK IS WELMCOMED!",
+      "content": "_ . submitted by /u/Least_Shopping_461 to r/writingfeedback [link] [comments]",
+      "link": "https://www.reddit.com/r/writingfeedback/comments/1qr42cx/i_want_to_start_to_write_a_novel_ive_always_done/",
+      "author": "/u/Least_Shopping_461",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T12:27:05.078638"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qr41pn",
+      "type": "search",
+      "subreddit": "PcBuildHelp",
+      "title": "It won't power on, first build",
+      "content": "Yesterday I tried to upgrade my CPU, CPU cooler and PSU, I reused my Mobo which is a b450 gaming plus max ms7b86. After installing all of that, I tried to power it on , but it didn't work, it just makes a clicking sound. I've already tried doing the screwdriver thing on the power switch and also made sure I had the PSU on. I also already updated My bios in case it's related. My best guess is that I messed up with something related to the wiring but I really have no idea... Any help really appreciated! submitted by /u/xxproboy79 to r/PcBuildHelp [link] [comments]",
+      "link": "https://www.reddit.com/r/PcBuildHelp/comments/1qr41pn/it_wont_power_on_first_build/",
+      "author": "/u/xxproboy79",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T12:27:05.078916"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qr40p8",
+      "type": "search",
+      "subreddit": "PHbuildapc",
+      "title": "Planning to buy my cousin a pc and saw this at fb marketplace. Can I hear some of yinsights if its worth it or nah.",
+      "content": "https://preview.redd.it/jxirmit4chgg1.jpeg?width=944&format=pjpg&auto=webp&s=ec352951ac04fced4285e8dbd9baf9e1249c3bcc So this is basically it. Thoughts? submitted by /u/DatabaseFar9045 to r/PHbuildapc [link] [comments]",
+      "link": "https://www.reddit.com/r/PHbuildapc/comments/1qr40p8/planning_to_buy_my_cousin_a_pc_and_saw_this_at_fb/",
+      "author": "/u/DatabaseFar9045",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T12:27:05.079064"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qr425g",
+      "type": "search",
+      "subreddit": "ffxiv",
+      "title": "New mini-game for Valentione's Day (Dev Blog article)",
+      "content": "submitted by /u/Isanori to r/ffxiv [link] [comments]",
+      "link": "https://www.reddit.com/r/ffxiv/comments/1qr425g/new_minigame_for_valentiones_day_dev_blog_article/",
+      "author": "/u/Isanori",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T12:27:05.079392"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qr3x44",
+      "type": "search",
+      "subreddit": "godot",
+      "title": "My girlfriend’s loving learning Godot.",
+      "content": "submitted by /u/StunSeed69420 to r/godot [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qr3x44/my_girlfriends_loving_learning_godot/",
+      "author": "/u/StunSeed69420",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-01-30T12:27:05.079421"
     }
   ],
-  "last_updated": "2026-01-30T11:47:17.549559"
+  "last_updated": "2026-01-30T12:27:33.713556"
 }
