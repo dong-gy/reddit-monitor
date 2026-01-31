@@ -1,6 +1,30 @@
 {
   "queue": [
     {
+      "id": "https://www.reddit.com/t3_1qs42ot",
+      "type": "search",
+      "subreddit": "IndieDev",
+      "title": "Update on the dialogue system for my simulator game",
+      "content": "Hi everyone, Last time I posted about my game’s dialogue system, and the feedback was incredible. I’ve spent the last few weeks polishing the UI based on your suggestions! What’s new: Enhanced interaction of dialogue UI: I replaced the old vertical menu with a radial menu centered right on the maid, so your focus stays on the interaction. Plus, dialogue now pops up in speech bubbles above her head, making it much easier to follow the conversation. Cleaner look for HUD: I’ve unified Cafe Level and Balance with a fresh new design on top right side. These new progress bars will give a much clearer sense of how your cafe is growing as you play. I’ve also made a short comparison video around these changes, so please let me know what you think of the new look. Thanks! Link for those interested: Maid Café Simulator submitted by /u/AccelixGames to r/IndieDev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qs42ot/update_on_the_dialogue_system_for_my_simulator/",
+      "author": "/u/AccelixGames",
+      "search_keyword": "how to make a game",
+      "relevance_score": 1,
+      "added_at": "2026-01-31T14:46:41.444474"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qs42b4",
+      "type": "search",
+      "subreddit": "OPBR",
+      "title": "This is ultimately what is killing this game and it is not getting any better. Trying to 100% ACCURATELY implement attacks from the series into the game to be as identical and impactful as they were in the series, is what kills this game, and I have a feeling if they keep doing this with Elbaf...",
+      "content": "If they keep doing this thing with Elbaf where they release these extremely bullshit overpowered brainless skills that nuke everything everywhere at once and are almost fucking unavoidable, it will kill the game in one or two years. This thing I'm talking about is attacks like Yasakani, Crush, Galaxy Impact, Love Powered Strike, Bajrang Gun, etc etc. This is complete and utter bullshit, I'm sorry. First of all Kuma's skill 2 is easily probably one of the worst designed unhealthy mechanics in a game ever. Kizaru's skill 1 is unavoidable, it will do damage no matter what. While Bajrang Gun and Galaxy Impact are somewhat avoidable, those two skills were the \"blueprint\" for Blackbeard's Power Skill 2, Crush. I don't give a singular shit how cool the animation in the anime was or how many islands were destroyed. This is a fucking game, in no way should a skill be allowed to pop up underneath you and do that much fucking damage. At first I thought it was tame because it was easily avoidable, you could just walk out of it or dodge, but now I've lost count of how many times it caught me in an action or a fight, and absolutely destroyed me and single handedly wiped teams. Kizaru's skill on every TA is similar, except it only hits ta, so you can know when to worry. This shit spawning wherever you are makes absolutely zero fucking sense to me. The evolution is like this: Bajrang Gun, Galaxy Impact -> Kizaru sk1 on every TA -> Blackbeard sk2 wherever you are. They keep evolving this bullshit idea to make attacks perfectly cannon and it's ruining everything. While easy to kill, once Blackbeard gets built up and starts spamming brainlessly, it becomes impossible to make a comeback if you're losing and getting spawn camped. You can't even sneak and back cap because the bullshit rocks will wipe you out. They need to stop trying to make the attacks on the manga perfectly accurate in game. If this continues the Elbaf characters will ruin the game for good. submitted by /u/OkWriting7340 to r/OPBR [link] [comments]",
+      "link": "https://www.reddit.com/r/OPBR/comments/1qs42b4/this_is_ultimately_what_is_killing_this_game_and/",
+      "author": "/u/OkWriting7340",
+      "search_keyword": "how to make a game",
+      "relevance_score": 1,
+      "added_at": "2026-01-31T14:46:41.444516"
+    },
+    {
       "id": "https://www.reddit.com/t3_1qmcs4r",
       "type": "search",
       "subreddit": "Phobia",
@@ -30455,7 +30479,151 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-01-31T14:13:26.251058"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qs4506",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Free homebrewed games with leaderboards from northern sweden",
+      "content": "submitted by /u/AviatorX69 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qs4506/free_homebrewed_games_with_leaderboards_from/",
+      "author": "/u/AviatorX69",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T14:46:41.441938"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qs3wp5",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I'm creating a remake of Amiga Breathless for PC with my own 3D engine in C++ / Vulkan",
+      "content": "submitted by /u/TextureMind [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qs3wp5/im_creating_a_remake_of_amiga_breathless_for_pc/",
+      "author": "/u/TextureMind",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T14:46:41.441973"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qs3sos",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "If you haven’t done it yet, TODAY IS THE DAY! https://store.steampowered.com/app/3565040/Rumbral #Rumbral #SteamWishlist #IndieGame #DojoSystem #Launch2026",
+      "content": "submitted by /u/Rumbral [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qs3sos/if_you_havent_done_it_yet_today_is_the_day/",
+      "author": "/u/Rumbral",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T14:46:41.442018"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qs44at",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Free homebrewed games with leaderboards from northern sweden",
+      "content": "Games • MTEC Productions Magic All games can be run directly in the browser, have fun :-D submitted by /u/AviatorX69 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qs44at/free_homebrewed_games_with_leaderboards_from/",
+      "author": "/u/AviatorX69",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T14:46:41.442097"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qs3v4w",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "attack sequence",
+      "content": "submitted by /u/Merakintsugi [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qs3v4w/attack_sequence/",
+      "author": "/u/Merakintsugi",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T14:46:41.442133"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qs3oej",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "SYSTEM CRITICAL III LAST LEVEL SOUNDTRACK! 🔥🔥🔥",
+      "content": "submitted by /u/Pure_Pound8933 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qs3oej/system_critical_iii_last_level_soundtrack/",
+      "author": "/u/Pure_Pound8933",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T14:46:41.442142"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qs3ejz",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "It finally happened!! My project now has its own promo art!",
+      "content": "Artist: https://www.artstation.com/moonspot About the project: https://tinaynox.com/projects/crpg submitted by /u/Tinaynox [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qs3ejz/it_finally_happened_my_project_now_has_its_own/",
+      "author": "/u/Tinaynox",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T14:46:41.442169"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qs3exu",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Having a weird issue (re)importing:",
+      "content": "It gets 'stuck' at 100 until I touch some other part of the UI (it's not a freeze or anything, I think it's just godot's ui itself getting stuck) and then I get a ton of this message. I've TRIED to google this, but no luck. Anyone seen this before? It's easy enough to work around and doesn't SEEM to cause any massive problems but it's still probably not great https://preview.redd.it/wtpw6brd0pgg1.png?width=1077&format=png&auto=webp&s=30f7d244ab2fe90275c2ac5aad9df672bdde3dd6 submitted by /u/GoodTato [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qs3exu/having_a_weird_issue_reimporting/",
+      "author": "/u/GoodTato",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T14:46:41.442263"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qs3pcl",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Next week I release my story-driven, no-combat precision platformer inspired by the Pied Piper tale.",
+      "content": "The Pale Piper releases on February 4. It’s a story-driven precision platformer inspired by the darker German Pied Piper tale. There is no combat, so survival is entirely about movement and skill. The game is set in an interconnected world with light Metroidvania elements, with a strong focus on polished, satisfying movement. Store page: https://store.steampowered.com/app/2925120/The_Pale_Piper/ submitted by /u/FreeTime-Dev [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qs3pcl/next_week_i_release_my_storydriven_nocombat/",
+      "author": "/u/FreeTime-Dev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T14:46:41.442310"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qs3ilc",
+      "type": "search",
+      "subreddit": "okbuddyptfo",
+      "title": "This why he invited Bill Gates to hang out",
+      "content": "submitted by /u/Illustrious-Virus883 to r/okbuddyptfo [link] [comments]",
+      "link": "https://www.reddit.com/r/okbuddyptfo/comments/1qs3ilc/this_why_he_invited_bill_gates_to_hang_out/",
+      "author": "/u/Illustrious-Virus883",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T14:46:41.443379"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qs467o",
+      "type": "search",
+      "subreddit": "AOW4",
+      "title": "Does adding/removing layers change the size of the map?",
+      "content": "I was curious if you play with Blocked Underground, does the game make the overland map any bigger as it frees up memory use/restrictions or vice versa adding the Umbral Abyss making the Overland map slightly smaller to compensate. Or are the Map sizes always the same for example a Normal map size being 64x64 regardless if the Underground/Abyss is present or not. submitted by /u/doctorwhomafia to r/AOW4 [link] [comments]",
+      "link": "https://www.reddit.com/r/AOW4/comments/1qs467o/does_addingremoving_layers_change_the_size_of_the/",
+      "author": "/u/doctorwhomafia",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T14:46:41.443770"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qs465a",
+      "type": "search",
+      "subreddit": "animalcompany",
+      "title": "Why is this new voice moderation even a thing?",
+      "content": "You cant say anything anymore without getting a voice ban for an hour i say one swear and im muted for one hour they say its to make the community great but its for teenagers who most likely are allowed to swear, so why take that away from us? I get the moderation for racism and all that but swearing is a bit pathetic submitted by /u/harribo1234 to r/animalcompany [link] [comments]",
+      "link": "https://www.reddit.com/r/animalcompany/comments/1qs465a/why_is_this_new_voice_moderation_even_a_thing/",
+      "author": "/u/harribo1234",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T14:46:41.443783"
     }
   ],
-  "last_updated": "2026-01-31T14:13:54.628967"
+  "last_updated": "2026-01-31T14:47:09.568191"
 }
