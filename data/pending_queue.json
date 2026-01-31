@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qmfvp2",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Devlog #0 - Warnet - The (missing?) S in RTS games",
-      "content": "submitted by /u/spieltic [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qmfvp2/devlog_0_warnet_the_missing_s_in_rts_games/",
-      "author": "/u/spieltic",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T10:43:39.964588"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qmfkd7",
       "type": "post",
       "subreddit": "IndieDev",
@@ -31775,7 +31763,103 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-01-31T20:11:48.280683"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qsdnid",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Designed the in game shop off of driftwood to fit our game's island aesthetic. 🏝️",
+      "content": "submitted by /u/HolograpicQuad [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qsdnid/designed_the_in_game_shop_off_of_driftwood_to_fit/",
+      "author": "/u/HolograpicQuad",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T20:45:07.644987"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qsdfpo",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I've got a steam page for my game",
+      "content": "Guys I've set up a steam page for my game clockworks its a platformer with time and clocks theme anyone who's into that it just wasn't too support or have a bitter enemy whose credit card their willing to steal to make poor financial decisions on their behalf please check it out thank you🙏 https://store.steampowered.com/app/4376480/Clockworks/ submitted by /u/Galxy999 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qsdfpo/ive_got_a_steam_page_for_my_game/",
+      "author": "/u/Galxy999",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T20:45:07.645081"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qsdexw",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Making Phong Shading Using Visual Shaders?",
+      "content": "I'm trying to make a basic universal phong shader that takes in image textures that represent the diffuse, normal map (tangent or object space), specular occlusion, AO, emission, and mask, using visual nodes as to reduce the performance cost on my game. Is there anything I need to know? submitted by /u/TheMcStone [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qsdexw/making_phong_shading_using_visual_shaders/",
+      "author": "/u/TheMcStone",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T20:45:07.645141"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qsd1kf",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "how do i send a signal to a sibling?",
+      "content": "every frame, i check which orb is the closest to the player, and if the closest is different than it was last frame, i need to tell that orb to change its sprite animation to indicate which one the player is closest to (ill put this on line 68). how do i communicate this? the orbs are a child of the player's sibling, so i dont think i can use signals submitted by /u/7dragon0 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qsd1kf/how_do_i_send_a_signal_to_a_sibling/",
+      "author": "/u/7dragon0",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T20:45:07.645155"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qscxqy",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Physics inconsistency in Godot 4.6?",
+      "content": "Switched my 2D project from Godot 4.5.1 to Godot 4.6 and my player and enemy projectiles are randomly speeding up for like 1/4 of a second inconsistently. Both are using Jolt and have the same exact Project Settings. If anyone needs any more information let me know. I've switched back to Godot 4.5.1 for the time being. submitted by /u/OMBERX [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qscxqy/physics_inconsistency_in_godot_46/",
+      "author": "/u/OMBERX",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T20:45:07.645166"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qsdpnn",
+      "type": "search",
+      "subreddit": "MinecraftBedrockers",
+      "title": "I am building a giant igloo ! But I need suggestions.",
+      "content": "So I am currently building a giant igloo just the classic Minecraft igloo but 16 by 16 by 16 so eveey blocks (hollow) is 1300+ blocks and total will be 250k and yea... This is without counting the floor I am building now it's gonna be 27k+ I currently placed around 7k blocks it looks so tiny compared to the full size ye so why I made this is the blocks are hollow and I need suggestions to what do in the there are like 100 or so ye pls give me ideas imma make easter eggs and maybe farms in the blocks but idk which exactly submitted by /u/Natural-Garlic1353 to r/MinecraftBedrockers [link] [comments]",
+      "link": "https://www.reddit.com/r/MinecraftBedrockers/comments/1qsdpnn/i_am_building_a_giant_igloo_but_i_need_suggestions/",
+      "author": "/u/Natural-Garlic1353",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T20:45:07.645909"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qsdpe8",
+      "type": "search",
+      "subreddit": "ps2homebrew",
+      "title": "Mx4sio shows the installed games, can’t run them",
+      "content": "Hi, i had been using a mx4sio without problems last year, but I travelled for the holidays and when I came back it wasn’t able to run the games anymore. I don’t know what might be the issue because it does show what games are installed, and I also tried removing the usb I use for virtual memory card but it didn’t make a change. It’s able to run discs properly if that’s any help. submitted by /u/MeiTell to r/ps2homebrew [link] [comments]",
+      "link": "https://www.reddit.com/r/ps2homebrew/comments/1qsdpe8/mx4sio_shows_the_installed_games_cant_run_them/",
+      "author": "/u/MeiTell",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T20:45:07.646054"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qsdbzn",
+      "type": "search",
+      "subreddit": "mewgenics",
+      "title": "Mewgenics contest #5",
+      "content": "submitted by /u/Parthj99 to r/mewgenics [link] [comments]",
+      "link": "https://www.reddit.com/r/mewgenics/comments/1qsdbzn/mewgenics_contest_5/",
+      "author": "/u/Parthj99",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-01-31T20:45:07.646221"
     }
   ],
-  "last_updated": "2026-01-31T20:12:16.670287"
+  "last_updated": "2026-01-31T20:45:36.189736"
 }
