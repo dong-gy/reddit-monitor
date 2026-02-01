@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qmscl0",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "The middle-ground",
-      "content": "after reading the feedback from my last post, i realized that most people asked for a middle-ground between the 2 versions, what do you think? submitted by /u/Total_Impression_382 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qmscl0/the_middleground/",
-      "author": "/u/Total_Impression_382",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T19:34:04.273288"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qmsur9",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Back From Hiatus and ready to Spin The Wheel!",
-      "content": "I had to take a hiatus from game dev for a bit, but I'm back and ready to return to weekly updates! To kick off my return, I stopped procrastinating and finally moved my game to GitHub so I could have proper version control and backups. I also have reworked the tile system for the game. Originally, maps consisted of a start and end tile, with 3 rows of 5 tiles in between. All of the connections between tiles were also hard-coded. Now, paths can be randomized without any hard-coding (with the exception of the start/end tiles since both of those should always connect to the start/end of the paths between them). I also added in an arrow to visualize which way a tile leads so players can plan their routing more strategically. submitted by /u/TheOGRG [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qmsur9/back_from_hiatus_and_ready_to_spin_the_wheel/",
-      "author": "/u/TheOGRG",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T19:34:04.273365"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qmsgnz",
       "type": "post",
       "subreddit": "godot",
@@ -32651,7 +32627,151 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-01T15:44:54.980965"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qt2lbe",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Kamgy Legends - how I got 6000+ registered players",
+      "content": "submitted by /u/Fuzzy_Confidence5964 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qt2lbe/kamgy_legends_how_i_got_6000_registered_players/",
+      "author": "/u/Fuzzy_Confidence5964",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T16:14:41.628262"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qt2km3",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I need feedback for my new game — am I expecting too much?",
+      "content": "submitted by /u/NightKnighhttt [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qt2km3/i_need_feedback_for_my_new_game_am_i_expecting/",
+      "author": "/u/NightKnighhttt",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T16:14:41.628286"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qt24j0",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I made a 3-in-1 Survival Horrorgame and it's about to release, which makes me nerveous",
+      "content": "I've been working on this for the past 1-2 ish years and i'm finally done. The concept is quite easy. It’s a survival horror game where you play as a cop trapped in three distinct nightmares. To keep things interesting, I designed each night with completely different mechanics. So it’s basically a 3 in 1, connected with a Story. If you want to support me, feel free to Wishlist it on Steam! https://store.steampowered.com/app/3323800/3_Nights_of_Terror/ I'm super curious if you guys actually like the idea of switching mechanics or if you think it's too risky. Let me know! submitted by /u/Thick-Stretch6095 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qt24j0/i_made_a_3in1_survival_horrorgame_and_its_about/",
+      "author": "/u/Thick-Stretch6095",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T16:14:41.628323"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qt2kfd",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Kamgy Legends - how I got 6000+ registered players",
+      "content": "submitted by /u/Fuzzy_Confidence5964 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qt2kfd/kamgy_legends_how_i_got_6000_registered_players/",
+      "author": "/u/Fuzzy_Confidence5964",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T16:14:41.628335"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qt2a3s",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Returned to a project after 3-4 months. Dungeon crawler set in underground bunker/cellar",
+      "content": "Very early content-wise, this is all the gameplay so far. Today I remade the player character and added sound effects and death animation to the enemy. What do you think? I don't usually post about my games in Reddit, so I hope it's worth it. submitted by /u/Minaridev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qt2a3s/returned_to_a_project_after_34_months_dungeon/",
+      "author": "/u/Minaridev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T16:14:41.628348"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qt1y2f",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "It's so hard. It's really really hard.",
+      "content": "I love making games, but I can’t give it full-time because of my job. I really want to go full-time with this game I’m making, but it’s not possible. I love game development. I want to change my career so badly. Am I the only one in this situation? How do you manage your time? submitted by /u/Robstix [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qt1y2f/its_so_hard_its_really_really_hard/",
+      "author": "/u/Robstix",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T16:14:41.628403"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qt29tk",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "it keeps saying player is null and i am confused",
+      "content": "please help https://preview.redd.it/1ssfv8vtowgg1.png?width=1920&format=png&auto=webp&s=cb88028b2850b3e0a82bc04f45f8e9d76f4e23f6 submitted by /u/imlivinginhell123 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qt29tk/it_keeps_saying_player_is_null_and_i_am_confused/",
+      "author": "/u/imlivinginhell123",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T16:14:41.628466"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qt21tc",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "How can I get the collision point between an Area3D and any other bodies?",
+      "content": "So I need to get the collision point of an area3d and a body but i don't fully know how do do it, here a sample of my code that doesn't work since it gives me an empty array. I've came across ShapeCast3D but I'm still really not familiar and doesn't seem like I can have different collision shapes like for an area (for a weapon with different point of collision for example). func _on_body_shape_entered( body_rid : RID, body : Node3D, body_shape_index : int, local_shape_index : int): var body_shape_owner = body.shape_find_owner(body_shape_index) var body_shape = body.shape_owner_get_shape(body_shape_owner, 0) as Shape3D var area_space = PhysicsServer3D.area_get_space(get_rid()) var space_state = PhysicsServer3D.space_get_direct_state(area_space) var query : PhysicsShapeQueryParameters3D = PhysicsShapeQueryParameters3D.new() query.shape = body_shape query.collide_with_areas = true query.transform = body.shape_owner_get_transform(body_shape_owner) var collision_points = space_state.collide_shape(query, 32) print(collision_points) submitted by /u/aris1401 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qt21tc/how_can_i_get_the_collision_point_between_an/",
+      "author": "/u/aris1401",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T16:14:41.628497"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qt2j5q",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "UE5.7 on MacOS apple silicon",
+      "content": "How are you guys finding UE5.7 on MacOS? I am looking to make some cinematics / short-film related content but saw that there are still some issues with fluid sims etc... I saw Metahuman creator finally works on MacOS but what else do you think is still problematic? submitted by /u/TechySpecky [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qt2j5q/ue57_on_macos_apple_silicon/",
+      "author": "/u/TechySpecky",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T16:14:41.628538"
+    },
+    {
+      "id": "https://www.reddit.com/t5_2vru8",
+      "type": "search",
+      "subreddit": "GameDevTycoon",
+      "title": "Game Dev Tycoon",
+      "content": "This is the subreddit for the game: Game Dev Tycoon by Greenheart Games. Here you can discuss different strategies, achievements you've met, or anything about the game! [link]",
+      "link": "https://www.reddit.com/r/GameDevTycoon/",
+      "author": "/u/chad1312",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T16:14:41.629781"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt2i0c",
+      "type": "search",
+      "subreddit": "Age_30_plus_Gamers",
+      "title": "Miss good old days",
+      "content": "submitted by /u/PHRsharp_YouTube to r/Age_30_plus_Gamers [link] [comments]",
+      "link": "https://www.reddit.com/r/Age_30_plus_Gamers/comments/1qt2i0c/miss_good_old_days/",
+      "author": "/u/PHRsharp_YouTube",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T16:14:41.629847"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt2esn",
+      "type": "search",
+      "subreddit": "Frontend",
+      "title": "how does ios safari react to background-attachment: fixed?",
+      "content": "so, im playing this one game where i can stylize my account page with either a normal editor or by inserting html. there are some restrictions placed, including for @ supports -webkit, which makes it impossible to make parallax effect for ios too. to find an alternative, i would like to know how background fixed behaves on ios. i tried to put a gray background which shows on ios, with the original parallax on android and windows, but the original image appears once on the gray background on ios. any ideas why it happens? it seems to move depending how big the wrapper is and how much text it has. submitted by /u/Glaernisch1 to r/Frontend [link] [comments]",
+      "link": "https://www.reddit.com/r/Frontend/comments/1qt2esn/how_does_ios_safari_react_to_backgroundattachment/",
+      "author": "/u/Glaernisch1",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T16:14:41.630478"
     }
   ],
-  "last_updated": "2026-02-01T15:45:23.129156"
+  "last_updated": "2026-02-01T16:15:10.009960"
 }
