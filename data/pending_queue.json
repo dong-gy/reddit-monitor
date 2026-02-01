@@ -1,66 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qmz7yd",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "[WIP] Water, Shader, Caustics",
-      "content": "Some work on the planet editor and other shaders, I didn't have much time to work on the project currently, so I'm adding little polish that are easy to parse as tasks. - When the transition between the land surface and the underwater layer is smooth, the planet editor adds a shoreline mesh. (Still need to massively improve the planet editor foam and shoreline generation ;_;) - Some shader tests for water + your feet now make little noises when you walk in shallow water. - I added some caustics following Ameye's cool blog post on the subject :) + As always, still very WIP lol submitted by /u/Nepacka [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qmz7yd/wip_water_shader_caustics/",
-      "author": "/u/Nepacka",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T23:38:59.483142"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qmz6zu",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Scene doesn't load in exported build",
-      "content": "Hi, I have a really bad issue I can't fix. The game runs fine on the editor but when I export it, the game opens with black screen then closes immediately, thanks. submitted by /u/AdhesivenessWild7647 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qmz6zu/scene_doesnt_load_in_exported_build/",
-      "author": "/u/AdhesivenessWild7647",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T23:38:59.483151"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qmz3zi",
-      "type": "search",
-      "subreddit": "underdogfantasy",
-      "title": "Rams Seahawks",
-      "content": "submitted by /u/Key-Championship591 to r/underdogfantasy [link] [comments]",
-      "link": "https://www.reddit.com/r/underdogfantasy/comments/1qmz3zi/rams_seahawks/",
-      "author": "/u/Key-Championship591",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T23:38:59.483259"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qmzgfp",
-      "type": "search",
-      "subreddit": "TemuThings",
-      "title": "Anyone willing to help?",
-      "content": "My code is: 768279558 The game is: Hat Trick My username is: Ryan Danzy submitted by /u/Numerous_Advance_660 to r/TemuThings [link] [comments]",
-      "link": "https://www.reddit.com/r/TemuThings/comments/1qmzgfp/anyone_willing_to_help/",
-      "author": "/u/Numerous_Advance_660",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T23:38:59.483401"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qmzg4u",
-      "type": "search",
-      "subreddit": "SavingMoney",
-      "title": "Gopuff promo code for anyone wanting to try the app out 🙂",
-      "content": "Hope everyone is staying warm I have a promo code and link for Gopuff for anyone wanting to save money on essentials. Here's $25 off to use for snacks and anything else and here's the link if that makes it easier. https://s.gopuff.com/s/2mUrDg Here's the code to:GO618W1Y3X I hope this reaches someone who needs it as it's helped me order things in a pinch sometimes and I use it almost everyday Good Day and Good Week everyone. submitted by /u/MrMajima to r/SavingMoney [link] [comments]",
-      "link": "https://www.reddit.com/r/SavingMoney/comments/1qmzg4u/gopuff_promo_code_for_anyone_wanting_to_try_the/",
-      "author": "/u/MrMajima",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T23:38:59.483445"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qmzg1s",
       "type": "search",
       "subreddit": "jurassicworldevo",
@@ -33563,7 +33503,139 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-01T22:12:01.727236"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qtcv69",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Powerline v0.4",
+      "content": "submitted by /u/kevs1357 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qtcv69/powerline_v04/",
+      "author": "/u/kevs1357",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T22:47:43.725723"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qtcumw",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "1 Year of improvements on Booty Battler! [AutoBattler-Looter]",
+      "content": "I am so happy with how the game and style have progressed over the last year, and I am excited to announce that Booty Battler will be open to public playtesting very soon hopefully! This is my solo project and it has been a labour of love to create this Autobattler-Looter experience. I hope you will enjoy the game and I would love to get feedback from my fellow autobattler and roguelite enjoyers to increase the fun even more!!!!!! The store page is outdated. please no judgment, I am focusing on the game :') : https://store.steampowered.com/app/3506150/Booty_Battler/ submitted by /u/BeesAreCoolAlsoAnts [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qtcumw/1_year_of_improvements_on_booty_battler/",
+      "author": "/u/BeesAreCoolAlsoAnts",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T22:47:43.725756"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qtclsc",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "New Demo build of my Dark Messiah-inspired melee slasher",
+      "content": "submitted by /u/MissionChoice9519 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qtclsc/new_demo_build_of_my_dark_messiahinspired_melee/",
+      "author": "/u/MissionChoice9519",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T22:47:43.725783"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qtcwi0",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Top 4 Upcoming RTS Strategy Games Like Command And Conquer Generals #commandandconquergenerals",
+      "content": "submitted by /u/liquidocelotYT [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qtcwi0/top_4_upcoming_rts_strategy_games_like_command/",
+      "author": "/u/liquidocelotYT",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T22:47:43.725805"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qtd8j7",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Orange Bounding Box",
+      "content": "What have I been doing wrong, this is how they show up? https://preview.redd.it/a27iq470nygg1.png?width=1222&format=png&auto=webp&s=bd64d3ffa1cf16ad147d5cd315f741f1a23c2f58 The box is extending a yellow box to where I assume 0,0 is in my 3D modeling application however as far as I can tell the origin point is in the middle of the box so it shouldn't be doing what its doing as far as I have read https://preview.redd.it/dp11y8cdnygg1.png?width=975&format=png&auto=webp&s=20d09e5fb8c5b8827a20297113366a08354991fc If I move the cube around the yellow box always adjusts its size to still be reaching that same point... any thoughts or setting I might be missing? submitted by /u/Subject_Bullfrog_697 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qtd8j7/orange_bounding_box/",
+      "author": "/u/Subject_Bullfrog_697",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T22:47:43.725839"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qtcwyr",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "I've recently been attempting to improve my long term projects visual style, and while i'm happy with where I'm at, i would love some advice and criticism on ways i could improve. or just general advice please",
+      "content": "The weird black artifacting on characters is due to an outline shader i made. the sprite sheets white background hasnt been properly removed, so the shader picks up on it and colours it black. will be fixed when i draw over the sketch spritesheets submitted by /u/Reasonable_Bend8525 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qtcwyr/ive_recently_been_attempting_to_improve_my_long/",
+      "author": "/u/Reasonable_Bend8525",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T22:47:43.725926"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qtcvkc",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Powerline v0.4",
+      "content": "submitted by /u/kevs1357 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qtcvkc/powerline_v04/",
+      "author": "/u/kevs1357",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T22:47:43.725935"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qtculx",
+      "type": "search",
+      "subreddit": "PcBuild",
+      "title": "9060xt and ryzen 5 5500",
+      "content": "Hey so basically im getting a prebuilt it has 16gb ram 1 stick ddr4 9060xt power color reaper 16gb Ryzen5 5500 1tb ssd Msi mag forge m100A black 4 fans ASUS prime A520M-A ll CSM Msi mag 550w bronze No fans besides the ones included with the cpu and case This is a prebuild for 1k is there any part i should look to upgrade in the near future in like 1 or 2 years? Because ive heard alot of bad things and im thinking of getting a better cpu first but ive been thinking of getting a swift version of the 9060xt for the 3 fans and for the lower temps (I am using this pc for gaming games such as siege,valorant,cs2,minecraft,people play ground,teardown and also will be using this for graphic designing and coding) submitted by /u/hellynameis to r/PcBuild [link] [comments]",
+      "link": "https://www.reddit.com/r/PcBuild/comments/1qtculx/9060xt_and_ryzen_5_5500/",
+      "author": "/u/hellynameis",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T22:47:43.726371"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qtdd9w",
+      "type": "search",
+      "subreddit": "sabres",
+      "title": "Josh Norris is the Sabres lynchpin player.",
+      "content": "The Sabres are 16 and 3 with him in the lineup. 13 and 1 when he's fully healthy. Everyone else counts obviously, but I was reading people's comments about Cozens and Ottawa winning the trade in r/hockey and decided to see what sort of difference Josh makes instead of looking at stats It turns out, he's very important to Sabres wins. They are like 15 and 15 without him. I figured you may want to know that. submitted by /u/half_breed_duck to r/sabres [link] [comments]",
+      "link": "https://www.reddit.com/r/sabres/comments/1qtdd9w/josh_norris_is_the_sabres_lynchpin_player/",
+      "author": "/u/half_breed_duck",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T22:47:43.726399"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qtdb80",
+      "type": "search",
+      "subreddit": "OutcomeMemories",
+      "title": "Soooo….whats the point in keeping the game cancelled if it’s still getting minor updates?",
+      "content": "uncancel the game then lol the drama is gone now and you can get a new dev team so there’s no point in just throwing it all away for a game that has been in development for 3 to 2 years submitted by /u/Most_Pie_862 to r/OutcomeMemories [link] [comments]",
+      "link": "https://www.reddit.com/r/OutcomeMemories/comments/1qtdb80/soooowhats_the_point_in_keeping_the_game/",
+      "author": "/u/Most_Pie_862",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T22:47:43.727332"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qtd4cl",
+      "type": "search",
+      "subreddit": "GundamTCG",
+      "title": "First TCG ever",
+      "content": "So I never played any TCG but I did play some deck building games. I heard about this Gundam Card Game a few weeks ago, bought a starter deck (Celestial Drive) and a GD03 display 3 days ago. I've now open all the booster and made this deck. what do you think about it ? submitted by /u/herroyuy638 to r/GundamTCG [link] [comments]",
+      "link": "https://www.reddit.com/r/GundamTCG/comments/1qtd4cl/first_tcg_ever/",
+      "author": "/u/herroyuy638",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T22:47:43.727510"
     }
   ],
-  "last_updated": "2026-02-01T22:12:30.108657"
+  "last_updated": "2026-02-01T22:48:12.310525"
 }
