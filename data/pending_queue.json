@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qsxpn7",
-      "type": "search",
-      "subreddit": "u_Ericyan1688",
-      "title": "MyPalMate: Where AI Brings Your Stories to Life",
-      "content": "Welcome to the future of interactive storytelling. MyPalMate combines cutting-edge AI with narrative magic, opening doors to infinite possibilities for creators, gamers, and story enthusiasts alike. What Is MyPalMate? MyPalMate is your personal AI storytelling companion—a platform where imagination meets technology. Engage with intelligent characters, shape dynamic narratives, and explore countless worlds that adapt to your choices. This is interactive creativity at its finest. From fantasy realms and sci-fi universes to detective mysteries and romance tales, MyPalMate crafts personalized experiences that feel alive and uniquely yours. Unleash Your Creativity Intelligent Characters : Interact with AI companions that possess depth, personality, and memory. They remember conversations, evolve through interactions, and respond with genuine emotion. Your Choices Matter : Every decision branches the story in new directions. Pure, dynamic storytelling that responds to YOU. Unlimited Genres : Switch between fantasy, sci-fi, mystery, romance, horror, and more. Your mood determines your world. 24/7 Availability : Access anytime across multiple platforms. Start on desktop, continue seamlessly on mobile. Cross-Platform Sync : Stories, characters, and progress sync automatically. Pick up exactly where you left off. Perfect For Everyone 🎭 Writers : Break through writer's block and develop compelling characters. 🎮 RPG Fans : Solo adventures with an AI game master that never sleeps. 📚 Story Lovers : Transform from reader to protagonist. 💭 Curious Minds : Explore imaginative scenarios with intelligent AI. 🎉 EXCLUSIVE LAUNCH PROMOTION! The first 1,000 registered users receive 5,000 FREE COINS immediately! Bonus coins unlock: 🌟 Premium storytelling features 🌟 Extended AI sessions 🌟 Exclusive character interactions 🌟 Special content and advanced options ONE-TIME OFFER! Once we hit 1,000 registrations, this promotion ends permanently. Become a founding member now! Get Started - Multiple Access Points 🌐 Official Web App : https://app.mypalmate.com Launch directly into the full MyPalMate experience. 🌐 Marketing Website : https://www.mypalmate.com/ Explore features and discover what makes MyPalMate special. 📱 iOS Mobile App : https://apps.apple.com/us/app/mypalmate-ai/id6746779285 Download for storytelling adventures on-the-go! All platforms sync seamlessly across every device! Why Choose MyPalMate? ⭐ Advanced AI : State-of-the-art language models understand context, nuance, and emotion. ⭐ Personal : AI learns your preferences and tailors experiences to you. ⭐ Privacy First : Robust security protects your stories and data. ⭐ Growing Community : Join thousands creating amazing adventures worldwide. ⭐ Continuous Innovation : Regular updates bring new features and capabilities. Start Today MyPalMate represents a new era in interactive entertainment. From 5-minute escapes to immersive campaigns, the experience adapts to your schedule. No complex tutorials. No learning curves. Just pure creative magic. Ready to Begin? 🌐 Web App : https://app.mypalmate.com 🌐 Main Site : https://www.mypalmate.com/ 📱 iOS : https://apps.apple.com/us/app/mypalmate-ai/id6746779285 ⚡ ACT NOW : Be one of the first 1,000 users and claim your 5,000 FREE COINS! Join MyPalMate and discover why AI storytelling is transforming entertainment! submitted by /u/Ericyan1688 to u/Ericyan1688 [link] [comments]",
-      "link": "https://www.reddit.com/r/u_Ericyan1688/comments/1qsxpn7/mypalmate_where_ai_brings_your_stories_to_life/",
-      "author": "/u/Ericyan1688",
-      "search_keyword": "AI game maker",
-      "relevance_score": 1,
-      "added_at": "2026-02-01T13:15:30.081329"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qsy47v",
-      "type": "search",
-      "subreddit": "SideProject",
-      "title": "I made a web app to share stats and have a leaderboard for your local sports group.",
-      "content": "Hey guys, Wanted to share a project I just deployed. I’m a regular badminton player and needed a way to track group stats and leaderboards. The Stack: Frontend/Framework: Next.js Auth: Better Auth Database: Turso Deployment: Vercel The Twist: I actually built the entire logic and UI using Google Anti-Gravity. As a dev by profession, it was an interesting experiment to see if I could ship a functional CRUD app with complex relations (Players -> Groups -> Games -> Stats) without touching the raw source code. It's really cool that i am able to do this without actually writing a single piece of code. Features included: Real-time leaderboard for team and player. Other relevant stats (Daily, weekly, monthly and all-time) Invite system for players. Dynamic stat-sharing cards. Google login Check it out here: https://rival-chi.vercel.app/ I’m curious to hear your thoughts and feedback on this. You can also AMA about the process too if you are curious. If people like the app, I’m planning to implement a payments/split-cost module next. Side note: I did the QA myself. So expect some bugs. submitted by /u/LengthinessHour3697 to r/SideProject [link] [comments]",
-      "link": "https://www.reddit.com/r/SideProject/comments/1qsy47v/i_made_a_web_app_to_share_stats_and_have_a/",
-      "author": "/u/LengthinessHour3697",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 1,
-      "added_at": "2026-02-01T13:15:30.081372"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qsy2z5",
-      "type": "search",
-      "subreddit": "PedroPeepos",
-      "title": "BRO Went 0-5 and Still Qualified. Explained",
-      "content": "Saw a lot of people asking how BRO qualified with a 0-5 record, so here’s the short version. The LCK Cup used a points system, not pure win-loss. In the round robin, teams earned points from individual game wins, so even losing 1-2 still gave you something. Then came Super Week, which was Bo5 and worth much more points, so those games mattered way more than earlier series. BRO lost all their series but still picked up enough game wins to avoid zero points. HLE won some series early, but dropped important games when Super Week carried heavier weight. BRO’s group performed better overall, which helped with seeding at the cutoff. So yeah, it wasn’t “0 wins vs 2 wins”. It was total points across both phases. Makes sense on paper, still looks cursed on the scoreboard. submitted by /u/iDeficio to r/PedroPeepos [link] [comments]",
-      "link": "https://www.reddit.com/r/PedroPeepos/comments/1qsy2z5/bro_went_05_and_still_qualified_explained/",
-      "author": "/u/iDeficio",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-02-01T13:15:30.081690"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qmpnqd",
       "type": "search",
       "subreddit": "Sixthgrade",
@@ -32675,7 +32639,151 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-01T13:15:30.081659"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qsz1po",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "IdleQuest is out now! A hand-drawn Dark-Fantasy RPG you can play inside Discord & Web!",
+      "content": "submitted by /u/IdleQuest [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qsz1po/idlequest_is_out_now_a_handdrawn_darkfantasy_rpg/",
+      "author": "/u/IdleQuest",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T13:56:08.232466"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qsyftg",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "🚀 Still working on my game — finally added a menu! 🎉🕹️",
+      "content": "There’s still a ton of work ahead: I need to adapt the font, add translations 🌍, and handle lots of other things 🔧✨ But step by step, it’s coming together 💪🐢 submitted by /u/BAA_GAMES [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qsyftg/still_working_on_my_game_finally_added_a_menu/",
+      "author": "/u/BAA_GAMES",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T13:56:08.232555"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qsynfr",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Didn’t find the time to do a proper news post on Steam since November. Do you do news posts in your Steam community before launch?",
+      "content": "Hi, initially I wanted to do frequent update posts on my development journey in the Steam community of my game. As usual your time is rather limited as a solo developer and therefore I somehow didn’t manage to do a post there for nearly two months. So the newest one did grow big and covered quite a bit of changes. Would be eager to here if that is something that you all invest time into or rather skip? For me it is a good way to make the Steam page feel alive. submitted by /u/NorseSeaStudio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qsynfr/didnt_find_the_time_to_do_a_proper_news_post_on/",
+      "author": "/u/NorseSeaStudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T13:56:08.232578"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qsyeoe",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "🚀 Still working on my game — finally added a menu! 🎉🕹️",
+      "content": "There’s still a ton of work ahead: I need to adapt the font, add translations 🌍, and handle lots of other things 🔧✨ But step by step, it’s coming together 💪🐢 submitted by /u/BAA_GAMES [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qsyeoe/still_working_on_my_game_finally_added_a_menu/",
+      "author": "/u/BAA_GAMES",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T13:56:08.232587"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qsylrx",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Do you like ice skating?",
+      "content": "My first beautiful project submitted by /u/Yaley-Dev [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qsylrx/do_you_like_ice_skating/",
+      "author": "/u/Yaley-Dev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T13:56:08.232595"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qsyqse",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "I wonder if using \"game art\" is enough for my cover",
+      "content": "I considered saving for a professional capsule artist, but gave it one last chance to design the cover myself. Could you guess what type of game this is from the image alone? submitted by /u/Dumivid [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qsyqse/i_wonder_if_using_game_art_is_enough_for_my_cover/",
+      "author": "/u/Dumivid",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T13:56:08.232680"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qsyhp2",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "🚀 Still working on my game — finally added a menu! 🎉🕹️",
+      "content": "There’s still a ton of work ahead: I need to adapt the font, add translations 🌍, and handle lots of other things 🔧✨ But step by step, it’s coming together 💪🐢 submitted by /u/BAA_GAMES [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qsyhp2/still_working_on_my_game_finally_added_a_menu/",
+      "author": "/u/BAA_GAMES",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T13:56:08.232690"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qsytwm",
+      "type": "search",
+      "subreddit": "NintendoSwitch2",
+      "title": "It annoys me when people say Smash Ultimate can't be improved from there for the next game. That game was very flawed and I think Smash 6 could easily be better than Ultimate.",
+      "content": "World of Light is so bullshit. If it had areas where there were platforming stages, more cutscenes, and there was multiplayer, it would be better than Subspace by a landslide. The amount of original, unique modes is small. There's no target test, smash run, etc. As for trophies, I kinda think people are being nostalgia biased, as the spirits are technically better as you can actually use them in battle, I do agree though that the 3D models and descriptions being gone is disappointing, atleast bring those back. The online is ass and could definitely use improvements. Please have rollback net code next game. Just because Ultimate has every character and tons of stages doesn't mean it's unbeatable, hell, I think just a revamp of the movesets and a genuine Subspace 2 alone would be good enough to be better. submitted by /u/DaZestyProfessor to r/NintendoSwitch2 [link] [comments]",
+      "link": "https://www.reddit.com/r/NintendoSwitch2/comments/1qsytwm/it_annoys_me_when_people_say_smash_ultimate_cant/",
+      "author": "/u/DaZestyProfessor",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T13:56:08.232732"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qsz2ai",
+      "type": "search",
+      "subreddit": "SpottedUprising",
+      "title": "Joie Coupon & Promo Codes in February 2026",
+      "content": "Top Joie Promo Codes for February 1, 2026 . Save up to 30% off with Joie coupons. There is a wide selection of promo codes, coupons, and discount codes that are updated regularly for you to choose from and make your purchase more affordable. submitted by /u/wiltedinfluxe to r/SpottedUprising [link] [comments]",
+      "link": "https://www.reddit.com/r/SpottedUprising/comments/1qsz2ai/joie_coupon_promo_codes_in_february_2026/",
+      "author": "/u/wiltedinfluxe",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T13:56:08.233957"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qsz25w",
+      "type": "search",
+      "subreddit": "indiandevs",
+      "title": "I built a game designed to help you reprogram your mindset and make positive changes in your life.",
+      "content": "submitted by /u/Escape-the-System to r/indiandevs [link] [comments]",
+      "link": "https://www.reddit.com/r/indiandevs/comments/1qsz25w/i_built_a_game_designed_to_help_you_reprogram/",
+      "author": "/u/Escape-the-System",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T13:56:08.233964"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qsz1d7",
+      "type": "search",
+      "subreddit": "EgyptTech",
+      "title": "استقريت ع ال rog بس مش عارف اجيبه منين او اقارن اسعار بين اماكن مختلفة",
+      "content": "submitted by /u/Ok_Lack4480 to r/EgyptTech [link] [comments]",
+      "link": "https://www.reddit.com/r/EgyptTech/comments/1qsz1d7/استقريت_ع_ال_rog_بس_مش_عارف_اجيبه_منين_او_اقارن/",
+      "author": "/u/Ok_Lack4480",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T13:56:08.234026"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qsz0h5",
+      "type": "search",
+      "subreddit": "BaseBuildingGames",
+      "title": "Big DevUpdate: New buildings, new mechanics and new characters - The Merchant’s Eden",
+      "content": "Hi, Since November I invested quite a lot in different directions of the game and today I finally found the time to actually post a proper DevUpdate on Steam for it. So many things have changed since November of last year: new character models to make them visually more differentiated, new game mechanics like taxes and happiness as well as new buildings and model variants per biome. But maybe you could take a look yourself: The Merchant’s Eden - Steam - First DevUpdate 2026 Would love to get your feedback! submitted by /u/NorseSeaStudio to r/BaseBuildingGames [link] [comments]",
+      "link": "https://www.reddit.com/r/BaseBuildingGames/comments/1qsz0h5/big_devupdate_new_buildings_new_mechanics_and_new/",
+      "author": "/u/NorseSeaStudio",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T13:56:08.234299"
     }
   ],
-  "last_updated": "2026-02-01T13:15:58.332042"
+  "last_updated": "2026-02-01T13:56:36.574451"
 }
