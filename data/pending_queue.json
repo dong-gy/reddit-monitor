@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qmlz05",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "How would I pin a rag doll to a surface Half-Life style?",
-      "content": "I've got a hopefully not too complex problem I'm trying to solve, i am trying to pin a ragdoll to a wall and I can't seem to find anything online or figure it out myself, does anyone know how I could achieve pinning a ragdoll to a wall half life style? an example of this being this video https://youtu.be/hs665noH9xs?si=G5aAMKGflXFrP3LD submitted by /u/wissah_league [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qmlz05/how_would_i_pin_a_rag_doll_to_a_surface_halflife/",
-      "author": "/u/wissah_league",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371417"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qmlxu7",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "UID of scene not found",
-      "content": "Output project.godot actual scene UID I was just recreating the scene from a old game I had (4.4) into the new game also in 4.4, and now the scene's UID is unrecognized submitted by /u/bi_raccoon [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qmlxu7/uid_of_scene_not_found/",
-      "author": "/u/bi_raccoon",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371426"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qmlk1e",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Old piece of code that my codev found in our project",
-      "content": "submitted by /u/Komisja [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qmlk1e/old_piece_of_code_that_my_codev_found_in_our/",
-      "author": "/u/Komisja",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371447"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qmm2h8",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "After years of learning game development, I’m releasing my psychological horror game The Green Light in 4 days :)",
-      "content": "The Green Light submitted by /u/Specialist-World6841 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qmm2h8/after_years_of_learning_game_development_im/",
-      "author": "/u/Specialist-World6841",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371477"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmlzkg",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "After years of learning game development, I’m releasing my psychological horror game The Green Light in 4 days :)",
-      "content": "The Green Light submitted by /u/Specialist-World6841 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmlzkg/after_years_of_learning_game_development_im/",
-      "author": "/u/Specialist-World6841",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371508"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmltub",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Very happy to finally post a commentary of my Indie Game Vena",
-      "content": "submitted by /u/Sensitive_Sweet_8512 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmltub/very_happy_to_finally_post_a_commentary_of_my/",
-      "author": "/u/Sensitive_Sweet_8512",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371514"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qmmags",
       "type": "search",
       "subreddit": "Laptop",
@@ -32447,7 +32375,67 @@
       "search_keyword": "",
       "relevance_score": 0,
       "added_at": "2026-02-01T09:18:56.093942"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qsu442",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Customizable sky shader that follows DirectionalLight",
+      "content": "I made this customizable sky shader. The sun follows your directional light and depending on how high up the sun is the sky blends between day, sunset and night (all with customizable colors). The clouds can be customized with two noise textures. I made it so they kind of fake the occlusion of the sun and they're mapped to a plane in the shader so they don't look like a dome around the world. They also have a parallax effect that can be tweaked to give them a 3d look Link: https://binbun3d.itch.io/godot-skies submitted by /u/binbun3 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qsu442/customizable_sky_shader_that_follows/",
+      "author": "/u/binbun3",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T09:49:59.076770"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qstyeq",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "i can't change this panel's anchors",
+      "content": "for some reason, this panel's anchors are fixed, and cannot be changed, the panel also does not respect its parent's anchors. I need help submitted by /u/DashReddit32 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qstyeq/i_cant_change_this_panels_anchors/",
+      "author": "/u/DashReddit32",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T09:49:59.076780"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qsu4zb",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "This is the hero selection screen.",
+      "content": "Did it turn out well? submitted by /u/Confident-Mirror-427 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qsu4zb/this_is_the_hero_selection_screen/",
+      "author": "/u/Confident-Mirror-427",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T09:49:59.076791"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qsu8o6",
+      "type": "search",
+      "subreddit": "foundationgame",
+      "title": "How can I get more coal? I feel like I can never get enough.",
+      "content": "I started a new game and I currently have 3 charcoal huts with their own dedicated forest and forestry camp and I'm still running out and have to buy it to keep up my demand. In previous games I've had the same setup with 6 or 8 huts and even then it still wasn't enough. Any advice on what I could be doing wrong or a better way to gather it? Side note for any devs who might be reading: coal should 1000% be a resource you should be able to mine with at least 2 or 3 times the efficiency of charcoal huts. submitted by /u/TreeTower57 to r/foundationgame [link] [comments]",
+      "link": "https://www.reddit.com/r/foundationgame/comments/1qsu8o6/how_can_i_get_more_coal_i_feel_like_i_can_never/",
+      "author": "/u/TreeTower57",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T09:49:59.077527"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qsu98n",
+      "type": "search",
+      "subreddit": "HoosiersBasketball",
+      "title": "UCLA student newspaper tears into Indiana Basketball: “Indiana says ‘I used to win, Google us’ and all you get are excuses, rebuilds, and Purdue highlights.”",
+      "content": "submitted by /u/Perfect_Currency_749 to r/HoosiersBasketball [link] [comments]",
+      "link": "https://www.reddit.com/r/HoosiersBasketball/comments/1qsu98n/ucla_student_newspaper_tears_into_indiana/",
+      "author": "/u/Perfect_Currency_749",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T09:49:59.077767"
     }
   ],
-  "last_updated": "2026-02-01T09:19:24.467882"
+  "last_updated": "2026-02-01T09:50:27.379648"
 }
