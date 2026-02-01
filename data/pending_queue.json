@@ -1,126 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qmle6o",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Error changing scene on android (c#)",
-      "content": "Upon calling change_scene_to_file the following error occurs Error: Condition “!is_inside_tree()” is true && change_scene_to_file I was able to remedy this by calling change_scene_to_file deferred but it feels like I'm missing something fundamental about changing scenes. This does not occur when running on desktop, it does when I'm debugging on my android phone. submitted by /u/TheMaster420 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qmle6o/error_changing_scene_on_android_c/",
-      "author": "/u/TheMaster420",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:09:33.005240"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qml92q",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I tried making ripoff windows in Godot in 2 hours",
-      "content": "Should I work on this? I left it because I was feeling burned out. https://reddit.com/link/1qml92q/video/ga1t6l0ceifg1/player Icons from 8icons:- <a target=\"\\_blank\" href=\"https://icons8.com/icon/tpIcYSg4KMn0/windows-10\">Windows 10</a> icon by <a target=\"\\_blank\" href=\"https://icons8.com\">Icons8</a> <a target=\"\\_blank\" href=\"https://icons8.com/icon/iW1qJnjfb\\_17/brave-web-browser\">Brave</a> icon by <a target=\"\\_blank\" href=\"https://icons8.com\">Icons8</a> <a target=\"\\_blank\" href=\"https://icons8.com/icon/25591/notepad\">Notepad</a> icon by <a target=\"\\_blank\" href=\"https://icons8.com\">Icons8</a> submitted by /u/Major_Illustrator206 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qml92q/i_tried_making_ripoff_windows_in_godot_in_2_hours/",
-      "author": "/u/Major_Illustrator206",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:09:33.005255"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qml4cm",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "So I basically made RPGMaker inside godot",
-      "content": "submitted by /u/lightfoss [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qml4cm/so_i_basically_made_rpgmaker_inside_godot/",
-      "author": "/u/lightfoss",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:09:33.005285"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmlefy",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Lootbane Demo Update! Game is about Loot and Greed",
-      "content": "https://store.steampowered.com/app/4151480/Lootbane_Demo/ submitted by /u/Pantasd [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmlefy/lootbane_demo_update_game_is_about_loot_and_greed/",
-      "author": "/u/Pantasd",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:09:33.005338"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmldqw",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Made a new puzzle for my game - YouTube",
-      "content": "submitted by /u/Sbhattarj [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmldqw/made_a_new_puzzle_for_my_game_youtube/",
-      "author": "/u/Sbhattarj",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:09:33.005343"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qmlg2b",
-      "type": "search",
-      "subreddit": "STOMACHBOOK",
-      "title": "question, how do you guys find the tierlists? i noticed the outdated one gets used more than the up to date one i circled. not forcing anyone, but its feels really odd the one with more songs gets ignored",
-      "content": "not forcing anyone to use what should be used, but the newer tierlist literally has more songs. the outdated one being commonly used kinda irks me, the up to date tierlist literally has cavity, 123 the longest dream and the moreru collab! submitted by /u/annimatune to r/STOMACHBOOK [link] [comments]",
-      "link": "https://www.reddit.com/r/STOMACHBOOK/comments/1qmlg2b/question_how_do_you_guys_find_the_tierlists_i/",
-      "author": "/u/annimatune",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:09:33.005538"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qmlff1",
-      "type": "search",
-      "subreddit": "TheTowerGame",
-      "title": "Just passed 450 for the first time",
-      "content": "I've been playing casually for a few weeks (a handful of times a week). I thought I was cooking with grease the first time in hit wave 100 😅 now I'm on this sub and noticed I haven't even scratched the surface. Did this with mostly a thorn / defense build Then around 250 I switched to damage which was useless - then switched to attack speed / life steal. I probably got really lucky with my free defense per wave. Any tips for tier 2? I heard defense / thorn is not useful at later tiers. submitted by /u/No-Imagination-4751 to r/TheTowerGame [link] [comments]",
-      "link": "https://www.reddit.com/r/TheTowerGame/comments/1qmlff1/just_passed_450_for_the_first_time/",
-      "author": "/u/No-Imagination-4751",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:09:33.005582"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qmlbqv",
-      "type": "search",
-      "subreddit": "KamenRiderMemes",
-      "title": "Finally, the Edgy Gavv Trio is complete!!",
-      "content": "submitted by /u/Web_Wanderer12 to r/KamenRiderMemes [link] [comments]",
-      "link": "https://www.reddit.com/r/KamenRiderMemes/comments/1qmlbqv/finally_the_edgy_gavv_trio_is_complete/",
-      "author": "/u/Web_Wanderer12",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:09:33.005596"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qmlbqf",
-      "type": "search",
-      "subreddit": "u_Shadow_Redditarian",
-      "title": "15-year-old Belgian indie dev: My mobile game reached 5K downloads! 🎮🇧🇪",
-      "content": "submitted by /u/Shadow_Redditarian to u/Shadow_Redditarian [link] [comments]",
-      "link": "https://www.reddit.com/r/u_Shadow_Redditarian/comments/1qmlbqf/15yearold_belgian_indie_dev_my_mobile_game/",
-      "author": "/u/Shadow_Redditarian",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:09:33.005721"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qmlb1r",
-      "type": "search",
-      "subreddit": "FORSAKENROBLOX",
-      "title": "Am i the only one who thinks the guest population might be getting too big?",
-      "content": "Lets be real, in every single match you have, there's at least three guest1337's, and if unfortunate the whole server might be filled to the brim with them Now, the majority of guests just aren't good at it, they have a good chance to have bought it from the militaty render curious what it is.The only actually good guests ive seen are encountered about once two days.Toxicity too, almost every player who ive seen toxic is guests.The game itself is just filled with guest players, and i think we need more variable teammates other than just hide-block-punch-emote if feeling like it I dont think there is anything the devs can do about this except nerf them, which will obviously create an outrage of about 80% of all players. submitted by /u/Several-Wolf9609 to r/FORSAKENROBLOX [link] [comments]",
-      "link": "https://www.reddit.com/r/FORSAKENROBLOX/comments/1qmlb1r/am_i_the_only_one_who_thinks_the_guest_population/",
-      "author": "/u/Several-Wolf9609",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:09:33.005740"
-    },
-    {
       "id": "https://www.reddit.com/r/indiegaming/t3_1qmlxbh",
       "type": "post",
       "subreddit": "indiegaming",
@@ -32555,7 +32435,91 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-01T08:18:43.229218"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qssyho",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "11 seconds of WALKTHROUGH in ADVENTURE JAM, an action-roguelike game",
+      "content": "submitted by /u/Rightclickwise [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qssyho/11_seconds_of_walkthrough_in_adventure_jam_an/",
+      "author": "/u/Rightclickwise",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T08:53:15.407946"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qst6em",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Naming Convention of parameters when they shadow script variables?",
+      "content": "For example, imagine the following script: ``` var character: Character func _init(character: Character) -> void: self.character = character ``` The above is totally valid and functional code, but you get a (valid) warning that the parameter character in _init() is shadowing the script variable. I'd like to avoid this. My first instinct would be to put an underscore before the parameter, e.g.: func _init(_character: Character) -> void: character = _character But, using an underscore on a parameter is the indicator to Godot to ignore unused parameters... so I don't want to use an underscore here. My next instinct would be to put a $ before the parameter, e.g.: ``` This is NOT valid code func _init($character: Character) -> void: character = $character ``` But $ have a special meaning in Godot and are not valid characters in a parameter name. Unfortunately, the official style guide also doesn't mention anything about this. Anyone have any clever, clean, universal approaches to this problem? submitted by /u/samanime [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qst6em/naming_convention_of_parameters_when_they_shadow/",
+      "author": "/u/samanime",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T08:53:15.407990"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qst5rq",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "How every Godot class I make feels after awhile.",
+      "content": "submitted by /u/SunlessGameStudios [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qst5rq/how_every_godot_class_i_make_feels_after_awhile/",
+      "author": "/u/SunlessGameStudios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T08:53:15.407997"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qst492",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "After more than a year of work, I finally received the first physical test copy of my Godot book",
+      "content": "After more than a year of work, I finally received the first physical test copy of the Godot Shaders Bible. It feels great to see this project in print after such a long development process. If the final revisions go as expected, the physical edition should be released worldwide later this week. Thanks to everyone who supported the project along the way. If you’re interested in shaders, technical art, or Godot development, I’d really appreciate it if you’d wishlist the book 🔗 https://jettelly.com/store/the-godot-shaders-bible Happy to answer any questions. submitted by /u/fespindola [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qst492/after_more_than_a_year_of_work_i_finally_received/",
+      "author": "/u/fespindola",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T08:53:15.408024"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qssxnb",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Have you tried making games on the mobile version of godot? Share your experiences!",
+      "content": "For me, the mobile version of godot is not very convenient :) submitted by /u/im_igrik030 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qssxnb/have_you_tried_making_games_on_the_mobile_version/",
+      "author": "/u/im_igrik030",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T08:53:15.408066"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qstbxd",
+      "type": "search",
+      "subreddit": "ChatGPT",
+      "title": "Helpful advice",
+      "content": "submitted by /u/obnoxiousgopher to r/ChatGPT [link] [comments]",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1qstbxd/helpful_advice/",
+      "author": "/u/obnoxiousgopher",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T08:53:15.408947"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qstb5o",
+      "type": "search",
+      "subreddit": "SparkingZero",
+      "title": "playing through episode mode made me realize....",
+      "content": "how bad this game really is when they have to make the CPU do stuff thats not even possible for a human being to do. its crazy. submitted by /u/iamQuestopher to r/SparkingZero [link] [comments]",
+      "link": "https://www.reddit.com/r/SparkingZero/comments/1qstb5o/playing_through_episode_mode_made_me_realize/",
+      "author": "/u/iamQuestopher",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T08:53:15.409383"
     }
   ],
-  "last_updated": "2026-02-01T08:19:11.661651"
+  "last_updated": "2026-02-01T08:53:43.782555"
 }
