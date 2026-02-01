@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qn04i0",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "New lucidity system + Some random sprites of mah game",
-      "content": "submitted by /u/Fit-Dragonfly9076 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qn04i0/new_lucidity_system_some_random_sprites_of_mah/",
-      "author": "/u/Fit-Dragonfly9076",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-26T00:55:17.311408"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qmzmbs",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "i need ur feedbacks to my game pixel swap",
-      "content": "submitted by /u/NoHeart8194 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmzmbs/i_need_ur_feedbacks_to_my_game_pixel_swap/",
-      "author": "/u/NoHeart8194",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-26T00:55:17.311434"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qmzjds",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "When pressing “Up”, what direction feels more natural in grid-based games?",
-      "content": "submitted by /u/Consistent-Pen-4236 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmzjds/when_pressing_up_what_direction_feels_more/",
-      "author": "/u/Consistent-Pen-4236",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-26T00:55:17.311443"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qn18ug",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Putting the finishing touches on our first Mobile Game",
-      "content": "submitted by /u/BiscuitWiggles [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qn18ug/putting_the_finishing_touches_on_our_first_mobile/",
-      "author": "/u/BiscuitWiggles",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-26T00:55:17.311451"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qn0rsj",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "You are a ghost!!!",
-      "content": "In my game you are a ghost and harassing people. I'm planning to make a game like \"Untitled Goose Game\" and \"Goat Simulator\". I am at the very start of this project and I am open for feedbacks and suggestions. submitted by /u/ALandThere [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qn0rsj/you_are_a_ghost/",
-      "author": "/u/ALandThere",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-26T00:55:17.311460"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qmzrl1",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I'm making a Sonic X-Treme inspired fangame on Godot 3.5!",
-      "content": "submitted by /u/G_Game_MII [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qmzrl1/im_making_a_sonic_xtreme_inspired_fangame_on/",
-      "author": "/u/G_Game_MII",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-26T00:55:17.311466"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qmzt6b",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "I'm making a Sonic X-Treme inspired fangame on Godot 3.5!",
-      "content": "https://preview.redd.it/dt329lgj2lfg1.png?width=299&format=png&auto=webp&s=2962b23431ca89075864b89391fa40e594abf73f Check it out! submitted by /u/G_Game_MII [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qmzt6b/im_making_a_sonic_xtreme_inspired_fangame_on/",
-      "author": "/u/G_Game_MII",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-26T00:55:17.311507"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qn17ik",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Screenshot Post #26 More character sprites incoming!",
-      "content": "submitted by /u/NeoFlyingDragon [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qn17ik/screenshot_post_26_more_character_sprites_incoming/",
-      "author": "/u/NeoFlyingDragon",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-26T00:55:17.311536"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qn0ugm",
       "type": "search",
       "subreddit": "LAClippers",
@@ -33767,7 +33671,91 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-01T23:14:20.049460"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qtepy3",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "What actually moved the needle for your first 100 Steam wishlists?",
+      "content": "I’m trying to understand what actually moves the needle for early Steam wishlists (first ~100), beyond the usual “post on socials” advice. For those who’ve done it: what channel or tactic gave you the first real jump? Examples I’m specifically curious about: Steam Next Fest vs smaller festivals Reddit/Discord posts (what format worked?) Devlogs (YouTube/TikTok) Press outreach (did it work at all pre-launch?) Demo vs no demo If you can share rough numbers like “X wishlists from Y”, even better. submitted by /u/kNu7 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qtepy3/what_actually_moved_the_needle_for_your_first_100/",
+      "author": "/u/kNu7",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T23:44:20.234878"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qte953",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I don't even know what to call this (How Many Dudes?)",
+      "content": "submitted by /u/DearestMrSauce [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qte953/i_dont_even_know_what_to_call_this_how_many_dudes/",
+      "author": "/u/DearestMrSauce",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T23:44:20.234951"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qte3ji",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Making combat feel impactful in our 2.5D horror game — layers, twitchy animations, and dynamic dismemberment.",
+      "content": "submitted by /u/Grifxxx [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qte3ji/making_combat_feel_impactful_in_our_25d_horror/",
+      "author": "/u/Grifxxx",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T23:44:20.234976"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qteiz7",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "How would you go about making ecs or like it in godot.",
+      "content": "I want to make an automation game where game runs in numbers only. but when a thing is on camera spawn a node representing it. No physics no collision. It doesn't have to be in gd script only too. submitted by /u/MohamedMotaz [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qteiz7/how_would_you_go_about_making_ecs_or_like_it_in/",
+      "author": "/u/MohamedMotaz",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T23:44:20.235064"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qtecpf",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Download of a completed tutorial (Converting Blueprint to C++)",
+      "content": "Hello. I am curious if anyone has done this tutorial Introduction to Blueprint vs C++ - Converting Blueprint to C++ | Epic Developer Community If so, is there a way I can download the finish copy of this tutorial? If not, is there possibly a completed one I could find online? submitted by /u/LateUnderstanding756 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qtecpf/download_of_a_completed_tutorial_converting/",
+      "author": "/u/LateUnderstanding756",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T23:44:20.235100"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qteshy",
+      "type": "search",
+      "subreddit": "Referrallinks",
+      "title": "Free 5 and 10",
+      "content": "If you want to make more money gambling I have other deals . Join me on Joko 👉 Download Joko for free here: https://hellojoko.app.link/tyX38HoTyP And don't forget to enter my code egpjpe when you sign up to get a $5 reward 💚 Hey!earn $10! Use my Kraktag: @pillpresido at signup or this link: https://krak.app/@pillpresido Check out photo proof of all my wins and losses lol I got other major deals for onyx and rebet if your over the age of 18 and live in the USA . If your trustworthy and love casino gambling I also got some major deals that can make u some money but it’s based on serious trust you will be vetted when u join. I need 5 people in the USA from first come first serve Chicago and North Carolina will be preferred https://discord.gg/hnnBhhqj7 submitted by /u/Prestigious_Bear225 to r/Referrallinks [link] [comments]",
+      "link": "https://www.reddit.com/r/Referrallinks/comments/1qteshy/free_5_and_10/",
+      "author": "/u/Prestigious_Bear225",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T23:44:20.235505"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qtebij",
+      "type": "search",
+      "subreddit": "wearewarriors",
+      "title": "Bug found",
+      "content": "Game freezes at this lvl. Just for devs submitted by /u/ChampionshipFew4704 to r/wearewarriors [link] [comments]",
+      "link": "https://www.reddit.com/r/wearewarriors/comments/1qtebij/bug_found/",
+      "author": "/u/ChampionshipFew4704",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T23:44:20.236342"
     }
   ],
-  "last_updated": "2026-02-01T23:14:48.282801"
+  "last_updated": "2026-02-01T23:44:48.629069"
 }
