@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmt9os",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Lost Episodes Alone is complete!",
-      "content": "submitted by /u/Gosugames [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmt9os/lost_episodes_alone_is_complete/",
-      "author": "/u/Gosugames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T20:11:33.121729"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmt7v2",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "NPCs hauling stuff at you",
-      "content": "It really took all day just to fix all the bugs, as per usual with NPC programming.. :I submitted by /u/lettucelover123 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmt7v2/npcs_hauling_stuff_at_you/",
-      "author": "/u/lettucelover123",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T20:11:33.121736"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qmt7gs",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Homemade Cruise Control",
-      "content": "Game: Apocalypter submitted by /u/sawyerx8 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qmt7gs/homemade_cruise_control/",
-      "author": "/u/sawyerx8",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T20:11:33.121741"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qmtr9i",
-      "type": "search",
-      "subreddit": "StardewValleyExpanded",
-      "title": "Error while running smapi",
-      "content": "I installed SMAPI, then downloaded the file from the moddrop page and moved this file to the mods folder. However, when I run SMAPI, I get this error screen, and the game runs without the mod. Did I do something wrong? submitted by /u/Cavalo_Bebado to r/StardewValleyExpanded [link] [comments]",
-      "link": "https://www.reddit.com/r/StardewValleyExpanded/comments/1qmtr9i/error_while_running_smapi/",
-      "author": "/u/Cavalo_Bebado",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T20:11:33.121903"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qmtvsy",
-      "type": "search",
-      "subreddit": "GTAV",
-      "title": "Game not letting me search head of security in safe code mission for cayo",
-      "content": "This is the second time restarting the mission because of this and it still doesn't work. Help pls submitted by /u/zooweemamba to r/GTAV [link] [comments]",
-      "link": "https://www.reddit.com/r/GTAV/comments/1qmtvsy/game_not_letting_me_search_head_of_security_in/",
-      "author": "/u/zooweemamba",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T20:11:33.122686"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qmtvij",
-      "type": "search",
-      "subreddit": "marvelrivals",
-      "title": "Xbox texture rendering bug",
-      "content": "This is affecting the entire Xbox platform, both Series X and Series S. I suggest everyone on Xbox make a big stink about this on Reddit, X, and Discord. Xbox is the minority player base, and because of that we’re prone to being ignored by devs, so we’ve gotta make a lot of noise to push for a patch ASAP. Also, make sure to use the in-game bug reporting feature: Settings > Other > ‘Report an Issue or Bug.’ submitted by /u/Neon_Moons to r/marvelrivals [link] [comments]",
-      "link": "https://www.reddit.com/r/marvelrivals/comments/1qmtvij/xbox_texture_rendering_bug/",
-      "author": "/u/Neon_Moons",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T20:11:33.122837"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qmtv2d",
       "type": "search",
       "subreddit": "Spacemarine",
@@ -33107,7 +33035,163 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-01T17:47:10.692521"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qt5ra7",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Should I develop game in React?",
+      "content": "Hey fellow game devs. I've recently started game development, and I'm currently proficient in react and Nextjs. So, I was wondering if I can start 2d game dev using those languages without an engine? How's the decision, I could already use physics in the React and could load assets from hosted images of Dropbox using nextjs. Is it a good idea? submitted by /u/Technical-System-426 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qt5ra7/should_i_develop_game_in_react/",
+      "author": "/u/Technical-System-426",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T18:18:05.264888"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qt5qan",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I just released the Steam Demo of my cozy and farm game - Elemency Island 🐮🌻⛏️",
+      "content": "Steam page : https://store.steampowered.com/app/3911940/Elemency_Island_Demo/ submitted by /u/S4m974 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qt5qan/i_just_released_the_steam_demo_of_my_cozy_and/",
+      "author": "/u/S4m974",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T18:18:05.264915"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qt5hii",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Chicken Fall - A game I made while learning Godot",
+      "content": "Hi everyone, I've recently started to make game in Godot. Chicken Fall is a short and challenging inspired by Flappy Bird with just 9 levels. It's not too polished but I'm happy that I have finish the core gameplay. I’d really appreciate any feedback. Thanks. Chicken Fall by two-two game submitted by /u/AdReady7190 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qt5hii/chicken_fall_a_game_i_made_while_learning_godot/",
+      "author": "/u/AdReady7190",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T18:18:05.265175"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qt582y",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "what is the difference between an event bus and a game manager?",
+      "content": "i'm new to godot, and both of these concepts seem pretty similar to me, as they are both autoloads. im wondering three things: is there a difference between event bus and game manager? if there is a difference should i have both in my game? what is the difference between making a node autoload and marking a node as unique? submitted by /u/7dragon0 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qt582y/what_is_the_difference_between_an_event_bus_and_a/",
+      "author": "/u/7dragon0",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T18:18:05.265186"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qt5odx",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Hi, I'm working on a cozy organizing puzzle game.",
+      "content": "Here's a small gameplay clip of my new game (in progress) - Little Backpack A cozy organizing puzzle game written in Odin and Raylib. PS: I don't have a steam page yet https://reddit.com/link/1qt5odx/video/rrrf3onlaxgg1/player submitted by /u/Secure_Ad9715 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qt5odx/hi_im_working_on_a_cozy_organizing_puzzle_game/",
+      "author": "/u/Secure_Ad9715",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T18:18:05.265266"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qt59gh",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Hi everyone! I'm currently working on a game where you basically build/craft tables. I'd love to hear your thoughts on the gameplay and the overall concept!",
+      "content": "https://reddit.com/link/1qt59gh/video/jm8zqvjt7xgg1/player submitted by /u/krststore [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qt59gh/hi_everyone_im_currently_working_on_a_game_where/",
+      "author": "/u/krststore",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T18:18:05.265277"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt61rz",
+      "type": "search",
+      "subreddit": "FindAUnit",
+      "title": "[A3] [Recruiting] [EU/NA] The Imperial Black Legion Recruiting [Starsim] [Empire]",
+      "content": "Imperial Black Legion Discord: https://discord.gg/HrjFycdp3r The Imperial Black Legion - Enlist Today! The Imperial Black Legion is the premier Galactic Empire unit of the ArmA 3 Star Wars community. Founded on July 23rd 2018, we set out on our mission to establish a disciplined, organized and respected community. Our unit is built on the backing of a strong and competent staff, our leadership has over a decade of clan leading experience. Beneath the surface of our structured in-game atmosphere, we enjoy a extremely healthy community. We believe that having a sole focus on the in-game aspects only get you so far, whereas a strong community creates limitless possibilities. As a result, on the off hours of our operations, you can experience a lively community with whom you can game and socialise with. In-game, you can expect a wide variety of missions in a multitude of settings. Our extremely talented Operations team (ISB) work tirelessly throughout the weeks to ensure all of our Ops are of the highest quality for you to enjoy. In these missions, we boast a regular attendance of 100+ members, making every firefight feel immersive and every mission feel alive. General requirements: A - You must be around 16 years of age (show maturity) B - You must possess a legal copy of ArmA 3 C - You must be able to speak and understand English If you make the decision to join our ranks, you will be provided a lot of opportunity to advance both in rank and class. We have a selection of nine distinct detachments, each with their own unique role in the Imperial Black Legion: - Purge Trooper - Storm Trooper - Shore Trooper - Super Commando - Imperial Scout - TIE Pilot - Armour Crewman - Death Trooper - ISB-Agent (Zeus) Within each branch, there is a list of additional MOS‘s for you to fill. Operation times: Sunday at 19:00 GMT/14:00 EST Additionally, there are various community operations hosted on Fridays and Saturdays If you are interested, visit our website or discord for more information! submitted by /u/Zealousideal-Part-85 to r/FindAUnit [link] [comments]",
+      "link": "https://www.reddit.com/r/FindAUnit/comments/1qt61rz/a3_recruiting_euna_the_imperial_black_legion/",
+      "author": "/u/Zealousideal-Part-85",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T18:18:05.265864"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt61gj",
+      "type": "search",
+      "subreddit": "DarkTide",
+      "title": "Are the Arbites and Scum classes getting any more cosmetics?",
+      "content": "One of the fun things for me about these sort of games is making yourself look cool and unique to stand out from other players. As it is, every Arbites and Scum character looks exactly the same, and it bums me out. They don’t even have a section in the Commissary. It sort of makes the dlc classes seem tacked on. submitted by /u/5dippingareas to r/DarkTide [link] [comments]",
+      "link": "https://www.reddit.com/r/DarkTide/comments/1qt61gj/are_the_arbites_and_scum_classes_getting_any_more/",
+      "author": "/u/5dippingareas",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T18:18:05.265880"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt6174",
+      "type": "search",
+      "subreddit": "magicTCG",
+      "title": "Infinite combos",
+      "content": "I am someone who doesn't care for infinite combos in Magic. To me it just makes the game end anticlimatically when someone builds their 2-3 card Exodia. I was curious how unpopular a take this is. No hate or judgement for people who like to play with infinite combos. submitted by /u/AzusaKha to r/magicTCG [link] [comments]",
+      "link": "https://www.reddit.com/r/magicTCG/comments/1qt6174/infinite_combos/",
+      "author": "/u/AzusaKha",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T18:18:05.265941"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt5yyt",
+      "type": "search",
+      "subreddit": "videogames",
+      "title": "Created \"About You\" template website because using a PNG template was cumbersome.",
+      "content": "https://anime-game-chart-maker.vercel.app/ Hey I created a website for \"About You\" templates. You should be able to search for most Games or Anime. If you need to upload your own figures, the site can handle that as well. Let me know if you encounter any problems on the site. I know currently it doesn't scale properly on mobile or small screens. submitted by /u/Ryodaso to r/videogames [link] [comments]",
+      "link": "https://www.reddit.com/r/videogames/comments/1qt5yyt/created_about_you_template_website_because_using/",
+      "author": "/u/Ryodaso",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T18:18:05.266226"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt5ytj",
+      "type": "search",
+      "subreddit": "gamedevscreens",
+      "title": "Releasing my first solo dev game in <48h — a VR Rhythm-Tower-Defense called RHYTHMIC!",
+      "content": "submitted by /u/PolarRobin11 to r/gamedevscreens [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedevscreens/comments/1qt5ytj/releasing_my_first_solo_dev_game_in_48h_a_vr/",
+      "author": "/u/PolarRobin11",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T18:18:05.266305"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt5ra7",
+      "type": "search",
+      "subreddit": "gamedev",
+      "title": "Should I develop game in React?",
+      "content": "Hey fellow game devs. I've recently started game development, and I'm currently proficient in react and Nextjs. So, I was wondering if I can start 2d game dev using those languages without an engine? How's the decision, I could already use physics in the React and could load assets from hosted images of Dropbox using nextjs. Is it a good idea? submitted by /u/Technical-System-426 to r/gamedev [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qt5ra7/should_i_develop_game_in_react/",
+      "author": "/u/Technical-System-426",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T18:18:05.266451"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qt5xsk",
+      "type": "search",
+      "subreddit": "satisfactory",
+      "title": "How much will be enough",
+      "content": "I am currently in phase four, and planning on building that will give 15 heavy modular frames per minute even though i already have one that gives 6 per minute. I don't really wanna use them for fused frames so i wanna building new one that will product heavy modular frames, than take part of those heavy modular frames by belt and building a factory dedicated to fused ones. Im askin how much of heavy modular frame would be enough trough out hole game, i think i am cappable of making rly big one since ive got mk5 belts as well submitted by /u/Over-Wrongdoer-2769 to r/satisfactory [link] [comments]",
+      "link": "https://www.reddit.com/r/satisfactory/comments/1qt5xsk/how_much_will_be_enough/",
+      "author": "/u/Over-Wrongdoer-2769",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T18:18:05.266555"
     }
   ],
-  "last_updated": "2026-02-01T17:47:38.890603"
+  "last_updated": "2026-02-01T18:18:33.810927"
 }
