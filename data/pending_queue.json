@@ -1,102 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qmlxbh",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "After years of learning game development, I’m releasing my psychological horror game The Green Light in 4 days :)",
-      "content": "The Green Light submitted by /u/Specialist-World6841 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmlxbh/after_years_of_learning_game_development_im/",
-      "author": "/u/Specialist-World6841",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371276"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qmluoc",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Ancient Machines Sandbox drawing composite materials",
-      "content": "I have implemented creating composite materials in my sandbox game. You can draw different line segments with different materials which all act as single object os it is easy to attach revolute, prismatic, rope or weld joint :) So you can have parts that are wood and parts that are metal. And metal parts can be magnetic, other parts can be configured to reflect laser or not. submitted by /u/chaky-games-serbia [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmluoc/ancient_machines_sandbox_drawing_composite/",
-      "author": "/u/chaky-games-serbia",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371291"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qmlmyl",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Very happy to finally post a commentary of my Indie Game Vena",
-      "content": "submitted by /u/Sensitive_Sweet_8512 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qmlmyl/very_happy_to_finally_post_a_commentary_of_my/",
-      "author": "/u/Sensitive_Sweet_8512",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371300"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qmlwqa",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Just a small combo from our unannounced card deck-builder 🔥",
-      "content": "Nothing fancy. Just wanted to share a satisfying moment. That burn at the end hits just right. 😌 More soon 👀 submitted by /u/SidrickWhite [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qmlwqa/just_a_small_combo_from_our_unannounced_card/",
-      "author": "/u/SidrickWhite",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371317"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qmlqjr",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "A small gameplay snippet from my horror game",
-      "content": "Steam submitted by /u/No-Surprise7327 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qmlqjr/a_small_gameplay_snippet_from_my_horror_game/",
-      "author": "/u/No-Surprise7327",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371368"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qmlod2",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "After years of learning game development, I’m releasing my psychological horror game The Green Light in 4 days :)",
-      "content": "The Green Light submitted by /u/Specialist-World6841 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qmlod2/after_years_of_learning_game_development_im/",
-      "author": "/u/Specialist-World6841",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371379"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qmm5gd",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Very happy to finally post a commentary of my Godot Game Vena",
-      "content": "submitted by /u/Sensitive_Sweet_8512 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qmm5gd/very_happy_to_finally_post_a_commentary_of_my/",
-      "author": "/u/Sensitive_Sweet_8512",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371385"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qmm4a0",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Experimenting with dithering on my vfx.",
-      "content": "It basically just dithers when alpha is less than 0.7 and is opaque when alpha is more than 0.7. I'm using a lower resolution here because my monitors resolution is so high the compression in the video would just hide the dithering. Was learning about different dithering algorithms and ways to handle transparency in a more performant way, but this turned out looking pretty cool. I think Unreal Engine has this default distance fade thing (idk it's a long time since I used Unreal), and it looks pretty cool. If anyone is knowledgeable on where I could find how Unreal handles that please let me know! I'm also interested in if there's any other middle ground between blending transparency and alpha scissor other than dithering that I could implement. submitted by /u/binbun3 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qmm4a0/experimenting_with_dithering_on_my_vfx/",
-      "author": "/u/binbun3",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-25T15:39:22.371405"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qmlz05",
       "type": "post",
       "subreddit": "godot",
@@ -32519,7 +32423,31 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-01T08:53:15.409383"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qstlvo",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Is there a way to disable physics on a gridmap?",
+      "content": "Title. I'm working with a particular large hexmap, and am running into the Jolt body limit quite consistently. I know I can up the limit, but I've had a look at my requirements and I don't actually need physics at all for the map, so if I could disable it entirely then that would help keep things manageable. Working with 4.6 stable, would prefer to stay with the gridmap but I could be convinced to abandon it if absolutely necessary. submitted by /u/Proasek [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qstlvo/is_there_a_way_to_disable_physics_on_a_gridmap/",
+      "author": "/u/Proasek",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T09:18:56.093917"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qstjno",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Tuning ragdoll impulse on defeated enemies - Alien Grounds (solo dev)",
+      "content": "submitted by /u/Practical-Command859 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qstjno/tuning_ragdoll_impulse_on_defeated_enemies_alien/",
+      "author": "/u/Practical-Command859",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-01T09:18:56.093942"
     }
   ],
-  "last_updated": "2026-02-01T08:53:43.782555"
+  "last_updated": "2026-02-01T09:19:24.467882"
 }
