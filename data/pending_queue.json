@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qper1n",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "The intro scene for the Mars hub in my space roguelike",
-      "content": "Every hub has a little intro scene used to set the mood and brief the player, told by the player's companion Merlin. From here, you enter the hub map where you select missions to fly, earn rewards, upgrade your ship, and eventually liberate the hub from the invading forces. Game is Wrath and Retribution submitted by /u/madvulturegames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qper1n/the_intro_scene_for_the_mars_hub_in_my_space/",
-      "author": "/u/madvulturegames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T15:55:02.006830"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qpeihx",
       "type": "post",
       "subreddit": "IndieDev",
@@ -26783,7 +26771,187 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-04T11:51:26.686709"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qvmude",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "What do you think of this multiplayer parkour game on Unreal Engine?",
+      "content": "Unreal Parkour Running Compete with your friends in: Catch-up - run away from the driver until the round ends Hold the Flag - hold the flag or carry it to the checkpoint to score more points and win King of the Hill - reach the top before everyone else, and don't forget to stop others from doing so Does it look interesting? Will it be fun to play with friends? submitted by /u/ManSIayeR [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qvmude/what_do_you_think_of_this_multiplayer_parkour/",
+      "author": "/u/ManSIayeR",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280512"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qvmr87",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I'm making a mini-game for my RPG",
+      "content": "It's a card collectable strategy game you can play with NPCs. The game is Weirdlands , and the mini game is called Tiny Kreechers. It's planned for the 1.1 patch. Basically you upgrade your units with special cards, and those units then duke it out. There's no NPC logic yet, I'm still testing out the rules and cards before I commit to that. submitted by /u/mejak [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qvmr87/im_making_a_minigame_for_my_rpg/",
+      "author": "/u/mejak",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280525"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qvn0oh",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I have reworked the fog effect for my game!",
+      "content": "I didn't really like the previous iteration of the fog effect that shows the end of the map, which was just a dark outline. Now it looks like proper fog! Also worked some more on player feedback :) Link to the Steam Page, if you are interested submitted by /u/GrumpyLionDev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qvn0oh/i_have_reworked_the_fog_effect_for_my_game/",
+      "author": "/u/GrumpyLionDev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280555"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qvmwip",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Is my game art is not appealing enough to catch your eyes and get recognised?",
+      "content": "submitted by /u/the21stCen [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qvmwip/is_my_game_art_is_not_appealing_enough_to_catch/",
+      "author": "/u/the21stCen",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280561"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qvmvt5",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Here's the game i made over the weekend as part of the Global Game Jam 2026, im thinking about continuing it as an actual project. (Though with some visual tweaks to not be too similar to other platformers)",
+      "content": "I worked on this project while being on site at InnoGames. The theme was Masks and i took on this project Solo. All assets, programming and music were completely done by me. over the weekend i grew quite fond of the project and am planning to maybe actually make this a proper game, what do you all think? You are also free to check it out here: https://kl3xy.itch.io/little-kindred-spirit submitted by /u/Kl3XY [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qvmvt5/heres_the_game_i_made_over_the_weekend_as_part_of/",
+      "author": "/u/Kl3XY",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280578"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qvmk8t",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "🏗️ I've been working for a few days on a modular building system",
+      "content": "submitted by /u/rbarongr [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qvmk8t/ive_been_working_for_a_few_days_on_a_modular/",
+      "author": "/u/rbarongr",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280751"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qvn5dm",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Multiplayer Synchronizer",
+      "content": "Hello, I'm kinda new to Godot, but this error seems really weird... I tried to create a basic lobby for a small number of players, but every time I try to add some properties to be synced to the Multiplayer Synchronizer, this error gets totally spammed into the log. get_state: Property '.:position' not found. <C++ Error> Condition \"!valid\" is true. Returning: ERR_INVALID_DATA <C++ Source> modules/multiplayer/multiplayer_synchronizer.cpp:167 @ get_state() Even though I have chosen the property from the pop-up menu... :C I'm so desperate now... This is my player scene: https://preview.redd.it/fp59x6l30hhg1.png?width=244&format=png&auto=webp&s=60fc0460fc0ec36f3113242b3bc18aa362b1faf1 Root path in the MultiplayerSynch. is set to Player and the property was chosen like this: https://preview.redd.it/c26uyr9j0hhg1.png?width=1012&format=png&auto=webp&s=012b9e3eb0aba06b44162638d2eb864a78d73bce U can even see the number of errors over there... submitted by /u/Ondra5382CZE [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qvn5dm/multiplayer_synchronizer/",
+      "author": "/u/Ondra5382CZE",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280773"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qvn4qv",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Mecha Game Project: New Weapon - Spear",
+      "content": "Now the mecha can use a new weapon, Spear to attack enemies. 🤟 Pls also check the full version in my YouTube channel ( https://youtu.be/vxRozm5a0e0 ). submitted by /u/GrandspeechGames [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qvn4qv/mecha_game_project_new_weapon_spear/",
+      "author": "/u/GrandspeechGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280821"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qvmudt",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Free Steam keys for \"99Managers Futsal Edition\" [Godot 4.x]",
+      "content": "Hello all! My Futsal management game is now in a advanced state but has not yet many users I need for feedback and suggestions. So I started to give out some free Steam keys and I because it is made with Godot I thought it makes sense to share some also here. Just comment here or dm me and I'm happy to send you a key :-) (10 keys are left) submitted by /u/dulvui [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qvmudt/free_steam_keys_for_99managers_futsal_edition/",
+      "author": "/u/dulvui",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280833"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qvmmza",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Testing new animations instead of static images. What do you think?",
+      "content": "Game: Horn of the Warlord submitted by /u/Bitter-Peach-1810 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qvmmza/testing_new_animations_instead_of_static_images/",
+      "author": "/u/Bitter-Peach-1810",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280840"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qvmia3",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "What do you use to greybox levels?",
+      "content": "Obviously there are CSG objects but i find those clunky to use... I saw the cyclops level builder mentioned by gamesfromscratch but that addon didnt have a release since summer of 2024 and that is basically what i consider abandonware.. submitted by /u/AverageFishEye [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qvmia3/what_do_you_use_to_greybox_levels/",
+      "author": "/u/AverageFishEye",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280849"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qvmywn",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "making a 2d arcade style video game similar to galaga",
+      "content": "submitted by /u/AdImpossible1410 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qvmywn/making_a_2d_arcade_style_video_game_similar_to/",
+      "author": "/u/AdImpossible1410",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280861"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qvmw26",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "[WIP] Alone in the Void — crash, scavenge, survive, escape (procedural sandbox, solo dev)",
+      "content": "I’d love to get your feedback and advice to help make this game a truly unique experience!I invite you to take your first steps into this adventure. There’s still a lot of work ahead, but the foundation is in place. Explore, survive, and face the Blob!! https://julienno.itch.io/alone-in-the-void submitted by /u/Easy-Tumbleweed-8352 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qvmw26/wip_alone_in_the_void_crash_scavenge_survive/",
+      "author": "/u/Easy-Tumbleweed-8352",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280878"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qvmrkw",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Is my game art is appealing enough to catch your eyes and get recognised?",
+      "content": "I want a honest opinion, because I am doing organic marketing in x, instagram, youtube and got only 40 wishlist in this 20 days. Is my game genuinely not good looking or there is something else I have to improve? Please guys I am in need. If anyone wondering then this is my steam page. I have yet to launch the demo of the game. https://store.steampowered.com/app/4300010/Pick_N_Punch_The_Broken_World/?beta=0 submitted by /u/the21stCen [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qvmrkw/is_my_game_art_is_appealing_enough_to_catch_your/",
+      "author": "/u/the21stCen",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.280891"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qvn5i4",
+      "type": "search",
+      "subreddit": "BaseBuildingGames",
+      "title": "Finally, Dusk of War Steam page has just been launched!! I am so happy!!",
+      "content": "Hello, I am a solo dev and I am working on a game called Dusk Of War which is a survival RTS game where you have to build your base, exploit the ressources in proximity and fight the relentless assault of the Cyborgs. Here is the link if you want to know more DUSK OF WAR Steam page submitted by /u/Silly_Reason_2168 to r/BaseBuildingGames [link] [comments]",
+      "link": "https://www.reddit.com/r/BaseBuildingGames/comments/1qvn5i4/finally_dusk_of_war_steam_page_has_just_been/",
+      "author": "/u/Silly_Reason_2168",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-04T12:30:41.282370"
     }
   ],
-  "last_updated": "2026-02-04T11:51:55.068563"
+  "last_updated": "2026-02-04T12:31:09.663807"
 }
