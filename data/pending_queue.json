@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qpfuw7",
-      "type": "search",
-      "subreddit": "FAANGrecruiting",
-      "title": "Autoreject every time",
-      "content": "Title, applying for entry level SWE roles but cannot get past resume screen, made amazon last year before current role but nothing since. US citizen https://preview.redd.it/v448vgvi84gg1.png?width=1410&format=png&auto=webp&s=1fd5589053852f9bd8851de6ae544c0ad4cb0bd1 submitted by /u/my_glorious_king to r/FAANGrecruiting [link] [comments]",
-      "link": "https://www.reddit.com/r/FAANGrecruiting/comments/1qpfuw7/autoreject_every_time/",
-      "author": "/u/my_glorious_king",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T16:21:37.396442"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qpfsy0",
-      "type": "search",
-      "subreddit": "EscapefromTarkov",
-      "title": "[Screenshot] In case anyone finds this useful here's a key loadout/map I made for Streets",
-      "content": "submitted by /u/nodnedarb12 to r/EscapefromTarkov [link] [comments]",
-      "link": "https://www.reddit.com/r/EscapefromTarkov/comments/1qpfsy0/screenshot_in_case_anyone_finds_this_useful_heres/",
-      "author": "/u/nodnedarb12",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T16:21:37.397453"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qpfjoz",
-      "type": "search",
-      "subreddit": "wmmt",
-      "title": "Meta? Tier list? Huh?",
-      "content": "\"This is brilliant, but I like this.\" submitted by /u/Nazulin to r/wmmt [link] [comments]",
-      "link": "https://www.reddit.com/r/wmmt/comments/1qpfjoz/meta_tier_list_huh/",
-      "author": "/u/Nazulin",
-      "search_keyword": "AI game maker",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T16:21:37.397643"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qpfrs6",
-      "type": "search",
-      "subreddit": "IndieGaming",
-      "title": "Mimetic: we’re 2 devs, learned game dev from scratch, and just released a demo of our Prop Hunt–like game on steam",
-      "content": "Hi ! We’re a team of two and we’ve been learning & working on game dev for a few years now. We learned everything from scratch along the way, and our first project is close from getting released It’s a Prop Hunt–like multiplayer game, and we recently released a demo on steam: https://store.steampowered.com/app/1580020/Mimetic__Prop_hunt_hide_and_seek/ We intend to release the game on February 6 Attached here is a gameplay video, we would love any feedback (good or bad) that could improve design, game experience, or implement new idea submitted by /u/ClockNotionStudio to r/IndieGaming [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qpfrs6/mimetic_were_2_devs_learned_game_dev_from_scratch/",
-      "author": "/u/ClockNotionStudio",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T16:21:37.397727"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qpfq0m",
       "type": "search",
       "subreddit": "MegabonkOfficial",
@@ -30311,7 +30263,187 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-05T08:03:21.305983"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qwg5fs",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Demo out! Listen to the whispers of the sands in this meditative journey. Seek the light of the desert and confront its shadow in meditation. Uncover echoes of lost souls as you survive a boundless sea of dunes. Openworld, survival, adventure game",
+      "content": "submitted by /u/TwoRiversInteractive [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qwg5fs/demo_out_listen_to_the_whispers_of_the_sands_in/",
+      "author": "/u/TwoRiversInteractive",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.717386"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qwfpqb",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "POV: The world is on fire, Steam and other platforms are about to shut down in your country, and you’re trying to create something fun.",
+      "content": "submitted by /u/alperozgunyesil [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qwfpqb/pov_the_world_is_on_fire_steam_and_other/",
+      "author": "/u/alperozgunyesil",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.717397"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qwfmi9",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "What makes an indie game truly memorable?",
+      "content": "Is it the art style, the atmosphere, or one unique mechanic that sticks with you years later? Curious what matters most to you. submitted by /u/Weary_Caterpillar302 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qwfmi9/what_makes_an_indie_game_truly_memorable/",
+      "author": "/u/Weary_Caterpillar302",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.717408"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qwgehd",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Good Games 366 - Happy Man",
+      "content": "A short little horror experience. https://youtu.be/yN71EMPxtZA submitted by /u/FortKenmei [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qwgehd/good_games_366_happy_man/",
+      "author": "/u/FortKenmei",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.717417"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qwful9",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Before/After",
+      "content": "submitted by /u/eren_kose1 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qwful9/beforeafter/",
+      "author": "/u/eren_kose1",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.717441"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qwfpvt",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "POV: The world is on fire, Steam and other platforms are about to shut down in your country, and you’re trying to create something fun.",
+      "content": "submitted by /u/alperozgunyesil [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qwfpvt/pov_the_world_is_on_fire_steam_and_other/",
+      "author": "/u/alperozgunyesil",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.717450"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qwfp27",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "My 1. Capsule = screenshot",
+      "content": "submitted by /u/Different_Ear_7543 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qwfp27/my_1_capsule_screenshot/",
+      "author": "/u/Different_Ear_7543",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.717456"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qwges8",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Help with my run anim",
+      "content": "Please tell me what's wrong with my run animation, I feel like it's not right, I can not tell how many times I've restarted but still I'm using Godot android editor and Prisma3d to rig, I can't use mixamo submitted by /u/Emperor_g123 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qwges8/help_with_my_run_anim/",
+      "author": "/u/Emperor_g123",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.717466"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qwft6t",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Wordepetition, a WIP card word game inspired by balatro!",
+      "content": "Wordepetition is a game with a completely unique mechanic where you reorder and insert letters in a box to score words. Words that you spell will give you jokers Word Cards (or other effects). Every word card has a unique effect. (the reason why most words in the video don’t give you cards is because I haven’t made many yet) submitted by /u/VeryAngyChicken [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qwft6t/wordepetition_a_wip_card_word_game_inspired_by/",
+      "author": "/u/VeryAngyChicken",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.717514"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qwfmtu",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Help with Lumen GI",
+      "content": "i'm having this trouble with lumen GI. basically it takes such a long time to update when I turn off a light source. Any way to fix this? https://youtu.be/--D96NuMVf4 submitted by /u/Tegurd [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qwfmtu/help_with_lumen_gi/",
+      "author": "/u/Tegurd",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.717581"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qwfzqf",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Shipping my first mobile game on the Play Store as a solo developer",
+      "content": "Run, Volcan ! is my first mobile game, and I just shipped it on the Google Play Store as a solo developer. What surprised me the most wasn’t the coding — it was everything around it. 😅 UI/UX decisions, onboarding, player confusion, ads placement, different screen ratios, store requirements, and post-launch fixes. Seeing real players struggle with things I thought were “obvious” was humbling — and honestly the most valuable part of the process. 😀 I’m still fixing and improving the game based on feedback, but actually shipping on the Play Store taught me way more than months of tutorials ever did. Curious to hear from other solo devs: what was the biggest surprise for you when you shipped your first project? submitted by /u/roccastudio [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qwfzqf/shipping_my_first_mobile_game_on_the_play_store/",
+      "author": "/u/roccastudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.717609"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qwg9wh",
+      "type": "search",
+      "subreddit": "legotechnic",
+      "title": "Some Lego Technic sets Include a redeemable code to unlock a digital version of the LEGO® Technic car in the ASPHALT LEGENDS online video game. If you have no use for it please send/DM it to me.",
+      "content": "submitted by /u/MrFamous01 to r/legotechnic [link] [comments]",
+      "link": "https://www.reddit.com/r/legotechnic/comments/1qwg9wh/some_lego_technic_sets_include_a_redeemable_code/",
+      "author": "/u/MrFamous01",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.718357"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qwfuqr",
+      "type": "search",
+      "subreddit": "Unity2D",
+      "title": "Dashboard highscores",
+      "content": "I’ve created highscores for my game in the Unity Dashboard. The highscore system kind of works — the result shows up on the scoreboard — but it only displays the rank and the score. The username/user ID or anything else is not shown. At the start of the game an anonymous username is created, and it should appear on the highscore list when used, but something is wrong. There are no error messages in the code at least. Any ideas? Edit: i can see random username in the dashboard, but not in games leaderboardpanel submitted by /u/Pale-Refrigerator556 to r/Unity2D [link] [comments]",
+      "link": "https://www.reddit.com/r/Unity2D/comments/1qwfuqr/dashboard_highscores/",
+      "author": "/u/Pale-Refrigerator556",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.718402"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qwg78n",
+      "type": "search",
+      "subreddit": "GameProfessional",
+      "title": "RetroGamingDuck - Super Mario Maker 2 #mario #nintendo #gaming #Livestream #retrogaming #gamer #videogame #streaming",
+      "content": "submitted by /u/GameProfessional to r/GameProfessional [link] [comments]",
+      "link": "https://www.reddit.com/r/GameProfessional/comments/1qwg78n/retrogamingduck_super_mario_maker_2_mario/",
+      "author": "/u/GameProfessional",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.718926"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qwg6nf",
+      "type": "search",
+      "subreddit": "WWEGames",
+      "title": "Get on the social media, start the hash tags. Don’t stop posting here. Keep it LOUD",
+      "content": "It’s the only way to stop this battle pass nonsense being included into the game. Devs did it with skins in BF6 when the community was loud enough. They have done it in tons of other games and when companies make bad choices that are anti consumer. People did it when R Truth was released… if the backlash is loud enough the cowards will change their minds out of fear of money loss. Get in there. Start the hashtags. Don’t stop tagging 2K. Don’t stop tagging any social media site for WWE or WWE 2k or any devs or anyone who works with WWE games to promote it. We CANNOT let them do this. Make your voices heard. Don’t pre order. Definitely skip the expensive editions. submitted by /u/PowahBamb to r/WWEGames [link] [comments]",
+      "link": "https://www.reddit.com/r/WWEGames/comments/1qwg6nf/get_on_the_social_media_start_the_hash_tags_dont/",
+      "author": "/u/PowahBamb",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-05T09:06:10.719953"
     }
   ],
-  "last_updated": "2026-02-05T08:03:49.849046"
+  "last_updated": "2026-02-05T09:06:39.397516"
 }
