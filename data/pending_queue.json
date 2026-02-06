@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qpmi32",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "*snrk*",
-      "content": "Game is Cursed Words demo on Steam submitted by /u/ShockRox [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qpmi32/snrk/",
-      "author": "/u/ShockRox",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T20:16:06.573033"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qplwhp",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "What do you think of this screenshot from my survival / potion crafting game?",
-      "content": "submitted by /u/Free-Breadfruit9378 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qplwhp/what_do_you_think_of_this_screenshot_from_my/",
-      "author": "/u/Free-Breadfruit9378",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T20:16:06.573180"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qplvsa",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "More infos to Lost in the Woods!",
-      "content": "submitted by /u/Maleficent-Gear5262 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qplvsa/more_infos_to_lost_in_the_woods/",
-      "author": "/u/Maleficent-Gear5262",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T20:16:06.573187"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qpme40",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "What would you call this genre? I think we made something new",
-      "content": "We combined a deckbuilder and an action roguelike to make this weird real time combo genre! idk what to call it yet :3 Check out Dantes 9 on Steam https://store.steampowered.com/app/3293350/Dantes_9/ submitted by /u/TempuraCatGames [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qpme40/what_would_you_call_this_genre_i_think_we_made/",
-      "author": "/u/TempuraCatGames",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T20:16:06.573197"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qpmdvd",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "New Godot is out...",
-      "content": "Been learning bone animation, upgraded to Godot 4.6 and… yeah. No idea why it broke like this, but it made me laugh. Easy fix tho. submitted by /u/RentoInteractive [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qpmdvd/new_godot_is_out/",
-      "author": "/u/RentoInteractive",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T20:16:06.573234"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qpmn4p",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Should I switch to C++. for game 2d Game dev.",
-      "content": "I'm new into game dev. I use python for game dev. I was a java person and then switched to python for automation scripting for day to day tasks(VFX stand point). I made few games on python. I did some complex things too in it. Now I want to work on a serious big project(game dev). Should I continue with python or switch to CPP? submitted by /u/LightCompetitive4266 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qpmn4p/should_i_switch_to_c_for_game_2d_game_dev/",
-      "author": "/u/LightCompetitive4266",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-28T20:16:06.573323"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qplwh3",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -33491,7 +33419,79 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-06T10:28:03.204644"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qxef7l",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I reworked the enemy system, so we can have more enemies...moooree! MOOOOOREEE!!",
+      "content": "We always knew we’d need big waves of enemies in this game. My first implementation was very lazy, and we were getting heavy FPS drops at just 100 enemies. So I had to rework the whole system. Now I can spawn 500 enemies with zero performance issues. It feels so satisfying! lol (I’m getting more than 100 fps with 500 enemies on a mid-tier pc. The numbers in the first/last clip are from a bad build.) submitted by /u/SchingKen [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qxef7l/i_reworked_the_enemy_system_so_we_can_have_more/",
+      "author": "/u/SchingKen",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-06T11:06:45.440717"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qxeqni",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Satisfying loop",
+      "content": "submitted by /u/pixel_maniacs [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qxeqni/satisfying_loop/",
+      "author": "/u/pixel_maniacs",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-06T11:06:45.440758"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qxec1o",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I'm about to update my game's logo. Which one do you think is better and how can I improve it further? Thanks.",
+      "content": "If you're interested in playtesting, you can give it a gander on Steam and Itch . Thank you for your feedback. submitted by /u/Cloud-HeadedDev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qxec1o/im_about_to_update_my_games_logo_which_one_do_you/",
+      "author": "/u/Cloud-HeadedDev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-06T11:06:45.440815"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qxeeef",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Building the same game from scratch",
+      "content": "submitted by /u/Connect_Light_1422 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qxeeef/building_the_same_game_from_scratch/",
+      "author": "/u/Connect_Light_1422",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-06T11:06:45.440940"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qxeotm",
+      "type": "search",
+      "subreddit": "PatheaSnark",
+      "title": "Review by Hizo",
+      "content": "submitted by /u/Green_Wolverine_5821 to r/PatheaSnark [link] [comments]",
+      "link": "https://www.reddit.com/r/PatheaSnark/comments/1qxeotm/review_by_hizo/",
+      "author": "/u/Green_Wolverine_5821",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-06T11:06:45.442653"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qxeox0",
+      "type": "search",
+      "subreddit": "indiegamedevforum",
+      "title": "As a 5 year solo indie dev, I made this small guide for others that teaches you all the knowledge I've picked up about game development (Especially for GameMaker). I hope this motivates you on your game development journey!",
+      "content": "submitted by /u/EnvironmentalBed7313 to r/indiegamedevforum [link] [comments]",
+      "link": "https://www.reddit.com/r/indiegamedevforum/comments/1qxeox0/as_a_5_year_solo_indie_dev_i_made_this_small/",
+      "author": "/u/EnvironmentalBed7313",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-06T11:06:45.442663"
     }
   ],
-  "last_updated": "2026-02-06T10:28:31.750819"
+  "last_updated": "2026-02-06T11:07:13.698782"
 }
