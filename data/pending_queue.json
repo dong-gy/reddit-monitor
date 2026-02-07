@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qq5lhm",
-      "type": "search",
-      "subreddit": "sdl",
-      "title": "Any examples of SDL3 GPU in moderately complex projects?",
-      "content": "I'm trying to make a basic 3d game engine using SDL3_gpu, and would benefit from examples where people have managed to nicely wrap up their rendering pipelines rather than just calling everything from a single file, which seems to be the majority of tutorials/examples out there. Also any advice on how you organize your projects would be welcome. Thanks! submitted by /u/rejamaco to r/sdl [link] [comments]",
-      "link": "https://www.reddit.com/r/sdl/comments/1qq5lhm/any_examples_of_sdl3_gpu_in_moderately_complex/",
-      "author": "/u/rejamaco",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T11:02:22.211341"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qq5lda",
-      "type": "search",
-      "subreddit": "bolognafc",
-      "title": "Selling: 2 tickets for Bologna - Milan",
-      "content": "Sadly have had something come up and won't be able to make the game on the 03/02. Selling 2 tickets in the Distinti in Sector C1 next to the Curva Andrea Costa. submitted by /u/ScientificWhaling to r/bolognafc [link] [comments]",
-      "link": "https://www.reddit.com/r/bolognafc/comments/1qq5lda/selling_2_tickets_for_bologna_milan/",
-      "author": "/u/ScientificWhaling",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T11:02:22.211407"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qq5l2e",
-      "type": "search",
-      "subreddit": "XboxGamers",
-      "title": "\"Weekly What have you been playing Thread\"",
-      "content": "Please use this thread to discuss whatever you've been playing lately (old or new, any platform, AAA or indie). As usual, please don't just list the names of games as your entire post, make sure to elaborate with your thoughts on the games. Are you hunting achievements, are you a completionist, or just returning to a staple you can't get a way from? Writing the names of the games in **bold*\\ * is nice to make it easier for people skimming the thread to pick out the names. submitted by /u/poc9k to r/XboxGamers [link] [comments]",
-      "link": "https://www.reddit.com/r/XboxGamers/comments/1qq5l2e/weekly_what_have_you_been_playing_thread/",
-      "author": "/u/poc9k",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T11:02:22.211445"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qq5l1o",
-      "type": "search",
-      "subreddit": "ProfessorOak",
-      "title": "Pre badge 2 Pokemon X",
-      "content": "Longer than section 1 but at least the battle chataeu makes grinding easier. Wouldn’t even attempt this game without it. I also got chestnaught to level 97. submitted by /u/CableFrosty797 to r/ProfessorOak [link] [comments]",
-      "link": "https://www.reddit.com/r/ProfessorOak/comments/1qq5l1o/pre_badge_2_pokemon_x/",
-      "author": "/u/CableFrosty797",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T11:02:22.211457"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qq5jzi",
       "type": "search",
       "subreddit": "WarsimRpg",
@@ -37787,7 +37739,115 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-07T19:19:12.210367"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyn505",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Updated Persuasion RPG a roguelike mystery",
+      "content": "Been a while since I have posted but Persuasion RPG v0.76 is now live! I've just updated my Victorian detective roguelike where you solve murders in a fog-shrouded manor through interrogation and deduction. I've overhauled the logic handler so clues more intuitively point to the culprit instead of \"feeling lucky\", which seemed to happen once in a while. I also added a personal journal feature for tracking your theories and improved the interrogation UI with better visual feedback. And I made a free demo if you want to try 30 turns of gaslit investigation! submitted by /u/Andagne [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyn505/updated_persuasion_rpg_a_roguelike_mystery/",
+      "author": "/u/Andagne",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T19:42:15.150312"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qymsw8",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Small YouTube channel focused on idle/incremental games",
+      "content": "submitted by /u/GooseExciting6842 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qymsw8/small_youtube_channel_focused_on_idleincremental/",
+      "author": "/u/GooseExciting6842",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T19:42:15.150384"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qymrq8",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Gioco arcade Virurama",
+      "content": "submitted by /u/Tasty-Cat8560 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qymrq8/gioco_arcade_virurama/",
+      "author": "/u/Tasty-Cat8560",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T19:42:15.150390"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qyn7sp",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Finished updating Persuasion RPG roguelike",
+      "content": "Been a while since I have posted but Persuasion RPG v0.76 is now live! I've just updated my Victorian detective roguelike where you solve murders in a fog-shrouded manor through interrogation and deduction. I've overhauled the logic handler so clues more intuitively point to the culprit instead of \"feeling lucky\", which seemed to happen once in a while. I also added a personal journal feature for tracking your theories and improved the interrogation UI with better visual feedback. Honestly, in the past few months my development skills have sharpened so I am passing the benefits into the game. And I made a free demo if you want to try 30 turns of gaslit investigation! submitted by /u/Andagne [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qyn7sp/finished_updating_persuasion_rpg_roguelike/",
+      "author": "/u/Andagne",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T19:42:15.150429"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qymui8",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "That's me every monday morning",
+      "content": "submitted by /u/Balth124 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qymui8/thats_me_every_monday_morning/",
+      "author": "/u/Balth124",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T19:42:15.150436"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyn9os",
+      "type": "search",
+      "subreddit": "LITGFanFiction",
+      "title": "The Gravity Of You (Ozzy fic) ✨💗",
+      "content": "I know, I know sighs . I deleted the old version and re-posted to make it game compliant and much better quality. I didn't like the direction I was going so I started over. If you want a slow burn full of tension, angst and messy love squares, make sure to check this fic 💗 https://archiveofourown.org/works/79075101/chapters/207441916 submitted by /u/skloomspower to r/LITGFanFiction [link] [comments]",
+      "link": "https://www.reddit.com/r/LITGFanFiction/comments/1qyn9os/the_gravity_of_you_ozzy_fic/",
+      "author": "/u/skloomspower",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T19:42:15.151236"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyn9gt",
+      "type": "search",
+      "subreddit": "SmashBrosRosters",
+      "title": "Smash, but all series have 8 fighters",
+      "content": "Should Game and Watch be a series or should I make a ``retro`` series submitted by /u/Vitor_TheGameGuy to r/SmashBrosRosters [link] [comments]",
+      "link": "https://www.reddit.com/r/SmashBrosRosters/comments/1qyn9gt/smash_but_all_series_have_8_fighters/",
+      "author": "/u/Vitor_TheGameGuy",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T19:42:15.151244"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyn5vy",
+      "type": "search",
+      "subreddit": "indie",
+      "title": "Game Dev Experience",
+      "content": "I'm just a regular everyday normal developer 🎵🎶 submitted by /u/RaccoonAccess to r/indie [link] [comments]",
+      "link": "https://www.reddit.com/r/indie/comments/1qyn5vy/game_dev_experience/",
+      "author": "/u/RaccoonAccess",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T19:42:15.151737"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyn7wz",
+      "type": "search",
+      "subreddit": "GamingLaptops",
+      "title": "Laptop making brr sound?",
+      "content": "This happens in any game I play even if I’m just watching YouTube. Ive tried updating the drivers and restarting my computer even updated my computer. Nothing. My laptop keeps making this Brr sound and sometimes slightly freezing whatever it’s doing. For example if I’m playing Helldivers I will hear a brr and it will freeze for a frame or two. Nothing game destroying but enough to be annoying and noticeable. The games itself have begun to lose frames. Where I could comfortably have 60 frames in a large fight it may now drop to 20! The weird part is the sound will come from different areas. With no headset in it comes from the computer itself but if I plug the headset in that brr noise comes through the audio of the headset. What may be going on and how could I possibly fix it? Also would it possibly be expensive to fix? Edit: it is a Nvidia Geforce RTX 3060 submitted by /u/OnyxTheDutchAngel to r/GamingLaptops [link] [comments]",
+      "link": "https://www.reddit.com/r/GamingLaptops/comments/1qyn7wz/laptop_making_brr_sound/",
+      "author": "/u/OnyxTheDutchAngel",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T19:42:15.152126"
     }
   ],
-  "last_updated": "2026-02-07T19:19:40.808464"
+  "last_updated": "2026-02-07T19:42:43.797786"
 }
