@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qq65sz",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "We added interactive building interiors to make our town building game feel alive",
-      "content": "Our cozy town building game Spiritstead felt a bit flat since you could only place buildings but not interact with them, so we added interactive interiors and let villagers actually use them. submitted by /u/Neat_Smell_1014 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qq65sz/we_added_interactive_building_interiors_to_make/",
-      "author": "/u/Neat_Smell_1014",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T11:50:07.906755"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qq65bl",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "As a self-funded solodev I don't have a bunch of hardware to test on, so I went a bit unorthodox on my system requirements...",
-      "content": "submitted by /u/BeaconDev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qq65bl/as_a_selffunded_solodev_i_dont_have_a_bunch_of/",
-      "author": "/u/BeaconDev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T11:50:07.906763"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qq653z",
       "type": "post",
       "subreddit": "IndieDev",
@@ -37823,7 +37799,199 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-07T20:12:48.195980"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyongh",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Being hunted by an evil cat while using the environment to escape — does this feel fun?",
+      "content": "submitted by /u/FRAGGY_OP [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyongh/being_hunted_by_an_evil_cat_while_using_the/",
+      "author": "/u/FRAGGY_OP",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.997377"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyof5d",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "UI Bug",
+      "content": "submitted by /u/Sun-Much [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyof5d/ui_bug/",
+      "author": "/u/Sun-Much",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.997487"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyoacl",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "im developing a dark horror about MINERS",
+      "content": "its a game about a miner named Andrew. Fight Andrew's mind and prevent him from doing terrible things. Don't let him go mad. Multiple endings, an interesting plot, a dialogue system, and more! submitted by /u/OlympStudio [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyoacl/im_developing_a_dark_horror_about_miners/",
+      "author": "/u/OlympStudio",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.997498"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qyovoh",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I just released the demo for my co-op game where you must protect a balloon together!",
+      "content": "You can wishlist the game on Steam here: https://store.steampowered.com/app/4390290/Dont_Pop_The_Balloon_Demo/ submitted by /u/Don-t_Pop [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qyovoh/i_just_released_the_demo_for_my_coop_game_where/",
+      "author": "/u/Don-t_Pop",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.997521"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qyosui",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "2D MMORPG ISO Level Designer/ Pixel artist",
+      "content": "submitted by /u/Silentassasin955 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qyosui/2d_mmorpg_iso_level_designer_pixel_artist/",
+      "author": "/u/Silentassasin955",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.997527"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qyofjz",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Some Environments in my Megastructure Game",
+      "content": "submitted by /u/Heaofir [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qyofjz/some_environments_in_my_megastructure_game/",
+      "author": "/u/Heaofir",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.997580"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qyoa7y",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "I needed pub ambience for my game so I wrote and recorded this ridiculous song",
+      "content": "It had been on the notepad list for weeks... but managed to find an evening to write and record it in the living room through a USB condenser. I think it fits my game pretty well! submitted by /u/BeardyRamblinGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qyoa7y/i_needed_pub_ambience_for_my_game_so_i_wrote_and/",
+      "author": "/u/BeardyRamblinGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.997611"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qyoxjs",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Help with one-way collision on tileset",
+      "content": "https://preview.redd.it/hray1hlxv4ig1.png?width=2007&format=png&auto=webp&s=be710586d296ef1fb823a77f53c7ac0eeb22466a Hi all! I'm trying to create a weird tileset here to recreate Bubble Bobble. Basically the idea is that the tile has one-way collision on all sides except the bottom, meaning the player can jump into the tile from below and walk out of it, but they can't walk or fall into it. I managed to make basic one-way platforms with this, but this task is proving difficult because I can't set the direction of each individual polygon; all of the polygons directions are down. I can of course rotate the node itself but that won't fix the problem since all of the collision polygons are still facing the same direction. Something is telling me I'm gonna have to find another solution to this problem but I honestly can't think of what it would be without getting really complicated. Any suggestions would be greatly appreciated! submitted by /u/muscularmouse [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qyoxjs/help_with_oneway_collision_on_tileset/",
+      "author": "/u/muscularmouse",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.997635"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qyoc63",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "i copied the code from GDQuest and put it inside a GDScript playground, and it isn't running",
+      "content": "so im still VERY new to gdscript (and coding in general) and so far, ive been using the GDQuest site to learn gdscript, so i wanted to paste my code onto a website called gdscript playground and for some reason it says that my output is none https://preview.redd.it/cmxogamzs4ig1.png?width=1920&format=png&auto=webp&s=956d27ce9322504ed1e74d44776de614a23a52ec https://preview.redd.it/2atrq9mzs4ig1.png?width=1920&format=png&auto=webp&s=bf01ef67400f3b339b64fccd0965719d2a65b3c6 submitted by /u/BrosVGK [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qyoc63/i_copied_the_code_from_gdquest_and_put_it_inside/",
+      "author": "/u/BrosVGK",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.997679"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qyol4m",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "GoHome .. get home from the pub pissed",
+      "content": "think i might have bitten of more.. with this game.. the scope is getting way too big for my boots.. i just wanted a little atmospheric 'game' about getting home from the pub pissed but it's taken on a whole life of it's own .. dunno if i can't finish it off ..would people play a 30 minute thing about atmosphere and emotion ?. ;p submitted by /u/binarygirl0101010101 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qyol4m/gohome_get_home_from_the_pub_pissed/",
+      "author": "/u/binarygirl0101010101",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.997748"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qyocp7",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "When did you start marketing your game?",
+      "content": "I’ve been working on a game for about 3 years now (as side job), and recently switched to it full time and plan to have something for steam within a year. Most of the core is done and now I expand \"vertically\" with content I made social media accounts and started posting some shorts/videos and I’m wondering if I started too late (working on steam page too) For those of you who’ve shipped or are close to shipping: When did you start marketing, and when did you put your steam page live? Did you do any advertising before having a steam page? Curious to hear different experiences! submitted by /u/JimInFlames [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qyocp7/when_did_you_start_marketing_your_game/",
+      "author": "/u/JimInFlames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.997772"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyoxvl",
+      "type": "search",
+      "subreddit": "vibecoding",
+      "title": "BrickUp - collaborative LEGO set checklist",
+      "content": "My first 100% vibe coded project. Claude Code + Opus 4.6. Didn’t write a single line of code myself. The app itself is Vite+React served from GitHub pages. The backend is just a Supabase PostgreSql with an edge function. The heavy lifting is done by [Rebrickable]( https://rebrickable.com/ ) (those guys are awesome! If you’re into LEGO, make sure to support them!) Check my app out here: https://brickup.dk Feedback welcome! submitted by /u/dotykier to r/vibecoding [link] [comments]",
+      "link": "https://www.reddit.com/r/vibecoding/comments/1qyoxvl/brickup_collaborative_lego_set_checklist/",
+      "author": "/u/dotykier",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.998146"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyoxjs",
+      "type": "search",
+      "subreddit": "godot",
+      "title": "Help with one-way collision on tileset",
+      "content": "https://preview.redd.it/hray1hlxv4ig1.png?width=2007&format=png&auto=webp&s=be710586d296ef1fb823a77f53c7ac0eeb22466a Hi all! I'm trying to create a weird tileset here to recreate Bubble Bobble. Basically the idea is that the tile has one-way collision on all sides except the bottom, meaning the player can jump into the tile from below and walk out of it, but they can't walk or fall into it. I managed to make basic one-way platforms with this, but this task is proving difficult because I can't set the direction of each individual polygon; all of the polygons directions are down. I can of course rotate the node itself but that won't fix the problem since all of the collision polygons are still facing the same direction. Something is telling me I'm gonna have to find another solution to this problem but I honestly can't think of what it would be without getting really complicated. Any suggestions would be greatly appreciated! submitted by /u/muscularmouse to r/godot [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qyoxjs/help_with_oneway_collision_on_tileset/",
+      "author": "/u/muscularmouse",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.998284"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyomf0",
+      "type": "search",
+      "subreddit": "TheRaceTo10Million",
+      "title": "4k to 400k within a week🎉💯",
+      "content": "submitted by /u/Distinct-Complex-983 to r/TheRaceTo10Million [link] [comments]",
+      "link": "https://www.reddit.com/r/TheRaceTo10Million/comments/1qyomf0/4k_to_400k_within_a_week/",
+      "author": "/u/Distinct-Complex-983",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.998729"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyou68",
+      "type": "search",
+      "subreddit": "Endfield",
+      "title": "QOL additions request for the game",
+      "content": "Dear AK:Endfeild devs. If it's not too much trouble, please add the following QOL options to the game. FOV slider HUD size modifier (HUD elements are huge on PC and take too much space on screen) HUD aspect ration selection (to center HUD elements) for players with ultrawide monitors This will make life SO MUCH better for people on PC and players with 4k and/or ultrawide monitors. submitted by /u/Outside-Office3756 to r/Endfield [link] [comments]",
+      "link": "https://www.reddit.com/r/Endfield/comments/1qyou68/qol_additions_request_for_the_game/",
+      "author": "/u/Outside-Office3756",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.998793"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyore6",
+      "type": "search",
+      "subreddit": "RoyaleAPI",
+      "title": "What do you think clash Will do for their 10th birthday?",
+      "content": "submitted by /u/Old-Acanthisitta6629 to r/RoyaleAPI [link] [comments]",
+      "link": "https://www.reddit.com/r/RoyaleAPI/comments/1qyore6/what_do_you_think_clash_will_do_for_their_10th/",
+      "author": "/u/Old-Acanthisitta6629",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T20:47:49.998811"
     }
   ],
-  "last_updated": "2026-02-07T20:13:16.577147"
+  "last_updated": "2026-02-07T20:48:18.180350"
 }
