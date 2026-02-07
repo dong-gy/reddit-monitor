@@ -1,18 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qyh0ic",
-      "type": "search",
-      "subreddit": "askajudge",
-      "title": "Hurkyl's Final Meditation Interactions",
-      "content": "Hello, I'm trying to get some things straight before I decide to play a card that might start some arguments in commander games, and that's [[Hurkyl's Final Meditation]]. Here's the scenarios I'm mostly worried about: Suppose someone exiled a creature that has an ETB with a prison effect like [[Banishing Light]]. When Hurkyl's resolves and that creature enters again, does its ETB trigger? If so, does it trigger before cleanup? Suppose a player had [[Waste Not]] exiled in the first question's case. During cleanup, the player whose turn it is will discard to hand size, then players will get a chance to respond to the Waste Not triggers, right? (Ignore this question if the first question's answer is yes.) Suppose there were two prison cards in play. One imprisoned a Waste Not and another imprisoned a creature with an ETB. If the ETB doesn't trigger in the case of question 1, does it trigger now? I believe there are more edge cases I'm not thinking of, some being more common than others. What are the common cases I should watch out for? I know this makes it sound like the card is too much trouble, but I'm fond of these rules interactions, and as long as it's nothing too confusing and obscure with lots of tracking involved, I'd love to learn about it. It's a versatile card, I love big blue stuff, and I even used to run it in standard as a sideboard card with Invasion of Arcavios, so I'm familiar with a few things it does. Although, seeing how commander games go, I think I've got more to deal with while using it. Thanks in advance! submitted by /u/MarosmarosVolk to r/askajudge [link] [comments]",
-      "link": "https://www.reddit.com/r/askajudge/comments/1qyh0ic/hurkyls_final_meditation_interactions/",
-      "author": "/u/MarosmarosVolk",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-02-07T15:45:38.496568"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qq3f9g",
       "type": "post",
       "subreddit": "IndieDev",
@@ -37175,7 +37163,163 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-07T15:45:38.496318"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyhu89",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "An incremental farming roguelike where you equip gear, harvest crops, and unlock new equipment to feed a gluttonous King. (Demo)",
+      "content": "submitted by /u/sweetbambino [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyhu89/an_incremental_farming_roguelike_where_you_equip/",
+      "author": "/u/sweetbambino",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T16:15:05.301542"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyhnde",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I only opened Unity to practice Wwise integration. 3 months later, I shipped a psychological thriller.",
+      "content": "I'm a sound designer and composer by trade. I literally just wanted a sandbox to practice implementing dynamic audio for my portfolio because grey cubes are uninspiring to mix for. I grabbed some PSX assets to make the environment look decent… I ended up writing a script, adding trivial mechanics, and building a full 20-minute narrative horror game called PROTOCOL . Would love to hear some feedback from real developers. Thanks. If you don’t feel like downloading and playing yourself, you can watch full gameplay on my youtube channel. submitted by /u/andrewchosen [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyhnde/i_only_opened_unity_to_practice_wwise_integration/",
+      "author": "/u/andrewchosen",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T16:15:05.301631"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyhldz",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We are three brothers creating a dreamy pixel art platformer – first look",
+      "content": "submitted by /u/Dizzy_Unit1200 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyhldz/we_are_three_brothers_creating_a_dreamy_pixel_art/",
+      "author": "/u/Dizzy_Unit1200",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T16:15:05.301643"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyhklz",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "I just opened a public playtest for my Dark Souls-meets-Chess roguelite — would love feedback!",
+      "content": "I put a real chess engine in this thing and it is kicking my ass as a 1500 rated player. I kind of like it this way because it forces battle strategy/tactics to survive. Maybe too hard, though? If it sounds interesting let me know! Would love to hear from people of all ELOs and people that don't play chess at all! https://store.steampowered.com/app/4329440/Glyph_Gambit_Endgame/ submitted by /u/Sea_Advance273 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyhklz/i_just_opened_a_public_playtest_for_my_dark/",
+      "author": "/u/Sea_Advance273",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T16:15:05.301661"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyhg1c",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "We deleted all loading screens and the health bar to make our game more immersive",
+      "content": "submitted by /u/mathrock_interactive [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyhg1c/we_deleted_all_loading_screens_and_the_health_bar/",
+      "author": "/u/mathrock_interactive",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T16:15:05.301670"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qyhu54",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "MyADHD - The App for Neurodivergent University Students",
+      "content": "submitted by /u/Entire_Raspberry2129 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qyhu54/myadhd_the_app_for_neurodivergent_university/",
+      "author": "/u/Entire_Raspberry2129",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T16:15:05.301678"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qyht7e",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "We mixed incremental farming and roguelike mechanics. You equip magical gear and harvest crops for a gluttonous King. (Demo)",
+      "content": "submitted by /u/sweetbambino [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qyht7e/we_mixed_incremental_farming_and_roguelike/",
+      "author": "/u/sweetbambino",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T16:15:05.301685"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qyhald",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "The two sides of game development",
+      "content": "submitted by /u/SoggyPrior863 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qyhald/the_two_sides_of_game_development/",
+      "author": "/u/SoggyPrior863",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T16:15:05.301741"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qyhexd",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "What do you think guys ?",
+      "content": "From my VR hardcore survival game submitted by /u/_Abnormalia [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qyhexd/what_do_you_think_guys/",
+      "author": "/u/_Abnormalia",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T16:15:05.301776"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qyhe8s",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Free Materials Metallic Grids & Tiles",
+      "content": "submitted by /u/JulioVII [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qyhe8s/free_materials_metallic_grids_tiles/",
+      "author": "/u/JulioVII",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T16:15:05.301801"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyh38g",
+      "type": "search",
+      "subreddit": "techsupport",
+      "title": "Frequent crashing and BSoD...GPU issue?",
+      "content": "I've tried updating my graphics drivers. I tried running a memory diagnostic and other windows diagnostics but it was no help. I'm using Windows 11. I've found that Chrome can be especially finicky with graphical things as it likes to crash when I play videos or use in-browser art programs. However, I can play video games just fine for the most part. GPU 0 shows no activity but GPU 1 seems to be working. Stop codes are: ATTEMPTED EXECUTE OF NO EXECUTE MEMORY, SYSTEM SERVICE EXCEPTION, PREVIOUS MODE MISMATCH, DPC WATCHDOG VIOLATION What else can I do? submitted by /u/AyyTeaLeaf to r/techsupport [link] [comments]",
+      "link": "https://www.reddit.com/r/techsupport/comments/1qyh38g/frequent_crashing_and_bsodgpu_issue/",
+      "author": "/u/AyyTeaLeaf",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T16:15:05.302356"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyhnly",
+      "type": "search",
+      "subreddit": "TDS_Roblox",
+      "title": "Unable to find a fix for this.",
+      "content": "This glitch has been in the game for almost year now and still no patches to it. The bug im talking about is the keybinds. You are unable to properly use them as they do not appear next to the tower you want to place, prevent you from cancelling placement and forcing to place and sell, therefore losing money. The worst of it is sometimes your whole HUD freezes and not even the wave counter moves. It is affecting me and a small minority of people and the bug has not been properly addressed. I have asked for help relating to this issue in the tds discord but I either get ignored or people in chat not understanding what I am talking about. I do not think i will be able to finish the event this year as the bug is game hindering and I doubt that the devs will address this soon or even extend the event for those affected. submitted by /u/Shansker to r/TDS_Roblox [link] [comments]",
+      "link": "https://www.reddit.com/r/TDS_Roblox/comments/1qyhnly/unable_to_find_a_fix_for_this/",
+      "author": "/u/Shansker",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T16:15:05.302956"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyhrri",
+      "type": "search",
+      "subreddit": "DBZDokkanBattle",
+      "title": "Dokkan “2”",
+      "content": "I was thinking about how this might work; if they ever decide to make a sequel to this game, what are the odds they make it a mixture of whatever anime they have the licenses for? Considering how well Dokkan does and how much money it makes them. submitted by /u/Chunymonini to r/DBZDokkanBattle [link] [comments]",
+      "link": "https://www.reddit.com/r/DBZDokkanBattle/comments/1qyhrri/dokkan_2/",
+      "author": "/u/Chunymonini",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T16:15:05.303182"
     }
   ],
-  "last_updated": "2026-02-07T15:46:07.151757"
+  "last_updated": "2026-02-07T16:15:33.874129"
 }
