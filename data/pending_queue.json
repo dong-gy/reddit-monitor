@@ -1,42 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qq3lap",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "My new Android puzzle game",
-      "content": "Hugo - The Last Alchemist Hi, last year, while I had lost my job I started developing this Android puzzle game, using native development. And I finally managed to get it published 😁🎉 It was a childhood dream to have developed my own game. I'm very happy, so if you can give some support, downloading it to increase visibility and even a review would it be nice. It would be very appreciated. Have a nice day :) submitted by /u/No_Seaworthiness3951 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq3lap/my_new_android_puzzle_game/",
-      "author": "/u/No_Seaworthiness3951",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T09:03:28.130693"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qq3538",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Thoughts on how I made capsules?",
-      "content": "After a bit of work I'm pretty proud of the result, what do y'all think? any way to improve it? is it clear enough? is it intriguing and Eye-Catching? For both simplicity and immersion these capsules were made with IN-GAME graphics , with this I mean I created scenes in-game (unaccessible to the player) and these are screenshots of those scenes. I tried Following Online Guidelines on capsules and library heroes, had to redraw Scenes to make the text more readable and fit Steam's Ratio. Took me a couple of days to get them how I wanted and I think it highlights the lighting of the game itself, this way I just had to crop them. Steam page's already up, I'd love to know what you think of it!! feedback is ALWAYS Greatly appreciated!! link: Morphbound: Test In Progress (wishlist if you like the vibes?) submitted by /u/lexydev [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq3538/thoughts_on_how_i_made_capsules/",
-      "author": "/u/lexydev",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T09:03:28.130765"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qq34ok",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "I added rockets and wings in game so I can fly away from this terrible world",
-      "content": "I gave my gear machines rockets and wings. Sandbox physics. Fully simulated gears. Join our Discord and suggest the next bad idea. https://discord.gg/HtVjq57D5E submitted by /u/zeebaent [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq34ok/i_added_rockets_and_wings_in_game_so_i_can_fly/",
-      "author": "/u/zeebaent",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T09:03:28.130802"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qq3f9g",
       "type": "post",
       "subreddit": "IndieDev",
@@ -36923,7 +36887,139 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-02-07T14:49:05.293020"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qyftf1",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Should I start with game engines like Unity/Unreal Engine or C++ and OpenGL/SFML?",
+      "content": "For your information, I have never done anything related to coding ever before (Maybe a little bit of Arduino as a school project, but I digress). I’ve been seeking for a time to start a game dev project since I started my high school years, but it always gets interfered by something before I can actually progress. So, recently I finally got accepted into a university I wanted, and I figured that it could be the best time to start now as I need to learn comprog in engineering anyways. I started by learning C++ from those 5-6 hours tutorials and implemented it a little, nothing serious. Currently I’m watching a tutorial on SFML, but it seems the learning curve is pretty steep. Additionally, I’m working on an isometric 3D-ish project so I’m not even sure if SFML could do it. I feel like I’m learning it just for the sake of learning it right now. Should I switch to learn Unity/Godot/Unreal first before jumping into something like this? Would it be more appropriate for someone who’s never code before? submitted by /u/JosephineRivra [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qyftf1/should_i_start_with_game_engines_like_unityunreal/",
+      "author": "/u/JosephineRivra",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:13:46.378524"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qyg66j",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Sometimes, someone has to rescue a puppy to keep going",
+      "content": "submitted by /u/Cryofluid [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qyg66j/sometimes_someone_has_to_rescue_a_puppy_to_keep/",
+      "author": "/u/Cryofluid",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:13:46.378543"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qyfth6",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Can I reload an interface custom theme after modifying its local files?",
+      "content": "interface/theme/custom_theme Currently, I need to reset custom theme first before re-selecting the file to apply, which is quite cumbersome. submitted by /u/ActForJason [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qyfth6/can_i_reload_an_interface_custom_theme_after/",
+      "author": "/u/ActForJason",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:13:46.378743"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qyfudl",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Stylized Treant Creature (Animated) Unity ASSET STORE",
+      "content": "https://assetstore.unity.com/packages/3d/characters/creatures/stylized-treant-creature-349870 submitted by /u/Aggravating-Carob580 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qyfudl/stylized_treant_creature_animated_unity_asset/",
+      "author": "/u/Aggravating-Carob580",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:13:46.378778"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qyfpga",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Stylized Zombie Boss (Animated) - Unity Asset Store",
+      "content": "https://assetstore.unity.com/packages/3d/characters/creatures/stylized-zombie-boss-352334 submitted by /u/Aggravating-Carob580 [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qyfpga/stylized_zombie_boss_animated_unity_asset_store/",
+      "author": "/u/Aggravating-Carob580",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:13:46.378786"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qyg77t",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Unreal podcast focusing on workflows",
+      "content": "Thinking of starting an Unreal Engine focused podcast on HOW things get implemented interviewing different guests on their approach. The idea being around when setting up a game talking how that person would approach a solution at a high level. Use GAS? Use nanite? CommonUI? Use plugins or develop your own solution? There are so many ways to solve any problem it’s often hard to know what’s a good/best approach for a solution. Maybe this already exists? If so please let me know! Trying to gauge interest on if this is something people would be into. If it is please like and/or comment. submitted by /u/robertfsegal [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qyg77t/unreal_podcast_focusing_on_workflows/",
+      "author": "/u/robertfsegal",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:13:46.378810"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyfvl8",
+      "type": "search",
+      "subreddit": "GameSale",
+      "title": "[USA-VA] [H] HDMI capture card, games for Switch, Vita, PSP, PS4, PS2, PS1 [W] Paypal G&S",
+      "content": "All Prices includes shipping within continental USA. Bundle 2 or more and get $5 off total. Will happily provide pics if asked. Switch: Final Fantasy X (X-2 code used) - $10 PS4: Megaman Zero/ZX Legacy Collection (No manual) - $25 PS2: Final Fantasy XII (Collectors ed. steelbook, CiB) - $15 PS1: Final Fantasy IX (Greatest Hits, no manual) - $15 PSP: Mimana Iyar Chronicles (CiB) - $18 Star Ocean First Departure (loose) - $12 Vita: Diabolic Lovers: Lunatic Parade (JP, Loose) - $18 Mecho Wars: Desert Ashes (CiB) - $18 Moero Crystal (JP, CiB) - $18 War Theatre (CiB) - $22 Other: Elgato HD60 S USB-C 1080P game capture card - $45 submitted by /u/VeskMechanic to r/GameSale [link] [comments]",
+      "link": "https://www.reddit.com/r/GameSale/comments/1qyfvl8/usava_h_hdmi_capture_card_games_for_switch_vita/",
+      "author": "/u/VeskMechanic",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:13:46.379016"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyg96x",
+      "type": "search",
+      "subreddit": "MinecraftBedrockers",
+      "title": "Is it possible my boys play together on same wi-fi for free?",
+      "content": "Hi, It is our first day in MC world. I downloaded the game to my boys' tablets. Profiles have been created. Their only expectation was to play together on the same server (map?). Is this possible at all? They are on the same wi-fi. The game says \"You cannot play with friends or on LAN worlds because of parental control restrictions\" I checked the settings with Google/Reddit guidance but could not make progress. Can anyone help by sharing any steps/webpage/video? I am under a lot of pressure here 🤯🤯 TIA! submitted by /u/tanku4urhelp to r/MinecraftBedrockers [link] [comments]",
+      "link": "https://www.reddit.com/r/MinecraftBedrockers/comments/1qyg96x/is_it_possible_my_boys_play_together_on_same_wifi/",
+      "author": "/u/tanku4urhelp",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:13:46.379713"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyg3dp",
+      "type": "search",
+      "subreddit": "Switch",
+      "title": "Is Nintendo Switch Online worth paying for in 2026?",
+      "content": "I am have been thinking of buying it for a while, as it isn't too expensive and I love games with online play such as Mario Maker 2 and Mario Kart 8 Deluxe. Should I pay for it or is it not worth it. submitted by /u/_Brontus_ to r/Switch [link] [comments]",
+      "link": "https://www.reddit.com/r/Switch/comments/1qyg3dp/is_nintendo_switch_online_worth_paying_for_in_2026/",
+      "author": "/u/_Brontus_",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:13:46.379891"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyg4p2",
+      "type": "search",
+      "subreddit": "PixelRetro",
+      "title": "Welcome to r/LunaGame – Our Dreamy Pixel Adventure Begins!",
+      "content": "Hello everyone! We’re super excited to officially launch this little corner for Luna – a 2D pixel art adventure we (three siblings) are building with a lot of love. Luna is a cozy yet mysterious platformer set in a dreamlike world full of strange creatures, magical items, light combat, exploration and heartfelt moments. Think hand-crafted pixel art, fluid movement (dash, climb, etc. coming soon), funny side characters and a story that slowly unfolds. Right now we’re deep into building the first world and it’s already feeling magical. We’ll be sharing progress, small teasers, art, music snippets and behind-the-scenes from time to time. The community is brand new (just us for now 😄), so if you like indie platformers, pixel art games, dream-like stories or just want to follow along with a tiny dev team, come hang out! You can check out the project here: 🌙 https://luna-game.com/en Feel free to: Introduce yourself Tell us what kind of games you love Ask anything about the development Share pixel art, dreams or ideas that fit the vibe Let’s grow this little dream world together! Discord: https://discord.gg/eZd3SupUBp See you around~ The Luna Team (three brothers) submitted by /u/Dizzy_Unit1200 to r/PixelRetro [link] [comments]",
+      "link": "https://www.reddit.com/r/PixelRetro/comments/1qyg4p2/welcome_to_rlunagame_our_dreamy_pixel_adventure/",
+      "author": "/u/Dizzy_Unit1200",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:13:46.380268"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyg3c7",
+      "type": "search",
+      "subreddit": "WuwaUnfiltered",
+      "title": "CN's (and KR/JP honestly) thoughts on Rover and Aemeath's relationship\"Rover and Aemeath relationship",
+      "content": "tl;dr in case people don't wanna go through the images. CN (As well as KR and JP) view Rover and Aemeath as father and daughterwife and they view it similarly to the relationship between Skk and Liv from PGR. Source here submitted by /u/Muroukunim to r/WuwaUnfiltered [link] [comments]",
+      "link": "https://www.reddit.com/r/WuwaUnfiltered/comments/1qyg3c7/cns_and_krjp_honestly_thoughts_on_rover_and/",
+      "author": "/u/Muroukunim",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:13:46.380279"
     }
   ],
-  "last_updated": "2026-02-07T14:49:33.981860"
+  "last_updated": "2026-02-07T15:14:14.929551"
 }
