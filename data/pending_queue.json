@@ -1,78 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qq0rzv",
-      "type": "search",
-      "subreddit": "TemuThings",
-      "title": "Free gifts codes",
-      "content": "Temu Username aheathen84 Free Gifts 763950190 Or 771656933 Use for new invitations or existent user. Will do your codes as well. Please no dm’s. You post a code and I’ll put it in, regardless if I’m playing that particular game or not, I’m here to help everyone. submitted by /u/Aheathen84 to r/TemuThings [link] [comments]",
-      "link": "https://www.reddit.com/r/TemuThings/comments/1qq0rzv/free_gifts_codes/",
-      "author": "/u/Aheathen84",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T06:31:54.812511"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qq12ee",
-      "type": "search",
-      "subreddit": "scratch",
-      "title": "How do i make the player collide with the water?",
-      "content": "I'm making a top down scroller thing, I'm trying to get the player colliding with the water (supposed to be the edge of the map,) but everything I can think of hasn't worked at all, please help! first image is player code, second is the map code submitted by /u/cyuapriasyuiwygbh to r/scratch [link] [comments]",
-      "link": "https://www.reddit.com/r/scratch/comments/1qq12ee/how_do_i_make_the_player_collide_with_the_water/",
-      "author": "/u/cyuapriasyuiwygbh",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T06:31:54.812618"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qq0ty9",
-      "type": "search",
-      "subreddit": "GranTurismo7",
-      "title": "1.670.000 not working",
-      "content": "I just updated the game and it keeps popping up a warning saying it's out of date I need help. Did the devs release a bugged version of the game or what? submitted by /u/Iria401 to r/GranTurismo7 [link] [comments]",
-      "link": "https://www.reddit.com/r/GranTurismo7/comments/1qq0ty9/1670000_not_working/",
-      "author": "/u/Iria401",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T06:31:54.813279"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qq23gl",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "Our tactical horror game needed hundreds of unique corpses, so we made them procedural :)",
-      "content": "submitted by /u/healthynobility [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qq23gl/our_tactical_horror_game_needed_hundreds_of/",
-      "author": "/u/healthynobility",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T07:32:36.117685"
-    },
-    {
-      "id": "https://www.reddit.com/r/godot/t3_1qq1knd",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "brackeys tutorial slime keeps running of the map",
-      "content": "I'm trying to do the brackeys tutorial and the slime is ignoring the walls (its suppose to turn when colliding with walls) I think this is because the tutorial is out of date not sure though might just be my code extends AnimatedSprite2D const speed = 60 var direction = 1 u/onready var ray_cast_right: RayCast2D = $\"../RayCast right\" u/onready var ray_cast_left: RayCast2D = $\"../RayCast left\" # Called every frame. 'delta' is the elapsed time since the previous frame. func _process(delta): if ray\\_cast\\_right.is\\_colliding(): direction = -1 if ray\\_cast\\_left.is\\_colliding(): direction = 1 position.x += direction \\* speed \\* delta submitted by /u/bunny_cryptid [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qq1knd/brackeys_tutorial_slime_keeps_running_of_the_map/",
-      "author": "/u/bunny_cryptid",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T07:32:36.117783"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qq1qwg",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "My first psychological horror game after 1 year of development",
-      "content": "Wishlist it on Steam! https://store.steampowered.com/app/4166710/Excrucia/ submitted by /u/That-Mongoose5812 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qq1qwg/my_first_psychological_horror_game_after_1_year/",
-      "author": "/u/That-Mongoose5812",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T07:32:36.117806"
-    },
-    {
       "id": "https://www.reddit.com/r/unity/t3_1qq1ilb",
       "type": "post",
       "subreddit": "unity",
@@ -36467,7 +36395,55 @@
       "search_keyword": "make game without coding",
       "relevance_score": 0,
       "added_at": "2026-02-07T10:49:38.616370"
+    },
+    {
+      "id": "https://www.reddit.com/r/unity/t3_1qyaumz",
+      "type": "post",
+      "subreddit": "unity",
+      "title": "Chill Saturday, working on this bot",
+      "content": "submitted by /u/EarlySunGames [link] [comments]",
+      "link": "https://www.reddit.com/r/unity/comments/1qyaumz/chill_saturday_working_on_this_bot/",
+      "author": "/u/EarlySunGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T11:12:19.495900"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qyayuw",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "From Rank 4,443 to Top 50 on IndieDB in 24 hours - My solo horror project just hit 1,000 units on Steam!",
+      "content": "Hi everyone! I’m incredibly hyped (and a bit sleep-deprived) to share a major milestone for my solo project, FINIS ACTUS . Last night was a rollercoaster. I started the day at Rank 4,443 on IndieDB, and after a series of updates and community engagement, I woke up to find the game at Rank 50 out of 72,000+ games! Even more exciting: The demo just crossed the 1,000 units mark on Steam. Some stats that might be interesting for fellow devs: Median Playtime: 27 minutes (This was the most surprising part for me, people are actually sticking around!) Marketing Budget: $0. Just organic reach through Reddit and IndieDB updates. Engine: Unreal Engine 5 (High-fidelity visuals definitely helped with the initial \"hook\"). It’s a huge relief to see people connecting with the atmosphere I’ve been building alone in my room for months. I’d love to hear your thoughts on the visuals or any advice for the upcoming Steam Next Fest! Steam Page: https://store.steampowered.com/app/4294320/FINIS_ACTUS/ IndieDB: https://www.indiedb.com/games/finis-actus-demo PLEASE ADD TO WISHLIST ON STEAM submitted by /u/Think-Ear6167 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qyayuw/from_rank_4443_to_top_50_on_indiedb_in_24_hours/",
+      "author": "/u/Think-Ear6167",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T11:12:19.495940"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyb16t",
+      "type": "search",
+      "subreddit": "GamesAreLife",
+      "title": "Games Workshop Issued 'FTL in a Warhammer 40,000 Skin' Steam Game With a DMCA Takedown Because of ‘Oversized Convex Shoulder Pads With a Metallic Rim,’ Dev Says",
+      "content": "submitted by /u/GameOnBrother to r/GamesAreLife [link] [comments]",
+      "link": "https://www.reddit.com/r/GamesAreLife/comments/1qyb16t/games_workshop_issued_ftl_in_a_warhammer_40000/",
+      "author": "/u/GameOnBrother",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T11:12:19.497811"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyayuw",
+      "type": "search",
+      "subreddit": "SoloDevelopment",
+      "title": "From Rank 4,443 to Top 50 on IndieDB in 24 hours - My solo horror project just hit 1,000 units on Steam!",
+      "content": "Hi everyone! I’m incredibly hyped (and a bit sleep-deprived) to share a major milestone for my solo project, FINIS ACTUS . Last night was a rollercoaster. I started the day at Rank 4,443 on IndieDB, and after a series of updates and community engagement, I woke up to find the game at Rank 50 out of 72,000+ games! Even more exciting: The demo just crossed the 1,000 units mark on Steam. Some stats that might be interesting for fellow devs: Median Playtime: 27 minutes (This was the most surprising part for me, people are actually sticking around!) Marketing Budget: $0. Just organic reach through Reddit and IndieDB updates. Engine: Unreal Engine 5 (High-fidelity visuals definitely helped with the initial \"hook\"). It’s a huge relief to see people connecting with the atmosphere I’ve been building alone in my room for months. I’d love to hear your thoughts on the visuals or any advice for the upcoming Steam Next Fest! Steam Page: https://store.steampowered.com/app/4294320/FINIS_ACTUS/ IndieDB: https://www.indiedb.com/games/finis-actus-demo PLEASE ADD TO WISHLIST ON STEAM submitted by /u/Think-Ear6167 to r/SoloDevelopment [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qyayuw/from_rank_4443_to_top_50_on_indiedb_in_24_hours/",
+      "author": "/u/Think-Ear6167",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T11:12:19.498720"
     }
   ],
-  "last_updated": "2026-02-07T10:50:06.664532"
+  "last_updated": "2026-02-07T11:12:47.930845"
 }
