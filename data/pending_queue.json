@@ -1,6 +1,18 @@
 {
   "queue": [
     {
+      "id": "https://www.reddit.com/t3_1qyh0ic",
+      "type": "search",
+      "subreddit": "askajudge",
+      "title": "Hurkyl's Final Meditation Interactions",
+      "content": "Hello, I'm trying to get some things straight before I decide to play a card that might start some arguments in commander games, and that's [[Hurkyl's Final Meditation]]. Here's the scenarios I'm mostly worried about: Suppose someone exiled a creature that has an ETB with a prison effect like [[Banishing Light]]. When Hurkyl's resolves and that creature enters again, does its ETB trigger? If so, does it trigger before cleanup? Suppose a player had [[Waste Not]] exiled in the first question's case. During cleanup, the player whose turn it is will discard to hand size, then players will get a chance to respond to the Waste Not triggers, right? (Ignore this question if the first question's answer is yes.) Suppose there were two prison cards in play. One imprisoned a Waste Not and another imprisoned a creature with an ETB. If the ETB doesn't trigger in the case of question 1, does it trigger now? I believe there are more edge cases I'm not thinking of, some being more common than others. What are the common cases I should watch out for? I know this makes it sound like the card is too much trouble, but I'm fond of these rules interactions, and as long as it's nothing too confusing and obscure with lots of tracking involved, I'd love to learn about it. It's a versatile card, I love big blue stuff, and I even used to run it in standard as a sideboard card with Invasion of Arcavios, so I'm familiar with a few things it does. Although, seeing how commander games go, I think I've got more to deal with while using it. Thanks in advance! submitted by /u/MarosmarosVolk to r/askajudge [link] [comments]",
+      "link": "https://www.reddit.com/r/askajudge/comments/1qyh0ic/hurkyls_final_meditation_interactions/",
+      "author": "/u/MarosmarosVolk",
+      "search_keyword": "how to make a game",
+      "relevance_score": 1,
+      "added_at": "2026-02-07T15:45:38.496568"
+    },
+    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qq3f9g",
       "type": "post",
       "subreddit": "IndieDev",
@@ -37019,7 +37031,151 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-07T15:13:46.380279"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qygvd1",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Light all 3 bonfires and an alternate route opens up. Think Starfox 64.",
+      "content": "You remember Starfox 64, how the next level would change depending on what you did in the current level? That's what I'm gonna do in my game DIEATHLON. Currently I'm working on the bonfires that will open an alternate exit out of the 2nd level if you can get them all lit on your run. Steam Store Page submitted by /u/OfficialDuelist [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qygvd1/light_all_3_bonfires_and_an_alternate_route_opens/",
+      "author": "/u/OfficialDuelist",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:45:38.494059"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qygo8b",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Light all 3 bonfires and an alternate route opens up. Think Starfox 64.",
+      "content": "You remember Starfox 64, how the next level would change depending on what you did in the current level? That's what I'm gonna do in my game DIEATHLON. Currently I'm working on the bonfires that will open an alternate exit out of the 2nd level if you can get them all lit on your run. Steam Store Page submitted by /u/OfficialDuelist [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qygo8b/light_all_3_bonfires_and_an_alternate_route_opens/",
+      "author": "/u/OfficialDuelist",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:45:38.494105"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qygw2v",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My Friday evening code",
+      "content": "submitted by /u/MH_GameDev [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qygw2v/my_friday_evening_code/",
+      "author": "/u/MH_GameDev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:45:38.494173"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qygsuo",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Music Sync on Web export",
+      "content": "https://preview.redd.it/9v1s6urub3ig1.png?width=1265&format=png&auto=webp&s=42889c7d3d1dc54bbe72060f9fcf48537dce276e Hi All, I've developed a guitar hero-like game for a game jam. I've manually registered the 'beats' (spawn time for each ~music note~ - which are the bullets here), and it works really well on windows. The issue is that when I export to HTML5 and run in on the browser, it is noticeably off-sync. So much that it seems the music is just background music and has no connection with the bullets themselves. Everything is coordinated through audio_player.get_playback_position(): the spawn of the bullets and their position on the screen, nothing is using delta time. I've looked around and haven't really found any answer to this Is this a known issue? Is something wrong with my approach? Is there any work around to sync the bullets with the music, like it happens on the Windows export? Also, if I add some offset time to make them match on my Firefox, the still don't match on Edge. Without the offset, the sounds I hear are significantly late compared to what get_playback_position() is registering submitted by /u/Sad-Local-6229 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qygsuo/music_sync_on_web_export/",
+      "author": "/u/Sad-Local-6229",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:45:38.494198"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qyghwp",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "My game made in Godot just hit 1M free licenses!",
+      "content": "Thanks to Godot I was able to change my life and fulfill my biggest childhood dream. Special thanks to all Godot contributors and everyone who gave Upload Labs a try! submitted by /u/willunited [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qyghwp/my_game_made_in_godot_just_hit_1m_free_licenses/",
+      "author": "/u/willunited",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:45:38.494225"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qyh05u",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Is this total ass ?",
+      "content": "Hey I am just trying to look for ways to improve something and learn. Not asking for any sympathy. Just your opinions. I set my steampage to public four days ago and then started posting little things on yt and tiktok. And there seems to be absolute 0 interest. I did not expect there to be lots of excitement around this game but maybe a person here and there. If I had to say what is the biggest reason it is so bad, I would say that it's because the game looks boring. I am personally happy with the visuals. But I would be interested to hear some other opinios. Do you think the whole thing is just crap? At the end of the day it's ok it's still a big bag of lessons so it's not for nothing. submitted by /u/consistenthuman [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qyh05u/is_this_total_ass/",
+      "author": "/u/consistenthuman",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:45:38.494295"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qygvzn",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Light all 3 bonfires and an alternate route opens up. Think Starfox 64.",
+      "content": "You remember Starfox 64, how the next level would change depending on what you did in the current level? That's what I'm gonna do in my game DIEATHLON. Currently I'm working on the bonfires that will open an alternate exit out of the 2nd level if you can get them all lit on your run. Steam Store Page submitted by /u/OfficialDuelist [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qygvzn/light_all_3_bonfires_and_an_alternate_route_opens/",
+      "author": "/u/OfficialDuelist",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:45:38.494306"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qygo12",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Screenshots from my UFO horror game! Let me know what you think",
+      "content": "I'm working on a solo dev horror game based on Project Blue Book and the steam page went live this week! The plan is to update these closer to release date :) If you'd like to see more the steam page link is below 👽: https://store.steampowered.com/app/4358700/Project\\_Blue\\_Files\\_Classified/ submitted by /u/johnny3674 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qygo12/screenshots_from_my_ufo_horror_game_let_me_know/",
+      "author": "/u/johnny3674",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:45:38.494323"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyh2jg",
+      "type": "search",
+      "subreddit": "FORSAKENROBLOX",
+      "title": "I hope the Forsaken devs fix the balancing in Two Time. Whenever I'm playing as them and I get 100% on Oblation, I get focused until I die, leaving me with 40 HP, and my undetectable ability doesn't work.",
+      "content": "I can't stand playing this game anymore. Fulfilling your role automatically results in loss. Every time I pick Oblation and there are me and two others, they focus me only to leave me in LMS with 40 HP. What do they expect me to do? SURVIVE 1 MINUTE WITHOUT ITEMS BECAUSE I SPENT THEM WHEN I WAS BEING FOCUSED AND THEN HAVE TO SURVIVE WITH 2 HITS OF LIFE?😭💔 SERIOUSLY, GO FUCK YOURSELF, BUFFE THE TWO TIME, I CAN'T TAKE THIS ANYMORE, I'M FOCUSED FOR 3 MINUTES FOR THE LAST TWO TO DIE IN 4 SECONDS AND THEY LEFT ME ALONE WITH TWO HITS OF HP😭🙏💔 submitted by /u/Bigstar_666 to r/FORSAKENROBLOX [link] [comments]",
+      "link": "https://www.reddit.com/r/FORSAKENROBLOX/comments/1qyh2jg/i_hope_the_forsaken_devs_fix_the_balancing_in_two/",
+      "author": "/u/Bigstar_666",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:45:38.495244"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyh1wb",
+      "type": "search",
+      "subreddit": "UnrealEngine5",
+      "title": "From Rank 4,443 to Top 18 on IndieDB in 24 hours - My solo horror project just hit 1,000 units on Steam!",
+      "content": "Hi everyone! I’m incredibly hyped (and a bit sleep-deprived) to share a major milestone for my solo project, FINIS ACTUS . Last night was a rollercoaster. I started the day at Rank 4,443 on IndieDB, and after a series of updates and community engagement, I woke up to find the game at Rank 18 out of 72,000+ games! Even more exciting: The demo just crossed the 1,000 units mark on Steam. Some stats that might be interesting for fellow devs: Median Playtime: 27 minutes (This was the most surprising part for me, people are actually sticking around!) Marketing Budget: $0. Just organic reach through Reddit and IndieDB updates. Engine: Unreal Engine 5 (High-fidelity visuals definitely helped with the initial \"hook\"). It’s a huge relief to see people connecting with the atmosphere I’ve been building alone in my room for months. I’d love to hear your thoughts on the visuals or any advice for the upcoming Steam Next Fest! Steam Page: https://store.steampowered.com/app/4294320/FINIS_ACTUS/ IndieDB: https://www.indiedb.com/games/finis-actus-demo PLEASE ADD TO WISHLIST ON STEAM submitted by /u/Think-Ear6167 to r/UnrealEngine5 [link] [comments]",
+      "link": "https://www.reddit.com/r/UnrealEngine5/comments/1qyh1wb/from_rank_4443_to_top_18_on_indiedb_in_24_hours/",
+      "author": "/u/Think-Ear6167",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:45:38.496177"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qygye4",
+      "type": "search",
+      "subreddit": "Osana",
+      "title": "Potentially hot take if the game was passed on to someone other than YanDev",
+      "content": "The reason I first got into Yansim (a whe ago before ost of the drama) was because I saw it as a play/mockery of anime and anime culture of the time- bad tropes, genral weirdness to underage characters, bad japanese high school tropes etc. And personally keeping it as a clear parody and commentary of these tropes would have worked but apparently Yandev didn't see it as such (or at least not anymore). I'd love to see the game go in this direction rather than Yandev trying to take himself and the game too seriously with all the stupid lore and whatnot. Even then the more controversal original topics (such as characters being under 18) could have been kept if someone other than yandev could have implemented them in a way that was a bit more sensitive or clearly supposed to be parody. But of course they clearly aren't. Thoughts? submitted by /u/Great-Passages to r/Osana [link] [comments]",
+      "link": "https://www.reddit.com/r/Osana/comments/1qygye4/potentially_hot_take_if_the_game_was_passed_on_to/",
+      "author": "/u/Great-Passages",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:45:38.496201"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qyh1sj",
+      "type": "search",
+      "subreddit": "PiratedGames",
+      "title": "Pirating on Meta quest 2?",
+      "content": "So a few months back my Instagram got hacked and banned and I lost all my meta accounts, and my games on my quest. I'm finally able to make a new account but I don't have the money to re buy my games. How would I go about getting games into the quest? submitted by /u/SauasageLord to r/PiratedGames [link] [comments]",
+      "link": "https://www.reddit.com/r/PiratedGames/comments/1qyh1sj/pirating_on_meta_quest_2/",
+      "author": "/u/SauasageLord",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-07T15:45:38.496318"
     }
   ],
-  "last_updated": "2026-02-07T15:14:14.929551"
+  "last_updated": "2026-02-07T15:46:07.151757"
 }
