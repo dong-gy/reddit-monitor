@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqq3c9",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "We need a Spore",
-      "content": "submitted by /u/CartographerTime [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqq3c9/we_need_a_spore/",
-      "author": "/u/CartographerTime",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T00:58:13.209330"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqpuih",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Would this be considered too \"adult\" content — or just modern fashion aesthetics?",
-      "content": "Our base avatars are designed with a strong focus on aesthetics — inspired by high-fashion / Balenciaga-style silhouettes. I mean minimalistic, sculpted forms, clean lines, tight-fitting clothing etc. There’s no nudity, no sexual animations, no explicit intent — but the clothes do follow the body closely, and the silhouettes are clearly emphasized. And I have a question: is body-hugging avatar design like this is automatically “adult content”? submitted by /u/General-Lock-1079 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqpuih/would_this_be_considered_too_adult_content_or/",
-      "author": "/u/General-Lock-1079",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T00:58:13.209415"
-    },
-    {
       "id": "https://www.reddit.com/r/godot/t3_1qqp9wf",
       "type": "post",
       "subreddit": "godot",
@@ -39611,7 +39587,151 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-08T21:15:57.538072"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzlot0",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Got a rough version of my first ability in the game going",
+      "content": "submitted by /u/MagnetiteGames [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzlot0/got_a_rough_version_of_my_first_ability_in_the/",
+      "author": "/u/MagnetiteGames",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:47:34.124952"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzllgh",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Made a video on the character design process for my game's protagonist. What do you think?",
+      "content": "submitted by /u/BrandonOrden [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzllgh/made_a_video_on_the_character_design_process_for/",
+      "author": "/u/BrandonOrden",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:47:34.124960"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzl7ld",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "UI Test for my WW2 game 25 Points",
+      "content": "submitted by /u/jl2l [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzl7ld/ui_test_for_my_ww2_game_25_points/",
+      "author": "/u/jl2l",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:47:34.124989"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzl5t4",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Procedural Clouds with Threejs and WebGPU skill I've been using",
+      "content": "submitted by /u/NSFW_ALSO [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzl5t4/procedural_clouds_with_threejs_and_webgpu_skill/",
+      "author": "/u/NSFW_ALSO",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:47:34.125019"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzlt7s",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "I finally have a release date for my space rover horror game MOONROT!",
+      "content": "MOONROT is the first 3D game I've made in Godot, and it's been a lot of fun trying something different from what I normally do. I'm really excited to be working on the finishing touches and get the game out into the world so people can explore Keres-2b for themselves! submitted by /u/Brodnork [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzlt7s/i_finally_have_a_release_date_for_my_space_rover/",
+      "author": "/u/Brodnork",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:47:34.125033"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzlcah",
+      "type": "search",
+      "subreddit": "FortNiteBR",
+      "title": "Gun won't shoot bug is still not fixed",
+      "content": "I just played a game of OG mode. Clearly they messed with the shooting code for no reason and this bug is still a thing. First post I found from 3 months ago and a mod from this subreddit seems to think it doesn't exist. Gun plays shooting animation, bullet count drops, but not damage to player or structures. Switch off and back to the gun makes the bullet count go back up to full. submitted by /u/Duncstar2469 to r/FortNiteBR [link] [comments]",
+      "link": "https://www.reddit.com/r/FortNiteBR/comments/1qzlcah/gun_wont_shoot_bug_is_still_not_fixed/",
+      "author": "/u/Duncstar2469",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:47:34.125519"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzlwio",
+      "type": "search",
+      "subreddit": "Spacemarine",
+      "title": "I both love and hate raveners, They can make the game incredible challenging in a fun, But also in a annoying way with their buggy appearance from time to time.",
+      "content": "submitted by /u/DutchyMeow to r/Spacemarine [link] [comments]",
+      "link": "https://www.reddit.com/r/Spacemarine/comments/1qzlwio/i_both_love_and_hate_raveners_they_can_make_the/",
+      "author": "/u/DutchyMeow",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:47:34.125757"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzlw3e",
+      "type": "search",
+      "subreddit": "Barca",
+      "title": "Wont make it to the Game vs Villareal on Feb28th. Need guidance how i can sell them.",
+      "content": "Hello everyone, I bought two tickets basic 1st side. but i wont be able to go to the game since they cchangedthe date to Feb 28th instead of March 1st, and im landing in Barcelona in the evening on Feb 28th. What is the best way to sell these tickets if you need id of the person? i dont even have the tickets yet since they sent them 48h before the game. submitted by /u/lebreacy to r/Barca [link] [comments]",
+      "link": "https://www.reddit.com/r/Barca/comments/1qzlw3e/wont_make_it_to_the_game_vs_villareal_on_feb28th/",
+      "author": "/u/lebreacy",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:47:34.126208"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzlw27",
+      "type": "search",
+      "subreddit": "deathbattle",
+      "title": "I actually thought the animation for Ichigo VS Yusuke (Bleach VS Yu Yu Hakusho) was great!",
+      "content": "I know a lot of people had problems with it, but I thought it was super. Even if you disagree about Yusuke losing, given the power gap between the two it makes sense for Ichigo to take little damage or use his strongest attacks. It also put Ichigo in some kind of a mentor or elder role to Yusuke, and let Mr. Kurosaki show how far he had come by defeating someone who had been down the same path as him. He wasn't just fighting the ghost detective, he was TEACHING Yusuke. And I think that's very heartwarming in a way. That Ichigos would take the lessons he learned and help someone who was just like him. If this weren't a Cartoon Fight Club I'm sure they would have ended cordially and taught each other well. The abrupt ending is weird, even if heartwarming in its own way. It was nice to see them both decline using their perfect & metallic overlord forms. Yusuke even reunites with his bully, but it feels weird to have him just stand there and take that punch. I haven't watched Yusuke's game though (but after watching this fight via synthetic man's reaction video I think I might watch a playthrough!) so I might be missing stuff but as a big 3 of anime fan I thought they did Ichigo justice and from what I saw they treated Yusuke with the utmost respect. What character has ever gotten an episode made just for them despite being a stomp? submitted by /u/HHGREGGfan227 to r/deathbattle [link] [comments]",
+      "link": "https://www.reddit.com/r/deathbattle/comments/1qzlw27/i_actually_thought_the_animation_for_ichigo_vs/",
+      "author": "/u/HHGREGGfan227",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:47:34.126237"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzln7i",
+      "type": "search",
+      "subreddit": "throneandliberty",
+      "title": "BGs were the only thing i liked doing, but latelly..",
+      "content": "BGs are just a statics fest and a Deluz Dagger spam. Like for real, how much longer will devs take to remove this bs of queing as full statics? Make it as old ranked BGs! Or at least reduce it to 2 persons que only. And i wont even talk about deluz daggers, literally 5-8 secs of just standing there watching your self die. Funny thing is that this is one of the games with highest amount of CC skills/durations i have ever seen, yet, someone had the great idea of introducing this bs passive on the most used weapon (daggers), i mean come on.... Oh and i forgot, latelly the amount of scripters is getting crazy too.. Either do something or people will just stop playing, pointless to go BGs or PVP in general on the current state. submitted by /u/jlfbalo to r/throneandliberty [link] [comments]",
+      "link": "https://www.reddit.com/r/throneandliberty/comments/1qzln7i/bgs_were_the_only_thing_i_liked_doing_but_latelly/",
+      "author": "/u/jlfbalo",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:47:34.126850"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzlm2o",
+      "type": "search",
+      "subreddit": "MillenniumDawn",
+      "title": "MillenniumDawn not working?",
+      "content": "MillenniumDawn for me is just not working whenever I boot up the game with just it it's just pure vanilla more than the ice cream I'm on steamdeck and I've tried both the native linux and Windows versions using Proton ive also tried the dev build via github. Thanks for any assistance! submitted by /u/No_Signal_4184 to r/MillenniumDawn [link] [comments]",
+      "link": "https://www.reddit.com/r/MillenniumDawn/comments/1qzlm2o/millenniumdawn_not_working/",
+      "author": "/u/No_Signal_4184",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:47:34.126861"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzlvjz",
+      "type": "search",
+      "subreddit": "yumeshipping",
+      "title": "Yumeshipper friend",
+      "content": "Guyssssss I love my friend so much!!! I can't describe how happy I am to have her by my side and talk about our selfsonas, f/os!!! It's so so so fun to think about background, interaction, history of love together🥹 It makes situation even cooler realising we've been yumeshipping for 10 years and still support eachother with that🥹🥹 I never shared background of my sonas with anyone since childhood, but I dropped lore to her and she liked it a lot, it made me even more comfortable. We discuss how our f/os would treat us, their way to call us, expression of tactility and sooo on. Our f/os both from genshin, hers Pantalone and mine Kaveh and we want to make whole dialogues like in game!! Also she makes some cute sketches I'm so happy(⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡ She.. she even drew Kaveh as my very first f/o Bonnie from fnaf I LAUGHED SO HARD In short I'm happy to have a precious friend as a fellow yumeshipper, do you have one too? :3 submitted by /u/nyanchka_purrin650 to r/yumeshipping [link] [comments]",
+      "link": "https://www.reddit.com/r/yumeshipping/comments/1qzlvjz/yumeshipper_friend/",
+      "author": "/u/nyanchka_purrin650",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:47:34.126906"
     }
   ],
-  "last_updated": "2026-02-08T21:16:25.640591"
+  "last_updated": "2026-02-08T21:48:02.804310"
 }
