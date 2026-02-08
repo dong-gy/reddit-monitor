@@ -1,138 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/godot/t3_1qqb01d",
-      "type": "post",
-      "subreddit": "godot",
-      "title": "Can we upload games using godot in reddit??",
-      "content": "1, Unity, game maker already support reddit games.. And no option for godot.. So I'm missing something or godot projects​ aren't compatible? 2, Reddit is paying so should I start uploading mine using phaser or something.. Or godot does support this? ​ submitted by /u/Wonderful-List5377 [link] [comments]",
-      "link": "https://www.reddit.com/r/godot/comments/1qqb01d/can_we_upload_games_using_godot_in_reddit/",
-      "author": "/u/Wonderful-List5377",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T15:23:43.465382"
-    },
-    {
-      "id": "https://www.reddit.com/r/unity/t3_1qqabdw",
-      "type": "post",
-      "subreddit": "unity",
-      "title": "Using My Pomodoro to Focus working on the same Pomodoro",
-      "content": "So lately I have been very unfocused in making games so I made this scrappy pomodoro overlay in unity. Check it out: https://najeeullah1.itch.io/disco-pomodoro Thanks! submitted by /u/Zero101001 [link] [comments]",
-      "link": "https://www.reddit.com/r/unity/comments/1qqabdw/using_my_pomodoro_to_focus_working_on_the_same/",
-      "author": "/u/Zero101001",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T15:23:43.465405"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qqbamw",
-      "type": "search",
-      "subreddit": "pico8",
-      "title": "[RELEASE] PICO Party: Play PICO-8 multiplayer games online with friends anywhere",
-      "content": "Hi everyone, I've been working on a proof-of-concept web app that lets you play PICO-8 multiplayer games online with your friends. PICO-8 multiplayer games are designed for local play and you need everyone physically on the same keyboard or controllers. There is no native way to make online multiplayer games in Pico-8. How It Works With PICO Party, one person hosts a room and everyone else joins with a 4-letter room code. The host's browser runs the actual PICO-8 game and streams frames to all players via a peer-to-peer connection (WebRTC). Remote players see the game in real-time and their inputs are sent back to the host, where they're injected directly into the PICO-8 runtime as if everyone was pressing keys on the same machine. Will work even if users are on different networks. This means any PICO-8 game with multiplayer support works out of the box . No cartridge modifications needed if your game uses standard btn() calls with the default bindings. You can play multi-cart games and also use play any custom game as long as you have a link to the .p8.png url. Players can play on mobile with touch controls: a virtual D-pad and action buttons. Great for playing with friends who only have their phone. Try it at: https://picoparty.io Submit Your Games! The current library is pretty small. I've basically just been adding games I have been playing with my friends. If you've made a multiplayer PICO-8 game (or know of one that would work well as long as it is Creative Commons 4.0 or you have the author's permission), I'd love to add it to the library. Just open a PR at https://github.com/dwjiang/pico-party-games with: Cartridge URL (.p8.png) Game name, author, description Player count (min/max) A few screenshots Once the code is merged, the change should trigger a deployment and you should be able to see your game in the app within minutes. Future Feature Ideas If there is interest, I can continue to develop the app. Some ideas that I have: Audio streaming - Currently only video/frame data is streamed. Working on getting game audio to remote players too Public lobbies - Find random players to game with Cartridge discoverability - Allow users to sort by popular/newly added cartridges Saving progress - Saving cartdata so users can continue previous sessions. If there's a feature you'd want, let me know. Feedback Welcome I would love to hear what you think, any bugs you find, or games you'd like to see added. Thanks for checking it out! https://reddit.com/link/1qqbamw/video/rvtv2qt579gg1/player submitted by /u/69swerve to r/pico8 [link] [comments]",
-      "link": "https://www.reddit.com/r/pico8/comments/1qqbamw/release_pico_party_play_pico8_multiplayer_games/",
-      "author": "/u/69swerve",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T15:23:43.465506"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qqb6g9",
-      "type": "search",
-      "subreddit": "Lenovo",
-      "title": "Lenovo Yoga 7i with Intel Core Ultra 5 226V WUXGA IPS Display (83JT0000US) purchasing advice",
-      "content": "Hello guys, I'm trying to search the review for this laptop, but this specific model: Lenovo Yoga 7i 2-in-1 Gen 10 Laptop, 16\" WUXGA IPS Display, Intel Core Ultra 5 226V, 16GB RAM, 512GB SSD, Intel Arc Graphics 130V, English Backlit Keyboard, Windows 11 Home, Luna Grey | 83JT0000US Has no reviews, my focus is student-work (writing up Word Documents, doing Excel, watching shows, doing tests, and writing stuff, and possibly some programming/coding) and also, a little bit of light video editing (4k), photo editing and light-gaming (Roblox, GTA, Minecraft, emulated PSP games) Would this be a perfect fit? I'm getting this for 657$ USD in my country. submitted by /u/Quirky_Bullfrog9375 to r/Lenovo [link] [comments]",
-      "link": "https://www.reddit.com/r/Lenovo/comments/1qqb6g9/lenovo_yoga_7i_with_intel_core_ultra_5_226v_wuxga/",
-      "author": "/u/Quirky_Bullfrog9375",
-      "search_keyword": "no code game",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T15:23:43.467407"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qqbeud",
-      "type": "search",
-      "subreddit": "masterduel",
-      "title": "Dear masterduel",
-      "content": "Pleaseeeee fix your servers i cant play 2 games without having to relaunch the game submitted by /u/Admirable-Knee-1079 to r/masterduel [link] [comments]",
-      "link": "https://www.reddit.com/r/masterduel/comments/1qqbeud/dear_masterduel/",
-      "author": "/u/Admirable-Knee-1079",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T15:23:43.467579"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1qqber5",
-      "type": "search",
-      "subreddit": "PokemonGoMystic",
-      "title": "Lf top, offering below. + lucky trinket and kalas ticket. (can’t fly)",
-      "content": "I can offer trinket and kalas ticket for one with BG. If you give one without BG, i can offer trinket, but i’m expecting something in return. If you want non shinys, then we can make a deal. So text me ;) submitted by /u/GuaranteePhysical204 to r/PokemonGoMystic [link] [comments]",
-      "link": "https://www.reddit.com/r/PokemonGoMystic/comments/1qqber5/lf_top_offering_below_lucky_trinket_and_kalas/",
-      "author": "/u/GuaranteePhysical204",
-      "search_keyword": "make game without coding",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T15:23:43.467592"
-    },
-    {
-      "id": "https://www.reddit.com/r/gamedev/t3_1qqbkdn",
-      "type": "post",
-      "subreddit": "gamedev",
-      "title": "Should I use a game engine or stick with C++?",
-      "content": "I'm new to game development. Should I use a game engine or stick with C++? In what cases is a game engine better? And when is C++ better? If a game engine is better, which game engine did you choose and why? submitted by /u/robotisland [link] [comments]",
-      "link": "https://www.reddit.com/r/gamedev/comments/1qqbkdn/should_i_use_a_game_engine_or_stick_with_c/",
-      "author": "/u/robotisland",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T15:57:42.348188"
-    },
-    {
-      "id": "https://www.reddit.com/r/indiegaming/t3_1qqbmi4",
-      "type": "post",
-      "subreddit": "indiegaming",
-      "title": "New animations to our latest enemy. What do you think?",
-      "content": "We're using Spine2D. Keep in mind that we merged 4 GIFs, that's why it's not a fluid animation. The game: https://store.steampowered.com/app/2231980/HELLREAPER/ Animation process: https://www.youtube.com/watch?v=faujpsr0S44 submitted by /u/AwesomeGamesStudio [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieGaming/comments/1qqbmi4/new_animations_to_our_latest_enemy_what_do_you/",
-      "author": "/u/AwesomeGamesStudio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T15:57:42.348344"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqc1qw",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Just got the Steam Capsule art for my game, what do you think?",
-      "content": "I am really pleased with how it came out! I commissioned an artist a few weeks ago here on Reddit ( u/EggPerfect7361 ) and he was really great and thorough with the process. The second image is what I sent him while trying to visualize it 😂 Now I just have to finish enough background art for my game to take some screenshots and then I can have my Steam page live! submitted by /u/Obvious-Sorbet5852 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqc1qw/just_got_the_steam_capsule_art_for_my_game_what/",
-      "author": "/u/Obvious-Sorbet5852",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T15:57:42.348407"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqbyqt",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "I can finally see that green button !!",
-      "content": "submitted by /u/Arlychaut [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqbyqt/i_can_finally_see_that_green_button/",
-      "author": "/u/Arlychaut",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T15:57:42.348460"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqbyq5",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Forza Horizon Franchise is a huge inspiration for me , when i was younger I played hours and nights , so I built my own arcade racing game on Switch with drifting, exploration, and car tuning. Curious how it stacks up",
-      "content": "If someone was interested submitted by /u/victorcosiuga [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqbyq5/forza_horizon_franchise_is_a_huge_inspiration_for/",
-      "author": "/u/victorcosiuga",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T15:57:42.348470"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qqbv61",
       "type": "post",
       "subreddit": "IndieDev",
@@ -38891,7 +38759,43 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-08T07:31:13.531465"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qz3663",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Can you take credit for accidents that work out?",
+      "content": "I have this spaceship game where you defend your Battlecruiser as a gunenr and there's tons of turrets and whatever to buy. Waves of fighters come ni you kill them. you get the idea. There's this bug that happens where the fighters will get confused, think they're below the ship and bank upwards for a bit then level out then come for you. They ahve a different attack protocol for when they're dog fighting and when they're shooting at your ship, so they'll target a fighter that's aprked in your ship and do cool stuff near your ship cause they think they're dog fighting. SBoth these things lead the fighers to feel very organic. I was about to tell my alpha players the truth then reconsiderered. Yes, it's technically a bug but I decided to leave it cause it works. However do I get to take credit for how much work I put in to make them feel realistic when in reality it's a complete accident? submitted by /u/Personal-Try7163 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qz3663/can_you_take_credit_for_accidents_that_work_out/",
+      "author": "/u/Personal-Try7163",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T08:19:04.428635"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qz3f68",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "my app",
+      "content": "Hearo enables your phone or tablet to send its audio to your PC, so you can listen through your computer’s speakers or headset without changing devices or cables. https://www.producthunt.com/products/hearo-3?launch=hearo-3 submitted by /u/No-Call6899 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qz3f68/my_app/",
+      "author": "/u/No-Call6899",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T08:19:04.428765"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qz3duc",
+      "type": "search",
+      "subreddit": "Doom",
+      "title": "Doom Eternal flow state is cathartic",
+      "content": "Doom Eternal feels like the only game that I feel like I can enter \"Flow State' in & it feels deeply satisfying & cathartic. I know people will hate cause the weapon switches & crazy movement but that's what makes this game amazing. It took me 400+ hours of learning & practicing this game to love it as much as I do right now. I was playing music too which my recording picked up & I accidentally pressed my map at 2:43 but I cut it out which it looks like there's a slight pause. I love this game! submitted by /u/EagleCrasher90 to r/Doom [link] [comments]",
+      "link": "https://www.reddit.com/r/Doom/comments/1qz3duc/doom_eternal_flow_state_is_cathartic/",
+      "author": "/u/EagleCrasher90",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T08:19:04.428925"
     }
   ],
-  "last_updated": "2026-02-08T07:31:41.859587"
+  "last_updated": "2026-02-08T08:19:33.201091"
 }
