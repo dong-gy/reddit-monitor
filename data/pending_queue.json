@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qqofb7",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "First App Published",
-      "content": "Published my first app yesterday!! It’s an IBS tracking app designed to help people work out their symptom triggers. Such a great feeling when you find out it’s passed the review Check it out here: https://www.vylaapp.com or on the App Store: https://apps.apple.com/gb/app/vyla-ibs-tracker/id6758146340 submitted by /u/msmyth21 [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qqofb7/first_app_published/",
-      "author": "/u/msmyth21",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T23:15:54.813281"
-    },
-    {
-      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qqodyq",
-      "type": "post",
-      "subreddit": "SoloDevelopment",
-      "title": "Something for the 90s babies :D",
-      "content": "submitted by /u/meltedgore [link] [comments]",
-      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qqodyq/something_for_the_90s_babies_d/",
-      "author": "/u/meltedgore",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T23:15:54.813287"
-    },
-    {
       "id": "https://www.reddit.com/t3_1qqoe2r",
       "type": "search",
       "subreddit": "teslareferralcode",
@@ -39443,7 +39419,115 @@
       "search_keyword": "",
       "relevance_score": 0,
       "added_at": "2026-02-08T19:22:35.922541"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qzif1m",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Architecture - Network - Java",
+      "content": "Hi so I have a question for anyone who has worked with a game which uses network. I want to be brief. I have a board, multiple players and some different managers. How does this work? For example, I have TurnManager.java and ActionManager.java also Hexboard.Java. Also, I am using Model/View Architecture. Where do I integrate these into network? Say a player moves a peice... it needs to validate in server, right? Should my instances of ActionManager to validate live in Server.java? I need an overview of how I should approach this, with scalability in mind. Thanks! TLDR: Where do I put things like TurnManager turnManager; with relation to a server client architecture and Model View. submitted by /u/ColoredRunes [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qzif1m/architecture_network_java/",
+      "author": "/u/ColoredRunes",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:43:10.555430"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzij7i",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Our visual novel about Dating your Sleep Paralysis Demon just released. Check it out for free on itch.io",
+      "content": "Game link: https://ronkad.itch.io/welcome-dear-human submitted by /u/Ronkad [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzij7i/our_visual_novel_about_dating_your_sleep/",
+      "author": "/u/Ronkad",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:43:10.555457"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qziiau",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Changing the time and weather on levels in my game",
+      "content": "submitted by /u/pocketdog_gamedev [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qziiau/changing_the_time_and_weather_on_levels_in_my_game/",
+      "author": "/u/pocketdog_gamedev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:43:10.555475"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzifd1",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Help. Improving tips.",
+      "content": "Hey guys i posted a week or so ago about starting my first 3d game project. So here how things are so far: What should i improve any ideas or tips and tricks? https://reddit.com/link/1qzifd1/video/qfwwm835pbig1/player submitted by /u/MLGboi23 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzifd1/help_improving_tips/",
+      "author": "/u/MLGboi23",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:43:10.555577"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzi7zt",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Build for IOS",
+      "content": "How difficult is it, to build to IOS? It seems, to build for Android, Web and PC is easy, but with IOS I run into problems. Do I have to buy a publisher acount with an apple id? submitted by /u/biokompott [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzi7zt/build_for_ios/",
+      "author": "/u/biokompott",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:43:10.555639"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzillx",
+      "type": "search",
+      "subreddit": "YesstyleCodesSharing",
+      "title": "Use rewards code KOREA10 and coupon code SOUR10 to get up to 15% off",
+      "content": "Hi, I make a few orders a month so please share your code below and I will use it 🥰 submitted by /u/nimra_x to r/YesstyleCodesSharing [link] [comments]",
+      "link": "https://www.reddit.com/r/YesstyleCodesSharing/comments/1qzillx/use_rewards_code_korea10_and_coupon_code_sour10/",
+      "author": "/u/nimra_x",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:43:10.555910"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzijhs",
+      "type": "search",
+      "subreddit": "OutcomeMemories",
+      "title": "How come you don't get the escaped multiplier (or anything else on that matter, really?) when you \"kill\" fleetway?",
+      "content": "Is it something lore-wise or did the devs just not add it since the game's cancelled and all (you'd think they'd add it the last update if that is lol) Side note felt so tuff finishing fleetway as the final blow alongsides shadow🥹 might be cut out for sonic after all. submitted by /u/Familiar-Fig5525 to r/OutcomeMemories [link] [comments]",
+      "link": "https://www.reddit.com/r/OutcomeMemories/comments/1qzijhs/how_come_you_dont_get_the_escaped_multiplier_or/",
+      "author": "/u/Familiar-Fig5525",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:43:10.556638"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzikpi",
+      "type": "search",
+      "subreddit": "MicrosoftFlightSim",
+      "title": "Freezes when I open Steam Overlay",
+      "content": "Hey, My game completely freezes when I open the Steam overlay. I originally experienced this when trying to make a purchase, but it also occurs whenever I open the Steam overlay inside of MSFS 2024. Haven't had this issue before and I have it with and without any mods, reshade, etc. Anyone else noticed an increase in this issue recently? If so, how did you solve it? submitted by /u/New_Brilliant_9394 to r/MicrosoftFlightSim [link] [comments]",
+      "link": "https://www.reddit.com/r/MicrosoftFlightSim/comments/1qzikpi/freezes_when_i_open_steam_overlay/",
+      "author": "/u/New_Brilliant_9394",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:43:10.556792"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzijvj",
+      "type": "search",
+      "subreddit": "sports",
+      "title": "i feel like the rise of sports gambling is making the sport unwatchable, esp the NBA",
+      "content": "Like i love doing sports analytics and keeping on track with stats and seeing some data because i enjoy data science. And i also enjoy how other teams develop plays, players playing great, team sport environment in general - basically watching the sport. But im genuinely starting to feel most of the games i watch are genuinely just lobbied for a team to win, or players purposefully chucking up shots, or no proper plays being drawn at all. Like teams throwing on purpose. Or refs making genuinely law-suit worthy calls. Its making the sport unwatchable. Just putting a pic of giannis with his new sponsorship w kalshi as a reference submitted by /u/ProfessorRoyal6807 to r/sports [link] [comments]",
+      "link": "https://www.reddit.com/r/sports/comments/1qzijvj/i_feel_like_the_rise_of_sports_gambling_is_making/",
+      "author": "/u/ProfessorRoyal6807",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:43:10.556998"
     }
   ],
-  "last_updated": "2026-02-08T19:23:04.416480"
+  "last_updated": "2026-02-08T19:43:38.810134"
 }
