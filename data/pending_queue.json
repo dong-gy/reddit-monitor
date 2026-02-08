@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1qzhbqv",
-      "type": "search",
-      "subreddit": "SFWr4rIndia",
-      "title": "25 [M4R] India - Super bored, let's talk",
-      "content": "Hey folks I’m looking to make some new online friends, adults only (18+), because I more interested in sharing experiences with people around my age. A bit about me: I live with five cats who clearly think they pay the rent. 😂 However, I adore all animals and believe each one is beautiful in its own chaotic way. I’d love to have a dog someday, but right now, cats suit my lifestyle way better. I play football (soccer) almost every evening, it’s my daily dose of cardio. I’m big into fitness too, and working out is basically my cheap therapy. I also love cooking, especially healthy stuff that tricks my brain into thinking I'm a responsible adult. If you’re into fitness, we might just be accountability buddies and can hype each other up 💪 I’ve recently fallen down the skincare rabbit hole. At this point, my face has become an experiment ground but glow goals xD 😌 I’m a huge history nerd. Give me ancient legends, epic battles, or ghost stories and I’m hooked. Lord of the Rings and Game of Thrones are my comfort shows. I game too Red Dead Redemption 2 is my favourite I’m a full-time software engineer. But no matter how busy life gets, I always make time for a good conversation. So if anything here sounds remotely relatable or just mildly interesting drop a message. ☺️I don’t bite (but one of my cats might). 😺 submitted by /u/Material_Hunter1819 to r/SFWr4rIndia [link] [comments]",
-      "link": "https://www.reddit.com/r/SFWr4rIndia/comments/1qzhbqv/25_m4r_india_super_bored_lets_talk/",
-      "author": "/u/Material_Hunter1819",
-      "search_keyword": "how to make a game",
-      "relevance_score": 1,
-      "added_at": "2026-02-08T18:58:44.323994"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqo5ep",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "What do you think?",
-      "content": "submitted by /u/YosefUwU [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqo5ep/what_do_you_think/",
-      "author": "/u/YosefUwU",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-29T23:15:54.813218"
-    },
-    {
       "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qqofb7",
       "type": "post",
       "subreddit": "SoloDevelopment",
@@ -39395,7 +39371,79 @@
       "search_keyword": "AI game maker",
       "relevance_score": 0,
       "added_at": "2026-02-08T18:58:44.323386"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzhtb7",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Inheritance",
+      "content": "My third project is on the way. This journey has been exciting and rewarding. I’m trying to offer players a great experience. If you think you might like what you see, Inheritance is on Steam. submitted by /u/Holiday-Relative-692 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzhtb7/inheritance/",
+      "author": "/u/Holiday-Relative-692",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:22:35.922384"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzhx3y",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Need Feedback for the Scanning mechanic for my Detective Immersive Sim",
+      "content": "Im currently polishing up the scanning mechanic in my detective immersive sim \"Welcome to Lightford\". I don´t know if it looks cool enough or if there are ways to make the scanning effect better. Feedback welcome :) submitted by /u/justinma05 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzhx3y/need_feedback_for_the_scanning_mechanic_for_my/",
+      "author": "/u/justinma05",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:22:35.922442"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzhwua",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "System for generating your own landscape from scratch in godot C#.",
+      "content": "submitted by /u/Gamedevenri [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzhwua/system_for_generating_your_own_landscape_from/",
+      "author": "/u/Gamedevenri",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:22:35.922494"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzhv65",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Why is it doing this",
+      "content": "I have my cursor revealed but it wont be in the game. Im woundering how I can get the cube to match it better because the cube gets stuck because im on the side of my monitor but it wont go there in game submitted by /u/SkirtGlad4329 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzhv65/why_is_it_doing_this/",
+      "author": "/u/SkirtGlad4329",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:22:35.922505"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzhtw5",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "CodeSpark Ide a python app i made for godot",
+      "content": "I wanted to make something to make coding for Godot a bit easier especially for those new to game development. It is a scratch like text based language i call spark that transpile's to gdscript. its very early in development and i want your feedback on it. it is closed source currently until its ready for release. :) https://preview.redd.it/9tjgcelflbig1.png?width=1279&format=png&auto=webp&s=804f0900df396e218c89b68c7f7d4778973bceef submitted by /u/Wildstar_Studios [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzhtw5/codespark_ide_a_python_app_i_made_for_godot/",
+      "author": "/u/Wildstar_Studios",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:22:35.922519"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzhmbv",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Pretty proud of my improved cloudy weather implementation",
+      "content": "submitted by /u/poeyoh12 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzhmbv/pretty_proud_of_my_improved_cloudy_weather/",
+      "author": "/u/poeyoh12",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T19:22:35.922541"
     }
   ],
-  "last_updated": "2026-02-08T18:59:12.546793"
+  "last_updated": "2026-02-08T19:23:04.416480"
 }
