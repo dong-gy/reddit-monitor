@@ -1,6 +1,18 @@
 {
   "queue": [
     {
+      "id": "https://www.reddit.com/t3_1qzhbqv",
+      "type": "search",
+      "subreddit": "SFWr4rIndia",
+      "title": "25 [M4R] India - Super bored, let's talk",
+      "content": "Hey folks I’m looking to make some new online friends, adults only (18+), because I more interested in sharing experiences with people around my age. A bit about me: I live with five cats who clearly think they pay the rent. 😂 However, I adore all animals and believe each one is beautiful in its own chaotic way. I’d love to have a dog someday, but right now, cats suit my lifestyle way better. I play football (soccer) almost every evening, it’s my daily dose of cardio. I’m big into fitness too, and working out is basically my cheap therapy. I also love cooking, especially healthy stuff that tricks my brain into thinking I'm a responsible adult. If you’re into fitness, we might just be accountability buddies and can hype each other up 💪 I’ve recently fallen down the skincare rabbit hole. At this point, my face has become an experiment ground but glow goals xD 😌 I’m a huge history nerd. Give me ancient legends, epic battles, or ghost stories and I’m hooked. Lord of the Rings and Game of Thrones are my comfort shows. I game too Red Dead Redemption 2 is my favourite I’m a full-time software engineer. But no matter how busy life gets, I always make time for a good conversation. So if anything here sounds remotely relatable or just mildly interesting drop a message. ☺️I don’t bite (but one of my cats might). 😺 submitted by /u/Material_Hunter1819 to r/SFWr4rIndia [link] [comments]",
+      "link": "https://www.reddit.com/r/SFWr4rIndia/comments/1qzhbqv/25_m4r_india_super_bored_lets_talk/",
+      "author": "/u/Material_Hunter1819",
+      "search_keyword": "how to make a game",
+      "relevance_score": 1,
+      "added_at": "2026-02-08T18:58:44.323994"
+    },
+    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qqo5ep",
       "type": "post",
       "subreddit": "IndieDev",
@@ -39239,7 +39251,151 @@
       "search_keyword": "how to make a game",
       "relevance_score": 0,
       "added_at": "2026-02-08T18:19:50.073971"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qzgmwv",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Brought my first laptop.",
+      "content": "Hi guys, hope you all are great. If you saw my previous post then you know that this is my first time on this 20 years to using a laptop and using the great \"UNITY\". On my previous time i was using godot on mobile never used unity before just watched some tutorial videos that's it. But finnally it's the day I'm using it. It's my first time so anyone give some tips? Also I'm having a issue. When I'm trying to start a unity project by pressing the play button like godot it's taking 15-20 seconds to run. But there's no lag I'm getting. Model - Lenovo IdeaPad Slim 3 Specifications - Ryzen 7 5825u, 16gb ram, 512gb ssd, Windows 11. submitted by /u/Serious-Gap234 [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qzgmwv/brought_my_first_laptop/",
+      "author": "/u/Serious-Gap234",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T18:58:44.321601"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzh7gm",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Steam Typing Festival 05.02 - 09.02.2026",
+      "content": "submitted by /u/Shichi193 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzh7gm/steam_typing_festival_0502_09022026/",
+      "author": "/u/Shichi193",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T18:58:44.321622"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzgo7p",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Omni Kitty",
+      "content": "Heyo, I'm a solo indie developer. This is my first release Omni Kitty. Its an action game that unlocks and turns the flappy idea up to eleven. Please check it out. I would apreciate any feedback. ♥ It's set to release Febuary 17 on Steam and Epic. https://www.youtube.com/watch?v=ttsO5_k1wNg submitted by /u/That-Ad-9466 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzgo7p/omni_kitty/",
+      "author": "/u/That-Ad-9466",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T18:58:44.321642"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzgmc2",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "What camera settings look better?",
+      "content": "Have been thinking of improving the player camera settings. What camera settings look better? submitted by /u/Fuzzy_Bus4322 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzgmc2/what_camera_settings_look_better/",
+      "author": "/u/Fuzzy_Bus4322",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T18:58:44.321651"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzhe0u",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Which UI layout works best for displaying combat stats? (RPG, informational UI)",
+      "content": "Hi everyone, I’m working on Narramor , a fantasy RPG with tactical combat and a strong focus on player choice and consequence. Characters aren’t class-locked, and combat options change dynamically based on equipped gear and selected moves. I’m currently testing four different UI layouts to display key combat stats: attack, defense, armor, damage, crit chance, bleeding chance, stun chance. These values are informational only (not clickable). They update automatically when the player changes weapon, armor, or the selected combat move. I’d love feedback on which layout feels clearer at a glance and which one better supports decision-making during combat Do you feel any additional UI elements would help support that evaluation, or would they add unnecessary noise? The four options are shown below. Which one do you prefer, and why? Thanks in advance! submitted by /u/Narramor [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzhe0u/which_ui_layout_works_best_for_displaying_combat/",
+      "author": "/u/Narramor",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T18:58:44.321687"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzgtzr",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "A couple guys have started to thoroughly playtest random indie games, revealing things we can all learn from.",
+      "content": "It's awesome, digestible, and I wanted to give them a shoutout. Truly something where they do the whole community a favor by just being gamers and using their experience to help developers and educate everyone in the process. Only a few videos so far, but it's already shaping up to be an amazing series. Maybe one day they will playtest my game or yours, and I know they will do great job. submitted by /u/identicalforest [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzgtzr/a_couple_guys_have_started_to_thoroughly_playtest/",
+      "author": "/u/identicalforest",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T18:58:44.321762"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzh4r0",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "What can I use to learn GDScript if I already have programming experience?",
+      "content": "I have about 6 months of experience with C++, and I was wondering if there was a tutorial for GDScript that assumes you have some programming knowledge. submitted by /u/Firm_Necessary3973 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzh4r0/what_can_i_use_to_learn_gdscript_if_i_already/",
+      "author": "/u/Firm_Necessary3973",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T18:58:44.321848"
+    },
+    {
+      "id": "https://www.reddit.com/r/unrealengine/t3_1qzhbpz",
+      "type": "post",
+      "subreddit": "unrealengine",
+      "title": "Drag drop UserWidget Button into another UserWidget",
+      "content": "Hello everyone, thank you in advance to tryin' to help. What what i'm working on, is I have a button in a Widget blueprint \"talent tree\", this button activates the ability i have linked to it. I want to be able to drag that button from the talent tree UWB into an action bar UWB. What's the best way to do this? I tried using this method but it doesn't really work, or at least not for the set up im trying to do: https://dev.epicgames.com/documentation/en-us/unreal-engine/creating-drag-and-drop-ui-in-unreal-engine submitted by /u/Llamaking08 [link] [comments]",
+      "link": "https://www.reddit.com/r/unrealengine/comments/1qzhbpz/drag_drop_userwidget_button_into_another/",
+      "author": "/u/Llamaking08",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T18:58:44.321982"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qzge8w",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "How many wishlist should i expect from demo launching in steam next fest ?",
+      "content": "submitted by /u/Unreals_real_dev [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qzge8w/how_many_wishlist_should_i_expect_from_demo/",
+      "author": "/u/Unreals_real_dev",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T18:58:44.321990"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzhby2",
+      "type": "search",
+      "subreddit": "yummyrecipesyum",
+      "title": "🔥 PSA: Buffalo Wild Wings Super Bowl Deals (Free Wings if OT) + Other Food Promos 🍗🏈",
+      "content": "Just found a solid roundup of Super Bowl food deals for 2026 and wanted to share the highlights, especially for Buffalo Wild Wings fans. 🍗 Buffalo Wild Wings Deals: The \"Overtime\" Deal: If the game goes into overtime, everyone gets 6 free wings (boneless or traditional). When: Monday, Feb. 23, from 2–5 p.m. local time. Fine Print: No purchase necessary, but valid for dine-in or in-person takeout only. Pre-Order Bonus: If you are a Blazin' Rewards member, pre-order at least $25 of food by Saturday (Feb. 7) for pickup on Sunday. Reward: You get 6 free wings to use on a future visit (Feb. 10 – March 10). Other Notable Mentions: Applebee's: Get 20 free boneless wings with a $40+ online order using code SBWINGS26 . BJ’s Restaurant: \"MVP Bundle\" includes a large deep-dish pizza + wings for $55. KFC: Rewards members can get 20 wings for $20. Pizza Hut: The \"Big New Yorker\" is back for $10 at participating locations. Check the full list on USA Today if you want more options. Let's hope for Overtime! 🤞 submitted by /u/Weary-Confidence9998 to r/yummyrecipesyum [link] [comments]",
+      "link": "https://www.reddit.com/r/yummyrecipesyum/comments/1qzhby2/psa_buffalo_wild_wings_super_bowl_deals_free/",
+      "author": "/u/Weary-Confidence9998",
+      "search_keyword": "no code game",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T18:58:44.322080"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzhd4g",
+      "type": "search",
+      "subreddit": "youtube",
+      "title": "What in the world is this!??!!??!",
+      "content": "submitted by /u/Schoolbusfoamer24 to r/youtube [link] [comments]",
+      "link": "https://www.reddit.com/r/youtube/comments/1qzhd4g/what_in_the_world_is_this/",
+      "author": "/u/Schoolbusfoamer24",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T18:58:44.323318"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzh7nr",
+      "type": "search",
+      "subreddit": "grok",
+      "title": "Turns out I was right, feels great",
+      "content": "submitted by /u/F1_average_enjoyer to r/grok [link] [comments]",
+      "link": "https://www.reddit.com/r/grok/comments/1qzh7nr/turns_out_i_was_right_feels_great/",
+      "author": "/u/F1_average_enjoyer",
+      "search_keyword": "AI game maker",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T18:58:44.323386"
     }
   ],
-  "last_updated": "2026-02-08T18:20:18.251409"
+  "last_updated": "2026-02-08T18:59:12.546793"
 }
