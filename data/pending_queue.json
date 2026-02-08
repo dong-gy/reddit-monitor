@@ -1,54 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqqm9f",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Grim Axiom - Demo Feedback",
-      "content": "Hey All , I just put out my first demo! I'm developing a new isometric souls-like called Grim Axiom and currently have a demo out on Steam. I would love to get more feedback and ideas for improvement, so if you're interested please give it a go and let me know what you think, either here or in the Steam discussions page. Also, if you like how it's turning out, don't forget to wishlist! Grim Axiom on Steam: https://store.steampowered.com/app/3882150/Grim_Axiom/ submitted by /u/RareSoupStudio [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqqm9f/grim_axiom_demo_feedback/",
-      "author": "/u/RareSoupStudio",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T00:58:13.209287"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqqlr0",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Not too bad i think",
-      "content": "Remade my Steam capsules submitted by /u/Prudent_Command7027 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqqlr0/not_too_bad_i_think/",
-      "author": "/u/Prudent_Command7027",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T00:58:13.209293"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqqjet",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Our game was too boring and slow, so we added a timer",
-      "content": "submitted by /u/Galacticmask [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqqjet/our_game_was_too_boring_and_slow_so_we_added_a/",
-      "author": "/u/Galacticmask",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T00:58:13.209314"
-    },
-    {
-      "id": "https://www.reddit.com/r/IndieDev/t3_1qqqa6x",
-      "type": "post",
-      "subreddit": "IndieDev",
-      "title": "Thanks to the small amount of feedback I got on the Alpha test of my game I fixed some bugs and got better cover art!",
-      "content": "submitted by /u/Free-Breadfruit9378 [link] [comments]",
-      "link": "https://www.reddit.com/r/IndieDev/comments/1qqqa6x/thanks_to_the_small_amount_of_feedback_i_got_on/",
-      "author": "/u/Free-Breadfruit9378",
-      "search_keyword": "",
-      "relevance_score": 0,
-      "added_at": "2026-01-30T00:58:13.209324"
-    },
-    {
       "id": "https://www.reddit.com/r/IndieDev/t3_1qqq3c9",
       "type": "post",
       "subreddit": "IndieDev",
@@ -39527,7 +39479,139 @@
       "search_keyword": "game dev beginner",
       "relevance_score": 0,
       "added_at": "2026-02-08T20:47:48.267229"
+    },
+    {
+      "id": "https://www.reddit.com/r/gamedev/t3_1qzkpyc",
+      "type": "post",
+      "subreddit": "gamedev",
+      "title": "Where do I even begin?",
+      "content": "Hello people, I am someone who has far too many ideas in my mind for games I feel would be fun to play. Unfortunately, I lack any of the skills needed to build these games aside from thoughts and prayers, meaning I need to start everything from programming, to writing, to art from scratch. Every time I look at the raw amount of work needed to build even the most basic of games, it feels like trying to scale Everest, while I can barely do a single push up. I want to get started in some meaningful way so that I can show myself I can get actual progress done, but every time I do start, the weight of it all hits and I give up. I feel like I'm running out of time in terms of trying to build this thing, and it worries me deeply that at some point very soon, I won't have the energy or time to devote to it anymore. For those here that don't already have years of experience in programming and such, where did you start in building your dream, and how did you keep coming back when it became clear it was going to be a far longer process than you first expected? Thanks y'all. submitted by /u/InspiredNameHere [link] [comments]",
+      "link": "https://www.reddit.com/r/gamedev/comments/1qzkpyc/where_do_i_even_begin/",
+      "author": "/u/InspiredNameHere",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:15:57.536321"
+    },
+    {
+      "id": "https://www.reddit.com/r/indiegaming/t3_1qzkk4t",
+      "type": "post",
+      "subreddit": "indiegaming",
+      "title": "Arcade shooter Salvo.to preview web game to try out!",
+      "content": "Hi all, Just wanted to let you know that I have launched a fun little simplistic looking sci-fi web game where you can grow a fleet of space ships by absorbing mass from blown up enemy ships, capture planets, transfer ship mass to planetary turrets and so on. More to come in the coming weeks as I am also balancing / fine tuning the single player preview. Just head over to salvo.to and let me know what you think! The web game also supports touch controls for mobile/tablet next to desktop browsers. I have a host of features in my mind, but I am doing this next to my day job so please bare some patience with me. Cheers, Salvo.to touch controls tablet. submitted by /u/Loose-Ranger4596 [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieGaming/comments/1qzkk4t/arcade_shooter_salvoto_preview_web_game_to_try_out/",
+      "author": "/u/Loose-Ranger4596",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:15:57.536377"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzl20e",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "Mom, I'm on TV! | (IGN Youtube)",
+      "content": "submitted by /u/KiborgikDEV [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzl20e/mom_im_on_tv_ign_youtube/",
+      "author": "/u/KiborgikDEV",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:15:57.536390"
+    },
+    {
+      "id": "https://www.reddit.com/r/IndieDev/t3_1qzkur6",
+      "type": "post",
+      "subreddit": "IndieDev",
+      "title": "A music I did for a game recently! (Tried to make a video, dont mind it lol)",
+      "content": "https://reddit.com/link/1qzkur6/video/yf79cyaf5cig1/player A theme for a URSS inspired faction! link to the full track: https://on.soundcloud.com/O6oxg2k03Qu42pNT5m submitted by /u/Stache_Mo [link] [comments]",
+      "link": "https://www.reddit.com/r/IndieDev/comments/1qzkur6/a_music_i_did_for_a_game_recently_tried_to_make_a/",
+      "author": "/u/Stache_Mo",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:15:57.536491"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzkth2",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "Animated Desktop Icons",
+      "content": "Desktop overhaul. Add animated Icons, backgrounds, fonts and more to give your desktop a personal touch. submitted by /u/Lucky_Ferret4036 [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzkth2/animated_desktop_icons/",
+      "author": "/u/Lucky_Ferret4036",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:15:57.536543"
+    },
+    {
+      "id": "https://www.reddit.com/r/godot/t3_1qzkh9e",
+      "type": "post",
+      "subreddit": "godot",
+      "title": "What is the best way to save xp",
+      "content": "I want to make it so that the game changes my character xp value after a fight and for the value to not get reseted even when scene changes submitted by /u/eyemiker [link] [comments]",
+      "link": "https://www.reddit.com/r/godot/comments/1qzkh9e/what_is_the_best_way_to_save_xp/",
+      "author": "/u/eyemiker",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:15:57.536552"
+    },
+    {
+      "id": "https://www.reddit.com/r/SoloDevelopment/t3_1qzkvov",
+      "type": "post",
+      "subreddit": "SoloDevelopment",
+      "title": "Animated Desktop Icons!",
+      "content": "Desktop overhaul. Add animated icons, backgrounds, fonts and more to make your Own desktop. submitted by /u/Lucky_Ferret4036 [link] [comments]",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1qzkvov/animated_desktop_icons/",
+      "author": "/u/Lucky_Ferret4036",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:15:57.536565"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzl2qw",
+      "type": "search",
+      "subreddit": "VisibleDiscountCodes",
+      "title": "Texas Cavalas has a visible referal Discount code that will make your first month $5 https://www.visible.com/get/?33MPCBQ",
+      "content": "submitted by /u/Big_Ten10 to r/VisibleDiscountCodes [link] [comments]",
+      "link": "https://www.reddit.com/r/VisibleDiscountCodes/comments/1qzl2qw/texas_cavalas_has_a_visible_referal_discount_code/",
+      "author": "/u/Big_Ten10",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:15:57.536893"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzl247",
+      "type": "search",
+      "subreddit": "Gamefusion",
+      "title": "Feature request I've added to Gamehub discord channel I think would be a game changer",
+      "content": "If anybody has a second and is already a member of the official game hub discord, give me a moment of your time and read my feature request and give it a thumbs up if you think it makes sense https://discord.com/channels/1330814414437355520/1470163622620692610 submitted by /u/The412Banner to r/Gamefusion [link] [comments]",
+      "link": "https://www.reddit.com/r/Gamefusion/comments/1qzl247/feature_request_ive_added_to_gamehub_discord/",
+      "author": "/u/The412Banner",
+      "search_keyword": "make game without coding",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:15:57.537406"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzkv7c",
+      "type": "search",
+      "subreddit": "SatisfactoryGame",
+      "title": "215 hours later, I finally got “Saved the Day, Probably”",
+      "content": "No spaghetti factory here… but compared to the architectural miracles posted on this subreddit, my factory is clearly sub-standard. It functions. It produces parts. It would not survive a beauty contest. So… now what? Full teardown and rebuild “the right way”? Chase perfect ratios until sleep becomes optional? Or maybe… just maybe… I can finally get my life back. (FICSIT approves my burnout and reminds me that efficiency is mandatory.) PS: If the devs are reading this: Thank you And also… f*** you, for making such an amazing game. Seriously though — this thing is way too addictive. submitted by /u/hell_sing45 to r/SatisfactoryGame [link] [comments]",
+      "link": "https://www.reddit.com/r/SatisfactoryGame/comments/1qzkv7c/215_hours_later_i_finally_got_saved_the_day/",
+      "author": "/u/hell_sing45",
+      "search_keyword": "game dev beginner",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:15:57.537784"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1qzl0d5",
+      "type": "search",
+      "subreddit": "MMORPG",
+      "title": "Project:Gorgon goty",
+      "content": "I have finally found my game submitted by /u/shadynomike to r/MMORPG [link] [comments]",
+      "link": "https://www.reddit.com/r/MMORPG/comments/1qzl0d5/projectgorgon_goty/",
+      "author": "/u/shadynomike",
+      "search_keyword": "how to make a game",
+      "relevance_score": 0,
+      "added_at": "2026-02-08T21:15:57.538072"
     }
   ],
-  "last_updated": "2026-02-08T20:48:16.587338"
+  "last_updated": "2026-02-08T21:16:25.640591"
 }
