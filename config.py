@@ -4,16 +4,16 @@ Reddit监测工具配置文件
 
 # ============ Subreddit 监控配置 ============
 
-# 要监控的Subreddit列表（游戏开发相关）
+# 要监控的Subreddit列表（独立开发者与SaaS相关）
 SUBREDDITS = [
-    "gamedev",           # 游戏开发主社区
-    "indiegaming",       # 独立游戏
-    "IndieDev",          # 独立开发者
-    "godot",             # Godot引擎
-    "unity",             # Unity引擎
-    "unrealengine",      # Unreal引擎
-    "SoloDevelopment",   # 单人开发
-    "gamedesign",        # 游戏设计
+    "indiehackers",       # 独立开发者/创业者社区
+    "SaaS",              # 软件即服务产品讨论
+    "Entrepreneur",      # 创业者通用社区
+    "NoCode",            # 无代码/低代码开发
+    "Productivity",      # 效率工具与方法
+    "Freelance",         # 自由职业者需求
+    "AppIdeas",          # 应用创意与反馈
+    "Startup",           # 初创公司与产品
 ]
 
 # 每个Subreddit获取的帖子数量
@@ -32,13 +32,18 @@ COMMENTS_PER_SUBREDDIT = 25
 # 是否启用关键词全站搜索
 ENABLE_KEYWORD_SEARCH = True
 
-# 搜索关键词列表（精简为核心关键词）
+# 搜索关键词列表（精简为核心关键词，聚焦产品需求）
 SEARCH_KEYWORDS = [
-    "no code game",
-    "make game without coding",
-    "AI game maker",
-    "game dev beginner",
-    "how to make a game",
+    "best tool for",
+    "looking for a tool that",
+    "is there a tool that",
+    "SaaS idea",
+    "how to automate",
+    "no code solution",
+    "workflow automation",
+    "frustrated with",
+    "best way to manage",
+    "recommendations for"
 ]
 
 # 每个关键词获取的搜索结果数量
@@ -46,26 +51,28 @@ SEARCH_RESULTS_PER_KEYWORD = 10
 
 # ============ 产品信息 ============
 
-PRODUCT_NAME = "wefun.ai"
-PRODUCT_DESCRIPTION = "一个游戏和互动内容AI生成工具与UGC平台，可以通过prompts处理游戏逻辑"
+PRODUCT_NAME = "YourSaaSProduct"
+PRODUCT_DESCRIPTION = "一个通用的独立开发SaaS产品或效率工具"
 
 # ============ 预过滤配置 ============
 
 # 相关性关键词（包含这些词的内容更可能相关）
 RELEVANCE_KEYWORDS = [
-    'no code', 'no-code', 'without coding', 'beginner', 'newbie',
-    'easy way', 'simple', 'tool', 'ai', 'generate', 'prompt',
-    'help me', 'how to', 'looking for', 'recommend', 'struggling',
-    'frustrated', "can't code", "don't know how", 'first game',
-    'prototype', 'quick', 'fast', 'easy to use'
+    # 痛点与需求词
+    'frustrated', 'hate to', "can't find", "wish there was", 
+    'struggling with', 'annoying', 'tedious', 'manual work',
+    'recommend', 'looking for', 'best way', 'how do I',
+    'what do you use', 'tool', 'software', 'app', 'solution',
+    'workflow', 'process', 'manage', 'organize', 'track',
+    'automation', 'save time', 'scale', 'growth'
 ]
 
 # 排除关键词（只排除最明确不相关的内容）
 EXCLUDE_KEYWORDS = [
-    'hiring', 'job posting', 'we are looking for',  # 招聘
-    'just released on steam', 'now available on steam',  # 已发布游戏推广
-    'kickstarter', 'crowdfunding', 'giveaway',  # 众筹/赠送
-    'check out my game', 'play my game',  # 纯推广
+    'job', 'hiring', 'looking for developer', 'freelancer needed',  # 招聘/外包
+    'just launched', 'check out my product', 'showerthoughts',      # 纯推广/闲聊
+    'NSFW', 'sale', 'black friday', 'promo',                      # 促销/成人内容
+    'API', 'SDK', 'documentation', 'backend'                      # 技术文档/底层开发
 ]
 
 # ============ 存储配置 ============
