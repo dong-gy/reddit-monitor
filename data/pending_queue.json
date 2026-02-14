@@ -1,30 +1,6 @@
 {
   "queue": [
     {
-      "id": "https://www.reddit.com/t3_1r3u9l2",
-      "type": "search",
-      "subreddit": "Battlefield",
-      "title": "This has to stop",
-      "content": "Guys, seriously, all this whining has to stop. There is too much toxicity here, without any constructive criticism (but even if there was, I'd write \"who cares, touch some grass\"). All these battlegrandpas with their paid dlcs don't get how great it is to get content for free. Devs are literally cooking for you! Yes, there are flaws in the game, but show me which doesn't. The game will be there if not by season 2, then by season 3, or 4, trust me. Bf4 was unplayable for 10 years (I've read on this sub). We should just be patient and keep it more silent so we can drag more people into the game, so they can experience dead lobbies and sweaty cqb! In the end, if we just keep investing into the game (not as much as those dlcs, ewww), big corpo will finally deliver us the best game ever! submitted by /u/Makarojke to r/Battlefield [link] [comments]",
-      "link": "https://www.reddit.com/r/Battlefield/comments/1r3u9l2/this_has_to_stop/",
-      "author": "/u/Makarojke",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 1,
-      "added_at": "2026-02-13T16:53:34.181270"
-    },
-    {
-      "id": "https://www.reddit.com/t3_1r3u89c",
-      "type": "search",
-      "subreddit": "u_SousRaccoon",
-      "title": "Hi, everyone! We are Sous Raccoon game🦝",
-      "content": "https://reddit.com/link/1r3u89c/video/6l11yodiiajg1/player This is our gameplay preview! You play as Elmo, a raccoon chef assistant. Players must survive without getting the chef upset for 7 days or he will throw you out!! 🎮 About our game: Sous Raccoon is an Action-Roguelite Defense game where you embark on a journey to open restaurants in various locations with the head chef, where you’ll spend 7 days at each location before moving on to the next. We're pretty new here and just starting our journey. We'd love to connect, learn, and exchange ideas with fellow game devs and players. Feel free to say hi or share your feedback. We’re looking forward to being a part of this amazing community! submitted by /u/SousRaccoon to u/SousRaccoon [link] [comments]",
-      "link": "https://www.reddit.com/r/u_SousRaccoon/comments/1r3u89c/hi_everyone_we_are_sous_raccoon_game/",
-      "author": "/u/SousRaccoon",
-      "search_keyword": "game dev beginner",
-      "relevance_score": 1,
-      "added_at": "2026-02-13T16:53:34.181294"
-    },
-    {
       "id": "https://www.reddit.com/t3_1r3ucib",
       "type": "search",
       "subreddit": "WataOshi",
@@ -2015,6 +1991,138 @@
       "search_keyword": "recommendations for",
       "relevance_score": 1,
       "added_at": "2026-02-14T13:07:27.810207"
+    },
+    {
+      "id": "https://www.reddit.com/r/SaaS/t3_1r4lw8m",
+      "type": "post",
+      "subreddit": "SaaS",
+      "title": "My automated notification app comes under Google Play Billing?",
+      "content": "I’m building a SaaS app where users can buy credits (no expiration), and those credits are consumed when the app performs automated tasks (like sending notifications or triggering actions later). The credits are digital and used inside the Android app. There’s no physical product involved. My question is: Do we strictly need to use Google Play Billing for selling these credits inside the app? Or is it allowed to integrate a third-party payment gateway (like Stripe/Razorpay) directly in the app for this type of SaaS credit model? I’m trying to understand whether Google considers this a “digital good/service” that mandates Play Billing, or if SaaS usage credits fall under a different category. Would appreciate insights from anyone who has gone through Play Store review with a similar setup. submitted by /u/Fun_Mongoose_898 [link] [comments]",
+      "link": "https://www.reddit.com/r/SaaS/comments/1r4lw8m/my_automated_notification_app_comes_under_google/",
+      "author": "/u/Fun_Mongoose_898",
+      "search_keyword": "",
+      "relevance_score": 1,
+      "added_at": "2026-02-14T14:35:43.186161"
+    },
+    {
+      "id": "https://www.reddit.com/r/Entrepreneur/t3_1r4lb5w",
+      "type": "post",
+      "subreddit": "Entrepreneur",
+      "title": "Built a frictionless product, now trying to figure out how to grow it responsibly",
+      "content": "I recently built a very small product around a simple idea: letting people create and share something personal online without accounts or setup. It’s intentionally minimal and not monetized. I built it to explore whether usefulness alone can drive adoption before thinking about business models. Now I’m at an early crossroads: keep it as a small utility and let it spread organically or add structure, tracking, and a clearer “product direction” For founders who’ve been here before, how do you decide when something is worth pushing further versus keeping it lightweight? Not pitching. Just trying to learn from experience. submitted by /u/TimeDeep1497 [link] [comments]",
+      "link": "https://www.reddit.com/r/Entrepreneur/comments/1r4lb5w/built_a_frictionless_product_now_trying_to_figure/",
+      "author": "/u/TimeDeep1497",
+      "search_keyword": "",
+      "relevance_score": 1,
+      "added_at": "2026-02-14T14:35:43.186290"
+    },
+    {
+      "id": "https://www.reddit.com/r/Entrepreneur/t3_1r4k7hv",
+      "type": "post",
+      "subreddit": "Entrepreneur",
+      "title": "I'm 14 and I've founded an app studio. How can I get more users on my first app?",
+      "content": "I don't know much about marketing or what exactly users want. Does anyone have any tips? submitted by /u/Danil_Ba [link] [comments]",
+      "link": "https://www.reddit.com/r/Entrepreneur/comments/1r4k7hv/im_14_and_ive_founded_an_app_studio_how_can_i_get/",
+      "author": "/u/Danil_Ba",
+      "search_keyword": "",
+      "relevance_score": 1,
+      "added_at": "2026-02-14T14:35:43.186335"
+    },
+    {
+      "id": "https://www.reddit.com/r/NoCode/t3_1r4lhfy",
+      "type": "post",
+      "subreddit": "NoCode",
+      "title": "small teams and solopreneurs u are in a dopamine trap",
+      "content": "Ditch Framer, ditch ClickUp, ditch Jira, or whatever else you're thinking of. These are things that make you feel productive but most people don't actually need them. Using these tools is no different than scrolling TikTok. The time spent in these tools \"feels like work\" but the real work isn't spending time in them. It's actually doing the thing. Actually, for any tool (not just the ones I named above), you can ask yourself these questions to figure out if it's giving you meaningless dopamine hits or actually helping you: If this tool never existed, would I still be unable to build this product or make money? If the price of this tool doubled, would I keep using it? Those two are enough. Be honest with yourself. We were honest with ourselves and: Switched from Framer to Carrd(.)com or landwait(.)com Switched from ClickUp to Google Sheets Switched from Jira to Trello To move fast, you gotta drop the dead weight. If you've made similar updates to your tech stack, why not share? submitted by /u/Logical_Broccoli_163 [link] [comments]",
+      "link": "https://www.reddit.com/r/nocode/comments/1r4lhfy/small_teams_and_solopreneurs_u_are_in_a_dopamine/",
+      "author": "/u/Logical_Broccoli_163",
+      "search_keyword": "",
+      "relevance_score": 1,
+      "added_at": "2026-02-14T14:35:43.186374"
+    },
+    {
+      "id": "https://www.reddit.com/r/NoCode/t3_1r4kz6a",
+      "type": "post",
+      "subreddit": "NoCode",
+      "title": "You have to care to Maintain ur App 🤔 (non-coder)",
+      "content": "What happens to your app after you launch it ? Do you actively maintain it or just hope nothing breaks? Genuinely curious what everyone's experience is. You deploy the appliction using Vercel/Railway which is has really low complexity of maintanance, cause its deploying platform to the server, but the real situation is even worse than just deploying. Whats your thought ? submitted by /u/Beneficial-Extent500 [link] [comments]",
+      "link": "https://www.reddit.com/r/nocode/comments/1r4kz6a/you_have_to_care_to_maintain_ur_app_noncoder/",
+      "author": "/u/Beneficial-Extent500",
+      "search_keyword": "",
+      "relevance_score": 1,
+      "added_at": "2026-02-14T14:35:43.186394"
+    },
+    {
+      "id": "https://www.reddit.com/r/Productivity/t3_1r4lf4z",
+      "type": "post",
+      "subreddit": "Productivity",
+      "title": "How do you manage tasks like studying for time management?",
+      "content": "one thing that f*cks up my time management is incorrect estimate of time and the tasks uncontrollable factors. For instance, Studying. \"Study mechanics/Math\", the problem is it takes me time to learn math and most of the time I dont understand it even the time allocated is finished. so I extend and extend potentially ruining my time management because I cant control my brain to just \"understand\" it. How do you allocate stuffs that is dependent on something that you dont control? submitted by /u/fluidxrln [link] [comments]",
+      "link": "https://www.reddit.com/r/productivity/comments/1r4lf4z/how_do_you_manage_tasks_like_studying_for_time/",
+      "author": "/u/fluidxrln",
+      "search_keyword": "",
+      "relevance_score": 1,
+      "added_at": "2026-02-14T14:35:43.186438"
+    },
+    {
+      "id": "https://www.reddit.com/r/AppIdeas/t3_1r4kip4",
+      "type": "post",
+      "subreddit": "AppIdeas",
+      "title": "What if builders became each other’s early adopters?",
+      "content": "Coding is easier than ever. Shipping a product is easier than ever. What’s still insanely hard? Getting real users. Most of us don’t fail because we can’t build. We fail because we can’t get traction. So here’s a thought: Why don’t we — people who build stuff — become early adopters of each other’s products? Not fake users. Not vanity signups. Actual builders trying other builders’ products. We’re founders, yes. But we’re also users. We have problems. We use tools. We pay for things. We can be customers too. Imagine a small, high-signal group of builders where: • You share your product. • Others genuinely try it. • If it’s good, they use it. • If it’s not, you get honest feedback. • If something works inside the group, that’s early validation. Instead of shouting into the void, we test ideas within a network of people who understand products. Critical mass. Real feedback. Real usage. If it works among us, there’s a higher chance it works outside too. Would you join something like this? submitted by /u/North_Actuator_6824 [link] [comments]",
+      "link": "https://www.reddit.com/r/AppIdeas/comments/1r4kip4/what_if_builders_became_each_others_early_adopters/",
+      "author": "/u/North_Actuator_6824",
+      "search_keyword": "",
+      "relevance_score": 1,
+      "added_at": "2026-02-14T14:35:43.186490"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4m3cv",
+      "type": "search",
+      "subreddit": "AnotherEdenGlobal",
+      "title": "The Robots have lore now ?!",
+      "content": "I was doing this episode and saw this robot and thought that it looked exactly like Toole. Then I checked this guy's small lore and I was like \"So they are not just filler characters for the gatcha but they have a story?\". If anyone knows anything about these guys please fill me in. submitted by /u/DenysWorld to r/AnotherEdenGlobal [link] [comments]",
+      "link": "https://www.reddit.com/r/AnotherEdenGlobal/comments/1r4m3cv/the_robots_have_lore_now/",
+      "author": "/u/DenysWorld",
+      "search_keyword": "looking for a tool that",
+      "relevance_score": 1,
+      "added_at": "2026-02-14T14:35:43.186681"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4liju",
+      "type": "search",
+      "subreddit": "AiAutomations",
+      "title": "A saas that solve all youtube automation creator",
+      "content": "submitted by /u/Heavy_Title_1375 to r/AiAutomations [link] [comments]",
+      "link": "https://www.reddit.com/r/AiAutomations/comments/1r4liju/a_saas_that_solve_all_youtube_automation_creator/",
+      "author": "/u/Heavy_Title_1375",
+      "search_keyword": "workflow automation",
+      "relevance_score": 1,
+      "added_at": "2026-02-14T14:35:43.188031"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4m4ux",
+      "type": "search",
+      "subreddit": "GeminiAI",
+      "title": "Gemini Nano Banana went from great to unusable; censorship/restrictions have completely taken over",
+      "content": "Hey everyone, I’ve been using Gemini Nano Banana since the 3 Pro launch , and at first it was actually terrific, great image quality, fast, creative outputs. But as of yesterday it crossed a line: the censorship and restrictions on what it will generate have gotten so bad that the model is practically unusable for anything beyond the most generic safe content. Anything with even a hint of creativity, edge, or real nuance gets blocked or neutered. This isn’t “guardrails” anymore, it’s a straitjacket. I get the need for safety filters, but this isn’t safety; it’s over-restriction . The model won’t generate sensible, coherent images for legitimate concepts anymore. It’s basically reduced to a glorified clip-art generator for sanitized prompts. For comparison, Nano Banana used to: handle complex prompts with character, nuance, context generate artistic and stylistically varied outputs give you usable results without endless retries Now it chokes on any content that isn’t cookie-cutter , and the output quality has tanked because so much of the creative intent is stripped out. Even its new messaging (\"Sorry, something went wrong. Please try your request again.\") has gotten ridiculously disconnected form the user experience. If you’re in here because you’re frustrated too; tell me I’m not imagining this. And I’m already on the hunt for better alternatives. Would love to hear what people are switching to that still lets you actually generate what you want without pointless censorship walls. What are you all using now? submitted by /u/cimcimabue to r/GeminiAI [link] [comments]",
+      "link": "https://www.reddit.com/r/GeminiAI/comments/1r4m4ux/gemini_nano_banana_went_from_great_to_unusable/",
+      "author": "/u/cimcimabue",
+      "search_keyword": "frustrated with",
+      "relevance_score": 1,
+      "added_at": "2026-02-14T14:35:43.188112"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4m4za",
+      "type": "search",
+      "subreddit": "LightNovels",
+      "title": "[Rec] Need some recommendation for lesser-known titles",
+      "content": "Hi everyone! I'm currently searching for novel titles that are lesser known because i want to explore if there are any good one among them. submitted by /u/Ditmecosoc to r/LightNovels [link] [comments]",
+      "link": "https://www.reddit.com/r/LightNovels/comments/1r4m4za/rec_need_some_recommendation_for_lesserknown/",
+      "author": "/u/Ditmecosoc",
+      "search_keyword": "recommendations for",
+      "relevance_score": 1,
+      "added_at": "2026-02-14T14:35:43.188288"
     },
     {
       "id": "https://www.reddit.com/r/godot/t3_1qqzptj",
@@ -60035,7 +60143,79 @@
       "search_keyword": "recommendations for",
       "relevance_score": 0,
       "added_at": "2026-02-14T13:07:27.810224"
+    },
+    {
+      "id": "https://www.reddit.com/r/SaaS/t3_1r4m3c1",
+      "type": "post",
+      "subreddit": "SaaS",
+      "title": "Update: Just hit User #4! The momentum is starting to feel real. 📈🛡️",
+      "content": "I posted here a few days ago about being stuck at 3 users and feeling the \"solo founder grind.\" I took a break yesterday, and I just saw that User #4 signed up. It’s a small win, but for a dev balancing a 9-5, it’s everything. It means the \"Lease Audit\" teardowns and the \"Red Flag\" posts are actually helping people realize they need a shield. 6 spots left for my \"Founding Member\" lifetime deal. If you’ve been on the fence about auditing your contracts, today is the day. Let’s go for User #5! 🌅 🌐 https://www.termslify.com/ submitted by /u/Rudy_Ravelin [link] [comments]",
+      "link": "https://www.reddit.com/r/SaaS/comments/1r4m3c1/update_just_hit_user_4_the_momentum_is_starting/",
+      "author": "/u/Rudy_Ravelin",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:35:43.186093"
+    },
+    {
+      "id": "https://www.reddit.com/r/SaaS/t3_1r4m256",
+      "type": "post",
+      "subreddit": "SaaS",
+      "title": "I’ll rewrite your SaaS headline to be painfully clear (drop it below)",
+      "content": "submitted by /u/Jumpy-Possibility754 [link] [comments]",
+      "link": "https://www.reddit.com/r/SaaS/comments/1r4m256/ill_rewrite_your_saas_headline_to_be_painfully/",
+      "author": "/u/Jumpy-Possibility754",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:35:43.186103"
+    },
+    {
+      "id": "https://www.reddit.com/r/SaaS/t3_1r4ljq8",
+      "type": "post",
+      "subreddit": "SaaS",
+      "title": "Q&R Session 2 (Question & Reason)",
+      "content": "Founders with questions about their idea, business or product, please feel free to leave a comment below and I will help you find an answer. I won't be answering the question for you, instead, I will reason with you until you arrive at an answer for yourself. submitted by /u/Aromatic-Trouble-580 [link] [comments]",
+      "link": "https://www.reddit.com/r/SaaS/comments/1r4ljq8/qr_session_2_question_reason/",
+      "author": "/u/Aromatic-Trouble-580",
+      "search_keyword": "",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:35:43.186217"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4m17u",
+      "type": "search",
+      "subreddit": "Adamthewoo",
+      "title": "On This Day - February 14th - Adam The Woo's Adventures",
+      "content": "2013: TheDailyWoo - 228 (2/14/13) Old West Valentines Day - https://youtube.com/watch?v=2L7igf7WPvc 2014: TheDailyWoo - 593 (2/14/14) Valentines Day Bank Robber - https://youtube.com/watch?v=CpVcgi_oZzs 2015: TheDailyWoo - 958 (2/14/15) Valentines Day at Knotts - https://youtube.com/watch?v=6-foiaBsYkU 2016: * ABANDONED - Post Apocalyptic Desert Town : Dead Fish & Pets - https://youtube.com/watch?v=9RkbKkVRcpk 2016: TDW 1323 - What Went Wrong ? Back To Basics - https://youtube.com/watch?v=eCEcnNznkXc 2017: TDW 1689 - Birthplace Of Dr Pepper - https://youtube.com/watch?v=lTig4GjNwe8 2018: How Monsters Are Made at VGP Effects & Design Studios - https://youtube.com/watch?v=BOZpW38VTH8 2019: Hollywood Forever Cemetery - Famous Celebrity Grave Tour / Movie Star History & MUCH MORE - https://youtube.com/watch?v=cxn_UiiVQ9c 2021: Cross Country Winter 2021 Road Trip Begins - Leaving California / Roadside Oddities & Unusual Finds - https://youtube.com/watch?v=0_d3iRri50E 2022: Evil Dead 2 Filming Locations (1987) - Inside Abandoned Cabin Soundstage / Behind The Scenes Secrets - https://youtube.com/watch?v=a_aeOJW_qMs 2023: My United Airlines First Class Flight Experience Seattle To Philadelphia - Short Layover In Denver - https://youtube.com/watch?v=Eftfnne1dlw 2024: My First Orlando Magic Game In Twenty Years - Shaq Returns Home / Shaquille O’Neal Number Retirement - https://youtube.com/watch?v=QwU0wk6OiBk 2025: Exploring The Small Unique Towns & Creative Culture Of Ecuador - Learning From Local Shop Owners - https://youtube.com/watch?v=u6c58eQuQ6E * AdamTheWoo Main Channel --- This is an automated memorial project. Learn more, shall you? https://github.com/chancehouston/ATW submitted by /u/wiredcoder to r/Adamthewoo [link] [comments]",
+      "link": "https://www.reddit.com/r/Adamthewoo/comments/1r4m17u/on_this_day_february_14th_adam_the_woos_adventures/",
+      "author": "/u/wiredcoder",
+      "search_keyword": "how to automate",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:35:43.187077"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4m59q",
+      "type": "search",
+      "subreddit": "mentalcel",
+      "title": "NTs unironically believe this wordswordswords btw",
+      "content": "submitted by /u/ishowsneed to r/mentalcel [link] [comments]",
+      "link": "https://www.reddit.com/r/mentalcel/comments/1r4m59q/nts_unironically_believe_this_wordswordswords_btw/",
+      "author": "/u/ishowsneed",
+      "search_keyword": "frustrated with",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:35:43.188066"
+    },
+    {
+      "id": "https://www.reddit.com/t3_1r4m46h",
+      "type": "search",
+      "subreddit": "askaplumber",
+      "title": "Supplying 2 buildings with 1 well",
+      "content": "This spring I am going to be building a horse barn on my property and I would like to use my well for the house for the water supply, as the well head is 20ft from where the barn will be. I've been doing some reading and research and I believe I'm able to do what I want to do but would just like some feedback. So I would like to T off at the well head, making sure there is a check valve present after the pump and before the T and run a water line in the opposite direction off the current water line running to my house. Would the bladder tank in my house be able to feed water to my barn? Also I know water always takes the path of least resistance so when my pump kicks on as I'm using water in the barn it should just go that way and when the water is turned off it'll bring the bladder back to its normal pressure. Is that thinking correct? if this method would work I would also like to install a CSV valve, where would the best spot for that be? or would it not be possible? submitted by /u/Individual-Jacket836 to r/askaplumber [link] [comments]",
+      "link": "https://www.reddit.com/r/askaplumber/comments/1r4m46h/supplying_2_buildings_with_1_well/",
+      "author": "/u/Individual-Jacket836",
+      "search_keyword": "best way to manage",
+      "relevance_score": 0,
+      "added_at": "2026-02-14T14:35:43.188247"
     }
   ],
-  "last_updated": "2026-02-14T13:08:43.909548"
+  "last_updated": "2026-02-14T14:37:03.386686"
 }
